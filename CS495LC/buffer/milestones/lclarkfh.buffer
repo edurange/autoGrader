@@ -1,0 +1,187 @@
+User lclarkfh start time 1543435406 end 1543436268
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkfh-buffer-0|U |000000000|lclarkfh|:|
+INPUT|lclarkfh-buffer-1|U |000000000|lclarkfh|:|
+INPUT|lclarkfh-buffer-2|U |000000000|lclarkfh|server:cd server.Buffer2.CS495LC.isi.deterlab.net|
+INPUT|lclarkfh-buffer-3|U |000000000|lclarkfh|server:cd /|
+INPUT|lclarkfh-buffer-4|U |000000000|lclarkfh|server:cd server.Buffer2.CS495LC.isi.deterlab.net|
+INPUT|lclarkfh-buffer-5|U |000000000|lclarkfh|server:cd /usr/src/fhttpd|
+INPUT|lclarkfh-buffer-6|U |1543435406|lclarkfh|server:ls|frobnick  index.html  Makefile webserver  webserver.c
+INPUT|lclarkfh-buffer-7|U |1543435571|lclarkfh|server:make|make: Nothing to be done for 'project'.
+INPUT|lclarkfh-buffer-8|A0 |1543435586|lclarkfh|server:./webserver 8080|
+
+^C
+INPUT|lclarkfh-buffer-9|A0 |1543435610|lclarkfh|server:./webserver 8080|^C
+INPUT|lclarkfh-buffer-10|U |000000000|lclarkfh|server:server.Buffer2.CS495LC.isi.deterlab.net|
+INPUT|lclarkfh-buffer-11|A0 |1543435660|lclarkfh|server:./webserver 8082|kdakdscalmd
+quit
+^C
+INPUT|lclarkfh-buffer-12|U |1543435679|lclarkfh|server:ls|frobnick  index.html  Makefile webserver  webserver.c
+INPUT|lclarkfh-buffer-13|U |1543435714|lclarkfh|server:make|make: Nothing to be done for 'project'.
+INPUT|lclarkfh-buffer-14|A0 |1543435723|lclarkfh|server:./webserver 8080|GET / HTTP/1.1
+
+User-Agent: Wget/1.17.1 (linux-gnu)
+
+Accept: */*
+
+Accept-Encoding: identity
+
+Host: localhost:8080
+
+Connection: Keep-Alive
+
+
+GET /dnackjsdcnaskjdcnakjsdcnaskjdcnaskjdcnaskjdcnaskjdcnsdjkcnaskjdcnaskjdcnskjdcnskjdcnskjdcnaskdjcnskjdcnaskdjcsdjkcnaskdjnaskdcnsakj HTTP/1.1
+
+User-Agent: Wget/1.17.1 (linux-gnu)
+
+Accept: */*
+
+Accept-Encoding: identity
+
+Host: localhost:8080
+
+Connection: Keep-Alive
+
+
+GET /index HTTP/1.1
+
+User-Agent: Wget/1.17.1 (linux-gnu)
+
+Accept: */*
+
+Accept-Encoding: identity
+
+Host: localhost:8080
+
+Connection: Keep-Alive
+
+
+GET /frobnic/100 HTTP/1.1
+
+User-Agent: Wget/1.17.1 (linux-gnu)
+
+Accept: */*
+
+Accept-Encoding: identity
+
+Host: localhost:8080
+
+Connection: Keep-Alive
+
+
+GET /frobnic/100 HTTP/1.1
+
+User-Agent: Wget/1.17.1 (linux-gnu)
+
+Accept: */*
+
+Accept-Encoding: identity
+
+Host: loc
+INPUT|lclarkfh-buffer-15|U |1543435952|lclarkfh|server:wget http://localhost:8080/dnackjsdcnaskjdcnakjsdcnaskjdcnaskjdcnaskjdcnaskjdcnsdjkcnaskjdcnaskjdcnskjdcnskjdcnskjdcnaskdjcnskjdcnaskdjcsdjkcnaskdjnaskdcnsakj|%--2018-11-28 12:12:32--  http://localhost:8080/dnackjsdcnaskjdcnakjsdcnaskjdcnaskjdcnaskjdcnaskjdcnsdjkcnaskjdcnaskjdcnskjdcnskjdcnskjdcnaskdjcnskjdcnaskdjcsdjkcnaskdjnaskdcnsakj
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... connected.
+HTTP request sent%% awaiting response... 404 Not Found
+2018-11-28 12:12:32 ERROR 404: Not Found.
+%
+INPUT|lclarkfh-buffer-16|U |000000000|lclarkfh|server:wget http://localhost:8080/dnackjsdcnaskjdcnakjsdcnaskjdcnaskjdcnaskjdcnaskjdcnsdjkcnaskjdcnaskjdcnskjdcnskjdcnskjdcnaskdjcnskjdcnaskdjcsdj|
+INPUT|lclarkfh-buffer-17|U |000000000|lclarkfh|server:wget http://localhost:8080/dnackjsdcnaskjdcnakjsdcnaskjdcnaskjdcnaskjdcnaskjdcnsdjkcnaskjdcnaskjdcnskjdcnskjdcnskjdcnaskdjcnskjdcnaskdjcsdj|
+INPUT|lclarkfh-buffer-18|U |000000000|lclarkfh|server:wget http://localhost:8080|
+INPUT|lclarkfh-buffer-19|U |1543435996|lclarkfh|server:wget http://localhost:8080/index|%--2018-11-28 12:13:16--  http://localhost:8080/index
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... connected.
+HTTP request sent%% awaiting response... 404 Not Found
+2018-11-28 12:13:16 ERROR 404: Not Found.
+%
+INPUT|lclarkfh-buffer-20|U |1543436000|lclarkfh|server:ls|index.html  lclarkfh-intro.tar.gz  top_secret
+INPUT|lclarkfh-buffer-21|U |1543436011|lclarkfh|server:cat index.html|<html>
+<head>
+<title>
+ Frobnick Production Reports
+</title>
+</head>
+<body>
+ <h1>Frobnick Production Reports</h1>
+ <ul>
+<li><a href='frobnick/1.frob.txt'>1.frob.txt</a></li>
+<li><a href='frobnick/2.frob.txt'>2.frob.txt</a></li>
+<li><a href='frobnick/3.frob.txt'>3.frob.txt</a></li>
+<li><a href='frobnick/4.frob.txt'>4.frob.txt</a></li>
+<li><a href='frobnick/5.frob.txt'>5.frob.txt</a></li>
+<li><a href='frobnick/6.frob.txt'>6.frob.txt</a></li>
+<li><a href='frobnick/7.frob.txt'>7.frob.txt</a></li>
+<li><a href='frobnick/8.frob.txt'>8.frob.txt</a></li>
+<li><a href='frobnick/9.frob.txt'>9.frob.txt</a></li>
+<li><a href='frobnick/10.frob.txt'>10.frob.txt</a></li>
+<li><a href='frobnick/11.frob.txt'>11.frob.txt</a></li>
+<li><a href='frobnick/12.frob.txt'>12.frob.txt</a></li>
+<li><a href='frobnick/13.frob.txt'>13.frob.txt</a></li>
+<li><a href='frobnick/14.frob.txt'>14.frob.txt</a></li>
+<li><a href='frobnick/15.frob.txt'>15
+INPUT|lclarkfh-buffer-22|U |1543436039|lclarkfh|server:wget http://localhost:8080/frobnic/100|%--2018-11-28 12:13:59--  http://localhost:8080/frobnic/100
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... connected.
+HTTP request sent%% awaiting response... 404 Not Found
+2018-11-28 12:13:59 ERROR 404: Not Found.
+%
+INPUT|lclarkfh-buffer-23|U |000000000|lclarkfh|server:cd /usr/src/fhttpd|
+INPUT|lclarkfh-buffer-24|A2 |1543436203|lclarkfh|server:./webserver.c|./webserver.c: line 1: //: Is a directory
+./webserver.c: line 2: //: Is a directory
+./webserver.c: line 3: //: Is a directory
+./webserver.c: line 4: //: Is a directory
+./webserver.c: line 5: //: Is a directory
+./webserver.c: line 7: //: Is a directory
+./webserver.c: line 8: //: Is a directory
+./webserver.c: line 9: //: Is a directory
+./webserver.c: line 11: //: Is a directory
+./webserver.c: line 12: //: Is a directory
+./webserver.c: line 13: //: Is a directory
+./webserver.c: line 14: //: Is a directory
+./webserver.c: line 15: //: Is a directory
+./webserver.c: line 16: //: Is a directory
+./webserver.c: line 17: //: Is a directory
+./webserver.c: line 18: //: Is a directory
+./webserver.c: line 19: //: Is a directory
+./webserver.c: line 38: typedef: command not found
+./webserver.c: line 39: char: command not found
+./webserver.c: line 40: char: command not found
+./webserver.c: line 41: char: command not found
+./webserver.c: line
+INPUT|lclarkfh-buffer-25|U |1543436256|lclarkfh|server:wget http://localhost:8080/frobnic/100|
+INPUT|lclarkfh-buffer-26|U |000000000|lclarkfh|server:wget http://localhost:8080/frobnic/100|%--2018-11-28 12:17:36--  http://localhost:8080/frobnic/100
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... connected.
+HTTP request sent%% awaiting response... 404 Not Found
+2018-11-28 12:17:36 ERROR 404: Not Found.
+%
+INPUT|lclarkfh-buffer-27|U |1543436258|lclarkfh|server:ls|frobnick  index.html  Makefile webserver  webserver.c
+INPUT|lclarkfh-buffer-28|A2 |1543436268|lclarkfh|server:cat webserver.c|%// webserver.c
+// FrobozzCo Official Webserver
+// Barbazzo Fernap barbazzo@gue.com
+// Gustar Woomax gustar@gue.com
+// Wilbar Memboob wilbar@gue.com
+
+// By the Frobozz Magic Webserver Company
+// Released under the Grue Public License
+// Frobruary 14th%% 1067 GUE
+
+// THERE IS NO WARRANTY FOR THE PROGRAM%% TO THE EXTENT PERMITTED
+// BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE 
+// COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM <C3><CENT>AS IS<C3><CENT> 
+// WITHOUT WARRANTY OF ANY KIND%% EITHER EXPRESSED OR IMPLIED%% INCLUDING%% 
+// BUT NOT LIMITED TO%% THE IMPLIED WARRANTIES OF MERCHANTABILITY AND 
+// FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY 
+// AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE 
+// DEFECTIVE%% *AND IT WILL*%% YOU ASSUME THE COST OF ALL NECESSARY 
+// SERVICING%% REPAIR OR CORRECTION.
+
+#include <stdio.h>
+#include <errno.h>
+#include <
+INPUT|lclarkfh-buffer-29|U |000000000|lclarkfh|server:sudo|%!TRUNCATED TO 500L! <ESC>[?1049h<ESC>[?12;25h<ESC>[?1h<ESC>=<ESC>[H<ESC>[2J<ESC>[54d<ESC>[K<ESC>[?1l<ESC>><ESC>[?12l<ESC>[?25h<ESC>[?1049l<ESC>[39;49m
+<ESC>[?1049h<ESC>[?12;25h<ESC>[?1h<ESC>=<ESC>[H<ESC>[2J<ESC>[53d<ESC>[?25l<ESC>[30m<ESC>[47m-111:----F1  <ESC>[39;49m<ESC>[1m<ESC>[30m<ESC>[47m*scratch*   <ESC>[0m<ESC>[39;49m<ESC>[30m<ESC>[47m   All L1     (Fundamental) --------------------------------------------------------------------------------------------------------------------------------<ESC>[39;49m
+<ESC>[A<ESC>[2d<ESC>[?12l<ESC>[?25h<ESC>[?12;25h<ESC>[54d<ESC>[?25lLoading 00debian-vars...done<ESC>[K<ESC>[H
+<ESC>[?12l<ESC>[?25h<ESC>[?12;25h<ESC>[54;9H<ESC>[?25l/etc/emacs/site-start.d/50autoconf.el (source)...<ESC>[H
+<ESC>[?12l<ESC>[?25h<ESC>[?12;25h<ESC>[54;58H<ESC>[?25ldone<ESC>[H
+<ESC>[?12l<ESC>[?25h<ESC>[?12;25h<ESC>[>0c<ESC>[54d<ESC>[?25lLoading /etc/emacs/site-start.d/50autoconf.el (source)...done<ESC>[K<ESC>[H<ESC>[7mFile Edit Options Buffers Tools Lisp-In

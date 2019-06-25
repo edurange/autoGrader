@@ -1,0 +1,184 @@
+User lclarkfg start time 1537814565 end 1537817031
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkfg-intro-0|U |1537814565|lclarkfg|intro:ls|top_secret
+INPUT|lclarkfg-intro-1|U |000000000|lclarkfg|:|
+INPUT|lclarkfg-intro-2|U |000000000|lclarkfg|:|
+INPUT|lclarkfg-intro-3|U |1537814569|lclarkfg|intro:/root|bash: /root: Is a directory
+INPUT|lclarkfg-intro-4|U |000000000|lclarkfg|intro:cd /root|bash: cd: /root: Permission denied
+INPUT|lclarkfg-intro-5|U |1537814576|lclarkfg|intro:ls|top_secret
+INPUT|lclarkfg-intro-6|U |1537814587|lclarkfg|intro:cd /root|sudo: cd: command not found
+INPUT|lclarkfg-intro-7|U |000000000|lclarkfg|intro:cd /root|bash: cd: /root: Permission denied
+INPUT|lclarkfg-intro-8|U |000000000|lclarkfg|intro:intro|intro: command not found
+INPUT|lclarkfg-intro-9|U |1537814606|lclarkfg|intro:man file|%[?1049h[?1h=
+FILE(1)                                      BSD General Commands Manual                                      FILE(1)[m
+[m
+[1mNAME[0m[m
+     [1mfile[0m -- determine file type[m
+[m
+[1mSYNOPSIS[0m[m
+     [1mfile[0m [[1m-bcEhiklLNnprsvzZ0[0m] [[1m--apple[0m] [[1m--extension[0m] [[1m--mime-encoding[0m] [[1m--mime-type[0m] [[1m-e[0m [4mtestname[24m] [[1m-F[0m [4mseparator[24m][m
+          [[1m-f[0m [4mnamefile[24m] [[1m-m[0m [4mmagicfiles[24m] [[1m-P[0m [4mname=value[24m] [4mfile[24m [4m...[24m[m
+     [1mfile[0m [1m-C[0m [[1m-m[0m [4mmagicfiles[24m][m
+     [1mfile[0m [[1m--help[0m][m
+[m
+[1mDESCRIPTION[0m[m
+     This manual page documents version 5.25 of the [1mfile[0m command.[m
+[m
+     [1mfile[0m tests each argument in an attempt to classify it.  There are three sets of tests%% performed in this order:[m
+     filesystem tests%% magic tests%% and language tests.  The [4mfirst[24m test that succeeds causes the file type to be[m<NL
+INPUT|lclarkfg-intro-10|U |000000000|lclarkfg|intro:q|The program 'q' can be found in the following packages:
+ * python-q-text-as-data
+ * python3-q-text-as-data
+Ask your administrator to install one of them
+INPUT|lclarkfg-intro-11|U |000000000|lclarkfg|intro:cd .|
+INPUT|lclarkfg-intro-12|U |000000000|lclarkfg|intro:cd ..|
+INPUT|lclarkfg-intro-13|U |000000000|lclarkfg|intro:cd ..|
+INPUT|lclarkfg-intro-14|U |000000000|lclarkfg|intro:cd ..|
+INPUT|lclarkfg-intro-15|U |1537814673|lclarkfg|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkfg-intro-16|U |000000000|lclarkfg|intro:file *|%bin:            directory
+boot:           directory
+dev:            directory
+etc:            directory
+groups:         directory
+home:           directory
+initrd.img:     symbolic link to boot/initrd.img-4.4.0-83-generic
+initrd.img.old: symbolic link to boot/initrd.img-4.4.0-79-generic
+lib:            directory
+lib64:          directory
+local:          directory
+lost+found:     directory
+media:          directory
+mnt:            directory
+opt:            directory
+proc:           directory
+proj:           directory
+root:           directory
+run:            directory
+sbin:           directory
+share:          directory
+snap:           directory
+srv:            directory
+sys:            directory
+tmp:            sticky%% directory
+users:          directory
+usr:            directory
+var:            directory
+vmlinuz:        symbolic link to boot/vmlinuz-4.4.0-83-generic
+vmlinuz.old:    symbolic link to
+INPUT|lclarkfg-intro-17|U |000000000|lclarkfg|intro:exit|exit
+INPUT|lclarkfg-intro-18|U |000000000|lclarkfg|intro:cd /root|bash: cd: /root: Permission denied
+INPUT|lclarkfg-intro-19|U |000000000|lclarkfg|intro:cd ..|
+INPUT|lclarkfg-intro-20|U |000000000|lclarkfg|intro:cd ..|
+INPUT|lclarkfg-intro-21|U |000000000|lclarkfg|intro:cd ..|
+INPUT|lclarkfg-intro-22|U |1537815351|lclarkfg|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkfg-intro-23|U |000000000|lclarkfg|intro:file . -name \"*.jpg\"|file: invalid option -- 'a'
+Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+INPUT|lclarkfg-intro-24|U |000000000|lclarkfg|intro:file . -name \"*.jpg\"|.:     directory
+*.jpg: cannot open `*.jpg' (No such file or directory)
+INPUT|lclarkfg-intro-25|U |000000000|lclarkfg|intro:fifile . -name \ \"jpg\"|file: invalid option -- 'a'
+Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+INPUT|lclarkfg-intro-26|U |1537815719|lclarkfg|intro:file . -name[1[1[1[1[1P[1P [1@[[1P[1@/ [1@[1@-[1@m[1@o[1@u[1@n[1@t [1@[1@-[1@n[1@a[1@m[1@e [1@[1@"[1@*[1@i[1@n[1@t[1@r[1@o[1@*[1P[1P[1P[1P[1P[1P[1P[K\" 2> /dev/null | xargs file $1|Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+INPUT|lclarkfg-intro-27|U |000000000|lclarkfg|intro:s -la|s: command not found
+INPUT|lclarkfg-intro-28|U |1537815841|lclarkfg|intro:ls -la|total 128
+drwxr-xr-x  29 root root             4096 Sep 24 11:37 .
+drwxr-xr-x  29 root root             4096 Sep 24 11:37 ..
+drwxr-xr-x   2 root root            12288 Jul 20  2017 bin
+drwxr-xr-x   3 root root             4096 Jul 20  2017 boot
+drwxr-xr-x  19 root root             4000 Sep 24 11:37 dev
+drwxr-xr-x 114 root root             4096 Sep 24 11:37 etc
+drwxr-xr-x   3 root root             4096 Jun  5 11:22 groups
+drwxr-xr-x   2 root root             4096 Sep 24 11:37 .hidden
+drwxr-xr-x   3 root root             4096 Jun  9  2017 home
+lrwxrwxrwx   1 root root               32 Jul 20  2017 initrd.img -> boot/initrd.img-4.4.0-83-generic
+lrwxrwxrwx   1 root root               32 Jun  9  2017 initrd.img.old -> boot/initrd.img-4.4.0-79-generic
+drwxr-xr-x  22 root root             4096 Jun  9  2017 lib
+drwxr-xr-x   2 root root             4096 Jul 20  2017 lib64
+drwxr-xr-x   3 root root             4096 Jul 20  2017 local
+drwx------   2 root
+INPUT|lclarkfg-intro-29|U |000000000|lclarkfg|intro:cd etc|
+INPUT|lclarkfg-intro-30|U |1537815863|lclarkfg|intro:ls -la|total 1072
+drwxr-xr-x 114 root    root     4096 Sep 24 11:37 .
+drwxr-xr-x  29 root    root     4096 Sep 24 11:37 ..
+drwxr-xr-x   3 root    root     4096 Jun  9  2017 acpi
+-rw-r--r--   1 root    root     3028 Feb 15  2017 adduser.conf
+drwxr-xr-x   2 root    root     4096 Jun  9  2017 alternatives
+drwxr-xr-x   2 root    root     4096 Jun  9  2017 ansible
+drwxr-xr-x   3 root    root     4096 Jun  9  2017 apache2
+drwxr-xr-x   3 root    root     4096 Jun  9  2017 apm
+drwxr-xr-x   3 root    root     4096 Jun  9  2017 apparmor
+drwxr-xr-x   9 root    root     4096 Jul 20  2017 apparmor.d
+drwxr-xr-x   3 root    root     4096 Jul 20  2017 apport
+drwxr-xr-x   6 root    root     4096 Jun  9  2017 apt
+-rw-r-----   1 root    daemon    144 Jan 14  2016 at.deny
+drwxr-xr-x   2 root    root     4096 Jun  9  2017 at-spi2
+-rw-r--r--   1 root    root     2188 Aug 31  2015 bash.bashrc
+-rw-r--r--   1 root    root       45 Aug 12  2015 bash_completion
+drwxr-x
+INPUT|lclarkfg-intro-31|U |000000000|lclarkfg|intro:ile *|%No command 'ile' found%% did you mean:
+ Command 'ale' from package 'ale' (universe)
+ Command 'zile' from package 'zile' (universe)
+ Command 'lie' from package 'lie' (universe)
+ Command 'gle' from package 'gle-graphics' (universe)
+ Command 'idle' from package 'idle' (main)
+ Command 'le' from package 'le' (universe)
+ Command 'ide' from package 'ecere-dev' (universe)
+ Command 'vile' from package 'vile' (universe)
+ Command 'ils' from package 'sleuthkit' (universe)
+ Command 'ipe' from package 'ipe' (universe)
+ Command 'file' from package 'file' (main)
+ Command 'kile' from package 'kile' (universe)
+ile: command not found%
+INPUT|lclarkfg-intro-32|U |000000000|lclarkfg|intro:file *|%acpi:                    directory
+adduser.conf:            ASCII text
+alternatives:            directory
+ansible:                 directory
+apache2:                 directory
+apm:                     directory
+apparmor:                directory
+apparmor.d:              directory
+apport:                  directory
+apt:                     directory
+at.deny:                 regular file%% no read permission
+at-spi2:                 directory
+bash.bashrc:             ASCII text
+bash_completion:         ASCII text
+bash_completion.d:       directory
+bindresvport.blacklist:  ASCII text
+binfmt.d:                directory
+byobu:                   directory
+ca-certificates:         directory
+ca-certificates.conf:    UTF-8 Unicode text
+calendar:                directory
+complete.tcsh:           ASCII text
+console-setup:           directory
+cron.d:                  directory
+cron.daily:              directory
+cron.hourly
+INPUT|lclarkfg-intro-33|U |000000000|lclarkfg|intro:wuer136intro-4.JPG > /users/lclarkfg|bash: /users/lclarkfg: Is a directory
+INPUT|lclarkfg-intro-34|A2 A0 A4 A3 A1 |1537817031|lclarkfg|intro:man find|%[?1049h[?1h=
+FIND(1)                                        General Commands Manual                                        FIND(1)[m
+[m
+[1mNAME[0m[m
+       find - search for files in a directory hierarchy[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mfind[0m [-H] [-L] [-P] [-D debugopts] [-Olevel] [starting-point...] [expression][m
+[m
+[1mDESCRIPTION[0m[m
+       This manual page documents the GNU version of [1mfind[0m.  GNU [1mfind[0m searches the directory tree rooted at each given[m
+       starting-point by evaluating the given expression from left to right%% according to  the  rules  of  precedence[m
+       (see  section OPERATORS)%% until the outcome is known (the left hand side is false for [4mand[24m operations%% true for[m
+       [4mor[24m)%% at which point [1mfind[0m moves on to the next file name.  If no starting-point is specified%% `.' is assumed.[m
+[m
+       If you are using [1mfind[0m in an environment where security is important (for example

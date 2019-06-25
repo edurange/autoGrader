@@ -1,0 +1,379 @@
+User lclarkan start time 1537542225 end 1537817027
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkan-intro-0|U |000000000|lclarkan|:|
+INPUT|lclarkan-intro-1|U |000000000|lclarkan|:|
+INPUT|lclarkan-intro-2|U |1537814611|lclarkan|intro:ls|alerts bla    firewall.sh jens    root-permissions-1362170255.tar.gz
+a.out dump.pcap  hello.c nohup.out  snort.config
+INPUT|lclarkan-intro-3|U |1537814694|lclarkan|intro:file *|%alerts:                             directory
+a.out:                              ELF 32-bit LSB executable%% Intel 80386%% version 1 (SYSV)%% dynamically linked%% interpreter /lib/ld-linux.so.2%% for GNU/Linux 2.6.15%% BuildID[sha1]=22d520d611d7fc81a5ed7a5e41ac868f54365865%% not stripped
+bla:                                ASCII text
+dump.pcap:                          tcpdump capture file (little-endian) - version 2.4 (Ethernet%% capture length 96)
+firewall.sh:                        Bourne-Again shell script%% ASCII text executable
+hello.c:                            C source%% ASCII text
+jens:                               directory
+nohup.out:                          ASCII text%% with CRLF%% LF line terminators
+root-permissions-1362170255.tar.gz: gzip compressed data%% last modified: Fri Mar  1 20:37:35 2013%% from Unix
+snort.config:                       ASCII text%
+INPUT|lclarkan-intro-4|A2 A0 A4 A3 A1 |1537814694|lclarkan|intro:find | file|Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+INPUT|lclarkan-intro-5|A1 A4 A3 A0 A2 |1537814720|lclarkan|intro:find | [1@x[1@a[1@r[1@g[1@s[1@b[1@ file $1|%No command 'xargsb' found%% did you mean:
+ Command 'xargs' from package 'findutils' (main)
+xargsb: command not found%
+INPUT|lclarkan-intro-6|A1 A4 A3 A0 A2 |1537814727|lclarkan|intro:find | xargs[1Pile $1|%.:                                    directory
+./.cache:                             directory
+./.cache/motd.legal-displayed:        empty
+./.ssh:                               directory
+./.ssh/id_rsa:                        PEM RSA private key
+./.ssh/id_rsa.pub:                    OpenSSH RSA public key
+./.ssh/known_hosts:                   ASCII text
+./.ssh/id_emulab.pub:                 OpenSSH RSA public key
+./.ssh/authorized_keys:               ASCII text%% with very long lines
+./.ssh/external_keys:                 ASCII text
+./.ssl:                               directory
+./.ssl/emulab.pem:                    ASCII text
+./alerts:                             directory
+./alerts/alert:                       ASCII text
+./alerts/snort.log.1363339427:        tcpdump capture file (little-endian) - version 2.4 (raw IP%% capture length 1514)
+./alerts/snort.log.1363339901:        tcpdump capture file (little-endian) - version 2.4 (raw IP%% cap
+INPUT|lclarkan-intro-7|A4 A3 A1 A2 A0 |1537814727|lclarkan|intro:find | xargs file $1|
+INPUT|lclarkan-intro-8|A0 A2 A1 A4 A3 |1537814857|lclarkan|intro:find | xargs file $1 | grep GPEG|
+INPUT|lclarkan-intro-9|A2 A0 A4 A3 A1 |1537814877|lclarkan|intro:find | xargs file $1 | grep ASCII|%./.ssh/known_hosts:                   ASCII text
+./.ssh/authorized_keys:               ASCII text%% with very long lines
+./.ssh/external_keys:                 ASCII text
+./.ssl/emulab.pem:                    ASCII text
+./alerts/alert:                       ASCII text
+./bla:                                ASCII text
+./.bash_history:                      ASCII text
+./.cshrc:                             ASCII text
+./.forward:                           ASCII text
+./.login:                             ASCII text
+./.login_conf:                        ASCII text
+./.mail_aliases:                      ASCII text
+./.mailrc:                            ASCII text
+./.profile:                           ASCII text
+./.rhosts:                            ASCII text
+./.shrc:                              ASCII text
+./firewall.sh:                        Bourne-Again shell script%% ASCII text executable
+./hello.c:                            C source%% ASCI
+INPUT|lclarkan-intro-10|A2 A0 A4 A3 A1 |1537814884|lclarkan|intro:find | xargs file $1 | wc|     37     180    2393
+INPUT|lclarkan-intro-11|A0 A2 A1 A3 A4 |1537814890|lclarkan|intro:find | xargs file $1 | grep ASCII | wc|     21      78    1131
+INPUT|lclarkan-intro-12|A2 A0 A4 A3 A1 |1537814968|lclarkan|intro:find | wc|     37      37     526
+INPUT|lclarkan-intro-13|A1 A3 A4 A0 A2 |1537815018|lclarkan|intro:find | [29@xargs file $1 | grep ASCII | wc|     21      78    1131
+INPUT|lclarkan-intro-14|A0 A2 A1 A3 A4 |1537815018|lclarkan|intro:find | xargs file $1 | grep ASCII | wc|
+INPUT|lclarkan-intro-15|A1 A4 A3 A0 A2 |000000000|lclarkan|intro:find / -name *intro*|!TRUNCATED TO 500L! find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied
+find: '/proc/2/task/2/fd': Permission denied
+find: '/proc/2/task/2/fdinfo': Permission denied
+find: '/proc/2/task/2/n
+INPUT|lclarkan-intro-16|A0 A2 A1 A4 A3 |000000000|lclarkan|intro:find / -name "*intro*" wc|!TRUNCATED TO 500L! find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied
+find: '/proc/2/task/2/fd': Permission denied
+find: '/proc/2/task/2/fdinfo': Permission denied
+find: '/proc/2/task/2/n
+INPUT|lclarkan-intro-17|A0 A2 A1 A3 A4 |000000000|lclarkan|intro:find / -name \"*intro*\" 2> /dev/null|^C
+INPUT|lclarkan-intro-18|A0 A2 A1 A3 A4 |1537815336|lclarkan|intro:man find|%[?1049h[?1h=
+FIND(1)                                               General Commands Manual                                               FIND(1)[m
+[m
+[1mNAME[0m[m
+       find - search for files in a directory hierarchy[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mfind[0m [-H] [-L] [-P] [-D debugopts] [-Olevel] [starting-point...] [expression][m
+[m
+[1mDESCRIPTION[0m[m
+       This  manual  page  documents  the GNU version of [1mfind[0m.  GNU [1mfind[0m searches the directory tree rooted at each given starting-[m
+       point by evaluating the given expression from left to right%% according to the rules of precedence (see  section  OPERATORS)%%[m
+       until  the  outcome  is known (the left hand side is false for [4mand[24m operations%% true for [4mor[24m)%% at which point [1mfind[0m moves on to[m
+       the next file name.  If no starting-point is specified%% `.' is assumed.[m
+[m
+       If you are using [1mfind[0m in an environment where security is imp
+INPUT|lclarkan-intro-19|A1 A3 A4 A0 A2 |1537815357|lclarkan|intro:man find|%[?1049h[?1h=
+FIND(1)                                               General Commands Manual                                               FIND(1)[m
+[m
+[1mNAME[0m[m
+       find - search for files in a directory hierarchy[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mfind[0m [-H] [-L] [-P] [-D debugopts] [-Olevel] [starting-point...] [expression][m
+[m
+[1mDESCRIPTION[0m[m
+       This  manual  page  documents  the GNU version of [1mfind[0m.  GNU [1mfind[0m searches the directory tree rooted at each given starting-[m
+       point by evaluating the given expression from left to right%% according to the rules of precedence (see  section  OPERATORS)%%[m
+       until  the  outcome  is known (the left hand side is false for [4mand[24m operations%% true for [4mor[24m)%% at which point [1mfind[0m moves on to[m
+       the next file name.  If no starting-point is specified%% `.' is assumed.[m
+[m
+       If you are using [1mfind[0m in an environment where security is imp
+INPUT|lclarkan-intro-20|A1 A4 A3 A0 A2 |1537815280|lclarkan|intro:find / -[1@[1@m[1@o[1@u[1@n[1@t[1@  | wc|     29      29    1096
+INPUT|lclarkan-intro-21|M3 M2 |000000000|lclarkan|intro:find / -mount -name \"*intro*\" 2> /dev/null|/var/log/ttylog/ttylog.intro.4
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/share/exp/createimage/logs/cli.intro.csv.1535412403
+/proj/share/exp/createimage/logs/ttylog.intro.0
+/proj/share/exp/createimage/logs/alltty.intro
+/proj/share/exp/createimage/logs/cli.intro.csv
+/proj/share/exp/createimage/count.intro
+/local/logs/intro_startcmd.err
+/local/logs/intro_startcmd.err.10
+/local/logs/intro_startcmd.out.10
+/local/logs/intro_startcmd.out
+/local/logs/intro_startcmd.status.10
+/local/logs/intro_startcmd.status
+/usr/share/man/man4/intro.4.gz
+/usr/share/man/man2/intro.2.gz
+/usr/share/man/man1/intro.1.gz
+/usr/share/man/man5/intro.5.gz
+/usr/share/man/man8/intro.8.gz
+/usr/share/man/man6/intro.6.gz
+/usr/share/man/man3/intro.3.gz
+/usr/share/man/man7/intro.7.gz
+/usr/share/vi
+INPUT|lclarkan-intro-22|M3 M2 |1537815617|lclarkan|intro:find / -mount -name \"*intro*\" 2> /dev/null | xargs file $1 | grep JPEG|%/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkan-intro-23|M3 M2 |1537815696|lclarkan|intro:find / -mount -name \"*intro*\" 2> /dev/null | xargs file $1|%/var/log/ttylog/ttylog.intro.4:                                                          ASCII text%% with CRLF%% CR%% LF line terminators%% with escape sequences%% with overstriking
+/var/log/ttylog/alltty.intro:                                                            ASCII text%% with CRLF%% CR%% LF line terminators%% with escape sequences%% with overstriking
+/var/log/ttylog/cli.intro.csv:                                                           ASCII text%% with very long lines%% with CRLF line terminators
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% 
+INPUT|lclarkan-intro-24|A2 A0 A4 A3 A1 |1537815773|lclarkan|intro:find / -mount -name \"*intro*\" 2> /dev/null | xargs file $1[K grep JPEG|
+INPUT|lclarkan-intro-25|A1 A3 A4 A0 A2 |1537817023|lclarkan|intro:[Kfind / -mount -name \"*intro*\" 2> /dev/null | xargs file $1|
+INPUT|lclarkan-intro-26|A2 A0 A4 A3 A1 |1537815773|lclarkan|intro:[Kfind / -mount -name \"*intro*\" 2> /dev/null | xargs file $1 | [1@egrep [1@"[1@(JPEG)|(ASCII)\"|%/var/log/ttylog/ttylog.intro.4:                                                          ASCII text%% with CRLF%% CR%% LF line terminators%% with escape sequences%% with overstriking
+/var/log/ttylog/alltty.intro:                                                            ASCII text%% with CRLF%% CR%% LF line terminators%% with escape sequences%% with overstriking
+/var/log/ttylog/cli.intro.csv:                                                           ASCII text%% with very long lines%% with CRLF line terminators
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% 
+INPUT|lclarkan-intro-27|M3 M2 |000000000|lclarkan|intro:find / -mount -name \"*intro*\" 2> /dev/null | xargs file $1 | egrep \"(JPEG)|(ASCII)\"|%/var/log/ttylog/ttylog.intro.4:                                                          ASCII text%% with CRLF%% CR%% LF line terminators%% with escape sequences%% with overstriking
+/var/log/ttylog/alltty.intro:                                                            ASCII text%% with CRLF%% CR%% LF line terminators%% with escape sequences%% with overstriking
+/var/log/ttylog/cli.intro.csv:                                                           ASCII text%% with very long lines%% with CRLF line terminators
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "<E0><FB><FC>\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%
+INPUT|lclarkan-intro-28|A1 A4 A3 A0 A2 |1537817027|lclarkan|intro:man find|%[?1049h[?1h=
+FIND(1)                                               General Commands Manual                                               FIND(1)[m
+[m
+[1mNAME[0m[m
+       find - search for files in a directory hierarchy[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mfind[0m [-H] [-L] [-P] [-D debugopts] [-Olevel] [starting-point...] [expression][m
+[m
+[1mDESCRIPTION[0m[m
+       This  manual  page  documents  the GNU version of [1mfind[0m.  GNU [1mfind[0m searches the directory tree rooted at each given starting-[m
+       point by evaluating the given expression from left to right%% according to the rules of precedence (see  section  OPERATORS)%%[m
+       until  the  outcome  is known (the left hand side is false for [4mand[24m operations%% true for [4mor[24m)%% at which point [1mfind[0m moves on to[m
+       the next file name.  If no starting-point is specified%% `.' is assumed.[m
+[m
+       If you are using [1mfind[0m in an environment where security is imp
+INPUT|lclarkan-intro-29|A2 A0 A4 A3 A1 |1537815294|lclarkan|intro:find ~ | wc|     37      37    1044
+INPUT|lclarkan-intro-30|U |000000000|lclarkan|intro:exit|exit
+INPUT|lclarkan-intro-31|U |1537542225|lclarkan|intro:uname -a|Linux intro.lclarkan-intro21.cs495lc.isi.deterlab.net 4.4.0-83-generic #106-Ubuntu SMP Mon Jun 26 17:54:43 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux
+INPUT|lclarkan-intro-32|U |1537542248|lclarkan|intro:ls|alerts bla    firewall.sh jens    root-permissions-1362170255.tar.gz
+a.out dump.pcap  hello.c nohup.out  snort.config
+INPUT|lclarkan-intro-33|U |000000000|lclarkan|intro:file *|%alerts:                             directory
+a.out:                              ELF 32-bit LSB executable%% Intel 80386%% version 1 (SYSV)%% dynamically linked%% interpreter /lib/ld-linux.so.2%% for GNU/Linux 2.6.15%% BuildID[sha1]=22d520d611d7fc81a5ed7a5e41ac868f54365865%% not stripped
+bla:                                ASCII text
+dump.pcap:                          tcpdump capture file (little-endian) - version 2.4 (Ethernet%% capture length 96)
+firewall.sh:                        Bourne-Again shell script%% ASCII text executable
+hello.c:                            C source%% ASCII text
+jens:                               directory
+nohup.out:                          ASCII text%% with CRLF%% LF line terminators
+root-permissions-1362170255.tar.gz: gzip compressed data%% last modified: Fri Mar  1 20:37:35 2013%% from Unix
+snort.config:                       ASCII text%
+INPUT|lclarkan-intro-34|U |1537542273|lclarkan|intro:ls jens|
+INPUT|lclarkan-intro-35|A1 A3 A4 A0 A2 |1537542384|lclarkan|intro:find intro|find: 'intro': No such file or directory
+INPUT|lclarkan-intro-36|A0 A2 A1 A3 A4 |000000000|lclarkan|intro:find *intro*|find: '*intro*': No such file or directory
+INPUT|lclarkan-intro-37|A1 A3 A4 A0 A2 |000000000|lclarkan|intro:find *"ntro*\"|find: '*intro*': No such file or directory
+INPUT|lclarkan-intro-38|A2 A0 A4 A3 A1 |000000000|lclarkan|intro:find \"-name *\"|
+INPUT|lclarkan-intro-39|M2 |000000000|lclarkan|intro:find -n/ e \"*intro*\"|!TRUNCATED TO 500L! find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+/var/log/ttylog/ttylog.intro.0
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/cli.intro.csv
+find: '/var/log/unattended-upgrades': Permission denied
+/var/log/136intro-3.jpg
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied<
+INPUT|lclarkan-intro-40|M4 M3 M2 M1 M0 |000000000|lclarkan|intro:find / -iname \"*intro*\" 2> /dev/null|/var/log/ttylog/ttylog.intro.0
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/CS495LC/exp/Adrian-Intro
+/proj/CS495LC/exp/Adrian-Intro/tbdata/Adrian-Intro.png
+/proj/CS495LC/exp/Adrian-Intro/tbdata/Adrian-Intro.ns
+/proj/CS495LC/exp/Intro-csfirewall
+/proj/CS495LC/exp/Intro-csfirewall/tbdata/Intro-csfirewall.png
+/proj/CS495LC/exp/Intro-csfirewall/tbdata/Intro-csfirewall.ns
+/proj/CS495LC/exp/IntroExperiment
+/proj/CS495LC/exp/IntroExperiment/tbdata/IntroExperiment.ns
+/proj/CS495LC/exp/IntroExperiment/tbdata/IntroExperiment.png
+/proj/CS495LC/exp/derek-linuxintro
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.ns
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.png
+/proj/CS495LC/exp/george-introUnix
+/proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.png
+/pr
+INPUT|lclarkan-intro-41|M4 M3 M2 M1 M0 |000000000|lclarkan|intro:find / -iname \"*intro**.jp*g/dev/null|/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/.hidden/asdf136Intro-5kqlw.jpeg
+/dev/136intro-2jjaj.JPEG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|lclarkan-intro-42|U |1537543572|lclarkan|intro:man strings|%[?1049h[?1h=
+STRINGS(1)                       GNU Development Tools                       STRINGS(1)[m
+[m
+[1mNAME[0m[m
+       strings - print the strings of printable characters in files.[m
+[m
+[1mSYNOPSIS[0m[m
+       strings [[1m-afovV[0m] [[1m-[0m[4mmin-len[24m][m
+               [[1m-n[0m [4mmin-len[24m] [[1m--bytes=[0m[4mmin-len[24m][m
+               [[1m-t[0m [4mradix[24m] [[1m--radix=[0m[4mradix[24m][m
+               [[1m-e[0m [4mencoding[24m] [[1m--encoding=[0m[4mencoding[24m][m
+               [[1m-[0m] [[1m--all[0m] [[1m--print-file-name[0m][m
+               [[1m-T[0m [4mbfdname[24m] [[1m--target=[0m[4mbfdname[24m][m
+               [[1m-w[0m] [[1m--include-all-whitespace[0m][m
+               [[1m-s[0m] [[1m--output-separator[0m[4msep_string[24m][m
+               [[1m--help[0m] [[1m--version[0m] [4mfile[24m...[m
+[m
+[1mDESCRIPTION[0m[m
+       For each [4mfile[24m given%% GNU [1mstrings[0m prints the printable character sequence
+INPUT|lclarkan-intro-43|U |1537544148|lclarkan|intro:ls|alerts bla    firewall.sh jens    root-permissions-1362170255.tar.gz
+a.out dump.pcap  hello.c nohup.out  snort.config
+INPUT|lclarkan-intro-44|U |1537556671|lclarkan|intro:ls|alerts bla    firewall.sh jens    root-permissions-1362170255.tar.gz
+a.out dump.pcap  hello.c nohup.out  snort.config
+INPUT|lclarkan-intro-45|A4 A3 A1 A2 A0 |1537556245|lclarkan|intro:man find|%[?1049h[?1h=
+FIND(1)                     General Commands Manual                    FIND(1)[m
+[m
+[1mNAME[0m[m
+       find - search for files in a directory hierarchy[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mfind[0m  [-H]  [-L]  [-P]  [-D  debugopts]  [-Olevel]  [starting-point...][m
+       [expression][m
+[m
+[1mDESCRIPTION[0m[m
+       This manual page documents the GNU version of [1mfind[0m.  GNU [1mfind[0m  searches[m
+       the  directory  tree  rooted at each given starting-point by evaluating[m
+       the given expression from left to right%%  according  to  the  rules  of[m
+       precedence  (see  section  OPERATORS)%%  until the outcome is known (the[m
+       left hand side is false for [4mand[24m operations%%  true  for  [4mor[24m)%%  at  which[m
+       point  [1mfind[0m  moves  on  to the next file name.  If no starting-point is[m
+       specified%% `.' is assumed.[m
+[m
+       If you are using [1mfind[0m in an environment  where 
+INPUT|lclarkan-intro-46|A0 A2 A1 A4 A3 |1537556959|lclarkan|intro:find . -name intro*|
+INPUT|lclarkan-intro-47|A4 A3 A1 A2 A0 |000000000|lclarkan|intro:find . -name *ntro*|
+INPUT|lclarkan-intro-48|M2 |000000000|lclarkan|intro:find / -name *intro*|!TRUNCATED TO 500L! find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+/var/log/ttylog/ttylog.intro.2
+/var/log/ttylog/ttylog.intro.0
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/ttylog.intro.1
+/var/log/ttylog/cli.intro.csv
+find: '/var/log/unattended-upgrades': Permission denied
+/var/log/136intro-3.jpg
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/
+INPUT|lclarkan-intro-49|M3 M2 |000000000|lclarkan|intro:find / -name *intro* 2> /dev/null|/var/log/ttylog/ttylog.intro.2
+/var/log/ttylog/ttylog.intro.0
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/ttylog.intro.1
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/CS495LC/exp/derek-linuxintro
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.ns
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.png
+/proj/CS495LC/exp/george-introUnix
+/proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.png
+/proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.ns
+/proj/CS495LC/exp/jmache-intro2
+/proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.ns
+/proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.png
+/proj/CS495LC/exp/lclarkai-intro
+/proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.ns
+/proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.png
+/proj/CS495LC/exp/lclarkan-intro
+/pr
+INPUT|lclarkan-intro-50|A0 A2 A1 A3 A4 |000000000|lclarkan|intro:find / -name *intro* 2> /dev/null|
+INPUT|lclarkan-intro-51|U |000000000|lclarkan|intro:file /proj/CS495LC/exp/jens-intro/tbdata/jens-intro.png|%/proj/CS495LC/exp/jens-intro/tbdata/jens-intro.png: PNG image data%% 160 x 160%% 8-bit colormap%% non-interlaced%
+INPUT|lclarkan-intro-52|U |000000000|lclarkan|intro:echo \"hello there\"|hello there
+INPUT|lclarkan-intro-53|U |1537557892|lclarkan|intro:echo \"hello there\" | wc|      1       2      12
+INPUT|lclarkan-intro-54|U |000000000|lclarkan|intro:ecfile /proj/CS495LC/exp/jens-intro/tbdata/jens-intro.png|
+INPUT|lclarkan-intro-55|U |1537558004|lclarkan|intro:fi[21Pnd / -name *intro* 2> /dev/null | head|/var/log/ttylog/ttylog.intro.2
+/var/log/ttylog/ttylog.intro.0
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/ttylog.intro.1
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/CS495LC/exp/derek-linuxintro
+INPUT|lclarkan-intro-56|U |1537748118|lclarkan|intro:ls|alerts bla    firewall.sh jens    root-permissions-1362170255.tar.gz
+a.out dump.pcap  hello.c nohup.out  snort.config
+INPUT|lclarkan-intro-57|U |000000000|lclarkan|intro:pwd|/users/lclarkan
+INPUT|lclarkan-intro-58|U |1537749079|lclarkan|intro:ls|alerts bla    firewall.sh jens    root-permissions-1362170255.tar.gz
+a.out dump.pcap  hello.c nohup.out  snort.config
+INPUT|lclarkan-intro-59|U |000000000|lclarkan|intro:pwd|/users/lclarkan

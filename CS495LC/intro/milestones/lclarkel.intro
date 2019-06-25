@@ -1,0 +1,656 @@
+User lclarkel start time 1537814489 end 1537922421
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkel-intro-0|U |000000000|lclarkel|:|
+INPUT|lclarkel-intro-1|U |000000000|lclarkel|intro:pwd|/users/lclarkel
+INPUT|lclarkel-intro-2|U |000000000|lclarkel|:|
+INPUT|lclarkel-intro-3|U |000000000|lclarkel|intro:cd ..|
+INPUT|lclarkel-intro-4|U |1537814489|lclarkel|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkel  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkel-intro-5|U |000000000|lclarkel|intro:cd ..|
+INPUT|lclarkel-intro-6|U |1537814500|lclarkel|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkel-intro-7|U |000000000|lclarkel|intro:cd /|
+INPUT|lclarkel-intro-8|U |1537814506|lclarkel|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkel-intro-9|U |000000000|lclarkel|intro:pwd|/
+INPUT|lclarkel-intro-10|A2 A0 A4 A3 A1 |1537814627|lclarkel|intro:man find|%[?1049h[?1h=
+FIND(1)                     General Commands Manual                    FIND(1)[m
+[m
+[1mNAME[0m[m
+       find - search for files in a directory hierarchy[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mfind[0m  [-H]  [-L]  [-P]  [-D  debugopts]  [-Olevel]  [starting-point...][m
+       [expression][m
+[m
+[1mDESCRIPTION[0m[m
+       This manual page documents the GNU version of [1mfind[0m.  GNU [1mfind[0m  searches[m
+       the  directory  tree  rooted at each given starting-point by evaluating[m
+       the given expression from left to right%%  according  to  the  rules  of[m
+       precedence  (see  section  OPERATORS)%%  until the outcome is known (the[m
+       left hand side is false for [4mand[24m operations%%  true  for  [4mor[24m)%%  at  which[m
+       point  [1mfind[0m  moves  on  to the next file name.  If no starting-point is[m
+       specified%% `.' is assumed.[m
+[m
+       If you are using [1mfind[0m in an environment  where 
+INPUT|lclarkel-intro-11|M2 |000000000|lclarkel|intro:find  -name *.jpg 2> /dev/null|./var/log/136intro-3.jpg
+./share/chef/chef-packages/old/click/examples/imagepipe/example01.jpg
+./share/chef/chef-packages/old/click/examples/imagepipe/example02.jpg
+./share/education/MITMARPPoisoning_USC/html/images/arpspoof-net.jpg
+./share/education/MITMARPPoisoning_USC/html/images/eth-what.jpg
+./share/education/MITMARPPoisoning_USC/html/images/firefox-altered.jpg
+./share/education/MITMARPPoisoning_USC/html/images/firefox-unaltered.jpg
+./share/education/MITMARPPoisoning_USC/html/images/lynx-altered.jpg
+./share/education/MITMARPPoisoning_USC/html/images/lynx-unaltered.jpg
+./share/education/SecureCommunication_USC/html/intel-sponsor.jpg
+./share/education/SecureServer_USC/html/intel-sponsor.jpg
+./share/education/UMD_XSS/html/forum/images/sunglasses_sloth_left.jpg
+./share/education/UMD_XSS/html/forum/images/sunglasses_sloth_right.jpg
+./share/education/UMD_XSS/html/forum_old/images/sunglasses_sloth_left.jpg
+./share/education/UMD_XSS/html/forum_old/
+INPUT|lclarkel-intro-12|A2 A0 A4 A3 A1 |000000000|lclarkel|intro:find  -name *.jpg | xargs file $1 | grep JPEG|!TRUNCATED TO 500L! find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo': Permission denied
+find
+INPUT|lclarkel-intro-13|A2 A0 A4 A3 A1 |1537814929|lclarkel|intro:find  -name *.jpg | xargs file $1 | grep JPE[1[1P[[1[1[1[1P[[1[1[1[1[1P[[1P[1 | gre[1[1[1[1P [1P[1@|  [1[1@x[1@a[1@r[1@g[1@[1P[1@s  [1[1@f[1@i[1@l[1@e  [1[1@$[1@1 [1P|find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+find: './var/lib/lxcfs/cgroup/devices/system.slice/systemd-tmpfiles-clean.service': No such file or directory
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc
+INPUT|lclarkel-intro-14|A1 A4 A3 A0 A2 |1537815039|lclarkel|intro:find  -name *.jpg | xargs[1@i[1@n[1@t[1@r[1@o[1@*.jpg[1@* | xargs file $1 | 2>[1P|find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo': Permission denied
+find: './proc/2/task/2/n
+INPUT|lclarkel-intro-15|A2 A0 A4 A3 A1 |1537815099|lclarkel|intro:find  -name *intro*.jpg* | xargs file $1 [1P[1Pev/null|find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo': Permission denied
+find: './proc/2/task/2/n
+INPUT|lclarkel-intro-16|A2 A0 A4 A3 A1 |1537815108|lclarkel|intro:find  -name *intro*.jpg* | xargs file $[1[1P[1P/null|find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo': Permission denied
+find: './proc/2/task/2/n
+INPUT|lclarkel-intro-17|M2 |000000000|lclarkel|intro:find  -name *intro*.jpg* | xargs file 2>/dev/null|./var/log/136intro-3.jpg
+^C
+INPUT|lclarkel-intro-18|A0 A2 A1 A3 A4 |000000000|lclarkel|intro:find  -name *intro*.jpg* | wc v/null|!TRUNCATED TO 500L! find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo': Permission denied
+find
+INPUT|lclarkel-intro-19|A1 A4 A3 A0 A2 |1537815151|lclarkel|intro:find  -name *intro*.jpg* | wc [1@|[1@ ull|find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo': Permission denied
+find: './proc/2/task/2/n
+INPUT|lclarkel-intro-20|A0 A2 A1 A3 A4 |1537815162|lclarkel|intro:find  -name *intro*.jpg* | wc[1P[1Pdev/null|find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo': Permission denied
+find: './proc/2/task/2/n
+INPUT|lclarkel-intro-21|A4 A3 A1 A2 A0 |000000000|lclarkel|intro:find  -name *intro*.jpg*  wcc 2>/dev/null|
+INPUT|lclarkel-intro-22|A4 A3 A1 A2 A0 |000000000|lclarkel|intro:find  -name *intro*.jpg* 2>/dev/null | xargs file $1||^C
+INPUT|lclarkel-intro-23|A4 A3 A1 A2 A0 |1537815119|lclarkel|intro:find  -name *intro*.jpg* 2>/dev/null | xargs file $1[1[1[1P[[1[1[1[1P[[1[1[1[1[1P[1P|^C
+INPUT|lclarkel-intro-24|M2 |000000000|lclarkel|intro:find  -name *intro*.jpg* 2>/dev/null|./var/log/136intro-3.jpg
+^C
+INPUT|lclarkel-intro-25|A2 A0 A4 A3 A1 |1537815188|lclarkel|intro:find  -name *intro*.jpg[1[1[1[[1@"*intro*\" 2>/dev/null| wc|^C
+INPUT|lclarkel-intro-26|A1 A4 A3 A0 A2 |1537815234|lclarkel|intro:find  -[1@-[1@m[1@o[1@u[1@n[1@tnull| wc|     29      29    1125
+INPUT|lclarkel-intro-27|M3 M2 |1537815234|lclarkel|intro:find -mount -name \"*intro*\" 2>/dev/null| xargs file $1|%./var/log/ttylog/ttylog.intro.0:                                                          ASCII text%% with CRLF%% CR%% LF line terminators%% with escape sequences%% with overstriking
+./var/log/ttylog/alltty.intro:                                                            ASCII text%% with CRLF%% CR%% LF line terminators%% with escape sequences%% with overstriking
+./var/log/ttylog/cli.intro.csv:                                                           ASCII text%% with very long lines%% with CRLF line terminators
+./var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+./etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x3
+INPUT|lclarkel-intro-28|M3 M2 |1537814929|lclarkel|intro:find -mount -name "*intro*" 2>/dev/null| xargs file $1| grep JPEG|%./var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+./etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkel-intro-29|A0 A2 A1 A3 A4 |1537815252|lclarkel|intro:find -mount [1[1[1[1[1[1P[1 -name \"*intro*\" 2>/dev/null| x[1xCargs file $[1[1[1[1[1[1[1[1[1[1[1[1[1[1[1P[1| grep JPEG| wc|^C
+INPUT|lclarkel-intro-30|A1 A4 A3 A0 A2 |000000000|lclarkel|intro:find -name \"*intro**jpg*/dev/null| grep JPEG| wc|^C
+INPUT|lclarkel-intro-31|A0 A2 A1 A3 A4 |1537815307|lclarkel|intro:find -name \"*intro*jpg*\" 2>/dev/null| grep JPEG| wc|
+INPUT|lclarkel-intro-32|U |000000000|lclarkel|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkel-intro-33|U |1537814520|lclarkel|intro:ls[K -aame "*intro*jpg*" 2>/dev/null| grep JPEG| wc|.   bin   dev  groups home     initrd.img.old  lib64  lost+found  mnt  proc  root sbin   snap  sys  users  var   vmlinuz.old
+..  boot  etc  .hidden initrd.img  lib      local  media       opt  proj  run share  srv   tmp  usr  vmlinuz
+INPUT|lclarkel-intro-34|A4 A3 A1 A2 A0 |1537815676|lclarkel|intro:lsfind [1@/[1@.[1@h[1@i[1@d[4@den/null| grep JPEG| wc|      0       0       0
+INPUT|lclarkel-intro-35|A1 A3 A4 A0 A2 |1537815950|lclarkel|intro:find /.hidden/-n[1@ \"*intro*jpg*\" 2>/dev/null| grep JPEG| wc|      0       0       0
+INPUT|lclarkel-intro-36|A2 A0 A4 A3 A1 |1537816300|lclarkel|intro:find /.hidden/[1[1[1[1[1[1[1P[1@e[1@t[1@cev/null| grep JPEG| wc|      0       0       0
+INPUT|lclarkel-intro-37|A0 A2 A1 A3 A4 |1537816310|lclarkel|intro:find /etc/[1[1[1P[1@v[1@a[1@r*\" 2>/dev/null| grep JPEG| wc|      0       0       0
+INPUT|lclarkel-intro-38|A1 A3 A4 A0 A2 |1537816326|lclarkel|intro:find d[1@[1P [1@ \"*intro*jpg*\" 2>/dev/null| grep JPEG| wc|      0       0       0
+INPUT|lclarkel-intro-39|A4 A3 A1 A2 A0 |1537816338|lclarkel|intro:find  / [1[1P.ame \"*intro*jpg*\" 2>/dev/null| grep JPEG| wc|      0       0       0
+INPUT|lclarkel-intro-40|A1 A3 A4 A0 A2 |1537816361|lclarkel|intro:find ./var/ -name \"*intro*jpg*\" 2>/dev/null| grep JPEG| wc|
+INPUT|lclarkel-intro-41|A1 A3 A4 A0 A2 |1537816376|lclarkel|intro:[Kfind ./var/ -name \"*intro*jpg*\" 2>/dev/null| grep JPEG| wc|
+INPUT|lclarkel-intro-42|A1 A3 A4 A0 A2 |1537816478|lclarkel|intro:find  /var/ -name \"*intro*jpg*\" 2>/dev/null| grep JPEG| wc|
+INPUT|lclarkel-intro-43|A2 A0 A4 A3 A1 |1537816488|lclarkel|intro:find [1P/var/ -name "*intro*jpg*" 2>/dev/null| grep JPEG| wc|
+INPUT|lclarkel-intro-44|A1 A4 A3 A0 A2 |1537816545|lclarkel|intro:find /etc/ -name \"*intro*jpg*\" 2>/dev/null| grep JPEG| wc|
+INPUT|lclarkel-intro-45|A4 A3 A1 A2 A0 |1537816850|lclarkel|intro:find /[4@.hidden/ -name "*intro*jpg*" 2>/dev/null| grep JPEG| wc|
+INPUT|lclarkel-intro-46|A4 A3 A1 A2 A0 |1537816858|lclarkel|intro:find /.hidden/[1P-name "*intro*jpg*" 2>/dev/null| grep JPEG| wc|
+INPUT|lclarkel-intro-47|A1 A4 A3 A0 A2 |1537816532|lclarkel|intro:ls -find -name "*intro*[4P" 2>/dev/null| grep JPEG| wcc|
+INPUT|lclarkel-intro-48|M3 M2 |1537815507|lclarkel|intro:find -mount -name \"*intro*\" 2>/dev/null| xargs file $1| grep JPEG|%./var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+./etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkel-intro-49|A4 A3 A1 A2 A0 |1537816387|lclarkel|intro:find -mount -name \"*intro*\" 2>/dev/null| xargs file $1| grep JPEG|
+INPUT|lclarkel-intro-50|A1 A4 A3 A0 A2 |1537816462|lclarkel|intro:[Kfind -mount -name \"*intro*\" 2>/dev/null| xargs file $1| grep JPEG|
+INPUT|lclarkel-intro-51|U |000000000|lclarkel|intro:cd lost+found/|bash: cd: lost+found/: Permission denied
+INPUT|lclarkel-intro-52|A2 A0 A4 A3 A1 |1537816478|lclarkel|intro:[Kfind -mount -name "*intro*" 2>/dev/null| xargs file $1| grep JPEG|
+INPUT|lclarkel-intro-53|U |000000000|lclarkel|intro:st+found/|sudo: cd: command not found
+INPUT|lclarkel-intro-54|U |000000000|lclarkel|intro:cd lib/+foun+found/|
+INPUT|lclarkel-intro-55|A4 A3 A1 A2 A0 |1537817000|lclarkel|intro:[12@[5Pfind -mount -name "*intro*" 2>/dev/null| xargs file $1| grep JPEG|Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+INPUT|lclarkel-intro-56|A0 A2 A1 A4 A3 |1537817150|lclarkel|intro:find -mount [1[1[1[1[1[1P[1 [1@[1@.v/null| xargs file $1| grep JPEG|Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+INPUT|lclarkel-intro-57|A1 A4 A3 A0 A2 |000000000|lclarkel|intro:find . -name \"*intro*\" 2>/dev/null| xargs file $1| grep JPEG|
+INPUT|lclarkel-intro-58|A0 A2 A1 A3 A4 |1537817162|lclarkel|intro:find . -name \"*intro*\" 2>/dev/null| grep JPEG|
+INPUT|lclarkel-intro-59|U |000000000|lclarkel|intro:cd ..|
+INPUT|lclarkel-intro-60|U |000000000|lclarkel|intro:ls|<C6><C6>ls: command not found
+INPUT|lclarkel-intro-61|U |1537816714|lclarkel|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkel-intro-62|A0 A2 A1 A4 A3 |1537817182|lclarkel|intro:[find . -name "*intro*" 2>/dev/null| grep JPEG|^C
+INPUT|lclarkel-intro-63|U |000000000|lclarkel|intro:cd home|
+INPUT|lclarkel-intro-64|U |1537816720|lclarkel|intro:ls|deter
+INPUT|lclarkel-intro-65|U |000000000|lclarkel|intro:cd deter/|
+INPUT|lclarkel-intro-66|U |1537816730|lclarkel|intro:ls|
+INPUT|lclarkel-intro-67|U |000000000|lclarkel|intro:cd..|cd..: command not found
+INPUT|lclarkel-intro-68|U |000000000|lclarkel|intro:cd .|
+INPUT|lclarkel-intro-69|U |000000000|lclarkel|intro:cd ..|
+INPUT|lclarkel-intro-70|U |000000000|lclarkel|intro:cd ..|
+INPUT|lclarkel-intro-71|U |1537816779|lclarkel|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkel-intro-72|U |1537816734|lclarkel|intro:ls -A|bin   dev  groups   home initrd.img.old lib64  lost+found  mnt proc  root  sbin   snap  sys  users  var      vmlinuz.old
+boot  etc  .hidden  initrd.img lib  local  media    opt proj  run   share  srv  tmp  usr    vmlinuz
+INPUT|lclarkel-intro-73|U |1537816284|lclarkel|intro:ls -a|.   bin   dev  groups home     initrd.img.old  lib64  lost+found  mnt  proc  root sbin   snap  sys  users  var   vmlinuz.old
+..  boot  etc  .hidden initrd.img  lib      local  media       opt  proj  run share  srv   tmp  usr  vmlinuz
+INPUT|lclarkel-intro-74|U |000000000|lclarkel|intro:cd media|
+INPUT|lclarkel-intro-75|U |1537816876|lclarkel|intro:ls|cdrom  floppy  floppy0
+INPUT|lclarkel-intro-76|A0 A2 A1 A3 A4 |1537817288|lclarkel|intro:[3Plscd[[2Plsfind . -name "*intro*" 2>/dev/null| grep JPEG|
+INPUT|lclarkel-intro-77|A2 A0 A4 A3 A1 |1537817150|lclarkel|intro:find . -name \"*intro*\" 2>/dev/null| grep JPEG| wc|      0       0       0
+INPUT|lclarkel-intro-78|A2 A0 A4 A3 A1 |1537817162|lclarkel|intro:find . [1Pme \"*intro*\" 2>/dev/null| grep JPEG| wc|      0       0       0
+INPUT|lclarkel-intro-79|U |000000000|lclarkel|intro:cd..|cd..: command not found
+INPUT|lclarkel-intro-80|U |000000000|lclarkel|intro:cd .|
+INPUT|lclarkel-intro-81|U |000000000|lclarkel|intro:ls ..|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkel-intro-82|U |000000000|lclarkel|intro:cd bin|
+INPUT|lclarkel-intro-83|A1 A3 A4 A0 A2 |1537817182|lclarkel|intro:[4Pcd[find  -name "*intro*" 2>/dev/null| grep JPEG| wc|      0       0       0
+INPUT|lclarkel-intro-84|A1 A4 A3 A0 A2 |1537817288|lclarkel|intro:find  -name \"*intro*\" 2>/dev/null| grep JPEG| wc|
+INPUT|lclarkel-intro-85|A0 A2 A1 A3 A4 |1537817892|lclarkel|intro:[Kfind  -name \"*intro*\" 2>/dev/null| grep JPEG| wc|
+INPUT|lclarkel-intro-86|U |000000000|lclarkel|intro:cd ..n|
+INPUT|lclarkel-intro-87|A0 A2 A1 A3 A4 |1537817903|lclarkel|intro:find  -name "*intro*" 2>/dev/null| grep JPEG| wc|
+INPUT|lclarkel-intro-88|U |000000000|lclarkel|intro:cd dev|
+INPUT|lclarkel-intro-89|A1 A4 A3 A0 A2 |1537817915|lclarkel|intro:cd find  -name "*intro*" 2>/dev/null| grep JPEG| wc|      1       1      22
+INPUT|lclarkel-intro-90|A4 A3 A1 A2 A0 |1537818176|lclarkel|intro:find  -name \"*intro*\" 2>/dev/null| grep JPEG||> ^C
+INPUT|lclarkel-intro-91|A0 A2 A1 A3 A4 |1537818204|lclarkel|intro:find  -name \"*intro*\" 2>/dev/null| grep JPEG|./136intro-2jjaj.JPEG
+INPUT|lclarkel-intro-92|A4 A3 A1 A2 A0 |1537818020|lclarkel|intro:find  -name \"*intro*\" 2>/dev/null| grep JPEG| wc|
+INPUT|lclarkel-intro-93|U |000000000|lclarkel|intro:cd ..v|
+INPUT|lclarkel-intro-94|A1 A4 A3 A0 A2 |000000000|lclarkel|intro:find  -name "*intro*" 2>/dev/null| grep JPEG||
+INPUT|lclarkel-intro-95|U |000000000|lclarkel|intro:cd groups/|
+INPUT|lclarkel-intro-96|A2 A0 A4 A3 A1 |1537818066|lclarkel|intro:cdfind  -name "*intro*" 2>/dev/null| grep JPEG|wc|      0       0       0
+INPUT|lclarkel-intro-97|U |000000000|lclarkel|intro:cd ..|
+INPUT|lclarkel-intro-98|U |000000000|lclarkel|intro:cd local/|
+INPUT|lclarkel-intro-99|A1 A4 A3 A0 A2 |1537818176|lclarkel|intro:cd find  -name "*intro*" 2>/dev/null| grep JPEG|wc|      0       0       0
+INPUT|lclarkel-intro-100|U |000000000|lclarkel|intro:cd ..|
+INPUT|lclarkel-intro-101|U |1537817143|lclarkel|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkel-intro-102|U |000000000|lclarkel|intro:cd opt/|
+INPUT|lclarkel-intro-103|A4 A3 A1 A2 A0 |1537817280|lclarkel|intro:lsfind  -name "*intro*" 2>/dev/null| grep JPEG|wc|      0       0       0
+INPUT|lclarkel-intro-104|U |000000000|lclarkel|intro:cd ..|
+INPUT|lclarkel-intro-105|U |000000000|lclarkel|intro:cd pro|bash: cd: pro: No such file or directory
+INPUT|lclarkel-intro-106|U |000000000|lclarkel|intro:cd proj/|
+INPUT|lclarkel-intro-107|A2 A0 A4 A3 A1 |1537818248|lclarkel|intro:cd prfind  -name "*intro*" 2>/dev/null| grep JPEG|wc|      0       0       0
+INPUT|lclarkel-intro-108|U |000000000|lclarkel|intro:cd ..|
+INPUT|lclarkel-intro-109|U |000000000|lclarkel|intro:cd share/|
+INPUT|lclarkel-intro-110|A2 A0 A4 A3 A1 |000000000|lclarkel|intro:find  -name "*intro*" 2>/dev/null| grep JPEG|wc|^C
+INPUT|lclarkel-intro-111|U |1537817884|lclarkel|intro:ls|530stats  centos          containers-dev   contrib     education-old  linux  mirrors    paws.tgz  t1t2      unelvin
+alice.ns  chef          containers-openvz  cxa       fedkit      lost+found  mkextrafs  rvn      tagger    utils
+benito   config_server         containers_seer   cygwin      freebsd      magi  montage    safer     tapia     windows
+benito-dev  containers         containers_v1.0.0  deterdash   git      manuals  netbsd    seer      tarballs  workbench
+benito-dev.orig  containers_config_server      containers_v1.1   deterstats  images      meta-release.note one.ns    shared    tmp
+bsd10-deploy  containers_config_server-OLD  containers_v1.1.0  education   LegoTG      mimic  ops    spidev    ubuntu
+INPUT|lclarkel-intro-112|A2 A0 A4 A3 A1 |000000000|lclarkel|intro:find  -name "*intro*" 2>/dev/null| grep JPEG|wc|      0       0       0
+INPUT|lclarkel-intro-113|A0 A2 A1 A3 A4 |000000000|lclarkel|intro:find  -name \"*intro*\" 2>/dev/null| grep JPEG|wc|
+INPUT|lclarkel-intro-114|A2 A0 A4 A3 A1 |1537817993|lclarkel|intro:lsfind  -name "*intro*" 2>/dev/null| grep JPEG|wc|
+INPUT|lclarkel-intro-115|U |000000000|lclarkel|intro:cd ..are/|
+INPUT|lclarkel-intro-116|A0 A2 A1 A3 A4 |000000000|lclarkel|intro:find  -name "*intro*" 2>/dev/null| grep JPEG|wc|
+INPUT|lclarkel-intro-117|U |000000000|lclarkel|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkel-intro-118|U |000000000|lclarkel|intro:cd srv|
+INPUT|lclarkel-intro-119|A0 A2 A1 A4 A3 |000000000|lclarkel|intro:find  -name "*intro*" 2>/dev/null| grep JPEG|wc|      0       0       0
+INPUT|lclarkel-intro-120|U |000000000|lclarkel|intro:cd ..|
+INPUT|lclarkel-intro-121|A0 A2 A1 A3 A4 |000000000|lclarkel|intro:find  -name "*intro*" 2>/dev/null| grep JPEG|wc|
+INPUT|lclarkel-intro-122|U |000000000|lclarkel|intro:cd tmp|
+INPUT|lclarkel-intro-123|A4 A3 A1 A2 A0 |000000000|lclarkel|intro:find  -name "*intro*" 2>/dev/null| grep JPEG|wc|      0       0       0
+INPUT|lclarkel-intro-124|A2 A0 A4 A3 A1 |000000000|lclarkel|intro:find  -name \"*intro*\" 2>/dev/null| grep JPEG|wc|
+INPUT|lclarkel-intro-125|U |000000000|lclarkel|intro:cd ..p|
+INPUT|lclarkel-intro-126|A2 A0 A4 A3 A1 |000000000|lclarkel|intro:find  -name "*intro*" 2>/dev/null| grep JPEG|wc|
+INPUT|lclarkel-intro-127|U |000000000|lclarkel|intro:cd usr|
+INPUT|lclarkel-intro-128|A0 A2 A1 A3 A4 |000000000|lclarkel|intro:find  -name "*intro*" 2>/dev/null| grep JPEG|wc|      0       0       0
+INPUT|lclarkel-intro-129|U |000000000|lclarkel|intro:cd|
+INPUT|lclarkel-intro-130|U |1537817988|lclarkel|intro:cd/|bash: cd/: No such file or directory
+INPUT|lclarkel-intro-131|U |000000000|lclarkel|intro:cd /|
+INPUT|lclarkel-intro-132|U |1537818148|lclarkel|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkel-intro-133|U |000000000|lclarkel|intro:cd vmlinuz|bash: cd: vmlinuz: Not a directory
+INPUT|lclarkel-intro-134|U |000000000|lclarkel|intro:cd vmlinuz/|bash: cd: vmlinuz/: Not a directory
+INPUT|lclarkel-intro-135|U |000000000|lclarkel|intro:cd boot|
+INPUT|lclarkel-intro-136|A1 A4 A3 A0 A2 |000000000|lclarkel|intro:find  -name "*intro*" 2>/dev/null| grep JPEG|wc|      0       0       0
+INPUT|lclarkel-intro-137|A1 A4 A3 A0 A2 |000000000|lclarkel|intro:find  -name \"*intro*\" 2>/dev/null| grep JPEG|wc|
+INPUT|lclarkel-intro-138|U |000000000|lclarkel|intro:cd initrd.img-4.4.0-|initrd.img-4.4.0-79-generic  initrd.img-4.4.0-83-generic  
+INPUT|lclarkel-intro-139|U |000000000|lclarkel|intro:cd initrd.img-4.4.0-83-generic|bash: cd: initrd.img-4.4.0-83-generic: Not a directory
+INPUT|lclarkel-intro-140|U |000000000|lclarkel|intro:cd initrd.img-4.4.0-83-generic|
+INPUT|lclarkel-intro-141|A0 A2 A1 A3 A4 |000000000|lclarkel|intro:find  -name \"*intro*\" 2>/dev/null| grep JPEG|wcls 0-a|%No command 'wcls' found%% did you mean:
+ Command 'scls' from package 'libsc-dev' (universe)
+wcls: command not found%
+INPUT|lclarkel-intro-142|A2 A0 A4 A3 A1 |000000000|lclarkel|intro:find  -name \"*intro*\" 2>/dev/null| grep JPEG|wcls 0-a|
+INPUT|lclarkel-intro-143|U |000000000|lclarkel|intro:cd initrd.img-4.4.0-83-generic|
+INPUT|lclarkel-intro-144|A2 A0 A4 A3 A1 |000000000|lclarkel|intro:find  -name \"*intro*\" 2>/dev/null| grep JPEG|wc|
+INPUT|lclarkel-intro-145|U |000000000|lclarkel|intro:cd initrd.img-4.4.0-83-generic|
+INPUT|lclarkel-intro-146|A2 A0 A4 A3 A1 |000000000|lclarkel|intro:find  -name \"*intro*\" 2>/dev/null| grep JPEG|wcls 0-a|
+INPUT|lclarkel-intro-147|U |000000000|lclarkel|intro:ls -a|.   abi-4.4.0-79-generic  config-4.4.0-79-generic  grub    initrd.img-4.4.0-83-generic  System.map-4.4.0-83-generic  vmlinuz-4.4.0-83-generic
+..  abi-4.4.0-83-generic  config-4.4.0-83-generic  initrd.img-4.4.0-79-generic System.map-4.4.0-79-generic  vmlinuz-4.4.0-79-generic
+INPUT|lclarkel-intro-148|A1 A4 A3 A0 A2 |000000000|lclarkel|intro:find  -name "*intro*" 2>/dev/null| grep JPEG|wcls 0-a|%No command 'wcls' found%% did you mean:
+ Command 'scls' from package 'libsc-dev' (universe)
+wcls: command not found%
+INPUT|lclarkel-intro-149|A2 A0 A4 A3 A1 |000000000|lclarkel|intro:find  -name \"*intro*\" 2>/dev/null| grep JPEG|wc|      0       0       0
+INPUT|lclarkel-intro-150|U |000000000|lclarkel|intro:cd ..|
+INPUT|lclarkel-intro-151|U |1537818180|lclarkel|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkel-intro-152|U |000000000|lclarkel|intro:cd lib64|
+INPUT|lclarkel-intro-153|A1 A3 A4 A0 A2 |000000000|lclarkel|intro:find  -name "*intro*" 2>/dev/null| grep JPEG|wc|      0       0       0
+INPUT|lclarkel-intro-154|U |000000000|lclarkel|intro:cd ..|
+INPUT|lclarkel-intro-155|U |000000000|lclarkel|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkel-intro-156|U |000000000|lclarkel|intro:cd lost+found/|bash: cd: lost+found/: Permission denied
+INPUT|lclarkel-intro-157|U |000000000|lclarkel|intro:st+found/|sudo: cd: command not found
+INPUT|lclarkel-intro-158|U |000000000|lclarkel|intro:cd mnt|
+INPUT|lclarkel-intro-159|A0 A2 A1 A3 A4 |000000000|lclarkel|intro:find  -name "*intro*" 2>/dev/null| grep JPEG|wc|      0       0       0
+INPUT|lclarkel-intro-160|U |000000000|lclarkel|intro:cd ..|
+INPUT|lclarkel-intro-161|U |000000000|lclarkel|intro:cd proc|
+INPUT|lclarkel-intro-162|A0 A2 A1 A4 A3 |000000000|lclarkel|intro:find  -name "*intro*" 2>/dev/null| grep JPEG|wc|      0       0       0
+INPUT|lclarkel-intro-163|U |000000000|lclarkel|intro:cd ..|
+INPUT|lclarkel-intro-164|U |000000000|lclarkel|intro:cd root/|bash: cd: root/: Permission denied
+INPUT|lclarkel-intro-165|U |000000000|lclarkel|intro:su cd root|No passwd entry for user 'cd'
+INPUT|lclarkel-intro-166|U |1537818305|lclarkel|intro:su lclarkel|
+INPUT|lclarkel-intro-167|U |000000000|lclarkel|intro:cd root|bash: cd: root: Permission denied
+INPUT|lclarkel-intro-168|U |000000000|lclarkel|intro:ot|sudo: cd: command not found
+INPUT|lclarkel-intro-169|U |000000000|lclarkel|intro:cd sbin|
+INPUT|lclarkel-intro-170|A1 A3 A4 A0 A2 |000000000|lclarkel|intro:find -name \"*intro*\" 2>/dev/null |grep JPEG|wc|      0       0       0
+INPUT|lclarkel-intro-171|U |000000000|lclarkel|intro:cd ..|
+INPUT|lclarkel-intro-172|U |000000000|lclarkel|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkel-intro-173|U |000000000|lclarkel|intro:cd snap/|
+INPUT|lclarkel-intro-174|A0 A2 A1 A4 A3 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|wc|      0       0       0
+INPUT|lclarkel-intro-175|U |000000000|lclarkel|intro:cd ..|
+INPUT|lclarkel-intro-176|A1 A3 A4 A0 A2 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|wc|
+INPUT|lclarkel-intro-177|U |000000000|lclarkel|intro:cd sys|
+INPUT|lclarkel-intro-178|A0 A2 A1 A3 A4 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|wc|      0       0       0
+INPUT|lclarkel-intro-179|U |000000000|lclarkel|intro:cd users|bash: cd: users: No such file or directory
+INPUT|lclarkel-intro-180|U |000000000|lclarkel|intro:cd users|bash: cd: users: No such file or directory
+INPUT|lclarkel-intro-181|U |000000000|lclarkel|intro:cd usrs|bash: cd: usrs: No such file or directory
+INPUT|lclarkel-intro-182|U |000000000|lclarkel|intro:cd ..|
+INPUT|lclarkel-intro-183|U |000000000|lclarkel|intro:cd users|
+INPUT|lclarkel-intro-184|A2 A0 A4 A3 A1 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|wc|      0       0       0
+INPUT|lclarkel-intro-185|U |000000000|lclarkel|intro:cd ..|
+INPUT|lclarkel-intro-186|U |000000000|lclarkel|intro:cd var|
+INPUT|lclarkel-intro-187|A4 A3 A1 A2 A0 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|wc|      0       0       0
+INPUT|lclarkel-intro-188|A2 A0 A4 A3 A1 |000000000|lclarkel|intro:find -name \"*intro*\" 2>/dev/null |grep JPEG||> ^C
+INPUT|lclarkel-intro-189|A4 A3 A1 A2 A0 |000000000|lclarkel|intro:find -name \"*intro*\" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-190|A4 A3 A1 A2 A0 |000000000|lclarkel|intro:find -name \"*intro*\" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-191|U |000000000|lclarkel|intro:cd|
+INPUT|lclarkel-intro-192|U |000000000|lclarkel|intro:cd /|
+INPUT|lclarkel-intro-193|U |1537816763|lclarkel|intro:ls -a|.   bin   dev  groups home     initrd.img.old  lib64  lost+found  mnt  proc  root sbin   snap  sys  users  var   vmlinuz.old
+..  boot  etc  .hidden initrd.img  lib      local  media       opt  proj  run share  srv   tmp  usr  vmlinuz
+INPUT|lclarkel-intro-194|U |000000000|lclarkel|intro:cd .hidden/|
+INPUT|lclarkel-intro-195|A1 A3 A4 A0 A2 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-196|U |000000000|lclarkel|intro:cd ..|
+INPUT|lclarkel-intro-197|U |000000000|lclarkel|intro:cd groups/|
+INPUT|lclarkel-intro-198|A4 A3 A1 A2 A0 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-199|A4 A3 A1 A2 A0 |000000000|lclarkel|intro:find -name \"*intro*\" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-200|U |000000000|lclarkel|intro:cd ..oups/|
+INPUT|lclarkel-intro-201|U |000000000|lclarkel|intro:cd media/|
+INPUT|lclarkel-intro-202|A2 A0 A4 A3 A1 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-203|U |000000000|lclarkel|intro:cd ..|
+INPUT|lclarkel-intro-204|U |000000000|lclarkel|intro:cd run|
+INPUT|lclarkel-intro-205|A4 A3 A1 A2 A0 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-206|A1 A3 A4 A0 A2 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-207|A4 A3 A1 A2 A0 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-208|U |000000000|lclarkel|intro:cd ..|
+INPUT|lclarkel-intro-209|U |000000000|lclarkel|intro:cd usr|
+INPUT|lclarkel-intro-210|A1 A3 A4 A0 A2 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-211|U |000000000|lclarkel|intro:cd /tc|
+INPUT|lclarkel-intro-212|A4 A3 A1 A2 A0 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-213|A2 A0 A4 A3 A1 |000000000|lclarkel|intro:find -name \"*inntro*\" 2>/dev/null |grep JPG|
+INPUT|lclarkel-intro-214|A1 A3 A4 A0 A2 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-215|A4 A3 A1 A2 A0 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-216|A1 A3 A4 A0 A2 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-217|A4 A3 A1 A2 A0 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-218|A1 A3 A4 A0 A2 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-219|A1 A3 A4 A0 A2 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-220|A4 A3 A1 A2 A0 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-221|A4 A3 A1 A2 A0 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-222|A1 A3 A4 A0 A2 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-223|A4 A3 A1 A2 A0 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-224|A1 A3 A4 A0 A2 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-225|U |000000000|lclarkel|intro:cd /|
+INPUT|lclarkel-intro-226|A2 A0 A4 A3 A1 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-227|A4 A3 A1 A2 A0 |000000000|lclarkel|intro:find -name "*intro*" 2>/dev/null |grep JPEG|
+INPUT|lclarkel-intro-228|U |1537820168|lclarkel|intro:[Kcd / *intro* | grep JPEG|
+INPUT|lclarkel-intro-229|A4 A3 A1 A2 A0 |1537820188|lclarkel|intro:locate *intro* | grep JPEG|locate: can not open `/var/lib/mlocate/mlocate.db': Permission denied
+INPUT|lclarkel-intro-230|A4 A3 A1 A2 A0 |000000000|lclarkel|intro:locate *intro* 2> /dev/null|
+INPUT|lclarkel-intro-231|U |1537820211|lclarkel|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkel-intro-232|A2 A0 A4 A3 A1 |000000000|lclarkel|intro:locate -0c *"*[intro]*[.jpg]\"|locate: can not open `/var/lib/mlocate/mlocate.db': Permission denied
+0
+INPUT|lclarkel-intro-233|U |000000000|lclarkel|intro:lolste -0c \"*[intro]*[.jpg]\"|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkel-intro-234|U |000000000|lclarkel|intro:cd var|
+INPUT|lclarkel-intro-235|U |1537820429|lclarkel|intro:ls|backups  crash  lib lock  mail  run   spool
+cache  emulab  local log   opt   snap  tmp
+INPUT|lclarkel-intro-236|U |000000000|lclarkel|intro:cd lib|
+INPUT|lclarkel-intro-237|U |1537820435|lclarkel|intro:ls|AccountsService  git    nfs       systemd
+apparmor  ieee-data   nssdb       ubuntu-release-upgrader
+apt   initramfs-tools  ntp       ucf
+colord   initscripts   os-prober   update-manager
+dbus   insserv   pam       update-notifier
+dhcp   logrotate   plymouth    update-rc.d
+dkms   lxcfs    polkit-1    urandom
+dpkg   lxd    python      ureadahead
+emacsen-common  man-db    resolvconf  usbutils
+gconf   mdadm    sgml-base   vim
+gems   misc    snapd       xml-core
+ghostscript  mlocate   sudo
+INPUT|lclarkel-intro-238|A1 A3 A4 A0 A2 |000000000|lclarkel|intro:cd mlocate/|
+INPUT|lclarkel-intro-239|U |1537820439|lclarkel|intro:ls|mlocate.db
+INPUT|lclarkel-intro-240|U |000000000|lclarkel|intro:cd /|
+INPUT|lclarkel-intro-241|A1 A3 A4 A0 A2 |000000000|lclarkel|intro:locate -0c -d /  ro]*[.jpg]"|locate: I/O error reading `/': Is a directory
+0
+INPUT|lclarkel-intro-242|A2 A0 A4 A3 A1 |000000000|lclarkel|intro:locate -0c -d /  \"*[intro]*[.jpg]\"|locate: I/O error reading `/': Is a directory
+0
+INPUT|lclarkel-intro-243|A0 A2 A1 A3 A4 |000000000|lclarkel|intro:locate -0\"*intro*\"|locate: can not open `/var/lib/mlocate/mlocate.db': Permission denied
+INPUT|lclarkel-intro-244|U |000000000|lclarkel|intro:losate \"*intro*\"|%No command 'slocate' found%% did you mean:
+ Command 'locate' from package 'mlocate' (main)
+ Command 'locate' from package 'locate' (universe)
+ Command 'mlocate' from package 'mlocate' (main)
+ Command 'zlocate' from package 'zephyr-clients' (universe)
+ Command 'dlocate' from package 'dlocate' (universe)
+slocate: command not found%
+INPUT|lclarkel-intro-245|U |000000000|lclarkel|intro:slmcate \"*intro*\"|mlocate: can not open `/var/lib/mlocate/mlocate.db': Permission denied
+INPUT|lclarkel-intro-246|A4 A3 A1 A2 A0 |000000000|lclarkel|intro:cd /var/lib/mlocate/|
+INPUT|lclarkel-intro-247|U |1537820446|lclarkel|intro:ls|mlocate.db
+INPUT|lclarkel-intro-248|U |1537820764|lclarkel|intro:ls - l|ls: cannot access '-': No such file or directory
+ls: cannot access 'l': No such file or directory
+INPUT|lclarkel-intro-249|U |1537820929|lclarkel|intro:ls [1P -l|total 3616
+-rw-r----- 1 root mlocate 3695884 Jan  4  2018 mlocate.db
+INPUT|lclarkel-intro-250|A2 A0 A4 A3 A1 |1537820870|lclarkel|intro:chmod -R 755 mlocate.db|chmod: changing permissions of 'mlocate.db': Operation not permitted
+INPUT|lclarkel-intro-251|A1 A3 A4 A0 A2 |1537820949|lclarkel|intro:ls  -l[K 755 mlocate.db|total 3616
+-rw-r----- 1 root mlocate 3695884 Jan  4  2018 mlocate.db
+INPUT|lclarkel-intro-252|U |000000000|lclarkel|intro:cd /|
+INPUT|lclarkel-intro-253|A1 A4 A3 A0 A2 |1537820909|lclarkel|intro:which locate|/usr/bin/locate
+INPUT|lclarkel-intro-254|A1 A3 A4 A0 A2 |000000000|lclarkel|intro:cd /usr/bin/locate|bash: cd: /usr/bin/locate: Not a directory
+INPUT|lclarkel-intro-255|U |000000000|lclarkel|intro:cd /usr/bin/|
+INPUT|lclarkel-intro-256|U |000000000|lclarkel|intro:ls|!TRUNCATED TO 500L! [        lscpu
+2to3        lshw
+2to3-2.7       lsinitramfs
+2to3-3.5       lsipc
+aa-enabled       lslocks
+aclocal        lslogins
+aclocal-1.15       lsof
+acpi_listen       lspci
+add-apt-repository      lspgpot
+addpart        lsusb
+addr2line       ltrace
+ansible        lxc
+ansible-doc       lxcfs
+ansible-galaxy       lxd
+ansible-playbook      lzcat
+ansible-pull       lzcmp
+ansible-vault       lzdiff
+apport-bug       lzegrep
+apport-cli       lzfgrep
+apport-collect       lzgrep
+apport-unpack       lzless
+apropos        lzma
+apt        lzmainfo
+apt-add-repository      lzmore
+apt-cache       m17n-db
+apt-cdrom       m4
+apt-config       make
+ap
+INPUT|lclarkel-intro-257|A4 A3 A1 A2 A0 |1537820772|lclarkel|intro:ls -ls locate|0 lrwxrwxrwx 1 root root 24 Jun  9  2017 locate -> /etc/alternatives/locate
+INPUT|lclarkel-intro-258|U |000000000|lclarkel|intro:cd /|
+INPUT|lclarkel-intro-259|U |000000000|lclarkel|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkel-intro-260|A0 A2 A1 A4 A3 |000000000|lclarkel|intro:chmod -R 755 mlocate.db|
+INPUT|lclarkel-intro-261|A1 A3 A4 A0 A2 |000000000|lclarkel|intro:cd /var/lib/mlocate/|
+INPUT|lclarkel-intro-262|A0 A2 A1 A4 A3 |000000000|lclarkel|intro:locate -0c -d /  "*[intro]*[.jpg]"|
+INPUT|lclarkel-intro-263|A0 A2 A1 A3 A4 |000000000|lclarkel|intro:locate -0c "*[intro]*[.jpg]"|
+INPUT|lclarkel-intro-264|U |1537820209|lclarkel|intro:ls[ocate *intro* [12P| grep JPEGrep JPEG|
+INPUT|lclarkel-intro-265|A1 A4 A3 A0 A2 |1537821025|lclarkel|intro:cdlocate *intro* | grep JPEG|
+INPUT|lclarkel-intro-266|A0 A2 A1 A3 A4 |1537821122|lclarkel|intro:[10Psud[7Pcd find  -name "*intro*" 2>/dev/null| grep JPEG|wc|
+INPUT|lclarkel-intro-267|A1 A4 A3 A0 A2 |000000000|lclarkel|intro:find  -name "*intro*" 2>/dev/null| grep JPEG|^C
+INPUT|lclarkel-intro-268|U |1537821111|lclarkel|intro:updatedb|updatedb: can not open a temporary file for `/var/lib/mlocate/mlocate.db'
+INPUT|lclarkel-intro-269|M1 |000000000|lclarkel|intro:find  -name "*intro*" 2>/dev/null| grep JPEG|f<BS> <BS>./dev/136intro-2jjaj.JPEG
+INPUT|lclarkel-intro-270|A2 A0 A4 A3 A1 |000000000|lclarkel|intro:find  -name "*intro*" 2>/dev/null| grep JPEG|
+INPUT|lclarkel-intro-271|A1 A4 A3 A0 A2 |000000000|lclarkel|intro:find  -name "*intro*" 2>/dev/null| grep JPEG|
+INPUT|lclarkel-intro-272|A2 A0 A4 A3 A1 |000000000|lclarkel|intro:find  -name "*intro*" 2>/dev/null| grep JPEG|
+INPUT|lclarkel-intro-273|A0 A2 A1 A3 A4 |1537838731|lclarkel|intro:lslslscd[2Pfind  -name "*intro*" 2>/dev/null| grep JPEG|
+INPUT|lclarkel-intro-274|A4 A3 A1 A2 A0 |1537838806|lclarkel|intro:upfind  -name "*intro*[1@.[1@j[ -[1-iname \"*intro*.jp*\" 2>/dev/null|egrep \"JPG|JPEG\"|
+INPUT|lclarkel-intro-275|A2 A0 A4 A3 A1 |000000000|lclarkel|intro:find  -iname \"*intro*.jp*\" 2>/dev/null|e|
+INPUT|lclarkel-intro-276|A0 A2 A1 A3 A4 |000000000|lclarkel|intro:find  -iname "*intro*.jp*" 2>/dev/null|
+INPUT|lclarkel-intro-277|M4 M3 M2 M1 M0 |000000000|lclarkel|intro:find / iname "*intro*.jp*" 2>/dev/null|/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/.hidden/asdf136Intro-5kqlw.jpeg
+/dev/136intro-2jjaj.JPEG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|lclarkel-intro-278|U |000000000|lclarkel|intro:mv /var/log136intro-3.jpg ~/HW|mv: cannot stat '/var/log136intro-3.jpg': No such file or directory
+INPUT|lclarkel-intro-279|U |000000000|lclarkel|intro:mv /var/log/36intro-3.jpg ~/HW|mv: cannot remove '/var/log/136intro-3.jpg': Permission denied
+INPUT|lclarkel-intro-280|U |000000000|lclarkel|intro:cp /var/log/136intro-3.jpg ~/HW|
+INPUT|lclarkel-intro-281|U |000000000|lclarkel|intro:cp /etc/wuer136intro-4.JPG ~/HW|cp: cannot stat '/etc/wuer/136intro-4.JPG': No such file or directory
+INPUT|lclarkel-intro-282|U |000000000|lclarkel|intro:cp /etc/wuer/136intro-4.JPG ~/HW|
+INPUT|lclarkel-intro-283|U |000000000|lclarkel|intro:cp /dev/wuer136intro-2jjaj ~/HW|cp: cannot stat '/dev/136intro-2jjaj.JPG': No such file or directory
+INPUT|lclarkel-intro-284|U |000000000|lclarkel|intro:cp /dev/136intro-2jjaj.JPE ~/HW|
+INPUT|lclarkel-intro-285|U |000000000|lclarkel|intro:cp /.hiddein/tro-5kqlw.jpeg ~/HW|cp: cannot stat '/.hiddein/asdf136intro-5kqlw.jpeg': No such file or directory
+INPUT|lclarkel-intro-286|U |000000000|lclarkel|intro:cp /.hiddein/asdf136intro-5kqlw.jpeg ~/HW|cp: cannot stat '/.hidden/asdf136intro-5kqlw.jpeg': No such file or directory
+INPUT|lclarkel-intro-287|U |000000000|lclarkel|intro:cp /.hidden/asdf136Intro-5kqlw.jpeg ~/HW|
+INPUT|lclarkel-intro-288|U |000000000|lclarkel|intro:cp /usr/share/pixmapsTRO-1kqlw.jpgg ~/HW|
+INPUT|lclarkel-intro-289|U |000000000|lclarkel|intro:ls|HW  t.txt
+INPUT|lclarkel-intro-290|U |1537839321|lclarkel|intro:tar -cfz HW H.tgz|tar: H.tgz: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+INPUT|lclarkel-intro-291|U |000000000|lclarkel|intro:tar -cfz HH.tgz HW|tar: HH.tgz: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+INPUT|lclarkel-intro-292|U |000000000|lclarkel|intro:tar czvf HW H z HW|tar: H: Cannot stat: No such file or directory
+tar (child): HW: Cannot open: Is a directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+INPUT|lclarkel-intro-293|U |1537839418|lclarkel|intro:tar czvf HW H.tgz|tar: H.tgz: Cannot stat: No such file or directory
+tar (child): HW: Cannot open: Is a directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+INPUT|lclarkel-intro-294|M6 |1537922195|lclarkel|intro:df -ha|%Filesystem                                         Size  Used Avail Use%% Mounted on
+sysfs                                                 0     0     0    - /sys
+proc                                                  0     0     0    - /proc
+udev                                               980M   48K  980M   1%% /dev
+devpts                                                0     0     0    - /dev/pts
+tmpfs                                              200M   11M  190M   6%% /run
+/dev/sda1                                           15G  2.8G   12G  20%% /
+securityfs                                            0     0     0    - /sys/kernel/security
+tmpfs                                             1000M     0 1000M   0%% /dev/shm
+tmpfs                                              5.0M     0  5.0M   0%% /run/lock
+tmpfs                                             1000M     0 1000M   0%% /sys/fs/cgroup
+cgroup                                                0   
+INPUT|lclarkel-intro-295|M6 |1537922200|lclarkel|intro:df -h|%Filesystem                                         Size  Used Avail Use%% Mounted on
+udev                                               980M   48K  980M   1%% /dev
+tmpfs                                              200M   11M  190M   6%% /run
+/dev/sda1                                           15G  2.8G   12G  20%% /
+tmpfs                                             1000M     0 1000M   0%% /dev/shm
+tmpfs                                              5.0M     0  5.0M   0%% /run/lock
+tmpfs                                             1000M     0 1000M   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkel   1.9T  1.2T  562G  69%% /users/lclarkel
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC  2.8T  929G  1.7T  36%% /proj/CS495LC
+tmpfs                                              200M     0  200M   0%% /run/user/17986%
+INPUT|lclarkel-intro-296|U |000000000|lclarkel|intro:mv disk.txt  HW|
+INPUT|lclarkel-intro-297|U |1537922370|lclarkel|intro:ls|HW  t.txt  z
+INPUT|lclarkel-intro-298|U |000000000|lclarkel|intro:cd hw|bash: cd: hw: No such file or directory
+INPUT|lclarkel-intro-299|U |000000000|lclarkel|intro:cd HW|
+INPUT|lclarkel-intro-300|U |1537922378|lclarkel|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  asdf136Intro-5kqlw.jpeg  disk.txt wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkel-intro-301|A6 |1537922385|lclarkel|intro:df -f|df: invalid option -- 'f'
+Try 'df --help' for more information.
+INPUT|lclarkel-intro-302|U |000000000|lclarkel|intro:cd..|cd..: command not found
+INPUT|lclarkel-intro-303|U |000000000|lclarkel|intro:cd ..|
+INPUT|lclarkel-intro-304|M6 |1537922401|lclarkel|intro:df -h|%Filesystem                                         Size  Used Avail Use%% Mounted on
+udev                                               980M   48K  980M   1%% /dev
+tmpfs                                              200M   11M  190M   6%% /run
+/dev/sda1                                           15G  2.8G   12G  20%% /
+tmpfs                                             1000M     0 1000M   0%% /dev/shm
+tmpfs                                              5.0M     0  5.0M   0%% /run/lock
+tmpfs                                             1000M     0 1000M   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkel   1.9T  1.2T  562G  69%% /users/lclarkel
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC  2.8T  929G  1.7T  36%% /proj/CS495LC
+tmpfs                                              200M     0  200M   0%% /run/user/17986%
+INPUT|lclarkel-intro-305|A6 |1537922421|lclarkel|intro:df -h >HW/disk.txt|
+INPUT|lclarkel-intro-306|U |000000000|lclarkel|intro:cd HW/|
+INPUT|lclarkel-intro-307|U |000000000|lclarkel|intro:quit|%No command 'quit' found%% did you mean:
+ Command 'quot' from package 'quota' (main)
+ Command 'luit' from package 'x11-utils' (main)
+ Command 'quilt' from package 'quilt' (universe)
+ Command 'qgit' from package 'qgit' (universe)
+ Command 'quiz' from package 'bsdgames' (universe)
+quit: command not found%
+INPUT|lclarkel-intro-308|U |000000000|lclarkel|intro:exit|exit

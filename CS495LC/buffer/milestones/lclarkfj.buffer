@@ -1,0 +1,5 @@
+User lclarkfj start time 1543436166 end 1543436166
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkfj-buffer-0|A0 |1543436166|lclarkfj|server:./webserver portnumber|sudo: ./webserver: command not found
+INPUT|lclarkfj-buffer-1|U |000000000|lclarkfj|:|
+INPUT|lclarkfj-buffer-2|U |000000000|lclarkfj|:|

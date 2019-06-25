@@ -1,0 +1,248 @@
+User lclarkez start time 1537815220 end 1537817336
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkez-intro-0|U |000000000|lclarkez|:|
+INPUT|lclarkez-intro-1|U |000000000|lclarkez|:|
+INPUT|lclarkez-intro-2|A2 A0 A4 A3 A1 |1537815220|lclarkez|intro:man find|%[?1049h[?1h=
+FIND(1)                     General Commands Manual                    FIND(1)[m
+[m
+[1mNAME[0m[m
+       find - search for files in a directory hierarchy[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mfind[0m  [-H]  [-L]  [-P]  [-D  debugopts]  [-Olevel]  [starting-point...][m
+       [expression][m
+[m
+[1mDESCRIPTION[0m[m
+       This manual page documents the GNU version of [1mfind[0m.  GNU [1mfind[0m  searches[m
+       the  directory  tree  rooted at each given starting-point by evaluating[m
+       the given expression from left to right%%  according  to  the  rules  of[m
+       precedence  (see  section  OPERATORS)%%  until the outcome is known (the[m
+       left hand side is false for [4mand[24m operations%%  true  for  [4mor[24m)%%  at  which[m
+       point  [1mfind[0m  moves  on  to the next file name.  If no starting-point is[m
+       specified%% `.' is assumed.[m
+[m
+       If you are using [1mfind[0m in an environment  where 
+INPUT|lclarkez-intro-3|A4 A3 A1 A2 A0 |000000000|lclarkez|intro:find /home -iname *.jpg 2> /dev/null/|bash: /dev/null/: Is a directory
+INPUT|lclarkez-intro-4|A1 A4 A3 A0 A2 |000000000|lclarkez|intro:find /home -iname *.jpg|
+INPUT|lclarkez-intro-5|U |000000000|lclarkez|intro:pwd|/users/lclarkez
+INPUT|lclarkez-intro-6|A1 A4 A3 A0 A2 |000000000|lclarkez|intro:find ~ -iname *.jpg 2> /dev/null/|bash: /dev/null/: Is a directory
+INPUT|lclarkez-intro-7|A1 A4 A3 A0 A2 |000000000|lclarkez|intro:find ~ -iname *.jpg|
+INPUT|lclarkez-intro-8|A4 A3 A1 A2 A0 |000000000|lclarkez|intro:find ~ -iname *.jpg|
+INPUT|lclarkez-intro-9|U |1537815666|lclarkez|intro:ls|
+INPUT|lclarkez-intro-10|U |1537815672|lclarkez|intro:ls -a|.   .bash_history  .cshrc    .login   .mail_aliases  .profile  .shrc  .ssl
+..  .cache    .forward  .login_conf  .mailrc  .rhosts   .ssh
+INPUT|lclarkez-intro-11|U |000000000|lclarkez|intro:pwd|/users/lclarkez
+INPUT|lclarkez-intro-12|A2 A0 A4 A3 A1 |1537815761|lclarkez|intro:find /-mount -name \"*intro*\" 2> /dev/null/ | xargs file $1 | g|rep JPEG
+bash: /dev/null/: Is a directory
+Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+INPUT|lclarkez-intro-13|A1 A3 A4 A0 A2 |1537815779|lclarkez|intro:find /-mount -name \"*intro*\" 2> /dev/null/ | xargs file $1 | gr|rep JPEG
+INPUT|lclarkez-intro-14|A0 A2 A1 A4 A3 |1537815990|lclarkez|intro:find /-mount -name "*intro*" 2> /dev/null | xargs file $1 | gre[1P[Aclarkez@intro:~$ find /-mount -name "*intro*" 2> /dev/null|
+
+Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+INPUT|lclarkez-intro-15|A1 A3 A4 A0 A2 |1537816017|lclarkez|intro:find /-mount -name \"*intro*\" 2> /dev/null | xargs file $1 | gre|ep JPEG[Az@intro:~$ [K
+
+INPUT|lclarkez-intro-16|A2 A0 A4 A3 A1 |1537816091|lclarkez|intro:find /-mount -name \"*intro*\" 2> /dev/null | xargs file $1 | gre|ep JPEG[Az@intro:~$ [K
+
+INPUT|lclarkez-intro-17|A1 A3 A4 A0 A2 |1537816139|lclarkez|intro:find /-mount -name \"*intro*\" 2> /dev/null | xargs file $1 | gre|ep JPEG[Az@intro:~$ [K
+
+INPUT|lclarkez-intro-18|A4 A3 A1 A2 A0 |1537816150|lclarkez|intro:find /-mount -name \"*intro*\" 2> /dev/null | xargs file $1 | gre|ep JPEG[Az@intro:~$ [K
+
+INPUT|lclarkez-intro-19|A4 A3 A1 A2 A0 |1537816327|lclarkez|intro:find /-mount -name \"*intro*\" 2> /dev/null | xargs file $1 | gre|ep JPEG[Az@intro:~$ [K
+
+INPUT|lclarkez-intro-20|A1 A3 A4 A0 A2 |1537817313|lclarkez|intro:find /-mount -name \"*intro*\" 2> /dev/null | xargs file $1 | gre|ep JPEG[Az@intro:~$ [K
+
+INPUT|lclarkez-intro-21|A4 A3 A1 A2 A0 |1537817336|lclarkez|intro:find /-mount -name \"*intro*\" 2> /dev/null | xargs file $1 | gre|
+INPUT|lclarkez-intro-22|A1 A3 A4 A0 A2 |000000000|lclarkez|intro:find /-mount -name "*intro*" 2> /dev/null | xargs file $1 | gr|
+INPUT|lclarkez-intro-23|A1 A3 A4 A0 A2 |000000000|lclarkez|intro:find /-mount -name "*intro*" 2> /dev/null | xargs file $1 | g|
+INPUT|lclarkez-intro-24|A0 A2 A1 A3 A4 |000000000|lclarkez|intro:find /-mount -name "*intro*" 2> /dev/null|
+INPUT|lclarkez-intro-25|A2 A0 A4 A3 A1 |000000000|lclarkez|intro:find /-mount tname \"*intro*\" 2> /dev/null|
+INPUT|lclarkez-intro-26|M3 M2 |000000000|lclarkez|intro:find d /   \"*intro*\" 2> /dev/null|/var/log/ttylog/ttylog.intro.0
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/CS495LC/exp/derek-linuxintro
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.ns
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.png
+/proj/CS495LC/exp/george-introUnix
+/proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.png
+/proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.ns
+/proj/CS495LC/exp/jmache-intro2
+/proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.ns
+/proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.png
+/proj/CS495LC/exp/lclarkai-intro
+/proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.ns
+/proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.png
+/proj/CS495LC/exp/lclarkan-intro
+/proj/CS495LC/exp/lclarkan-intro/tbdata/lclarkan-intro.ns
+/proj/CS49
+INPUT|lclarkez-intro-27|A4 A3 A1 A2 A0 |000000000|lclarkez|intro:find /  -name \"*intro*\" 2> /dev/null ||
+INPUT|lclarkez-intro-28|A0 A2 A1 A3 A4 |000000000|lclarkez|intro:find -name "*intro*" 2> /dev/null|
+INPUT|lclarkez-intro-29|A1 A4 A3 A0 A2 |000000000|lclarkez|intro:find /-mount -name "*intro*" 2> /dev/null | xargs file $1 | gre|ep JPEG<BS><BS><BS><BS><BS><BS>
+INPUT|lclarkez-intro-30|A4 A3 A1 A2 A0 |000000000|lclarkez|intro:find / -mount -name "*intro*" 2> /dev/null | xargs file $1 | grelarkez@intro:~$ find /|
+
+^[[A<BS> <BS><BS> <BS><BS> <BS><BS> <BS>^C
+INPUT|lclarkez-intro-31|M3 |000000000|lclarkez|intro:find / -mount -name \"*intro*\" 2> /dev/null | xargs file $1 | grep JPGG|%/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkez-intro-32|A1 A4 A3 A0 A2 |1537816017|lclarkez|intro:find / -mount -name \"*intro*\" 2> /dev/null | xargs file $1 | grep JPG|
+INPUT|lclarkez-intro-33|M3 M2 |000000000|lclarkez|intro:find / -mount -name \"*intro*\" 2> /dev/null | xargs file $1|%/var/log/ttylog/ttylog.intro.0:                                                          ASCII text%% with CRLF%% CR%% LF line terminators%% with escape sequences%% with overstriking
+/var/log/ttylog/alltty.intro:                                                            ASCII text%% with CRLF%% CR%% LF line terminators%% with escape sequences%% with overstriking
+/var/log/ttylog/cli.intro.csv:                                                           empty
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "<E0><FB><FC>\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3
+/etc/apparmor.d/abstractions/appa
+INPUT|lclarkez-intro-34|M3 |1537816139|lclarkez|intro:find / -mount -name "*intro*" 2> /dev/null | xargs file $1 | grep JPG|%/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkez-intro-35|M3 M2 |1537815761|lclarkez|intro:find / -mount -name \"*intro*\" 2> /dev/null | xargs file $1 | grep JPEG|%/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkez-intro-36|A2 A0 A4 A3 A1 |000000000|lclarkez|intro:find / -mount -name "*intro*" 2> /dev/null | xargs file $1 | grep|p JPEG<BS><BS><BS><BS><BS>
+INPUT|lclarkez-intro-37|M4 M3 M2 M0 |000000000|lclarkez|intro:find / -mount -iname "*intro*" 2> /dev/null | xargs file $1 | greplarkez@intro:~$ find / -mount -i|%
+
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "<E0><FB><FC>\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3
+/.hidden/asdf136Intro-5kqlw.jpeg:                                                        JPEG image data%% JFIF standard 1.02%% aspect ratio%% density 100x100%% segment length 16%% baseline%% precision 8%% 300x428%% frames 3
+/usr/share/pixmaps/xbzf136INTRO-1.jpg:                                                   JPEG image data%% JFIF standard 1.02%% aspect ratio%% density 100x100%% segment length 16%% progressive%% precision 8%% 398x308%% frames 3%
+INPUT|lclarkez-intro-38|A4 A3 A1 A2 A0 |000000000|lclarkez|intro:find / -mount -iname "*intro*" 2> /dev/null | xargs fil|le $1 | grep JPEG<ESC>[A find / -mount -name "*intro*" 2> /dev/null | xargs file<ESC>[1P $1 | grep JPEG<ESC>[A$ find / -mount -iname "*intro*" 2> /dev/null | xargs fil<ESC>[1@e $1 | grep JPEG<ESC>[A find / -mount -name "*intro*" 2> /dev/null | xargs file<ESC>[1P $1 | grep JPEG<ESC>[A$ find / -mount -iname "*intro*" 2> /dev/null | xargs fil<ESC>[1@e $1 | grep JPEG<ESC>[A <ESC>[K
+
+INPUT|lclarkez-intro-39|U |1537816557|lclarkez|intro:man mv|%[?1049h[?1h=
+MV(1)                        User Commands                       MV(1)[m
+[m
+[1mNAME[0m[m
+       mv - move (rename) files[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mmv[0m [[4mOPTION[24m]... [[4m-T[24m] [4mSOURCE[24m [4mDEST[24m[m
+       [1mmv[0m [[4mOPTION[24m]... [4mSOURCE[24m... [4mDIRECTORY[24m[m
+       [1mmv[0m [[4mOPTION[24m]... [4m-t[24m [4mDIRECTORY[24m [4mSOURCE[24m...[m
+[m
+[1mDESCRIPTION[0m[m
+       Rename SOURCE to DEST%% or move SOURCE(s) to DIRECTORY.[m
+[m
+       Mandatory  arguments  to  long  options are mandatory for short[m
+       options too.[m
+[m
+       [1m--backup[0m[=[4mCONTROL[24m][m
+              make a backup of each existing destination file[m
+[m
+       [1m-b[0m     like [1m--backup[0m but does not accept an argument[m
+[m
+       [1m-f[0m%% [1m--force[0m[m
+              do not prompt before overwriting[m
+[7m Manual page mv(1) line 1 (press h for help or q to quit)[27m[K
+[K [KESC[KO[KB<NL
+INPUT|lclarkez-intro-40|U |000000000|lclarkez|intro:mv /var/log/136intro-3.jpg users/lclarkez/home/top_sec|ret
+mv: cannot move '/var/log/136intro-3.jpg' to 'users/lclarkez/home/top_secret': No such file or directory
+INPUT|lclarkez-intro-41|U |000000000|lclarkez|intro:pwd|/users/lclarkez
+INPUT|lclarkez-intro-42|U |1537816884|lclarkez|intro:mkdir top_secret|
+INPUT|lclarkez-intro-43|U |1537816886|lclarkez|intro:ls|top_secret
+INPUT|lclarkez-intro-44|U |000000000|lclarkez|intro:mv /var/log/136intro-3.jpg users/lclarkez/home/top_secr|ret
+mv: cannot move '/var/log/136intro-3.jpg' to 'users/lclarkez/home/top_secret': No such file or directory
+INPUT|lclarkez-intro-45|U |000000000|lclarkez|intro:mv /var/log/136intro-3.jpg users/lclarkez/home/top_secr|ret<BS><BS>
+INPUT|lclarkez-intro-46|U |000000000|lclarkez|intro:mv /var/log/136intro-3.jpg users/lclarkez/hom/top_secretlarkez@intro:~$ mv /var/log/136intro-3.jpg users/lclarkez/ho/top_secretclarkez@intro:~$ mv /var/log/136intro-3.jpg users/lclarkez/h/top_secret|
+INPUT|lclarkez-intro-47|U |000000000|lclarkez|intro:mv /var/log/136intro-3.jpg users/lclarkez/h|
+INPUT|lclarkez-intro-48|U |000000000|lclarkez|intro:mv /var/log/136intro-3.jpg users/lclarkez/|mv: cannot move '/var/log/136intro-3.jpg' to 'users/lclarkez/top_secret': No such file or directory
+INPUT|lclarkez-intro-49|U |000000000|lclarkez|intro:mv /var/log/136intro-3.jpg users/lclarkez/top_secret|mv: cannot remove '/var/log/136intro-3.jpg': Permission denied
+INPUT|lclarkez-intro-50|U |000000000|lclarkez|intro:cp /var/log/136intro-3.jpg top_secret|
+INPUT|lclarkez-intro-51|U |000000000|lclarkez|intro:cd top_secret|
+INPUT|lclarkez-intro-52|U |1537816945|lclarkez|intro:ls|136intro-3.jpg
+INPUT|lclarkez-intro-53|U |1537816987|lclarkez|intro:cp /etc/wuer136intro-4.JPG|cp: missing destination file operand after '/etc/wuer136intro-4.JPG'
+Try 'cp --help' for more information.
+INPUT|lclarkez-intro-54|U |000000000|lclarkez|intro:cp /etc/wuer136intro-4.JPG ~|
+INPUT|lclarkez-intro-55|U |1537816993|lclarkez|intro:ls|136intro-3.jpg
+INPUT|lclarkez-intro-56|U |000000000|lclarkez|intro:cd|
+INPUT|lclarkez-intro-57|U |1537817001|lclarkez|intro:ls|top_secret  wuer136intro-4.JPG
+INPUT|lclarkez-intro-58|U |1537817028|lclarkez|intro:mv wuer136intro-4.JPG top_secret|
+INPUT|lclarkez-intro-59|U |1537817029|lclarkez|intro:ls|top_secret
+INPUT|lclarkez-intro-60|U |000000000|lclarkez|intro:cd top_secret|
+INPUT|lclarkez-intro-61|U |1537817036|lclarkez|intro:ls|136intro-3.jpg wuer136intro-4.JPG
+INPUT|lclarkez-intro-62|U |1537817184|lclarkez|intro:cp /.hidden/asdf136Intro-5kqlw.jpeg top_sec|ret
+INPUT|lclarkez-intro-63|U |1537817104|lclarkez|intro:ls|136intro-3.jpg top_secret  wuer136intro-4.JPG
+INPUT|lclarkez-intro-64|U |000000000|lclarkez|intro:cd top_secret|bash: cd: top_secret: Not a directory
+INPUT|lclarkez-intro-65|U |1537817130|lclarkez|intro:ls -l|total 172
+-rw-r--r-- 1 lclarkez root 101182 Sep 24 12:22 136intro-3.jpg
+-rw-r--r-- 1 lclarkez   31  24495 Sep 24 12:25 top_secret
+-rw-r--r-- 1 lclarkez   31  48645 Sep 24 12:23 wuer136intro-4.JPG
+INPUT|lclarkez-intro-66|U |1537817143|lclarkez|intro:ls -la|total 180
+drwxr-xr-x 2 lclarkez   31    512 Sep 24 12:25 .
+drwx------ 6 lclarkez   31    512 Sep 24 12:23 ..
+-rw-r--r-- 1 lclarkez root 101182 Sep 24 12:22 136intro-3.jpg
+-rw-r--r-- 1 lclarkez   31  24495 Sep 24 12:25 top_secret
+-rw-r--r-- 1 lclarkez   31  48645 Sep 24 12:23 wuer136intro-4.JPG
+INPUT|lclarkez-intro-67|U |1537817157|lclarkez|intro:file top_secret|%top_secret: JPEG image data%% JFIF standard 1.02%% aspect ratio%% density 100x100%% segment length 16%% baseline%% precision 8%% 300x428%% frames 3%
+INPUT|lclarkez-intro-68|U |1537817168|lclarkez|intro:ls|136intro-3.jpg top_secret  wuer136intro-4.JPG
+INPUT|lclarkez-intro-69|U |000000000|lclarkez|intro:cp /.hidden/asdf136Intro-5kqlw.jpeg top_secr|
+INPUT|lclarkez-intro-70|U |000000000|lclarkez|intro:cp /.hidden/asdf136Intro-5kqlw.jpeg top_sec|
+INPUT|lclarkez-intro-71|U |000000000|lclarkez|intro:cp /.hidden/asdf136Intro-5kqlw.jpeg top_se|
+INPUT|lclarkez-intro-72|U |000000000|lclarkez|intro:cp /.hidden/asdf136Intro-5kqlw.jpeg|cp: missing destination file operand after '/.hidden/asdf136Intro-5kqlw.jpeg'
+Try 'cp --help' for more information.
+INPUT|lclarkez-intro-73|U |000000000|lclarkez|intro:cp /.hidden/asdf136Intro-5kqlw.jpeg /top_se|cret
+cp: cannot create regular file '/top_secret': Permission denied
+INPUT|lclarkez-intro-74|U |1537817203|lclarkez|intro:cp --help|%Usage: cp [OPTION]... [-T] SOURCE DEST
+  or:  cp [OPTION]... SOURCE... DIRECTORY
+  or:  cp [OPTION]... -t DIRECTORY SOURCE...
+Copy SOURCE to DEST%% or multiple SOURCE(s) to DIRECTORY.
+
+Mandatory arguments to long options are mandatory for short options too.
+  -a%% --archive                same as -dR --preserve=all
+      --attributes-only        don't copy the file data%% just the attributes
+      --backup[=CONTROL]       make a backup of each existing destination file
+  -b                           like --backup but does not accept an argument
+      --copy-contents          copy contents of special files when recursive
+  -d                           same as --no-dereference --preserve=links
+  -f%% --force                  if an existing destination file cannot be
+                                 opened%% remove it and try again (this option
+                                 is ignored when the -n option is also used)
+  -i%% --interactive   
+INPUT|lclarkez-intro-75|U |000000000|lclarkez|intro:cd|
+INPUT|lclarkez-intro-76|U |000000000|lclarkez|intro:cp /.hidden/asdf136Intro-5kqlw.jpeg /top_secret|
+INPUT|lclarkez-intro-77|U |1537817219|lclarkez|intro:ls|top_secret
+INPUT|lclarkez-intro-78|U |000000000|lclarkez|intro:cd top_seccret|bash: cd: top_seccret: No such file or directory
+INPUT|lclarkez-intro-79|U |000000000|lclarkez|intro:cd top_seccret|
+INPUT|lclarkez-intro-80|U |1537817230|lclarkez|intro:ls|136intro-3.jpg asdf136Intro-5kqlw.jpeg  top_secret  wuer136intro-4.JPG
+INPUT|lclarkez-intro-81|U |1537817239|lclarkez|intro:rm top_secret|
+INPUT|lclarkez-intro-82|U |1537817240|lclarkez|intro:ls|136intro-3.jpg asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+INPUT|lclarkez-intro-83|U |1537817266|lclarkez|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg .|
+INPUT|lclarkez-intro-84|U |1537817267|lclarkez|intro:ls|136intro-3.jpg   wuer136intro-4.JPG
+asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkez-intro-85|U |000000000|lclarkez|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg .|
+INPUT|lclarkez-intro-86|U |000000000|lclarkez|intro:cp /.hidden/asdf136Intro-5kqlw.jpeg top_secr|ret<ESC>[Aarkez@intro:~/top_secret$ cd<ESC>[K
+
+INPUT|lclarkez-intro-87|U |000000000|lclarkez|intro:cp /.hidden/asdf136Intro-5kqlw.jpeg top_secr|ret<ESC>[Aarkez@intro:~/top_secret$ cd<ESC>[K
+
+INPUT|lclarkez-intro-88|U |000000000|lclarkez|intro:cp /.hidden/asdf136Intro-5kqlw.jpeg /top_sec|cret<ESC>[Arkez@intro:~/top_secret$ cp /.hidden/asdf136Intro-5kqlw.jpeg<ESC>[K
+
+INPUT|lclarkez-intro-89|U |000000000|lclarkez|intro:cp /.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkez-intro-90|U |000000000|lclarkez|intro:cp /.hidden/asdf136Intro-5kqlw.jpeg top_secr|ret<ESC>[Aarkez@intro:~/top_secret$ ls<ESC>[K
+
+INPUT|lclarkez-intro-91|U |000000000|lclarkez|intro:mv wuer136intro-4.JPG top_secret|
+INPUT|lclarkez-intro-92|U |000000000|lclarkez|intro:cp /var/log/136intro-3.jpg top_secret|
+INPUT|lclarkez-intro-93|U |000000000|lclarkez|intro:mv /var/log/136intro-3.jpg users/lclarkez/to|op_secret<ESC>[Aintro:~/top_secret$ mv /var/log/136intro-3.jpg users/lclarkez/ho<ESC>[5@me/top_secret<ESC>[A:~/top_secret$ ls<ESC>[K
+
+INPUT|lclarkez-intro-94|U |000000000|lclarkez|intro:mv /var/log/136intro-3.jpg users/lclarkez/ho|ome/top_secret<ESC>[A:~/top_secret$ man mv<ESC>[K
+
+INPUT|lclarkez-intro-95|A2 A0 A4 A3 A1 |000000000|lclarkez|intro:find / -mount -iname "*intro*" 2> /dev/null| | xargs file $1 | grep JPEG<ESC>[A find / -mount -name "*intro*" 2> /dev/null |<ESC>[1P xargs file $1 | grep JPEG<ESC>[A$ find / -mount -iname "*intro*" 2> /dev/null <ESC>[1@| xargs file $1 | grep JPEG<ESC>[A find / -mount -name "*intro*" 2> /dev/null |<ESC>[1P xargs file $1 | grep JPEG<ESC>[A$ find / -mount -iname "*intro*" 2> /dev/null <ESC>[1@| xargs file $1 | grep JPEG<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkez-intro-96|A0 A2 A1 A4 A3 |000000000|lclarkez|intro:find / -mount -iname "*intro-*" 2> /dev/nu|
+<ESC>[1@l<ESC>[Aclarkez@intro:~/top_secret$ find / -mount -iname "*intro- *" 2> /dev/nul<ESC>[1@l<ESC>[Alarkez@intro:~/top_secret$ find / -mount -iname "*intro- <BS>*" 2> /dev/null<ESC>[1P<ESC>[Aclarkez@intro:~/top_secret$ find / -mount -iname "*intro-2*" 2> /dev/nul<ESC>[1@l<ESC>[Alarkez@intro:~/top_secret$ find / -mount -iname "*intro-2
+
+
+Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+INPUT|lclarkez-intro-97|U |000000000|lclarkez|intro:`|> ^C
+INPUT|lclarkez-intro-98|U |000000000|lclarkez|intro:cd ~|
+INPUT|lclarkez-intro-99|A1 A3 A4 A0 A2 |000000000|lclarkez|intro:find / -mount -iname "*intro-2*" 2> /dev/null | xargs f|file $1 | grep JPEG
+Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+INPUT|lclarkez-intro-100|A2 A0 A4 A3 A1 |000000000|lclarkez|intro:find / -mount -iname \"*intro-2*\" 2> /dev/null | xargs f|file $1 | grep JPEG<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkez-intro-101|A1 A3 A4 A0 A2 |000000000|lclarkez|intro:find / -mount -iname "*intro2*" 2> /dev/null | xargs ficlarkez@intro:~$ find / -mount -iname "*intro|
+INPUT|lclarkez-intro-102|U |000000000|lclarkez|intro:|
+INPUT|lclarkez-intro-103|U |000000000|lclarkez|intro:exit|exit

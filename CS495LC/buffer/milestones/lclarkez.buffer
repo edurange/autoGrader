@@ -1,0 +1,421 @@
+User lclarkez start time 1542830677 end 1543436350
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkez-buffer-0|U |1543434591|lclarkez|server:ls -rtl|total 12
+drwxr-xr-x 2 lclarkez 31  512 Sep 24 12:27 top_secret
+-rw-r--r-- 1 lclarkez 31 5725 Nov 21 12:12 index.html
+INPUT|lclarkez-buffer-1|U |000000000|lclarkez|:|
+INPUT|lclarkez-buffer-2|U |000000000|lclarkez|:|
+INPUT|lclarkez-buffer-3|U |000000000|lclarkez|server:cd /usr/src/fhttpd/|
+INPUT|lclarkez-buffer-4|U |1543434679|lclarkez|server:ls|frobnick  index.html  Makefile webserver  webserver.c
+INPUT|lclarkez-buffer-5|U |1543434688|lclarkez|server:cp|cp: missing file operand
+Try 'cp --help' for more information.
+INPUT|lclarkez-buffer-6|U |1543434697|lclarkez|server:cp --help|%Usage: cp [OPTION]... [-T] SOURCE DEST
+  or:  cp [OPTION]... SOURCE... DIRECTORY
+  or:  cp [OPTION]... -t DIRECTORY SOURCE...
+Copy SOURCE to DEST%% or multiple SOURCE(s) to DIRECTORY.
+
+Mandatory arguments to long options are mandatory for short options too.
+  -a%% --archive                same as -dR --preserve=all
+      --attributes-only        don't copy the file data%% just the attributes
+      --backup[=CONTROL]       make a backup of each existing destination file
+  -b                           like --backup but does not accept an argument
+      --copy-contents          copy contents of special files when recursive
+  -d                           same as --no-dereference --preserve=links
+  -f%% --force                  if an existing destination file cannot be
+                                 opened%% remove it and try again (this option
+                                 is ignored when the -n option is also used)
+  -i%% --interactive   
+INPUT|lclarkez-buffer-7|A2 |1543434748|lclarkez|server:cp webserver.c webserver.orig.c|cp: cannot create regular file 'webserver.orig.c': Permission denied
+INPUT|lclarkez-buffer-8|A2 |1543434763|lclarkez|server:./ webserver.c|bash: ./: Is a directory
+INPUT|lclarkez-buffer-9|U |1543434829|lclarkez|server:./ webserver 8080|bash: ./: Is a directory
+INPUT|lclarkez-buffer-10|U |000000000|lclarkez|server:./|GET
+
+ /
+
+GET /
+
+GET /
+
+
+GET /aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+INPUT|lclarkez-buffer-11|A2 |1543436085|lclarkez|server:cp webserver.c|cp: missing destination file operand after 'webserver.c'
+Try 'cp --help' for more information.
+INPUT|lclarkez-buffer-12|A2 |000000000|lclarkez|server:cp webserver.c ~|
+INPUT|lclarkez-buffer-13|U |1543436097|lclarkez|server:ls|frobnick  index.html  Makefile webserver  webserver.c
+INPUT|lclarkez-buffer-14|A2 |000000000|lclarkez|server:cp webserver.c ~ webserver.orig.c|cp: target 'webserver.orig.c' is not a directory
+INPUT|lclarkez-buffer-15|U |1543435123|lclarkez|server:telnet localhost 8080|Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+GET /aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+INPUT|lclarkez-buffer-16|U |1543435471|lclarkez|server:wget localhost 8080|--2018-11-28 12:04:31--  http://localhost/
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:80... failed: Connection refused.
+--2018-11-28 12:04:31--  http://8080/
+Resolving 8080 (8080)... 0.0.31.144
+Connecting to 8080 (8080)|0.0.31.144|:80... failed: Invalid argument.
+INPUT|lclarkez-buffer-17|U |000000000|lclarkez|server:wget localhost:|%--2018-11-28 12:07:16--  http://localhost:8080/
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... connected.
+HTTP request sent%% awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'index.html.1'
+
+
+index.html.1            [<=>                 ]       0  --.-KB/s               
+index.html.1            [ <=>                ]   5.59K  --.-KB/s    in 0s      
+
+2018-11-28 12:07:16 (237 MB/s) - 'index.html.1' saved [5725]
+%
+INPUT|lclarkez-buffer-18|U |1543435686|lclarkez|server:ls|index.html  index.html.1  top_secret
+INPUT|lclarkez-buffer-19|U |000000000|lclarkez|server:cd /usr/src/fhttpd/|
+INPUT|lclarkez-buffer-20|U |1543435700|lclarkez|server:ls|frobnick  index.html  Makefile webserver  webserver.c
+INPUT|lclarkez-buffer-21|U |1543435709|lclarkez|server:wget localhost:8080|%--2018-11-28 12:08:29--  http://localhost:8080/
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... connected.
+HTTP request sent%% awaiting response... 200 OK
+Length: unspecified [text/html]
+index.html.1: Permission denied
+
+Cannot write to 'index.html.1' (Success).%
+INPUT|lclarkez-buffer-22|U |1543435765|lclarkez|server:telnet localhost 8080|Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+GET /aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+INPUT|lclarkez-buffer-23|U |000000000|lclarkez|server:cd /usr/src/fhttpd/|
+INPUT|lclarkez-buffer-24|U |1543435972|lclarkez|server:wget localhost:8080|%--2018-11-28 12:12:52--  http://localhost:8080/
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... connected.
+HTTP request sent%% awaiting response... 200 OK
+Length: unspecified [text/html]
+index.html.1: Permission denied
+
+Cannot write to 'index.html.1' (Success).%
+INPUT|lclarkez-buffer-25|U |1543436001|lclarkez|server:cat index.html|<html>
+<head>
+<title>
+ Frobnick Production Reports
+</title>
+</head>
+<body>
+ <h1>Frobnick Production Reports</h1>
+ <ul>
+<li><a href='frobnick/1.frob.txt'>1.frob.txt</a></li>
+<li><a href='frobnick/2.frob.txt'>2.frob.txt</a></li>
+<li><a href='frobnick/3.frob.txt'>3.frob.txt</a></li>
+<li><a href='frobnick/4.frob.txt'>4.frob.txt</a></li>
+<li><a href='frobnick/5.frob.txt'>5.frob.txt</a></li>
+<li><a href='frobnick/6.frob.txt'>6.frob.txt</a></li>
+<li><a href='frobnick/7.frob.txt'>7.frob.txt</a></li>
+<li><a href='frobnick/8.frob.txt'>8.frob.txt</a></li>
+<li><a href='frobnick/9.frob.txt'>9.frob.txt</a></li>
+<li><a href='frobnick/10.frob.txt'>10.frob.txt</a></li>
+<li><a href='frobnick/11.frob.txt'>11.frob.txt</a></li>
+<li><a href='frobnick/12.frob.txt'>12.frob.txt</a></li>
+<li><a href='frobnick/13.frob.txt'>13.frob.txt</a></li>
+<li><a href='frobnick/14.frob.txt'>14.frob.txt</a></li>
+<li><a href='frobnick/15.frob.txt'>15
+INPUT|lclarkez-buffer-26|U |000000000|lclarkez|server:wget localhost:8080/aaaaaaaaaaaaaaaaaaaaaaaaaaa|%aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+INPUT|lclarkez-buffer-27|U |000000000|lclarkez|server:cat index.html|
+<ESC>[K
+
+<ESC>[K
+
+<ESC>[K
+
+<ESC>[K
+
+<ESC>[K
+
+<ESC>[K
+
+<ESC>[K
+
+<ESC>[K
+
+<ESC>[K
+
+<ESC>[K
+
+<ESC>[K
+
+INPUT|lclarkez-buffer-28|U |000000000|lclarkez|server:cd /usr/src/fhttpd/|
+INPUT|lclarkez-buffer-29|U |1543436291|lclarkez|server:cp web|cp: missing destination file operand after 'web'
+Try 'cp --help' for more information.
+INPUT|lclarkez-buffer-30|A2 |1543436302|lclarkez|server:cp webserver.c webserver.orig.c|cp: cannot create regular file 'webserver.orig.c': Permission denied
+INPUT|lclarkez-buffer-31|A2 |1543436320|lclarkez|server:cp webserver.c webserver.orig.c|
+INPUT|lclarkez-buffer-32|U |1543436322|lclarkez|server:ls|frobnick  index.html  Makefile webserver  webserver.c webserver.orig.c
+INPUT|lclarkez-buffer-33|M1 |1543436350|lclarkez|server:emacs webserver.c|%=>
+=-111:----F1  *scratch*      All L1     (Fundamental) ---------------------------
+Loading 00debian-vars...done
+/etc/emacs/site-start.d/50autoconf.el (source)...
+done
+Loading /etc/emacs/site-start.d/50autoconf.el (source)...doneFile Edit Options Buffers Tools Lisp-Interaction Help                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-111:----F1  *scratch*      All L1     (Lisp Interaction) ----------------------
+For information about GNU Emacs and the GNU system%% type C-h C-a.
+Note: file is write protected
+Note: file is write protectedFile Edit Options Buffers Tools C Help                                          
+
+// webserver.c                                                                  
+
+// FrobozzCo Official Webserver                                                 
+
+// Barbazzo Fernap barbazzo@gue.com                                             
+
+// Gustar Woom
+INPUT|lclarkez-buffer-34|U |000000000|lclarkez|server:cd /usr/src/fhttpd/|
+INPUT|lclarkez-buffer-35|U |1542830677|lclarkez|server:make|make: Nothing to be done for 'project'.
+INPUT|lclarkez-buffer-36|U |1542830701|lclarkez|server:ls|frobnick  index.html  Makefile webserver  webserver.c
+INPUT|lclarkez-buffer-37|M0 |1542830789|lclarkez|server:./webserver 9876|GET / HTTP/1.0
+
+
+GET /
+
+
+GET /index.html HTTP/1.1
+
+User-Agent: Wget/1.17.1 (linux-gnu)
+
+Accept: */*
+
+Accept-Encoding: identity
+
+Host: localhost:9876
+
+Connection: Keep-Alive
+
+
+GET /jens HTTP/1.1
+
+User-Agent: Wget/1.17.1 (linux-gnu)
+
+Accept: */*
+
+Accept-Encoding: identity
+
+Host: localhost:9876
+
+Connection: Keep-Alive
+
+
+GET /jensjensjensjensjensjensjensjensjensjensjensjensjensjens HTTP/1.1
+
+User-Agent: Wget/1.17.1 (linux-gnu)
+
+Accept: */*
+
+Accept-Encoding: identity
+
+Host: localhost:9876
+
+Connection: Keep-Alive
+
+
+GET /12345678901234567890 HTTP/1.1
+
+User-Agent: Wget/1.17.1 (linux-gnu)
+
+Accept: */*
+
+Accept-Encoding: identity
+
+Host: localhost:9876
+
+Connection: Keep-Alive
+
+
+GET /12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456
+INPUT|lclarkez-buffer-38|A0 |1542831424|lclarkez|server:./webserver 8080|^C
+INPUT|lclarkez-buffer-39|A0 |1542831485|lclarkez|server:./webserver 8080|
+INPUT|lclarkez-buffer-40|U |1542830904|lclarkez|server:telnet locahost portnumber|telnet: could not resolve locahost/portnumber: Servname not supported for ai_socktype
+INPUT|lclarkez-buffer-41|U |000000000|lclarkez|server:telnet local|telnet: could not resolve localhost/portnumber: Servname not supported for ai_socktype
+INPUT|lclarkez-buffer-42|U |1542830931|lclarkez|server:telnet localhost 9876|Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+GET / HTTP/1.0
+
+HTTP/1.0 200 OK
+Date: Wed Nov 21 20:09:35 2018
+Server: Frobozz Magic Software Company Webserver v.002
+Connection: close
+Content-Type: text/html
+
+<html>
+<head>
+<title>
+ Frobnick Production Reports
+</title>
+</head>
+<body>
+ <h1>Frobnick Production Reports</h1>
+ <ul>
+<li><a href='frobnick/1.frob.txt'>1.frob.txt</a></li>
+<li><a href='frobnick/2.frob.txt'>2.frob.txt</a></li>
+<li><a href='frobnick/3.frob.txt'>3.frob.txt</a></li>
+<li><a href='frobnick/4.frob.txt'>4.frob.txt</a></li>
+<li><a href='frobnick/5.frob.txt'>5.frob.txt</a></li>
+<li><a href='frobnick/6.frob.txt'>6.frob.txt</a></li>
+<li><a href='frobnick/7.frob.txt'>7.frob.txt</a></li>
+<li><a href='frobnick/8.frob.txt'>8.frob.txt</a></li>
+<li><a href='frobnick/9.frob.txt'>9.frob.txt</a></li>
+<li><a href='frobnick/10.frob.txt'>10.frob.txt</a></li>
+<li><a hr
+INPUT|lclarkez-buffer-43|U |000000000|lclarkez|server:GET /|
+The program 'GET' is currently not installed. To run 'GET' please ask your administrator to install the package 'libwww-perl'
+INPUT|lclarkez-buffer-44|U |1542831128|lclarkez|server:telnet localhost 9876|Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+GET /
+
+<html>
+<head>
+<title>
+ Frobnick Production Reports
+</title>
+</head>
+<body>
+ <h1>Frobnick Production Reports</h1>
+ <ul>
+<li><a href='frobnick/1.frob.txt'>1.frob.txt</a></li>
+<li><a href='frobnick/2.frob.txt'>2.frob.txt</a></li>
+<li><a href='frobnick/3.frob.txt'>3.frob.txt</a></li>
+<li><a href='frobnick/4.frob.txt'>4.frob.txt</a></li>
+<li><a href='frobnick/5.frob.txt'>5.frob.txt</a></li>
+<li><a href='frobnick/6.frob.txt'>6.frob.txt</a></li>
+<li><a href='frobnick/7.frob.txt'>7.frob.txt</a></li>
+<li><a href='frobnick/8.frob.txt'>8.frob.txt</a></li>
+<li><a href='frobnick/9.frob.txt'>9.frob.txt</a></li>
+<li><a href='frobnick/10.frob.txt'>10.frob.txt</a></li>
+<li><a href='frobnick/11.frob.txt'>11.frob.txt</a></li>
+<li><a href='frobnick/12.frob.txt'>12.frob.txt</a></li>
+<li><a href='frobnick/13.frob.txt'>13.frob.txt</a></li>
+<li>
+INPUT|lclarkez-buffer-45|U |1542831159|lclarkez|server:wget http://localhost:9876/index.html|%--2018-11-21 12:12:39--  http://localhost:9876/index.html
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:9876... connected.
+HTTP request sent%% awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'index.html'
+
+
+index.html                    [<=>                                ]       0  --.-KB/s               
+index.html                    [ <=>                               ]   5.59K  --.-KB/s    in 0s      
+
+2018-11-21 12:12:39 (212 MB/s) - 'index.html' saved [5725]
+%
+INPUT|lclarkez-buffer-46|U |1542831260|lclarkez|server:wget http://localhost:9876/jens|%--2018-11-21 12:14:20--  http://localhost:9876/jens
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:9876... connected.
+HTTP request sent%% awaiting response... 404 Not Found
+2018-11-21 12:14:20 ERROR 404: Not Found.
+%
+INPUT|lclarkez-buffer-47|U |000000000|lclarkez|server:wget http://localhost:9876/jensjensjensjensjensjensjensjensjensjensjensjensjensjen|%s
+--2018-11-21 12:14:45--  http://localhost:9876/jensjensjensjensjensjensjensjensjensjensjensjensjensjens
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:9876... connected.
+HTTP request sent%% awaiting response... 404 Not Found
+2018-11-21 12:14:45 ERROR 404: Not Found.
+%
+INPUT|lclarkez-buffer-48|U |1542831285|lclarkez|server:wget http://localhost:9876/jensjensjensjensjensjensjensjensjensjensjensjensjensjens|
+INPUT|lclarkez-buffer-49|U |000000000|lclarkez|server:wget http://localhost:9876/jensjensjensjensjensjensjensjensjensjensjensjensjensjen|
+INPUT|lclarkez-buffer-50|U |000000000|lclarkez|server:wget http://localhost:9876/jensjensjensjensjensjensjensjensjensjensjensjensjensje|
+INPUT|lclarkez-buffer-51|U |1542831309|lclarkez|server:wget http://localhost:9876/12345678901234567890|%--2018-11-21 12:15:09--  http://localhost:9876/12345678901234567890
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:9876... connected.
+HTTP request sent%% awaiting response... 404 Not Found
+2018-11-21 12:15:09 ERROR 404: Not Found.
+%
+INPUT|lclarkez-buffer-52|U |000000000|lclarkez|server:wget http://localhost:9876/1234567890123456789012345678901234567890123456789012345|%67890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456 
+78901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567 
+89012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678 
+90123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789 
+01234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890 
+12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901 
+23456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012 
+34567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123 
+45678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234 
+567890123456789012345678901234567890123456789
+INPUT|lclarkez-buffer-53|U |1542831429|lclarkez|server:clear|
+INPUT|lclarkez-buffer-54|U |000000000|lclarkez|server:cd /usr/src/fhttpd/|
+INPUT|lclarkez-buffer-55|M1 |1542831519|lclarkez|server:emacs webserver.c|%=>
+=-111:----F1  *scratch*      All L1     (Fundamental) ------------------------------------------------
+Loading 00debian-vars...done
+/etc/emacs/site-start.d/50autoconf.el (source)...
+done
+Loading /etc/emacs/site-start.d/50autoconf.el (source)...doneFile Edit Options Buffers Tools Lisp-Interaction Help                                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-111:----F1  *scratch*      All L1     (Lisp Interaction) -------------------------------------------
+For information about GNU Emacs and the GNU system%% type C-h C-a.
+Note: file is write protected
+Note: file is write protectedFile Edit Options Buffers Tools C Help                                                               
+
+// webserver.c                                                                                       
+
+// FrobozzCo Official Webserv

@@ -1,0 +1,1015 @@
+User lclarkeu start time 1537917370 end 1538525959
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkeu-intro-0|U |000000000|lclarkeu|:|
+INPUT|lclarkeu-intro-1|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-2|U |000000000|lclarkeu|:|
+INPUT|lclarkeu-intro-3|U |1538522623|lclarkeu|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkeu-intro-4|U |000000000|lclarkeu|intro:cd /users|
+INPUT|lclarkeu-intro-5|U |1538522629|lclarkeu|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkeu  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkeu-intro-6|U |000000000|lclarkeu|intro:cd lclarkeu|
+INPUT|lclarkeu-intro-7|U |1538522742|lclarkeu|intro:ls|
+INPUT|lclarkeu-intro-8|U |1538522755|lclarkeu|intro:ls|
+INPUT|lclarkeu-intro-9|U |000000000|lclarkeu|intro:cd ..|
+INPUT|lclarkeu-intro-10|U |1538522763|lclarkeu|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkeu  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkeu-intro-11|U |000000000|lclarkeu|intro:cd /lclarkeu|bash: cd: /lclarkeu: No such file or directory
+INPUT|lclarkeu-intro-12|U |000000000|lclarkeu|intro:cd lclarkeu/|
+INPUT|lclarkeu-intro-13|U |1538522766|lclarkeu|intro:ls|
+INPUT|lclarkeu-intro-14|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-15|U |1538522788|lclarkeu|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkeu-intro-16|U |000000000|lclarkeu|intro:cd /users/|
+INPUT|lclarkeu-intro-17|U |1538522823|lclarkeu|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkeu  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkeu-intro-18|U |000000000|lclarkeu|intro:cd lclarkeu/|
+INPUT|lclarkeu-intro-19|U |000000000|lclarkeu|intro:cd top_secret|bash: cd: top_secret: No such file or directory
+INPUT|lclarkeu-intro-20|U |1538522912|lclarkeu|intro:mkdir top_secret|
+INPUT|lclarkeu-intro-21|U |1538522887|lclarkeu|intro:ls|top_secret
+INPUT|lclarkeu-intro-22|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-23|U |000000000|lclarkeu|intro:cd ./usr/share/pixmaps/|
+INPUT|lclarkeu-intro-24|U |1538522913|lclarkeu|intro:ls|debian-logo.png        pstree32.xpm   python.xpm  xbzf136INTRO-1.jpg
+gvim.svg        python2.7.xpm  vim-16.xpm
+language-selector.png  python3.5.xpm  vim-32.xpm
+pstree16.xpm        python3.xpm    vim-48.xpm
+INPUT|lclarkeu-intro-25|U |000000000|lclarkeu|intro:mv xbz* /users/lclarkeu/top_secret|mv: cannot create regular file '/users/lclarkeu/top_secret/xbzf136INTRO-1.jpg': Permission denied
+INPUT|lclarkeu-intro-26|U |000000000|lclarkeu|intro:z* /users/lclarkeu/top_secret|
+INPUT|lclarkeu-intro-27|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-28|U |000000000|lclarkeu|intro:cd /users|
+INPUT|lclarkeu-intro-29|U |1538522968|lclarkeu|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkeu  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkeu-intro-30|U |000000000|lclarkeu|intro:cd lclarkeu|
+INPUT|lclarkeu-intro-31|U |1538523024|lclarkeu|intro:ls|top_secret
+INPUT|lclarkeu-intro-32|U |000000000|lclarkeu|intro:cd top_secrt|bash: cd: top_secrt: No such file or directory
+INPUT|lclarkeu-intro-33|U |000000000|lclarkeu|intro:cd *|
+INPUT|lclarkeu-intro-34|U |1538523030|lclarkeu|intro:ls|xbzf136INTRO-1.jpg
+INPUT|lclarkeu-intro-35|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-36|U |000000000|lclarkeu|intro:cd ./dev/|
+INPUT|lclarkeu-intro-37|U |000000000|lclarkeu|intro:mv 136intro* /users/lclarkeu/top_secret|
+INPUT|lclarkeu-intro-38|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-39|U |000000000|lclarkeu|intro:cd ./var/log|
+INPUT|lclarkeu-intro-40|U |000000000|lclarkeu|intro:mv 136intro* /users/lclarkeu/top_secret|
+INPUT|lclarkeu-intro-41|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-42|U |000000000|lclarkeu|intro:cd ./etc|
+INPUT|lclarkeu-intro-43|U |000000000|lclarkeu|intro:mv wuer* /users/lclarkeu/top_secret|
+INPUT|lclarkeu-intro-44|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-45|U |000000000|lclarkeu|intro:cd ./.hidden|
+INPUT|lclarkeu-intro-46|U |000000000|lclarkeu|intro:mv asdf* /users/lclarkeu/top_secret|
+INPUT|lclarkeu-intro-47|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-48|U |000000000|lclarkeu|intro:cd users|
+INPUT|lclarkeu-intro-49|U |000000000|lclarkeu|intro:cd lclarkeu|
+INPUT|lclarkeu-intro-50|U |1538523037|lclarkeu|intro:ls|top_secret
+INPUT|lclarkeu-intro-51|U |1538523282|lclarkeu|intro:tar cvzf top_secret.tar.gz top_secret|top_secret/
+top_secret/xbzf136INTRO-1.jpg
+top_secret/136intro-2jjaj.JPEG
+top_secret/136intro-3.jpg
+top_secret/wuer136intro-4.JPG
+top_secret/asdf136Intro-5kqlw.jpeg
+INPUT|lclarkeu-intro-52|U |1538523232|lclarkeu|intro:ls|top_secret  top_secret.tar.gz
+INPUT|lclarkeu-intro-53|U |000000000|lclarkeu|intro:pwd|/users/lclarkeu
+INPUT|lclarkeu-intro-54|U |1538523288|lclarkeu|intro:ls|top_secret  top_secret.tar.gz
+INPUT|lclarkeu-intro-55|U |000000000|lclarkeu|intro:cd top_secret.tar.gz|bash: cd: top_secret.tar.gz: Not a directory
+INPUT|lclarkeu-intro-56|U |000000000|lclarkeu|intro:pwd top_secret.tar.gz|/users/lclarkeu
+INPUT|lclarkeu-intro-57|U |1538523454|lclarkeu|intro:ls|top_secret  top_secret.tar.gz
+INPUT|lclarkeu-intro-58|U |000000000|lclarkeu|intro:cd top_secret|
+INPUT|lclarkeu-intro-59|U |1538524032|lclarkeu|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkeu-intro-60|U |000000000|lclarkeu|intro:echo \'./usr/share/pixmaps/ FORBIDDEN PLANET|> ./dev/ GOZ<BS> <BS>DZILLA KK<BS> <BS><BS> <BS>KING OF TEH MO<BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS>HE MONSTERS
+> ./var/log/ it<BS> <BS><BS> <BS>IT CAME FROM OUTER SPACEC<BS> <BS>
+> ./etc/ t<BS> <BS>THE FLY
+> ./.hk<BS> <BS>idden/ 2001 A SPACE ODYSSEY' >answers.txt
+bash: answers.txt: Permission denied
+INPUT|lclarkeu-intro-61|U |000000000|lclarkeu|intro:echo './usr/share/pixmaps/ FORBIDDEN PLANET|
+./dev/ GODZILLA KING OF THE MONSTERS
+
+./var/log/ IT CAME FROM OUTER SPACE
+
+./etc/ THE FLY
+
+./.hidden/ 2001 A SPACE ODYSSEY' >answers.txt<ESC>[A<ESC>[A<ESC>[A<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>ls<ESC>[K
+
+<ESC>[K
+
+<ESC>[K
+
+<ESC>[K
+
+INPUT|lclarkeu-intro-62|U |000000000|lclarkeu|intro:echo './usr/share/pixmaps/ FORBIDDEN PLANET|
+./dev/ GODZILLA KING OF THE MONSTERS
+
+./var/log/ IT CAME FROM OUTER SPACE
+
+./etc/ THE FLY
+
+./.hidden/ 2001 A SPACE ODYSSEY' >answers.txt<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+<ESC>[A./etc/ THE FLY<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+<ESC>[A./var/log/ IT CAME FROM OUTER SPACE<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+<ESC>[A./dev/ GODZILLA KING OF THE MONSTERS<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkeu-intro-63|U |000000000|lclarkeu|intro:'./usr/share/pixmaps/ FORBIDDEN PLANET|
+
+
+
+
+bash: answers.txt: Permission denied
+INPUT|lclarkeu-intro-64|U |1538524039|lclarkeu|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkeu-intro-65|U |000000000|lclarkeu|intro:echo './usr/share/pixmaps/ FORBIDDEN PLANET|
+./dev/ GODZILLA KING OF THE MONSTERS
+
+./var/log/ IT CAME FROM OUTER SPACE
+
+./etc/ THE FLY
+
+./.hidden/ 2001 A SPACE ODYSSEY' >answers.txt<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+<ESC>[A./etc/ THE FLY<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+<ESC>[A./var/log/ IT CAME FROM OUTER SPACE<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+<ESC>[A./dev/ GODZILLA KING OF THE MONSTERS<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkeu-intro-66|U |000000000|lclarkeu|intro:cat > a/usr/share/pixmaps/ FORBIDDEN PLANET|
+                                    
+
+./dev/ GODZILLA KING OF THE MONSTERS
+
+./var/log/ IT CAME FROM OUTER SPACE
+
+./etc/ THE FLY                               
+
+./.hidden/ 2001 A SPACE ODYSSEY' >answers.txt<ESC>[A<ESC>[A<ESC>[A<ESC>[A<ESC>[A<BS><BS><BS><BS>n './usr/share/pixmaps/ FORBIDDEN PLANET
+T<ESC>[Aclarkeu@intro:~/top_secret$ sudo cat > ans './usr/share/pixmaps/ FORBIDDEN PLANET<ESC>[Alarkeu@intro:~/top_secret$ sudo cat > answ './usr/share/pixmaps/ FORBIDDEN PLANET<ESC>[Aarkeu@intro:~/top_secret$ sudo cat > answe './usr/share/pixmaps/ FORBIDDEN PLA<ESC>[1@N<ESC>[Alarkeu@intro:~/top_secret$ sudo cat > answer './usr/share/pixmaps/ FORBIDDEN PL<ESC>[1@A<ESC>[Alarkeu@intro:~/top_secret$ sudo cat > answers './usr/share/pixmaps/ FORBIDDEN P<ESC>[1@L<ESC>[Alarkeu@intro:~/top_secret$ sudo cat > answers. './usr/share/pixmaps/ FORBIDDEN <ESC>[1@P<ESC>[Alarkeu@intro:~/top_secret$ sudo cat > answers.t './usr/share/pixmaps/ FORBIDDEN<ESC>[1@ <ESC>[Alarkeu@intro:~
+INPUT|lclarkeu-intro-67|U |000000000|lclarkeu|intro:cat > answers.txt './usr/share/pixmaps/ FORBIDD|DEN PLANET
+
+./dev/ GODZILLA KING OF THE MONSTERS
+
+./var/log/ IT CAME FROM OUTER SPACE
+
+./etc/ THE FLY
+
+./.hidden/ 2001 A SPACE ODYSSEY' >answers.txt<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+<ESC>[A./etc/ THE FLY<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+<ESC>[A./var/log/ IT CAME FROM OUTER SPACE<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+<ESC>[A./dev/ GODZILLA KING OF THE MONSTERS<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+<ESC>[ADEN PLANET<BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkeu-intro-68|U |000000000|lclarkeu|intro:cat > answers.txt ./usr/share/pixmaps/ FORBID|
+INPUT|lclarkeu-intro-69|U |000000000|lclarkeu|intro:cat > answers.txt|
+<ESC>[K
+
+<ESC>[K
+
+<ESC>[K
+
+<ESC>[K
+
+INPUT|lclarkeu-intro-70|U |000000000|lclarkeu|intro:cat > answers.txt ./usr/share/pixmaps/ FORBIDDE|EN PLANET
+
+./dev/ GODZILLA KING OF THE MONSTERS
+
+./var/log/ IT CAME FROM OUTER SPACE
+
+./etc/ THE FLY
+
+./.hidden/ 2001 A SPACE ODYSSEY' >answers.txt<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS> >answers.txt<BEL><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS>Y
+bash: answers.txt: Permission denied
+bash: ./dev/: No such file or directory
+bash: ./var/log/: No such file or directory
+bash: ./etc/: No such file or directory
+bash: ./.hidden/: No such file or directory
+INPUT|lclarkeu-intro-71|U |000000000|lclarkeu|intro:./var/log/ IT CAME FROM OUTER SPACE|
+INPUT|lclarkeu-intro-72|U |1538524525|lclarkeu|intro:./dev/ GODZILLA KING OF THE MONSTERS|
+INPUT|lclarkeu-intro-73|U |000000000|lclarkeu|intro:cat > answers.txt ./usr/share/pixmaps/ FORBIDDE|EN PLANET<ESC>[Aintro:~/top_secret$ sudo cat > answers.txt './usr/share/pixmaps/ FORBI
+
+DEN PLANET
+
+./dev/ GODZILLA KING OF THE MONSTERS
+
+./var/log/ IT CAME FROM OUTER SPACE
+
+./etc/ THE FLY
+
+./.hidden/ 2001 A SPACE ODYSSEY' >answers.txt<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+<ESC>[A./etc/ THE FLY<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+<ESC>[A./var/log/ IT CAME FROM OUTER SPACE<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+<ESC>[A./dev/ GODZILLA KING OF THE MONSTERS<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+<ESC>[ADEN PLANET<BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkeu-intro-74|U |000000000|lclarkeu|intro:cat > answers.txt'./usr/share/pixmaps/ FORBID|
+INPUT|lclarkeu-intro-75|U |000000000|lclarkeu|intro:cat > answers.tx'./usr/share/pixmaps/ FORBIDDENclarkeu@intro:~/top_secret$ sudo cat > answers.t'./usr/share/pixmaps/ FORBIDDEN clarkeu@intro:~/top_secret$ sudo cat > answers.'./usr/share/pixmaps/ FORBIDDEN Pclarkeu@intro:~/top_secret$ sudo cat > answers'./usr/share/pixmaps/ FORBIDDEN PLclarkeu@intro:~/top_secret$ sudo cat > answer'./usr/share/pixmaps/ FORBIDDEN PLAclarkeu@intro:~/top_secret$ sudo cat > answe'./usr/share/pixmaps/ FORBIDDEN PLANclarkeu@intro:~/top_secret$ sudo cat > answ'./usr/share/pixmaps/ FORBIDDEN PLANETlarkeu@intro:~/top_secret$ sudo cat > ans'./usr/share/pixmaps/ FORBIDDEN PLANET larkeu@intro:~/top_secret$ sudo cat > an'./usr/share/pixmaps/ FORBIDDEN PLANET| <ESC>[Aclarkeu@intro:~/top_secret$ sudo cat > an<BS><ESC>[1P
+
+./dev/ GODZILLA KING OF THE MONSTERS
+
+./<ESC>[1Pvar/log/ IT CAME FROM OUTER SPACE
+
+./<ESC>[21Petc/ THE FLY
+
+./.hidden/ 2001 A SPACE ODYSSEY' >answers.txt
+
+INPUT|lclarkeu-intro-76|U |000000000|lclarkeu|intro:bash -c|
+                                    
+
+./dev/ GODZILLA KING OF THE MONSTERS
+
+./var/log/ IT CAME FROM OUTER SPACE
+
+./etc/ THE FLY                               
+
+./.hidden/ 2001 A SPACE ODYSSEY' >answers.txt<ESC>[A<ESC>[A<ESC>[A<ESC>[A<ESC>[A<BS><BS><BS>''./usr/share/pixmaps/ FORBIDDEN PLANET
+T<ESC>[Aclarkeu@intro:~/top_secret$ sudo bash -c 'e'./usr/share/pixmaps/ FORBIDDEN PLANET<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -c 'ec'./usr/share/pixmaps/ FORBIDDEN PLANET<ESC>[Aarkeu@intro:~/top_secret$ sudo bash -c 'ech'./usr/share/pixmaps/ FORBIDDEN PLA<ESC>[1@N<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -c 'echo'./usr/share/pixmaps/ FORBIDDEN PL<ESC>[1@A<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -c 'echo './usr/share/pixmaps/ FORBIDDEN P<ESC>[1@L<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -c 'echo '<BS>./usr/share/pixmaps/ FORBIDDEN PL<ESC>[1P<ESC>[Aclarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/ FORBIDDEN P<ESC>[1@L<ESC>[Alarkeu@intro:~
+INPUT|lclarkeu-intro-77|U |1538524383|lclarkeu|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkeu-intro-78|U |1538524630|lclarkeu|intro:more answers.txt|./usr/share/pixmaps/ FORBIDDEN PLANET
+./dev/ GODZILLA KING OF THE MONSTERS
+./var/log/ IT CAME FROM OUTER SPACE
+./etc/ THE FLY
+./.hidden/ 2001 A SPACE ODYSSEY
+INPUT|lclarkeu-intro-79|U |1538524617|lclarkeu|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkeu-intro-80|U |000000000|lclarkeu|intro:bash -a \'echo \"\/var contains f" > answers.txt' clarkeu@intro:~/top_secret$ sudo bash -a 'echo "/var contains fi" > answers.txt'|'<ESC>[Aclarkeu@intro:~/top_secret$ sudo bash -a 'echo "/var contains fil" > answers.txt'<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -a 'echo "/var contains file" > answers.txt'<ESC>[Aarkeu@intro:~/top_secret$ sudo bash -a 'echo "/var contains files" > answers.t<ESC>[1@x<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -a 'echo "/var contains files " > answers.<ESC>[1@t<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -a 'echo "/var contains files t" > answers<ESC>[1@.<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -a 'echo "/var contains files th" > answer<ESC>[1@s<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -a 'echo "/var contains files tha" > answe<ESC>[1@r<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -a 'echo "/var contains files that" > answ<ESC>[1@e<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -a 'echo "/var contains files that " > ans<ESC>[1@w<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -a 'echo "/var contains files that t" > an<ESC>[1@s<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -a 'echo "/var conta
+INPUT|lclarkeu-intro-81|U |000000000|lclarkeu|intro:/dev contains special device files that control the| access to devices that put info in and get info out of the computer.
+bash: /dev: Is a directory
+INPUT|lclarkeu-intro-82|U |000000000|lclarkeu|intro:/dev contains special device files that control the| access to devices that put info in and get info out of the computer.<ESC>[A
+INPUT|lclarkeu-intro-83|U |000000000|lclarkeu|intro:bash -a 'echo "/var contains files that the system writes on while it is working." > answers.txt'|bash: echo \"/var contains files that the system writes on while it is working.\" > answers.txt: No such file or directory
+INPUT|lclarkeu-intro-84|U |1538524677|lclarkeu|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkeu-intro-85|U |1538524884|lclarkeu|intro:more answers.txt|./usr/share/pixmaps/ FORBIDDEN PLANET
+./dev/ GODZILLA KING OF THE MONSTERS
+./var/log/ IT CAME FROM OUTER SPACE
+./etc/ THE FLY
+./.hidden/ 2001 A SPACE ODYSSEY
+INPUT|lclarkeu-intro-86|U |1538524919|lclarkeu|intro:./usr/share/pixmaps/ FORBIDDEN PLANET|bash: ./usr/share/pixmaps/: No such file or directory
+INPUT|lclarkeu-intro-87|U |1538524919|lclarkeu|intro:./dev/ GODZILLA KING OF THE MONSTERS|bash: ./dev/: No such file or directory
+INPUT|lclarkeu-intro-88|U |1538524526|lclarkeu|intro:./var/log/ IT CAME FROM OUTER SPACE|bash: ./var/log/: No such file or directory
+INPUT|lclarkeu-intro-89|U |1538524526|lclarkeu|intro:./etc/ THE FLY|bash: ./etc/: No such file or directory
+INPUT|lclarkeu-intro-90|U |1538524526|lclarkeu|intro:./.hidden/ 2001 A SPACE ODYSSEY|bash: ./.hidden/: No such file or directory
+INPUT|lclarkeu-intro-91|U |1538524920|lclarkeu|intro:./usr/share/pixmaps/ FORBIDDEN PLANET|bash: ./usr/share/pixmaps/: No such file or directory
+INPUT|lclarkeu-intro-92|U |1538524920|lclarkeu|intro:./dev/ GODZILLA KING OF THE MONSTERS|bash: ./dev/: No such file or directory
+INPUT|lclarkeu-intro-93|U |1538524919|lclarkeu|intro:./var/log/ IT CAME FROM OUTER SPACE|bash: ./var/log/: No such file or directory
+INPUT|lclarkeu-intro-94|U |1538524919|lclarkeu|intro:./etc/ THE FLY|bash: ./etc/: No such file or directory
+INPUT|lclarkeu-intro-95|U |1538524919|lclarkeu|intro:./.hidden/ 2001 A SPACE ODYSSEY|bash: ./.hidden/: No such file or directory
+INPUT|lclarkeu-intro-96|U |000000000|lclarkeu|intro:./var/log/ IT CAME FROM OUTER SPACE|
+INPUT|lclarkeu-intro-97|U |1538525112|lclarkeu|intro:./dev/ GODZILLA KING OF THE MONSTERS|
+INPUT|lclarkeu-intro-98|U |000000000|lclarkeu|intro:./usr/share/pixmaps/ FORBIDDEN PLANET|
+INPUT|lclarkeu-intro-99|U |000000000|lclarkeu|intro:./var/log/ IT CAME FROM OUTER SPACE|
+INPUT|lclarkeu-intro-100|U |000000000|lclarkeu|intro:./dev/ GODZILLA KING OF THE MONSTERS|
+INPUT|lclarkeu-intro-101|U |000000000|lclarkeu|intro:./usr/share/pixmaps/ FORBIDDEN PLANET|
+INPUT|lclarkeu-intro-102|U |000000000|lclarkeu|intro:bash -a 'echo "/var contains files that the sys|stem writes on while it is working." > answers.txt'<BS><ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>/dev contains special device files that control the access to devices that put info in and get info out of the computer.<BEL><ESC>[A
+INPUT|lclarkeu-intro-103|U |000000000|lclarkeu|intro:bash -a 'echo "/var contains files that the system writes on while it is wolsing." > answers.txt'|
+INPUT|lclarkeu-intro-104|U |000000000|lclarkeu|intro:./usr/share/pixmaps/ FORBIDDEN PLANET|
+INPUT|lclarkeu-intro-105|U |000000000|lclarkeu|intro:lsre answers.txt|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkeu-intro-106|U |000000000|lclarkeu|intro:bash -c 'echo \ \"./usr/share/pix" > answers.txt' clarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixm" > answers.txt'|'<ESC>[Aclarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixma" > answers.txt'<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmap" > answers.txt'<ESC>[Aarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps" > answers.t<ESC>[1@x<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/" > answers.<ESC>[1@t<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/ " > answers<ESC>[1@.<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/ F" > answer<ESC>[1@s<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/ FO" > answe<ESC>[1@r<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/ FOR" > answ<ESC>[1@e<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/ FORB" > ans<ESC>[1@w<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/ FORBI" > an<ESC>[1@s<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/shar
+INPUT|lclarkeu-intro-107|U |000000000|lclarkeu|intro:./dev/ GODZILLA KING OF THE MONSTERS|bash: ./dev/: No such file or directory
+INPUT|lclarkeu-intro-108|U |1538524920|lclarkeu|intro:./var/log/ IT CAME FROM OUTER SPACE|bash: ./var/log/: No such file or directory
+INPUT|lclarkeu-intro-109|U |1538524920|lclarkeu|intro:./etc/ THE FLY|bash: ./etc/: No such file or directory
+INPUT|lclarkeu-intro-110|U |1538524920|lclarkeu|intro:./.hidden/ 2001 A SPACE ODYSSEY|bash: ./.hidden/: No such file or directory
+INPUT|lclarkeu-intro-111|U |000000000|lclarkeu|intro:1. /var contains files that the system writes on wh|ile it is working.
+1.: command not found
+INPUT|lclarkeu-intro-112|U |000000000|lclarkeu|intro:2. /dev contains special device files that control|the access to devices that put info in and get info out of the computer.<ESC>[A
+INPUT|lclarkeu-intro-113|U |000000000|lclarkeu|intro:1. /var contains files that the system writes on while it is working.op_secret$ ./.hidden/ 2001 A SPACE ODYSSEY|
+INPUT|lclarkeu-intro-114|U |000000000|lclarkeu|intro:./var/log/ IT CAME FROM OUTER SPACE|
+INPUT|lclarkeu-intro-115|U |000000000|lclarkeu|intro:./dev/ GODZILLA KING OF THE MONSTERS|
+INPUT|lclarkeu-intro-116|U |000000000|lclarkeu|intro:bash -c 'echo \"./usr/share/pixmaps/ FORBIDDEN P|PLANET\" > answers.txt'<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkeu-intro-117|U |000000000|lclarkeu|intro:bash -c 'echo "./usr/share/pixmaps/ FORBIDDEN|
+PLANET\" > a<BS><BS><BS><BS><BS><BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P
+INPUT|lclarkeu-intro-118|U |000000000|lclarkeu|intro:bash -c 'echo "./usr/share/pixmaps/ FORBIDDEN" clarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/ FORBIDDE" >clarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/ FORBIDD" > clarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/ FORBID" > aclarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/ FORBI" > anclarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/ FORB" > ansclarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/ FOR" > answclarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/ FO" > answeclarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/ F" > answerclarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/ " > answersclarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/" > answers.clarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps" > answers.tclarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmap" > answers.txclarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixma" > answers.txt'larkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixm" > answers.txt'clarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pix" > answers.txt'|
+INPUT|lclarkeu-intro-119|U |000000000|lclarkeu|intro:bash -c 'echo "./usr/share/pix|
+INPUT|lclarkeu-intro-120|U |000000000|lclarkeu|intro:bash -c 'echo "./usr/share/pix" > answers.txt' clarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixm" > answers.txt'|'<ESC>[Aclarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixma" > answers.txt'<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmap" > answers.txt'<ESC>[Aarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps" > answers.t<ESC>[1@x<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/" > answers.<ESC>[1@t<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/ " > answers<ESC>[1@.<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/ G" > answer<ESC>[1@s<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/ G<BS>" > answers<ESC>[1P<ESC>[Aclarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/ F" > answer<ESC>[1@s<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/ FO" > answe<ESC>[1@r<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr/share/pixmaps/ FOR" > answ<ESC>[1@e<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -c 'echo "./usr
+INPUT|lclarkeu-intro-121|U |000000000|lclarkeu|intro:bash -c 'echo "\./usr/share/pixmaps/ FORBIDDEN PLANET|!TRUNCATED TO 500L! ./dev/ GODZILLA
+./var/log/ IT CAME FROM OUTER SPACE
+./etc/ THE FLY
+./.hidden/ 2001 A SPACE ODYSSEY
+1. /var contains files that the system writes on while it is working.
+2. /dev contains special device files that control the a
+
+cess to devices that put info in and get info out of the computer." > answers.txt'<ESC>[A<ESC>[A<ESC>[A<ESC>[A<ESC>[Alarkeu@intro:~/top_secret$ sudo bash -c 'echo "\n./usr/share/pixmaps/ FORBIDDEN PLANET
+./dev/ GODZILLA
+./var/log/ IT CAME FROM OUTER SPACE
+./etc/ THE FLY
+./.hidden/ 2001 A SPACE ODYSSEY
+1. /var contains files that the system writes on while it is working.
+2. /dev contains special device files that control the access to devices that put info in and get info out of the computer." > answers.txt'<ESC>[A<ESC>[A<ESC>[A<ESC>[A<ESC>[Aarkeu@intro:~/top_secret$ sudo bash -c 'echo "
+<BS><BS>S
+./usr/share/pixmaps/ FORBIDDEN PLANET
+./dev/ GODZILLA
+./var/log/ IT CAME FROM OUTER SPACE
+./etc
+INPUT|lclarkeu-intro-122|U |1538524879|lclarkeu|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkeu-intro-123|U |1538525370|lclarkeu|intro:more answers.txt|Skout Roberson\
+skoutroberson@lclark.edu\
+lclarkeu\
+./usr/share/pixmaps/ FORBIDD
+EN PLANET\
+./dev/ GODZILLA\
+./var/log/ IT CAME FROM OUTER SPACE\
+./etc/ THE FLY\
+n./.hidden/ 2001 A SPACE ODYSSEY\
+1. /var contains files that the system writes 
+on while it is working.\
+2. /dev contains special device files that control the 
+access to devices that put info in and get info out of the computer.
+INPUT|lclarkeu-intro-124|M6 |1538525488|lclarkeu|intro:df|%Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 2002856          0    2002856   0%% /dev
+tmpfs                                                 404608      13588     391020   4%% /run
+/dev/sda1                                           15616412    2893644   11922820  20%% /
+tmpfs                                                2023028          0    2023028   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                2023028          0    2023028   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkeu  2031313280 1256741760  612066432  68%% /users/lclarkeu
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973288320 1763480064  36%% /proj/CS495LC
+tmpfs                                                 404608          0     404608  
+INPUT|lclarkeu-intro-125|U |000000000|lclarkeu|intro:bash -c 'echo df > diskfree.txt''|
+INPUT|lclarkeu-intro-126|U |1538525072|lclarkeu|intro:ls|136intro-2jjaj.JPEG  answers.txt       diskfree.txt   xbzf136INTRO-1.jpg
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+INPUT|lclarkeu-intro-127|U |1538525665|lclarkeu|intro:more diskfree.txt|%Filesystem                                         1K-blocks       Used  Available Use%%
+ Mounted on
+udev                                                 2002856          0    2002856   0%%
+ /dev
+tmpfs                                                 404608      13588     391020   4%%
+ /run
+/dev/sda1                                           15616412    2893652   11922812  20%%
+ /
+tmpfs                                                2023028          0    2023028   0%%
+ /dev/shm
+tmpfs                                                   5120          0       5120   0%%
+ /run/lock
+tmpfs                                                2023028          0    2023028   0%%
+ /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkeu  2031313280 1256743296  612064896  68%%
+ /users/lclarkeu
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973288320 1763480064  36%%
+ /proj/CS495LC
+tmpfs                                           
+INPUT|lclarkeu-intro-128|U |1538525366|lclarkeu|intro:ls|136intro-2jjaj.JPEG  answers.txt       diskfree.txt   xbzf136INTRO-1.jpg
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+INPUT|lclarkeu-intro-129|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-130|M5 |1538525749|lclarkeu|intro:less /proc/cpuinfo|[?1049h[?1h=
+processor       : 0
+vendor_id       : GenuineIntel
+cpu family      : 6
+model           : 15
+model name      : Intel(R) Xeon(R) CPU           X3210  @ 2.13GHz
+stepping        : 11
+microcode       : 0xb3
+cpu MHz         : 2133.448
+cache size      : 4096 KB
+physical id     : 0
+siblings        : 4
+core id         : 0
+cpu cores       : 4
+apicid          : 0
+initial apicid  : 0
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 10
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc arch_perfmon pebs bts rep_good nopl aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm lahf_lm tpr_shadow vnmi flexpriority dtherm
+[7m/proc/cpuinfo[27m[K
+INPUT|lclarkeu-intro-131|U |000000000|lclarkeu|intro:cd users|
+INPUT|lclarkeu-intro-132|U |000000000|lclarkeu|intro:cd lclarkeu|
+INPUT|lclarkeu-intro-133|U |1538525659|lclarkeu|intro:ls|top_secret  top_secret.tar.gz
+INPUT|lclarkeu-intro-134|U |000000000|lclarkeu|intro:cd top_secret|
+INPUT|lclarkeu-intro-135|U |1538525667|lclarkeu|intro:ls|136intro-2jjaj.JPEG  answers.txt       diskfree.txt   xbzf136INTRO-1.jpg
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+INPUT|lclarkeu-intro-136|U |000000000|lclarkeu|intro:cd ..|
+INPUT|lclarkeu-intro-137|U |1538525854|lclarkeu|intro:ls|top_secret  top_secret.tar.gz
+INPUT|lclarkeu-intro-138|U |1538525959|lclarkeu|intro:tar cvzf lclarkeu-intro.tar.gz top_secret|top_secret/
+top_secret/xbzf136INTRO-1.jpg
+top_secret/136intro-2jjaj.JPEG
+top_secret/136intro-3.jpg
+top_secret/wuer136intro-4.JPG
+top_secret/asdf136Intro-5kqlw.jpeg
+top_secret/answers.txt
+top_secret/diskfree.txt
+INPUT|lclarkeu-intro-139|U |1538525860|lclarkeu|intro:ls|lclarkeu-intro.tar.gz  top_secret  top_secret.tar.gz
+INPUT|lclarkeu-intro-140|U |000000000|lclarkeu|intro:pwd|/users/lclarkeu
+INPUT|lclarkeu-intro-141|U |000000000|lclarkeu|intro:cd Home|bash: cd: Home: No such file or directory
+INPUT|lclarkeu-intro-142|U |000000000|lclarkeu|intro:cd home|bash: cd: home: No such file or directory
+INPUT|lclarkeu-intro-143|U |000000000|lclarkeu|intro:cd /home|
+INPUT|lclarkeu-intro-144|U |1537917370|lclarkeu|intro:ls|deter
+INPUT|lclarkeu-intro-145|U |1537917412|lclarkeu|intro:mkdir top_secret|mkdir: cannot create directory 'top_secret': Permission denied
+INPUT|lclarkeu-intro-146|U |000000000|lclarkeu|intro:cd top_secret|bash: cd: top_secret: No such file or directory
+INPUT|lclarkeu-intro-147|U |1537917572|lclarkeu|intro:mkdir /top_secret|mkdir: cannot create directory '/top_secret': Permission denied
+INPUT|lclarkeu-intro-148|U |000000000|lclarkeu|intro:mkdir(\'./top_secret\');|bash: syntax error near unexpected token `'./top_secret''
+INPUT|lclarkeu-intro-149|U |000000000|lclarkeu|intro:mkdir('top_secret')|bash: syntax error near unexpected token `'top_secret''
+INPUT|lclarkeu-intro-150|U |000000000|lclarkeu|intro:mkdir'top_secret'|mkdirtop_secret: command not found
+INPUT|lclarkeu-intro-151|U |1537917637|lclarkeu|intro:mkdir top_secret|
+INPUT|lclarkeu-intro-152|U |1537917380|lclarkeu|intro:ls|deter  top_secret
+INPUT|lclarkeu-intro-153|U |000000000|lclarkeu|intro:help|%GNU bash%% version 4.3.48(1)-release (x86_64-pc-linux-gnu)
+These shell commands are defined internally.  Type `help' to see this list.
+Type `help name' to find out more about the function `name'.
+Use `info bash' to find out more about the shell in general.
+Use `man -k' or `info' to find out more about commands not in this list.
+
+A star (*) next to a name means that the command is disabled.
+
+ job_spec [&]                            history [-c] [-d offset] [n] or hist>
+ (( expression ))                        if COMMANDS; then COMMANDS; [ elif C>
+ . filename [arguments]                  jobs [-lnprs] [jobspec ...] or jobs >
+ :                                       kill [-s sigspec | -n signum | -sigs>
+ [ arg... ]                              let arg [arg ...]
+ [[ expression ]]                        local [option] name[=value] ...
+ alias [-p] [name[=value] ... ]          logout [n]
+ bg [job_spec ...]                       mapfile [-n count] 
+INPUT|lclarkeu-intro-154|A2 A0 A4 A3 A1 |000000000|lclarkeu|intro:help find|bash: help: no help topics match `find'.  Try `help help' or `man -k find' or `info find'.
+INPUT|lclarkeu-intro-155|A0 A2 A1 A3 A4 |1537917833|lclarkeu|intro:man -k find|find: nothing appropriate.
+INPUT|lclarkeu-intro-156|A0 A2 A1 A4 A3 |1537917839|lclarkeu|intro:man find|%[?1049h[?1h=
+FIND(1)                          General Commands Manual                         FIND(1)[m
+[m
+[1mNAME[0m[m
+       find - search for files in a directory hierarchy[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mfind[0m [-H] [-L] [-P] [-D debugopts] [-Olevel] [starting-point...] [expression][m
+[m
+[1mDESCRIPTION[0m[m
+       This manual page documents the GNU version of [1mfind[0m.  GNU [1mfind[0m searches the direc-[m
+       tory tree rooted at each given starting-point by evaluating the given  expression[m
+       from left to right%% according to the rules of precedence (see section OPERATORS)%%[m
+       until the outcome is known (the left hand side is false for [4mand[24m operations%%  true[m
+       for  [4mor[24m)%%  at  which  point [1mfind[0m moves on to the next file name.  If no starting-[m
+       point is specified%% `.' is assumed.[m
+[m
+       If you are using [1mfind[0m in an environment where security is important (for  example
+INPUT|lclarkeu-intro-157|A0 A2 A1 A3 A4 |000000000|lclarkeu|intro:find . -name \".jpg\" -print|
+INPUT|lclarkeu-intro-158|U |1537917639|lclarkeu|intro:ls|deter  top_secret
+INPUT|lclarkeu-intro-159|U |000000000|lclarkeu|intro:cd ..|
+INPUT|lclarkeu-intro-160|U |1537917987|lclarkeu|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp    var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   users  vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   usr    vmlinuz.old
+INPUT|lclarkeu-intro-161|A1 A4 A3 A0 A2 |1537919013|lclarkeu|intro:find -name \".jpg\"|find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo': Permission denied
+find: './proc/2/task/2/n
+INPUT|lclarkeu-intro-162|U |1537917993|lclarkeu|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp    var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   users  vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   usr    vmlinuz.old
+INPUT|lclarkeu-intro-163|A1 A4 A3 A0 A2 |000000000|lclarkeu|intro:find /path/to -regex \".*\.\(jpg\|jpeg\)\" > log|bash: log: Permission denied
+INPUT|lclarkeu-intro-164|A0 A2 A1 A4 A3 |000000000|lclarkeu|intro:find /path/to -regex \".*\.\(jpg\|jpeg\)\"|find: '/path/to': No such file or directory
+INPUT|lclarkeu-intro-165|A4 A3 A1 A2 A0 |000000000|lclarkeu|intro:find /path/to/ -iname '*.gif' -o -iname '*.jpg' -o -iname '*.png' -o -ina|me '*.jpeg'find /path/to/ -iname '*.gif' -o -iname '*.jpg' -o -iname '*.png' -o -iname '*.j 
+peg'<ESC>[A<ESC>[Arkeu@intro:/$ find /path/to<ESC>[33P -regex ".*\.\(jpg\|jpeg\)"
+
+<ESC>[K
+
+INPUT|lclarkeu-intro-166|A2 A0 A4 A3 A1 |000000000|lclarkeu|intro:find /path/to/ -iname '*.gif' -o -iname '*.jpg' -o -iname '*.png' -o -ina|me '*.jpeg'
+find: '/path/to/': No such file or directory
+INPUT|lclarkeu-intro-167|U |1537918033|lclarkeu|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp    var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   users  vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   usr    vmlinuz.old
+INPUT|lclarkeu-intro-168|U |000000000|lclarkeu|intro:cd ../|
+INPUT|lclarkeu-intro-169|U |1537918174|lclarkeu|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp    var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   users  vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   usr    vmlinuz.old
+INPUT|lclarkeu-intro-170|A0 A2 A1 A4 A3 |1537918260|lclarkeu|intro:man find|%[?1049h[?1h=
+FIND(1)                          General Commands Manual                         FIND(1)[m
+[m
+[1mNAME[0m[m
+       find - search for files in a directory hierarchy[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mfind[0m [-H] [-L] [-P] [-D debugopts] [-Olevel] [starting-point...] [expression][m
+[m
+[1mDESCRIPTION[0m[m
+       This manual page documents the GNU version of [1mfind[0m.  GNU [1mfind[0m searches the direc-[m
+       tory tree rooted at each given starting-point by evaluating the given  expression[m
+       from left to right%% according to the rules of precedence (see section OPERATORS)%%[m
+       until the outcome is known (the left hand side is false for [4mand[24m operations%%  true[m
+       for  [4mor[24m)%%  at  which  point [1mfind[0m moves on to the next file name.  If no starting-[m
+       point is specified%% `.' is assumed.[m
+[m
+       If you are using [1mfind[0m in an environment where security is important (for  example
+INPUT|lclarkeu-intro-171|A4 A3 A1 A2 A0 |000000000|lclarkeu|intro:fsudo find . -name \"intro\" -print|./proj/CS495LC/exp/intro
+./proj/CS495LC/intro
+INPUT|lclarkeu-intro-172|U |1537918184|lclarkeu|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp    var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   users  vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   usr    vmlinuz.old
+INPUT|lclarkeu-intro-173|U |000000000|lclarkeu|intro:cd proj|
+INPUT|lclarkeu-intro-174|U |1537918399|lclarkeu|intro:ls|CS495LC  DeterTest  intro.createimage.Share  share  Share
+INPUT|lclarkeu-intro-175|U |000000000|lclarkeu|intro:cd CS*|
+INPUT|lclarkeu-intro-176|U |1537918406|lclarkeu|intro:ls|352 exp images logs       logsnoopy.pl~  pulllogs.pl~  tarfiles   tiplogs
+deltas groups intro logsnoopy.pl  pulllogs.pl    rpms    templates
+INPUT|lclarkeu-intro-177|U |000000000|lclarkeu|intro:cd exp|
+INPUT|lclarkeu-intro-178|U |1537918418|lclarkeu|intro:ls|adamStein      internetworking-abc  LabSevenMine        Linux
+Adrian-Intro      internetworking-adr  lblackbe-beginner    linuxcl
+AJBerle-Unix      internetworking-jen  LCDNSLab        LinuxCommandLine123
+akirkland-exploits   internetworking-jm   LCLab10        LionelTreasure
+akirk-treasurehunt   internetworking-KT   lclark211        Matthew
+alclarkaq-deterlab7  internetworking-mkh  lclarkab-unix        myLinux
+arpspoof-benw      internetworking-PB   lclarkai7        mySnort
+arpspoof-GJS      intro    lclarkai7pt2        New4Me
+arpspoof-JWS      intro18    lclarkai7pt3        noahbaum-deter1
+Badral       intro21    lclarkai-intro       nohland
+benw10       intro-bengreen   lclarkak        oren-linux
+benw-6       Intro-csfirewall   lclarkak-intro       oshardening
+benw-firewall      IntroExperiment   lclarkan-intro       oswald-treasure
+benw-snort      intr
+INPUT|lclarkeu-intro-179|U |000000000|lclarkeu|intro:cd ../|
+INPUT|lclarkeu-intro-180|U |1537918421|lclarkeu|intro:ls|352 exp images logs       logsnoopy.pl~  pulllogs.pl~  tarfiles   tiplogs
+deltas groups intro logsnoopy.pl  pulllogs.pl    rpms    templates
+INPUT|lclarkeu-intro-181|U |000000000|lclarkeu|intro:cd ..|
+INPUT|lclarkeu-intro-182|U |1537918441|lclarkeu|intro:ls|CS495LC  DeterTest  intro.createimage.Share  share  Share
+INPUT|lclarkeu-intro-183|U |000000000|lclarkeu|intro:cd ..|
+INPUT|lclarkeu-intro-184|U |1537918444|lclarkeu|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp    var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   users  vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   usr    vmlinuz.old
+INPUT|lclarkeu-intro-185|U |000000000|lclarkeu|intro:. -name \".jpg\" -print|sudo: .: command not found
+INPUT|lclarkeu-intro-186|A2 A0 A4 A3 A1 |000000000|lclarkeu|intro:find . -name \".jpg\" -print|
+INPUT|lclarkeu-intro-187|A4 A3 A1 A2 A0 |000000000|lclarkeu|intro:find . -name \".jppeg\" -print|
+INPUT|lclarkeu-intro-188|A0 A2 A1 A4 A3 |000000000|lclarkeu|intro:find /home/place/to/crawl -type f -exec file --mime-type {}  \; | awk '{i|f ($NF == \"image/jpeg\") print $0 }'
+find: '/home/place/to/crawl': No such file or directory
+INPUT|lclarkeu-intro-189|M2 M0 |1537918989|lclarkeu|intro:find / -type f -name \"*.jpg\"|/var/log/136intro-3.jpg
+/usr/share/doc/libsane/umax/sane-umax-text2.jpg
+/usr/share/doc/libsane/umax/sane-umax-standard.jpg
+/usr/share/doc/libsane/umax/sane-umax-text.jpg
+/usr/share/doc/libsane/umax/sane-umax.jpg
+/usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+/usr/share/doc/libsane/umax/sane-umax-text4.jpg
+/usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+/usr/share/doc/libsane/umax/sane-logo.jpg
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|lclarkeu-intro-190|A4 A3 A1 A2 A0 |000000000|lclarkeu|intro:find /path/to -regex \".*\.\(jpg\|gif\|png\|jpeg\)\" > log|bash: log: Permission denied
+INPUT|lclarkeu-intro-191|A1 A4 A3 A0 A2 |000000000|lclarkeu|intro:find -E /path/to -regex \".*\.(jpg|gif|png|jpeg)\" > log|bash: log: Permission denied
+INPUT|lclarkeu-intro-192|A1 A4 A3 A0 A2 |000000000|lclarkeu|intro:find -E /path/to -regex \".*\.(jpg|gif|png|jpeg)\"|find: unknown predicate `-E'
+INPUT|lclarkeu-intro-193|A2 A0 A4 A3 A1 |000000000|lclarkeu|intro:find -E /path/to -regex \".*\.(jpg|jpeg)\"|find: unknown predicate `-E'
+INPUT|lclarkeu-intro-194|A0 A2 A1 A4 A3 |000000000|lclarkeu|intro:find /path/to -regex \".*\.(jpg|jpeg)\"|find: '/path/to': No such file or directory
+INPUT|lclarkeu-intro-195|A4 A3 A1 A2 A0 |000000000|lclarkeu|intro:find / -regex \".*\.(jpg|jpeg)\"|
+INPUT|lclarkeu-intro-196|A4 A3 A1 A2 A0 |000000000|lclarkeu|intro:find / -regex \".*\.(jpg|jpeg)\"|
+INPUT|lclarkeu-intro-197|A2 A0 A4 A3 A1 |000000000|lclarkeu|intro:find / -regex \".*\.(jpg|jpeg)\" > log|bash: log: Permission denied
+INPUT|lclarkeu-intro-198|A2 A0 A4 A3 A1 |000000000|lclarkeu|intro:find / -regex \".*\.(jpg|jpeg)\" -print|
+INPUT|lclarkeu-intro-199|M2 |000000000|lclarkeu|intro:find / -regex x".*\.(jpg|jpeg)\" -print|!TRUNCATED TO 500L! /
+/sbin
+/sbin/blockdev
+/sbin/rarp
+/sbin/lvscan
+/sbin/installkernel
+/sbin/insmod
+/sbin/pam_tally2
+/sbin/iscsi_discovery
+/sbin/kbdrate
+/sbin/shadowconfig
+/sbin/cfdisk
+/sbin/e2undo
+/sbin/pam_extrausers_chkpwd
+/sbin/capsh
+/sbin/fsck.cramfs
+/sbin/mii-tool
+/sbin/mkfs.ext4
+/sbin/vconfig
+/sbin/mkfs.ntfs
+/sbin/mdadm
+/sbin/veritysetup
+/sbin/iscsi-iname
+/sbin/request-key
+/sbin/mkfs.msdos
+/sbin/sfdisk
+/sbin/ntfslabel
+/sbin/xfs_repair
+/sbin/fatlabel
+/sbin/fsck.fat
+/sbin/pvcreate
+/sbin/fsck.vfat
+/sbin/fsck
+/sbin/dumpe2fs
+/sbin/mount.ntfs-3g
+/sbin/pvremove
+/sbin/tipc
+/sbin/mkfs.xfs
+/sbin/depmod
+/sbin/vgcfgbackup
+/sbin/cryptsetup-reencrypt
+/sbin/lvmchange
+/sbin/findfs
+/sbin/lvremove
+/sbin/dosfsck
+/sbin/mkfs.cramfs
+/sbin/lsmod
+/sbin/fsck.ext4dev
+/sbin/mount.fuse
+/sbin/vgchange
+/sbin/ntfsresize
+/sbin/vgdisplay
+/sbin/ifdown
+/sbi
+INPUT|lclarkeu-intro-200|M2 |000000000|lclarkeu|intro:find / \".*\.(jpg|jpeg)\"|!TRUNCATED TO 500L! /
+/sbin
+/sbin/blockdev
+/sbin/rarp
+/sbin/lvscan
+/sbin/installkernel
+/sbin/insmod
+/sbin/pam_tally2
+/sbin/iscsi_discovery
+/sbin/kbdrate
+/sbin/shadowconfig
+/sbin/cfdisk
+/sbin/e2undo
+/sbin/pam_extrausers_chkpwd
+/sbin/capsh
+/sbin/fsck.cramfs
+/sbin/mii-tool
+/sbin/mkfs.ext4
+/sbin/vconfig
+/sbin/mkfs.ntfs
+/sbin/mdadm
+/sbin/veritysetup
+/sbin/iscsi-iname
+/sbin/request-key
+/sbin/mkfs.msdos
+/sbin/sfdisk
+/sbin/ntfslabel
+/sbin/xfs_repair
+/sbin/fatlabel
+/sbin/fsck.fat
+/sbin/pvcreate
+/sbin/fsck.vfat
+/sbin/fsck
+/sbin/dumpe2fs
+/sbin/mount.ntfs-3g
+/sbin/pvremove
+/sbin/tipc
+/sbin/mkfs.xfs
+/sbin/depmod
+/sbin/vgcfgbackup
+/sbin/cryptsetup-reencrypt
+/sbin/lvmchange
+/sbin/findfs
+/sbin/lvremove
+/sbin/dosfsck
+/sbin/mkfs.cramfs
+/sbin/lsmod
+/sbin/fsck.ext4dev
+/sbin/mount.fuse
+/sbin/vgchange
+/sbin/ntfsresize
+/sbin/vgdisplay
+/sbin/ifdown
+/sbi
+INPUT|lclarkeu-intro-201|A0 A2 A1 A3 A4 |000000000|lclarkeu|intro:find / -name (jpg|jpeg)\"|
+INPUT|lclarkeu-intro-202|A1 A4 A3 A0 A2 |000000000|lclarkeu|intro:find . -name \"p.*\.(jpg|jpeg)\" -print|
+INPUT|lclarkeu-intro-203|A0 A2 A1 A4 A3 |000000000|lclarkeu|intro:find . -name \".*\.(jpg|jpeg)\" -print|
+INPUT|lclarkeu-intro-204|A0 A2 A1 A3 A4 |000000000|lclarkeu|intro:find . -name \"(jpg)jpeeg\" -print|
+INPUT|lclarkeu-intro-205|M2 M0 |000000000|lclarkeu|intro:find . -name \"j*.\" -print|./var/log/136intro-3.jpg
+./usr/share/doc/libsane/umax/sane-umax-text2.jpg
+./usr/share/doc/libsane/umax/sane-umax-standard.jpg
+./usr/share/doc/libsane/umax/sane-umax-text.jpg
+./usr/share/doc/libsane/umax/sane-umax.jpg
+./usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+./usr/share/doc/libsane/umax/sane-umax-text4.jpg
+./usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+./usr/share/doc/libsane/umax/sane-logo.jpg
+./usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|lclarkeu-intro-206|M4 |000000000|lclarkeu|intro:find . -name \"*.jpgeg -print|./.hidden/asdf136Intro-5kqlw.jpeg
+INPUT|lclarkeu-intro-207|U |000000000|lclarkeu|intro:cd ./.hidden/|
+INPUT|lclarkeu-intro-208|U |1537918449|lclarkeu|intro:ls|asdf136Intro-5kqlw.jpeg
+INPUT|lclarkeu-intro-209|U |000000000|lclarkeu|intro:cd ..|
+INPUT|lclarkeu-intro-210|U |1537919543|lclarkeu|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp    var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   users  vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   usr    vmlinuz.old
+INPUT|lclarkeu-intro-211|A2 A0 A4 A3 A1 |000000000|lclarkeu|intro:find . -name "*.jpeg" -print|
+INPUT|lclarkeu-intro-212|U |000000000|lclarkeu|intro:cd ./.hidden/|
+INPUT|lclarkeu-intro-213|U |1537919549|lclarkeu|intro:ls|asdf136Intro-5kqlw.jpeg
+INPUT|lclarkeu-intro-214|U |000000000|lclarkeu|intro:cd .|
+INPUT|lclarkeu-intro-215|U |1537919562|lclarkeu|intro:ls|asdf136Intro-5kqlw.jpeg
+INPUT|lclarkeu-intro-216|U |000000000|lclarkeu|intro:cd .|
+INPUT|lclarkeu-intro-217|U |1537919565|lclarkeu|intro:ls|asdf136Intro-5kqlw.jpeg
+INPUT|lclarkeu-intro-218|U |000000000|lclarkeu|intro:cd ..|
+INPUT|lclarkeu-intro-219|U |1537919568|lclarkeu|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp    var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   users  vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   usr    vmlinuz.old
+INPUT|lclarkeu-intro-220|U |000000000|lclarkeu|intro:cd ..|
+INPUT|lclarkeu-intro-221|M2 |000000000|lclarkeu|intro:find . -name \"*intro*\" & -name \"*.jpg\"|%[1] 2912
+./var/log/ttylog/ttylog.intro.0
+./var/log/ttylog/alltty.intro
+./var/log/ttylog/cli.intro.csv
+./var/log/136intro-3.jpg
+No command '-name' found%% did you mean:
+ Command 'uname' from package 'coreutils' (main)
+-name: command not found%
+INPUT|lclarkeu-intro-222|U |000000000|lclarkeu|intro:./etc/wuer136intro-4.JPG|./etc/apparmor.d/abstractions/apparmor_api/introspect
+./proj/intro.createimage.Share
+./proj/CS495LC/exp/derek-linuxintro
+./proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.ns
+./proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.png
+./proj/CS495LC/exp/george-introUnix
+./proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.png
+./proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.ns
+./proj/CS495LC/exp/jmache-intro2
+./proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.ns
+./proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.png
+./proj/CS495LC/exp/lclarkai-intro
+./proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.ns
+./proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.png
+./proj/CS495LC/exp/lclarkan-intro
+./proj/CS495LC/exp/lclarkan-intro/tbdata/lclarkan-intro.ns
+./proj/CS495LC/exp/lclarkan-intro/tbdata/lclarkan-intro.png
+./proj/CS495LC/exp/qrohlf-intro
+./proj/CS495LC/exp/qrohlf-intro/tbdata/qrohlf-int
+INPUT|lclarkeu-intro-223|U |1537919572|lclarkeu|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp    var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   users  vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   usr    vmlinuz.old
+INPUT|lclarkeu-intro-224|U |1537920046|lclarkeu|intro:sftp lclarkeu@intro|ssh: Could not resolve hostname intro: Name or service not known
+
+Couldn't read packet: Connection reset by peer
+
+INPUT|lclarkeu-intro-225|U |1537920056|lclarkeu|intro:sftp lclarkeu@intro:|ssh: Could not resolve hostname intro: Name or service not known
+
+Couldn't read packet: Connection reset by peer
+
+INPUT|lclarkeu-intro-226|U |1537920019|lclarkeu|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp    var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   users  vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   usr    vmlinuz.old
+INPUT|lclarkeu-intro-227|U |000000000|lclarkeu|intro:cd ./etc|
+INPUT|lclarkeu-intro-228|U |1537920061|lclarkeu|intro:ls|acpi   gai.conf  ltrace.conf    request-key.conf
+adduser.conf  gconf   lvm     request-key.d
+alternatives  gdb   machine-id    resolvconf
+ansible   ghostscript  magic     resolv.conf
+apache2   groff   magic.mime    rlwrap
+apm   group   mailcap    rmt
+apparmor  group-   mailcap.order    rpc
+apparmor.d  grub.d   manpath.config    rsyslog.conf
+apport   gshadow   mdadm     rsyslog.d
+apt   gshadow-  mime.types    sane.d
+at.deny   gss   mke2fs.conf    screenrc
+at-spi2   gtk-3.0   modprobe.d    securetty
+bash.bashrc  hdparm.conf  modules    security
+bash_completion  host.conf  modules-load.d    selinux
+bash_completion.d hostname  mtab     services
+bindresvport.blacklis
+INPUT|lclarkeu-intro-229|U |000000000|lclarkeu|intro:mv wuer* /home/top_secret/|mv: cannot move 'wuer136intro-4.JPG' to '/home/top_secret/wuer136intro-4.JPG': Permission denied
+INPUT|lclarkeu-intro-230|U |000000000|lclarkeu|intro:er* /home/top_secret/|
+INPUT|lclarkeu-intro-231|U |000000000|lclarkeu|intro:cd ../|
+INPUT|lclarkeu-intro-232|U |1537920084|lclarkeu|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp    var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   users  vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   usr    vmlinuz.old
+INPUT|lclarkeu-intro-233|U |000000000|lclarkeu|intro:cd home|
+INPUT|lclarkeu-intro-234|U |1537920274|lclarkeu|intro:ls|deter  top_secret
+INPUT|lclarkeu-intro-235|U |000000000|lclarkeu|intro:cd top*|
+INPUT|lclarkeu-intro-236|U |1537920279|lclarkeu|intro:ls|wuer136intro-4.JPG
+INPUT|lclarkeu-intro-237|U |000000000|lclarkeu|intro:cd ./usr/share/pixmaps|bash: cd: ./usr/share/pixmaps: No such file or directory
+INPUT|lclarkeu-intro-238|U |000000000|lclarkeu|intro:cd ../|
+INPUT|lclarkeu-intro-239|U |000000000|lclarkeu|intro:cd ./usr/share/pixmaps|bash: cd: ./usr/share/pixmaps: No such file or directory
+INPUT|lclarkeu-intro-240|U |000000000|lclarkeu|intro:cd ./usr/share/pixmaps/|bash: cd: ./usr/share/pixmaps/: No such file or directory
+INPUT|lclarkeu-intro-241|U |000000000|lclarkeu|intro:usr/share/pixmaps/|sudo: cd: command not found
+INPUT|lclarkeu-intro-242|U |1537920374|lclarkeu|intro:cd ./usr/share/pixmaps/|
+INPUT|lclarkeu-intro-243|U |000000000|lclarkeu|intro:cd ./usr/share/|bash: cd: ./usr/share/: No such file or directory
+INPUT|lclarkeu-intro-244|U |1537920284|lclarkeu|intro:ls|deter  top_secret
+INPUT|lclarkeu-intro-245|U |000000000|lclarkeu|intro:cd ../|
+INPUT|lclarkeu-intro-246|U |1537920383|lclarkeu|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp    var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   users  vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   usr    vmlinuz.old
+INPUT|lclarkeu-intro-247|U |000000000|lclarkeu|intro:cd ./usr/share/pixmaps/|
+INPUT|lclarkeu-intro-248|U |000000000|lclarkeu|intro:cd ./usr/share/pixmaps/|
+INPUT|lclarkeu-intro-249|U |1537920389|lclarkeu|intro:ls|debian-logo.png        pstree16.xpm   python3.5.xpm  vim-16.xpm  xbzf136INTRO-1.jpg
+gvim.svg        pstree32.xpm   python3.xpm    vim-32.xpm
+language-selector.png  python2.7.xpm  python.xpm     vim-48.xpm
+INPUT|lclarkeu-intro-250|U |000000000|lclarkeu|intro:mv xbz* /home/top_secret/|mv: cannot move 'xbzf136INTRO-1.jpg' to '/home/top_secret/xbzf136INTRO-1.jpg': Permission denied
+INPUT|lclarkeu-intro-251|U |000000000|lclarkeu|intro:z* /home/top_secret/|
+INPUT|lclarkeu-intro-252|U |1537920399|lclarkeu|intro:ls|debian-logo.png        pstree16.xpm   python3.5.xpm  vim-16.xpm
+gvim.svg        pstree32.xpm   python3.xpm    vim-32.xpm
+language-selector.png  python2.7.xpm  python.xpm     vim-48.xpm
+INPUT|lclarkeu-intro-253|U |000000000|lclarkeu|intro:cd ../|
+INPUT|lclarkeu-intro-254|U |000000000|lclarkeu|intro:cd ../|
+INPUT|lclarkeu-intro-255|U |000000000|lclarkeu|intro:cd ../|
+INPUT|lclarkeu-intro-256|U |1537920430|lclarkeu|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp    var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   users  vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   usr    vmlinuz.old
+INPUT|lclarkeu-intro-257|U |000000000|lclarkeu|intro:cd home|
+INPUT|lclarkeu-intro-258|U |000000000|lclarkeu|intro:cd top*|
+INPUT|lclarkeu-intro-259|U |1537920444|lclarkeu|intro:ls|wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkeu-intro-260|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-261|U |1537920453|lclarkeu|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp    var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   users  vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   usr    vmlinuz.old
+INPUT|lclarkeu-intro-262|U |000000000|lclarkeu|intro:cd ./.hidden/|
+INPUT|lclarkeu-intro-263|U |1537920464|lclarkeu|intro:ls|asdf136Intro-5kqlw.jpeg
+INPUT|lclarkeu-intro-264|U |000000000|lclarkeu|intro:mv/home/top_secret|
+INPUT|lclarkeu-intro-265|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-266|U |1537920481|lclarkeu|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp    var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   users  vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   usr    vmlinuz.old
+INPUT|lclarkeu-intro-267|U |000000000|lclarkeu|intro:cd home|
+INPUT|lclarkeu-intro-268|U |000000000|lclarkeu|intro:cd top*|
+INPUT|lclarkeu-intro-269|U |1537920511|lclarkeu|intro:ls|asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkeu-intro-270|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-271|U |000000000|lclarkeu|intro:cd ./dev/|
+INPUT|lclarkeu-intro-272|U |1537920517|lclarkeu|intro:ls|136intro-2jjaj.JPEG  input   rfkill    tty19  tty45      ttyS12  uinput
+autofs       kfd   rtc    tty2   tty46      ttyS13  urandom
+block       kmsg   rtc0    tty20  tty47      ttyS14  userio
+bsg       lightnvm   sda    tty21  tty48      ttyS15  vcs
+btrfs-control      log   sda1    tty22  tty49      ttyS16  vcs1
+bus       loop0   sda2    tty23  tty5      ttyS17  vcs2
+cdrom       loop1   sda3    tty24  tty50      ttyS18  vcs3
+char       loop2   sg0    tty25  tty51      ttyS19  vcs4
+console       loop3   sg1    tty26  tty52      ttyS2   vcs5
+core       loop4   sg2    tty27  tty53      ttyS20  vcs6
+cpu       loop5   shm    tty28  tty54      ttyS21  vcs7
+cpu_dma_latency      loop6   snapshot  tty29  tty55      ttyS22  vcsa
+cuse       loop7   snd    tty3   tty56      ttyS23  vcsa1<
+INPUT|lclarkeu-intro-273|U |000000000|lclarkeu|intro:mv 136intro* /home/top_secret|
+INPUT|lclarkeu-intro-274|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-275|U |000000000|lclarkeu|intro:cd home|
+INPUT|lclarkeu-intro-276|U |000000000|lclarkeu|intro:cd top*|
+INPUT|lclarkeu-intro-277|U |1537920532|lclarkeu|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkeu-intro-278|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-279|U |000000000|lclarkeu|intro:cd ./var/log/|
+INPUT|lclarkeu-intro-280|U |1537920563|lclarkeu|intro:ls|136intro-3.jpg   bootstrap.log  dpkg.log  fsck     lxd       tiplogs
+alternatives.log  btmp   emulab.log  installer  ntpstats  ttylog
+apt    dist-upgrade  faillog  kern.log   quagga    unattended-upgrades
+auth.log   dmesg   fontconfig.log  lastlog    syslog    wtmp
+INPUT|lclarkeu-intro-281|U |000000000|lclarkeu|intro:mv 136intro* /home/top_secret/|
+INPUT|lclarkeu-intro-282|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-283|U |000000000|lclarkeu|intro:cd home|
+INPUT|lclarkeu-intro-284|U |000000000|lclarkeu|intro:cd top*|
+INPUT|lclarkeu-intro-285|U |1537920579|lclarkeu|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkeu-intro-286|U |1537920623|lclarkeu|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkeu-intro-287|U |000000000|lclarkeu|intro:echo '|> ^C
+INPUT|lclarkeu-intro-288|U |000000000|lclarkeu|intro:echo 'xbzf136INTRO-1.jpg^C|
+INPUT|lclarkeu-intro-289|U |1537920791|lclarkeu|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkeu-intro-290|U |000000000|lclarkeu|intro:cd ../|
+INPUT|lclarkeu-intro-291|U |1537921269|lclarkeu|intro:ls|deter  top_secret
+INPUT|lclarkeu-intro-292|U |1537921425|lclarkeu|intro:tar cvzf lclarkeu-hw1.tar.gz top_secret|tar (child): lclarkeu-hw1.tar.gz: Cannot open: Permission denied
+tar (child): Error is not recoverable: exiting now
+top_secret/
+top_secret/xbzf136INTRO-1.jpg
+INPUT|lclarkeu-intro-293|U |000000000|lclarkeu|intro:vzf lclarkeu-hw1.tar.gz top_secret|top_secret/
+top_secret/xbzf136INTRO-1.jpg
+top_secret/wuer136intro-4.JPG
+top_secret/136intro-2jjaj.JPEG
+top_secret/136intro-3.jpg
+top_secret/asdf136Intro-5kqlw.jpeg
+INPUT|lclarkeu-intro-294|U |1537921367|lclarkeu|intro:ls|deter  lclarkeu-hw1.tar.gz  top_secret
+INPUT|lclarkeu-intro-295|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-296|U |000000000|lclarkeu|intro:pscp /home/lclarkeu-hw1.tar.gz lclarkeu@users.deterlab.net|The program 'pscp' is currently not installed. To run 'pscp' please ask your administrator to install the package 'putty-tools'
+INPUT|lclarkeu-intro-297|U |000000000|lclarkeu|intro:pscp /home/lclarkeu-hw1.tar.gz lclarkeu@users.deterlab.net|cp: cannot create regular file 'lclarkeu@users.deterlab.net': Permission denied
+INPUT|lclarkeu-intro-298|U |000000000|lclarkeu|intro:cd /home|
+INPUT|lclarkeu-intro-299|U |1537922545|lclarkeu|intro:ls|deter  lclarkeu-hw1.tar.gz  top_secret
+INPUT|lclarkeu-intro-300|U |000000000|lclarkeu|intro:pscp lclarkeu@|
+INPUT|lclarkeu-intro-301|U |000000000|lclarkeu|intro:cd /home|
+INPUT|lclarkeu-intro-302|U |1537977456|lclarkeu|intro:ls|deter
+INPUT|lclarkeu-intro-303|U |1537977460|lclarkeu|intro:ls|deter
+INPUT|lclarkeu-intro-304|U |000000000|lclarkeu|intro:cd deter|
+INPUT|lclarkeu-intro-305|U |1537977466|lclarkeu|intro:ls|
+INPUT|lclarkeu-intro-306|U |1537977469|lclarkeu|intro:ls|
+INPUT|lclarkeu-intro-307|U |000000000|lclarkeu|intro:cd /\|> sc<BS> <BS><BS> <BS><BEL>quit
+bash: cd: /quit: No such file or directory
+INPUT|lclarkeu-intro-308|U |1537977471|lclarkeu|intro:ls|
+INPUT|lclarkeu-intro-309|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-310|U |1537977481|lclarkeu|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkeu-intro-311|U |000000000|lclarkeu|intro:cd home|
+INPUT|lclarkeu-intro-312|U |1537977485|lclarkeu|intro:ls|deter
+INPUT|lclarkeu-intro-313|U |1537977503|lclarkeu|intro:cd top_secret|sudo: cd: command not found
+INPUT|lclarkeu-intro-314|U |1537977515|lclarkeu|intro:mkdir top_secret|
+INPUT|lclarkeu-intro-315|U |1537977491|lclarkeu|intro:ls|deter  top_secret
+INPUT|lclarkeu-intro-316|U |000000000|lclarkeu|intro:top_secret|top_secret: command not found
+INPUT|lclarkeu-intro-317|U |000000000|lclarkeu|intro:cd top*|
+INPUT|lclarkeu-intro-318|U |1537977516|lclarkeu|intro:ls|
+INPUT|lclarkeu-intro-319|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-320|U |1537977527|lclarkeu|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkeu-intro-321|U |000000000|lclarkeu|intro:cd ./usr/share/pixmaps|
+INPUT|lclarkeu-intro-322|U |000000000|lclarkeu|intro:mv xbzfl* /home/top_secret|mv: cannot stat 'xbzfl*': No such file or directory
+INPUT|lclarkeu-intro-323|U |1537977572|lclarkeu|intro:ls|debian-logo.png        pstree32.xpm   python.xpm  xbzf136INTRO-1.jpg
+gvim.svg        python2.7.xpm  vim-16.xpm
+language-selector.png  python3.5.xpm  vim-32.xpm
+pstree16.xpm        python3.xpm    vim-48.xpm
+INPUT|lclarkeu-intro-324|U |000000000|lclarkeu|intro:mv xbz* /home/top_secret/|
+INPUT|lclarkeu-intro-325|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-326|U |1537977618|lclarkeu|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkeu-intro-327|U |000000000|lclarkeu|intro:mv ./dev/136i* /home/top_secret/|
+INPUT|lclarkeu-intro-328|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-329|U |000000000|lclarkeu|intro:cd ./var/log/136i* /home/top_secret/|bash: cd: ./var/log/136intro-3.jpg: Not a directory
+INPUT|lclarkeu-intro-330|U |000000000|lclarkeu|intro:mvr/log/136i* /home/top_secret/|
+INPUT|lclarkeu-intro-331|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-332|U |000000000|lclarkeu|intro:cd ./etc|
+INPUT|lclarkeu-intro-333|U |000000000|lclarkeu|intro:mv wver* /home/top_secret|mv: cannot stat 'wver*': No such file or directory
+INPUT|lclarkeu-intro-334|U |1537977664|lclarkeu|intro:ls|acpi   idmapd.conf   profile
+adduser.conf  ImageMagick-6   profile.d
+alternatives  init    protocols
+ansible   init.d    python
+apache2   initramfs-tools   python2.7
+apm   inputrc    python3
+apparmor  insserv    python3.5
+apparmor.d  insserv.conf   quagga
+apport   insserv.conf.d   rc0.d
+apt   iproute2   rc1.d
+at.deny   iscsi    rc2.d
+at-spi2   issue    rc3.d
+bash.bashrc  issue.net   rc4.d
+bash_completion  java-8-openjdk   rc5.d
+bash_completion.d kbd    rc6.d
+bindresvport.blacklist kernel    rc.local
+binfmt.d  kernel-img.conf   rcS.d
+byobu   ldap    request-key.conf
+ca-certificates  ld.so.cache   request-key.d
+ca-certificates.conf ld.so.conf   resolvc
+INPUT|lclarkeu-intro-335|U |000000000|lclarkeu|intro:mv wuer* /home/top_secret/|
+INPUT|lclarkeu-intro-336|U |1537977775|lclarkeu|intro:ls|acpi   idmapd.conf   profile
+adduser.conf  ImageMagick-6   profile.d
+alternatives  init    protocols
+ansible   init.d    python
+apache2   initramfs-tools   python2.7
+apm   inputrc    python3
+apparmor  insserv    python3.5
+apparmor.d  insserv.conf   quagga
+apport   insserv.conf.d   rc0.d
+apt   iproute2   rc1.d
+at.deny   iscsi    rc2.d
+at-spi2   issue    rc3.d
+bash.bashrc  issue.net   rc4.d
+bash_completion  java-8-openjdk   rc5.d
+bash_completion.d kbd    rc6.d
+bindresvport.blacklist kernel    rc.local
+binfmt.d  kernel-img.conf   rcS.d
+byobu   ldap    request-key.conf
+ca-certificates  ld.so.cache   request-key.d
+ca-certificates.conf ld.so.conf   resolvc
+INPUT|lclarkeu-intro-337|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-338|U |000000000|lclarkeu|intro:cd ./.hidden/|
+INPUT|lclarkeu-intro-339|U |000000000|lclarkeu|intro:mv asdf* /home/top_secret|
+INPUT|lclarkeu-intro-340|U |000000000|lclarkeu|intro:cd /|
+INPUT|lclarkeu-intro-341|U |000000000|lclarkeu|intro:cd /home/top_secret|
+INPUT|lclarkeu-intro-342|U |1537977797|lclarkeu|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkeu-intro-343|U |000000000|lclarkeu|intro:cd ..|
+INPUT|lclarkeu-intro-344|U |1537977837|lclarkeu|intro:ls|deter  top_secret
+INPUT|lclarkeu-intro-345|U |1537977892|lclarkeu|intro:tar cvzf top_secret.tar.gz /home/|tar: Removing leading `/' from member names
+tar (child): top_secret.tar.gz: Cannot open: Permission denied
+tar (child): Error is not recoverable: exiting now
+/home/
+/home/deter/
+/home/deter/.bash_logout
+/home/deter/.profile
+/home/deter/.bashrc
+/home/top_secret/
+/home/top_secret/xbzf136INTRO-1.jpg
+INPUT|lclarkeu-intro-346|U |000000000|lclarkeu|intro:vzf top_secret.tar.gz /home/|tar: Removing leading `/' from member names
+/home/
+/home/deter/
+/home/deter/.bash_logout
+/home/deter/.profile
+/home/deter/.bashrc
+/home/top_secret/
+/home/top_secret/xbzf136INTRO-1.jpg
+/home/top_secret/wuer136intro-4.JPG
+/home/top_secret/136intro-2jjaj.JPEG
+/home/top_secret/136intro-3.jpg
+/home/top_secret/asdf136Intro-5kqlw.jpeg
+tar: /home: file changed as we read it
+INPUT|lclarkeu-intro-347|U |1537977845|lclarkeu|intro:ls|deter  top_secret  top_secret.tar.gz
+INPUT|lclarkeu-intro-348|U |000000000|lclarkeu|intro:pwd|/home
+INPUT|lclarkeu-intro-349|U |1537977904|lclarkeu|intro:ls|deter  top_secret  top_secret.tar.gz
+INPUT|lclarkeu-intro-350|U |000000000|lclarkeu|intro:cd top_secret.tar.gz|bash: cd: top_secret.tar.gz: Not a directory
+INPUT|lclarkeu-intro-351|U |1537978348|lclarkeu|intro:lscd top_secret.tar.gz|bash: cd: top_secret.tar.gz: Not a directory
+INPUT|lclarkeu-intro-352|U |000000000|lclarkeu|intro:pwd|/home

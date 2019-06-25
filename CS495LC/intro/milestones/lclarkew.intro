@@ -1,0 +1,456 @@
+User lclarkew start time 1537815416 end 1537841501
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkew-intro-0|U |000000000|lclarkew|:|
+INPUT|lclarkew-intro-1|U |000000000|lclarkew|:|
+INPUT|lclarkew-intro-2|A1 A4 A3 A0 A2 |000000000|lclarkew|intro:find / -iname \"*intro*.JPEG\\"|!TRUNCATED TO 500L! find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied
+find: '/proc/2/task/2/fd': Permission denied
+find: '/proc/2/task/2/fdinfo': Permission denied
+find: '/proc/2/task/2/n
+INPUT|lclarkew-intro-3|A1 A4 A3 A0 A2 |000000000|lclarkew|intro:find / -iname \"*intro*.JPEG\\" 2>dev/null|bash: dev/null: No such file or directory
+INPUT|lclarkew-intro-4|M4 M1 |000000000|lclarkew|intro:find / -iname \"*intro*.JPEG\" 2>/dev/null|/.hidden/asdf136Intro-5kqlw.jpeg
+/dev/136intro-2jjaj.JPEG
+INPUT|lclarkew-intro-5|U |1537833978|lclarkew|intro:cp /dev/136intro-2jjaj.JPEG top_secret|
+INPUT|lclarkew-intro-6|U |1537834008|lclarkew|intro:cp /.hidden/asdf136Intro-5kqlw.jpeg top_secret|
+INPUT|lclarkew-intro-7|U |1537834012|lclarkew|intro:ls|top_secret
+INPUT|lclarkew-intro-8|U |000000000|lclarkew|intro:cd top_secret|
+INPUT|lclarkew-intro-9|U |1537834025|lclarkew|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkew-intro-10|U |1537834171|lclarkew|intro:lscd ../ecret|
+INPUT|lclarkew-intro-11|U |000000000|lclarkew|intro:cp /.hidden/asdf136Intro-5kqlw.jpeg top_secret|
+INPUT|lclarkew-intro-12|U |000000000|lclarkew|intro:cp /dev/136intro-2jjaj.JPEG top_secret|
+INPUT|lclarkew-intro-13|M3 M2 M0 |000000000|lclarkew|intro:find / -iname \"*intro*.JPEG\" 2>/dev/null|/var/log/136intro-3.jpg
+/users/lclarkew/top_secret/wuer136intro-4.JPG
+/users/lclarkew/top_secret/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|lclarkew-intro-14|U |1537834169|lclarkew|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkew-intro-15|U |1537834180|lclarkew|intro:ls|top_secret
+INPUT|lclarkew-intro-16|U |000000000|lclarkew|intro:cd top_secret|
+INPUT|lclarkew-intro-17|U |000000000|lclarkew|intro:;s|bash: syntax error near unexpected token `;'
+INPUT|lclarkew-intro-18|U |000000000|lclarkew|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkew-intro-19|U |000000000|lclarkew|intro:cd top_secret|
+INPUT|lclarkew-intro-20|U |1537835478|lclarkew|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkew-intro-21|U |000000000|lclarkew|intro:xdg-open|bash: syntax error near unexpected token `newline'
+INPUT|lclarkew-intro-22|U |000000000|lclarkew|intro:fehro-3.jpg>|bash: syntax error near unexpected token `newline'
+INPUT|lclarkew-intro-23|U |000000000|lclarkew|intro:feh wuer136intro-4.JPG|The program 'feh' is currently not installed. To run 'feh' please ask your administrator to install the package 'feh'
+INPUT|lclarkew-intro-24|U |000000000|lclarkew|intro:gnome-open wuer136intro-4.JPG|The program 'gnome-open' is currently not installed. To run 'gnome-open' please ask your administrator to install the package 'libgnome2-bin'
+INPUT|lclarkew-intro-25|U |000000000|lclarkew|intro:xdg-open wuer136intro-4.JPG|The program 'xdg-open' is currently not installed. To run 'xdg-open' please ask your administrator to install the package 'xdg-utils'
+INPUT|lclarkew-intro-26|U |000000000|lclarkew|intro:get * wuer136intro-4.JPG|%No command 'get' found%% but there are 18 similar ones
+get: command not found%
+INPUT|lclarkew-intro-27|U |000000000|lclarkew|intro:cd ..|
+INPUT|lclarkew-intro-28|U |1537837493|lclarkew|intro:sftp ssh lclarkew@users.deterlab.net|ssh: Could not resolve hostname ssh: Name or service not known
+
+Couldn't read packet: Connection reset by peer
+
+INPUT|lclarkew-intro-29|U |000000000|lclarkew|intro:sftp kew@users.deterlab.net|ssh: connect to host users.deterlab.net port 22: Connection timed out
+
+Couldn't read packet: Connection reset by peer
+
+INPUT|lclarkew-intro-30|U |1537837517|lclarkew|intro:sftp lclarkew@users.deterlab.net|ssh: connect to host users.deterlab.net port 22: Connection timed out
+
+Couldn't read packet: Connection reset by peer
+
+INPUT|lclarkew-intro-31|U |000000000|lclarkew|intro:touch answers.txt|
+INPUT|lclarkew-intro-32|U |1537835519|lclarkew|intro:ls|answers.txt  top_secret
+INPUT|lclarkew-intro-33|U |1537838244|lclarkew|intro:cp answers.txt top_secret|
+INPUT|lclarkew-intro-34|U |1537838228|lclarkew|intro:ls|answers.txt  top_secret
+INPUT|lclarkew-intro-35|U |000000000|lclarkew|intro:cd top_secret|
+INPUT|lclarkew-intro-36|U |000000000|lclarkew|intro:;s|bash: syntax error near unexpected token `;'
+INPUT|lclarkew-intro-37|U |1537838246|lclarkew|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkew-intro-38|U |1537838347|lclarkew|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"answers.txt" 0L%% 0C[>c[2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                         
+INPUT|lclarkew-intro-39|U |1537839082|lclarkew|intro:touch diskfree.txt|
+INPUT|lclarkew-intro-40|U |000000000|lclarkew|intro:cd ../|
+INPUT|lclarkew-intro-41|U |1537839294|lclarkew|intro:file . | egrep 136intro-2jjaj.JPEG|
+INPUT|lclarkew-intro-42|U |1537838260|lclarkew|intro:ls|answers.txt  top_secret
+INPUT|lclarkew-intro-43|A0 A2 A1 A4 A3 |000000000|lclarkew|intro:find . | egrep 136intro-2jjaj.JPEG|./top_secret/136intro-2jjaj.JPEG
+INPUT|lclarkew-intro-44|U |1537839378|lclarkew|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"answers.txt" 0L%% 0C[>c[2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                         
+INPUT|lclarkew-intro-45|U |1537839592|lclarkew|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"answers.txt" 10L%% 331C[>c[1;1Hintro 1 is forbidden planet
+intro 2 is Godzilla
+intro 3 is It Came from Outer Space
+intro 4 is the Fly she had to kill the thing her husband had become
+intro 5 is 2001 a Space Odyssey
+
+/var contains subdirectories that contain the files the system writes while it ii[8;1Hs operating
+
+/dev contains all the files for special devices
+
+[94m~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18
+INPUT|lclarkew-intro-46|U |1537839310|lclarkew|intro:ls|answers.txt  top_secret
+INPUT|lclarkew-intro-47|U |000000000|lclarkew|intro:cd top_secret|
+INPUT|lclarkew-intro-48|U |1537839603|lclarkew|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      diskfree.txt
+answers.txt      wuer136intro-4.JPG
+INPUT|lclarkew-intro-49|U |1537839822|lclarkew|intro:vi answers|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"answers" [New File][>c[2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                          
+INPUT|lclarkew-intro-50|U |1537839858|lclarkew|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"answers.txt" 9L%% 200C[>c[2;1Hintro 1 is forbidden planet
+intro 2 is godzilla it is alive
+intro 3 is it came from outer space
+intro 4 is she had to kill the thing her husband had become
+intro 5 is 2001 a space odyssey
+:w
+ZZ
+
+[94m~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                       
+INPUT|lclarkew-intro-51|U |1537839616|lclarkew|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      diskfree.txt
+answers.txt      wuer136intro-4.JPG
+INPUT|lclarkew-intro-52|U |000000000|lclarkew|intro:cd ../|
+INPUT|lclarkew-intro-53|M6 |1537840327|lclarkew|intro:df|%Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 1003696         48    1003648   1%% /dev
+tmpfs                                                 204776      13632     191144   7%% /run
+/dev/sda1                                           15616412    2895108   11921356  20%% /
+tmpfs                                                1023868          0    1023868   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023868          0    1023868   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkew  2031313280 1274234240  594573952  69%% /users/lclarkew
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973280640 1763487744  36%% /proj/CS495LC
+tmpfs                                                 204776          0     204776  
+INPUT|lclarkew-intro-54|U |1537840534|lclarkew|intro:vi answers|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"answers" [New File][>c[2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                          
+INPUT|lclarkew-intro-55|U |1537840547|lclarkew|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"answers.txt" 10L%% 331C[>c[1;1Hintro 1 is forbidden planet
+intro 2 is Godzilla
+intro 3 is It Came from Outer Space
+intro 4 is the Fly she had to kill the thing her husband had become
+intro 5 is 2001 a Space Odyssey
+
+/var contains subdirectories that contain the files the system writes while it ii[8;1Hs operating
+
+/dev contains all the files for special devices
+
+[94m~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18
+INPUT|lclarkew-intro-56|U |1537840202|lclarkew|intro:ls|answers.txt  top_secret
+INPUT|lclarkew-intro-57|U |000000000|lclarkew|intro:cd top_secret|
+INPUT|lclarkew-intro-58|U |1537840679|lclarkew|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      diskfree.txt
+answers.txt      wuer136intro-4.JPG
+INPUT|lclarkew-intro-59|U |1537840741|lclarkew|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"answers.txt" 21L%% 517C[>c[2;1Hintro 1 is forbidden planet
+location was /usr/shar/pixmaps/xbzf136INTRO-1.jpg
+
+intro 2 is godzilla it is alive
+location was /dev/136intro-2jjaj.JPEG
+
+intro 3 is it came from outer space
+/var/log/136intro-3.jpg
+
+intro 4 is she had to kill the thing her husband had become
+/etc/wuer136intro-4.JPG
+
+intro 5 is 2001 a space odyssey
+/.hidden/asdf136Intro-5kqlw.jpeg
+
+/var contains subdirectories that contain the files the system writes while it ii[18;1Hs operating
+/dev contains all the files for special devices
+:w
+ZZ
+
+[94m~                                                                               [m[24;63H1%%0-1[9CAll[1;1H[?12l[?25h[?25l[24;63H2%%1  [2;1H[?12l[?25h[?25l[24;63H3[3;1H[?12l[?25h[?25l[24;63H4[4;1H[?12l[?25h[?25l[24;63H5[5;1H[?12l[?25h[?25l[24;63H6[6;1H[?12l[?25h[?25l[24;63H7[7;1H[?12l[?25h[?25l[24;63
+INPUT|lclarkew-intro-60|U |1537840844|lclarkew|intro:vi diskfree.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"diskfree.txt" 0L%% 0C[>c[2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                        
+INPUT|lclarkew-intro-61|A6 |1537840867|lclarkew|intro:df >diskfree.txt|
+INPUT|lclarkew-intro-62|U |1537840882|lclarkew|intro:vi diskfree.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"diskfree.txt" 10L%% 983C[>c[1;1HFilesystem[41C1K-blocks[7CUsed  Availabb[2;1Hle Use%% Mounted on
+udev[49C1003696[9C48    100366[4;1H48   1%% /dev
+tmpfs[49C204776      13632     19111[6;1H44   7%% /run
+/dev/sda1[43C15616412    2895204   1192122[8;1H60  20%% /
+tmpfs[48C1023868[10C0    102388[10;1H68   0%% /dev/shm
+tmpfs[51C5120[10C0[7C511[12;1H20   0%% /run/lock
+tmpfs[48C1023868[10C0    102388[14;1H68   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkew  2031313280 1274723968  59408433[16;1H52  69%% /users/lclarkew
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973280640 176348766[18;1H16  36%% /proj/CS495LC
+tmpfs[49C204776[10C0     20477[20;1H76   0%% /run/user/18201
+[94m~                                                                               [22;1H~                                                                               [23;
+INPUT|lclarkew-intro-63|U |000000000|lclarkew|intro:cd ../|
+INPUT|lclarkew-intro-64|M5 |1537840693|lclarkew|intro:lscpu|%Architecture:          x86_64
+CPU op-mode(s):        32-bit%% 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Thread(s) per core:    2
+Core(s) per socket:    1
+Socket(s):             2
+NUMA node(s):          1
+Vendor ID:             GenuineIntel
+CPU family:            15
+Model:                 4
+Model name:            Intel(R) Xeon(TM) CPU 3.00GHz
+Stepping:              1
+CPU MHz:               2992.887
+BogoMIPS:              5985.41
+L1d cache:             16K
+L2 cache:              1024K
+NUMA node0 CPU(s):     0-3
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc pebs bts nopl pni dtes64 monitor ds_cpl cid cx16 xtpr%
+INPUT|lclarkew-intro-65|U |1537841152|lclarkew|intro:ls|answers.txt  top_secret
+INPUT|lclarkew-intro-66|U |000000000|lclarkew|intro:cd top_secret|
+INPUT|lclarkew-intro-67|U |1537841160|lclarkew|intro:ls|136intro-2jjaj.JPEG  answers.txt       diskfree.txt  wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  :q     xbzf136INTRO-1.jpg
+INPUT|lclarkew-intro-68|U |1537841167|lclarkew|intro:vi diskfree.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"diskfree.txt" 10L%% 983C[>c[1;1HFilesystem[41C1K-blocks[7CUsed  Availabb[2;1Hle Use%% Mounted on
+udev[49C1003696[9C48    100366[4;1H48   1%% /dev
+tmpfs[49C204776      13632     19111[6;1H44   7%% /run
+/dev/sda1[43C15616412    2895204   1192122[8;1H60  20%% /
+tmpfs[48C1023868[10C0    102388[10;1H68   0%% /dev/shm
+tmpfs[51C5120[10C0[7C511[12;1H20   0%% /run/lock
+tmpfs[48C1023868[10C0    102388[14;1H68   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkew  2031313280 1274723968  59408433[16;1H52  69%% /users/lclarkew
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973280640 176348766[18;1H16  36%% /proj/CS495LC
+tmpfs[49C204776[10C0     20477[20;1H76   0%% /run/user/18201
+[94m~                                                                               [22;1H~                                                                               [23;
+INPUT|lclarkew-intro-69|U |1537841358|lclarkew|intro:ls|136intro-2jjaj.JPEG  answers.txt       diskfree.txt  wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  :q     xbzf136INTRO-1.jpg
+INPUT|lclarkew-intro-70|U |1537841366|lclarkew|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"answers.txt" 22L%% 560C[>c[2;1Hintro 1 is forbidden planet
+location was /usr/shar/pixmaps/xbzf136INTRO-1.jpg
+
+intro 2 is godzilla it is alive
+location was /dev/136intro-2jjaj.JPEG
+
+intro 3 is it came from outer space
+/var/log/136intro-3.jpg
+
+intro 4 is she had to kill the thing her husband had become
+/etc/wuer136intro-4.JPG
+
+intro 5 is 2001 a space odyssey
+/.hidden/asdf136Intro-5kqlw.jpeg
+
+/var contains subdirectories that contain the files the system writes while it ii[18;1Hs operating
+/dev contains all the files for special devices
+
+Jane Almeida%% janealmeida@lclark.edu%% lclarkew[24;63H1%%0-1[9CAll[1;1H[?12l[?25h[?25l[24;63H2%%1  [2;1H[?12l[?25h[?25l[24;63H3[3;1H[?12l[?25h[?25l[24;63H4[4;1H[?12l[?25h[?25l[24;63H5[5;1H[?12l[?25h[?25l[24;63H6[6;1H[?12l[?25h[?25l[24;63H7[7;1H[?12l[?25h[?25l[24;63H8[8;1H[?12l[?25h[?25l[24;63H9[9;1H[?12l[?25h[?25l
+INPUT|lclarkew-intro-71|U |000000000|lclarkew|intro:cd ../|
+INPUT|lclarkew-intro-72|U |1537841501|lclarkew|intro:tar cvzf lclarkew-intro21.tar.gz top_secret|top_secret/
+top_secret/wuer136intro-4.JPG
+top_secret/136intro-3.jpg
+top_secret/136intro-2jjaj.JPEG
+top_secret/asdf136Intro-5kqlw.jpeg
+top_secret/xbzf136INTRO-1.jpg
+top_secret/answers.txt
+top_secret/diskfree.txt
+top_secret/:q
+INPUT|lclarkew-intro-73|U |000000000|lclarkew|intro:tar cvzf lclarkew-intro21.tar.gz top_secret|
+INPUT|lclarkew-intro-74|U |000000000|lclarkew|intro:vi answers.txt^C|
+INPUT|lclarkew-intro-75|U |000000000|lclarkew|intro:^C|
+INPUT|lclarkew-intro-76|U |000000000|lclarkew|intro:^C|
+INPUT|lclarkew-intro-77|U |000000000|lclarkew|intro:exit|exit
+INPUT|lclarkew-intro-78|U |1537815416|lclarkew|intro:ls|top_secret
+INPUT|lclarkew-intro-79|A2 A0 A4 A3 A1 |1537815452|lclarkew|intro:find | xargs file $1 | grep JPEG|
+INPUT|lclarkew-intro-80|A4 A3 A1 A2 A0 |1537815497|lclarkew|intro:find | xargs file $1|%.:                             directory
+./.login_conf:                 ASCII text
+./.cshrc:                      ASCII text
+./.login:                      ASCII text
+./.mail_aliases:               ASCII text
+./.mailrc:                     ASCII text
+./.profile:                    ASCII text
+./.rhosts:                     ASCII text
+./.shrc:                       ASCII text
+./.ssl:                        directory
+./.ssl/emulab.pem:             ASCII text
+./.ssh:                        directory
+./.ssh/id_rsa:                 PEM RSA private key
+./.ssh/id_rsa.pub:             OpenSSH RSA public key
+./.ssh/known_hosts:            ASCII text
+./.ssh/id_emulab.pub:          OpenSSH RSA public key
+./.ssh/authorized_keys:        ASCII text%% with very long lines
+./.ssh/external_keys:          ASCII text
+./.forward:                    ASCII text
+./.bash_history:               ASCII text
+./.cache:                      directory
+./
+INPUT|lclarkew-intro-81|U |1537815707|lclarkew|intro:Find / -mount -name *intro* 2> /dev/null | xargs file $1| | grep JPEG ^C
+INPUT|lclarkew-intro-82|U |000000000|lclarkew|intro:Find / -mount -name *intro* 2> /dev/null | xargs file $1| | grep JPEG ^C
+INPUT|lclarkew-intro-83|M3 M2 |000000000|lclarkew|intro:find / -mount -name \"*intro*\" 2> /dev/null | xargs file $1 | g|%rep JPEG
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "<E0><FB><FC>\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkew-intro-84|M3 M2 |000000000|lclarkew|intro:find / -mount -name \"*intro*\" 2> /dev/null|/var/log/ttylog/ttylog.intro.0
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/share/exp/createimage/logs/cli.intro.csv.1535412403
+/proj/share/exp/createimage/logs/ttylog.intro.0
+/proj/share/exp/createimage/logs/alltty.intro
+/proj/share/exp/createimage/logs/cli.intro.csv
+/proj/share/exp/createimage/count.intro
+/local/logs/intro_startcmd.err
+/local/logs/intro_startcmd.err.10
+/local/logs/intro_startcmd.out.10
+/local/logs/intro_startcmd.out
+/local/logs/intro_startcmd.status.10
+/local/logs/intro_startcmd.status
+/usr/share/man/man4/intro.4.gz
+/usr/share/man/man2/intro.2.gz
+/usr/share/man/man1/intro.1.gz
+/usr/share/man/man5/intro.5.gz
+/usr/share/man/man8/intro.8.gz
+/usr/share/man/man6/intro.6.gz
+/usr/share/man/man3/intro.3.gz
+/usr/share/man/man7/intro.7.gz
+/usr/share/vi
+INPUT|lclarkew-intro-85|U |1537815842|lclarkew|intro:cp /etc/wuer136intro-4.JPG top_secret|
+INPUT|lclarkew-intro-86|U |1537815861|lclarkew|intro:cp /var/log/136intro-3.jpg top_secret|
+INPUT|lclarkew-intro-87|U |1537815864|lclarkew|intro:ls|top_secret
+INPUT|lclarkew-intro-88|U |000000000|lclarkew|intro:cd top_secret|
+INPUT|lclarkew-intro-89|U |1537815873|lclarkew|intro:ls|136intro-3.jpg wuer136intro-4.JPG
+INPUT|lclarkew-intro-90|U |000000000|lclarkew|intro:^C|
+INPUT|lclarkew-intro-91|U |000000000|lclarkew|intro:^C|
+INPUT|lclarkew-intro-92|U |000000000|lclarkew|intro:cd ../|
+INPUT|lclarkew-intro-93|U |000000000|lclarkew|intro:cp /var/log/136intro-3.jpg top_secret|
+INPUT|lclarkew-intro-94|U |000000000|lclarkew|intro:cp /etc/wuer136intro-4.JPG top_secret|
+INPUT|lclarkew-intro-95|A4 A3 A1 A2 A0 |1537815707|lclarkew|intro:find / -mouxargs file $1 | grep JPEG           xargs file $1 | grep JPEG|find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied
+find: '/proc/2/task/2/fd': Permission denied
+find: '/proc/2/task/2/fdinfo': Permission denied
+find: '/proc/2/task/2/ns': Permission denie
+INPUT|lclarkew-intro-96|A0 A2 A1 A3 A4 |1537815982|lclarkew|intro:find / xargs file $1 | grep JPEG|
+INPUT|lclarkew-intro-97|U |000000000|lclarkew|intro:cp /var/log/136intro-3.jpg top_secret|
+INPUT|lclarkew-intro-98|U |000000000|lclarkew|intro:cp /etc/wuer136intro-4.JPG top_secret|
+INPUT|lclarkew-intro-99|M3 M2 |000000000|lclarkew|intro:find / -mount -name \"*intro*\" 2> /dev/null|/var/log/ttylog/ttylog.intro.0
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/share/exp/createimage/logs/cli.intro.csv.1535412403
+/proj/share/exp/createimage/logs/ttylog.intro.0
+/proj/share/exp/createimage/logs/alltty.intro
+/proj/share/exp/createimage/logs/cli.intro.csv
+/proj/share/exp/createimage/count.intro
+/local/logs/intro_startcmd.err
+/local/logs/intro_startcmd.err.10
+/local/logs/intro_startcmd.out.10
+/local/logs/intro_startcmd.out
+/local/logs/intro_startcmd.status.10
+/local/logs/intro_startcmd.status
+/usr/share/man/man4/intro.4.gz
+/usr/share/man/man2/intro.2.gz
+/usr/share/man/man1/intro.1.gz
+/usr/share/man/man5/intro.5.gz
+/usr/share/man/man8/intro.8.gz
+/usr/share/man/man6/intro.6.gz
+/usr/share/man/man3/intro.3.gz
+/usr/share/man/man7/intro.7.gz
+/usr/share/vi
+INPUT|lclarkew-intro-100|A0 A2 A1 A3 A4 |000000000|lclarkew|intro:find / -mount -name \"*intro*\" 1> /dev/null|find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/etc/ssl/private': Permission denied
+find: '/etc/polkit-1/localauthority': Permission denied
+find: '/root': Permission denied
+find: '/lost+found': Permission denied
+INPUT|lclarkew-intro-101|M2 |000000000|lclarkew|intro:find / -iname \"*.jpg\"|!TRUNCATED TO 500L! find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+/var/log/136intro-3.jpg
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied
+find: '/proc/2/task/2/fd': Permission denied
+find: '/proc/2/task/2/fdinfo': Permission denied
+INPUT|lclarkew-intro-102|A2 A0 A4 A3 A1 |000000000|lclarkew|intro:find / -iname \"*.jpg\"|
+INPUT|lclarkew-intro-103|M2 |000000000|lclarkew|intro:find / -iname \"*.intro*"|!TRUNCATED TO 500L! find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+/var/log/ttylog/ttylog.intro.0
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/cli.intro.csv
+find: '/var/log/unattended-upgrades': Permission denied
+/var/log/136intro-3.jpg
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied<
+INPUT|lclarkew-intro-104|A4 A3 A1 A2 A0 |000000000|lclarkew|intro:find / -type f -name \"*intro\" 2> /dev/null|/var/log/ttylog/alltty.intro
+/proj/CS495LC/exp/introlc/logs/snoopy.intro
+/proj/CS495LC/exp/ErikDoheTreasure/logs/snoopy.intro
+/proj/CS495LC/exp/CaihusTreasure/logs/snoopy.intro
+/proj/CS495LC/exp/AJBerle-Unix/logs/snoopy.intro
+/proj/CS495LC/exp/jelenalc/logs/snoopy.intro
+/proj/CS495LC/exp/ptrouerbach-unix/logs/snoopy.intro
+/proj/CS495LC/exp/lclarkfi-intro21/count.intro
+/proj/CS495LC/exp/VictoriaTreasure/logs/snoopy.intro
+/proj/CS495LC/exp/jschaefer-treasure/logs/snoopy.intro
+/proj/CS495LC/exp/lclarkco-exp/logs/snoopy.intro
+/proj/CS495LC/exp/lclarkcp-treasure/logs/snoopy.intro
+/proj/CS495LC/exp/LionelTreasure/logs/snoopy.intro
+/proj/CS495LC/exp/BZuckerFirstThing/logs/snoopy.intro
+/proj/CS495LC/exp/jens-unix-fall-17/logs/snoopy.intro
+/proj/CS495LC/exp/raya-unix/logs/snoopy.intro
+/proj/CS495LC/exp/jaimiet-unix-fall/logs/snoopy.intro
+/proj/CS495LC/exp/oswald-treasure/logs/snoopy.intro
+/proj/CS495LC/exp/kenny-unix/logs/snoopy.intro
+/pr
+INPUT|lclarkew-intro-105|A2 A0 A4 A3 A1 |000000000|lclarkew|intro:find / -type f -name \"*i.JPEG" 2> /dev/null|^[[A^C
+INPUT|lclarkew-intro-106|M2 |000000000|lclarkew|intro:find / -type f -name \"*.Jjpgg" 2> /dev/null|/var/log/136intro-3.jpg
+/users/lclarkew/top_secret/136intro-3.jpg
+/share/chef/chef-packages/old/click/examples/imagepipe/example01.jpg
+/share/chef/chef-packages/old/click/examples/imagepipe/example02.jpg
+/share/education/MITMARPPoisoning_USC/html/images/arpspoof-net.jpg
+/share/education/MITMARPPoisoning_USC/html/images/eth-what.jpg
+/share/education/MITMARPPoisoning_USC/html/images/firefox-altered.jpg
+/share/education/MITMARPPoisoning_USC/html/images/firefox-unaltered.jpg
+/share/education/MITMARPPoisoning_USC/html/images/lynx-altered.jpg
+/share/education/MITMARPPoisoning_USC/html/images/lynx-unaltered.jpg
+/share/education/SecureCommunication_USC/html/intel-sponsor.jpg
+/share/education/SecureServer_USC/html/intel-sponsor.jpg
+/share/education/UMD_XSS/html/forum/images/sunglasses_sloth_left.jpg
+/share/education/UMD_XSS/html/forum/images/sunglasses_sloth_right.jpg
+/share/education/UMD_XSS/html/forum_old/images/sunglasses_sloth_left.jpg
+/share/edu

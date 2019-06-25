@@ -1,0 +1,17 @@
+User lclarkea start time 1543436453 end 1543436894
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkea-buffer-0|A0 |1543436453|lclarkea|server:./webserver 8080|sudo: ./webserver: command not found
+INPUT|lclarkea-buffer-1|U |000000000|lclarkea|:|
+INPUT|lclarkea-buffer-2|U |000000000|lclarkea|:|
+INPUT|lclarkea-buffer-3|U |000000000|lclarkea|server:./|sudo: ./webserver: command not found
+INPUT|lclarkea-buffer-4|U |000000000|lclarkea|server:./w|sudo: ./wwebserver: command not found
+INPUT|lclarkea-buffer-5|U |000000000|lclarkea|server:.|sudo: .webserver: command not found
+INPUT|lclarkea-buffer-6|A0 |1543436497|lclarkea|server:./webserver 7|sudo: ./webserver: command not found
+INPUT|lclarkea-buffer-7|A0 |1543436516|lclarkea|server:./webserver 8080|sudo: ./webserver: command not found
+INPUT|lclarkea-buffer-8|U |000000000|lclarkea|server:sudo|sudo: webserver: command not found
+INPUT|lclarkea-buffer-9|U |000000000|lclarkea|server:|sudo: ./webserver: command not found
+INPUT|lclarkea-buffer-10|U |1543436728|lclarkea|server:ls|top_secret
+INPUT|lclarkea-buffer-11|U |000000000|lclarkea|server:cd t|bash: cd: t: No such file or directory
+INPUT|lclarkea-buffer-12|A0 |1543436755|lclarkea|server:./webserver 8080|sudo: ./webserver: command not found
+INPUT|lclarkea-buffer-13|U |1543436872|lclarkea|server:make|make: *** No targets specified and no makefile found.  Stop.
+INPUT|lclarkea-buffer-14|A0 |1543436894|lclarkea|server:./webserver 8080|sudo: ./webserver: command not found

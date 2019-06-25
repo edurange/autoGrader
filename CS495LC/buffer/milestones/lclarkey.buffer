@@ -1,0 +1,184 @@
+User lclarkey start time 1543435682 end 1543436916
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkey-buffer-0|U |000000000|lclarkey|:|
+INPUT|lclarkey-buffer-1|U |000000000|lclarkey|server:cd /usr/src/fhttp|
+INPUT|lclarkey-buffer-2|U |000000000|lclarkey|:|
+INPUT|lclarkey-buffer-3|U |1543435682|lclarkey|server:ls|frobnick  index.html  Makefile webserver  webserver.c
+INPUT|lclarkey-buffer-4|A0 |1543435940|lclarkey|server:./webserver 8000|^[
+^[[A^[[A^C
+INPUT|lclarkey-buffer-5|A0 |1543435969|lclarkey|server:./webserver 8080|^C
+INPUT|lclarkey-buffer-6|U |1543436094|lclarkey|server:ls|frobnick  index.html  Makefile webserver  webserver.c
+INPUT|lclarkey-buffer-7|M1 |1543436106|lclarkey|server:emacs webserver.c|%=>
+=-111:----F1  *scratch*      All L1     (Fundamental) ---------------------------
+Loading 00debian-vars...done
+/etc/emacs/site-start.d/50autoconf.el (source)...
+done
+Loading /etc/emacs/site-start.d/50autoconf.el (source)...doneFile Edit Options Buffers Tools Lisp-Interaction Help                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-111:----F1  *scratch*      All L1     (Lisp Interaction) ----------------------
+For information about GNU Emacs and the GNU system%% type C-h C-a.
+Note: file is write protected
+Note: file is write protectedFile Edit Options Buffers Tools C Help                                          
+
+// webserver.c                                                                  
+
+// FrobozzCo Official Webserver                                                 
+
+// Barbazzo Fernap barbazzo@gue.com                                             
+
+// Gustar Woom
+INPUT|lclarkey-buffer-8|M1 |1543436733|lclarkey|server:emacs webserver.c|%=>
+=-111:----F1  *scratch*      All L1     (Fundamental) ---------------------------
+Loading 00debian-vars...done
+/etc/emacs/site-start.d/50autoconf.el (source)...
+done
+Loading /etc/emacs/site-start.d/50autoconf.el (source)...doneFile Edit Options Buffers Tools Lisp-Interaction Help                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-111:----F1  *scratch*      All L1     (Lisp Interaction) ----------------------
+For information about GNU Emacs and the GNU system%% type C-h C-a.
+Note: file is write protected
+Note: file is write protectedFile Edit Options Buffers Tools C Help                                          
+
+// webserver.c                                                                  
+
+// FrobozzCo Official Webserver                                                 
+
+// Barbazzo Fernap barbazzo@gue.com                                             
+
+// Gustar Woom
+INPUT|lclarkey-buffer-9|U |000000000|lclarkey|server:tar cvzf lclarkey-intro.tar.gz top_secret|
+INPUT|lclarkey-buffer-10|U |000000000|lclarkey|server:tar cvzf lclarkey-intro.tar.gz top_secret|
+INPUT|lclarkey-buffer-11|U |000000000|lclarkey|server:sftp intro.lclarkey.CS495LC.isi.deterlab.net top|p_secret<ESC>[A@server:/usr/src/fhttpd$ sftp ssh intro.lclarkey.CS495LC.isi.deterlab.net <ESC>[K<ESC>[Alarkey@server:/usr/src/fhttpd$ sudo scp -r /users/lclarkey/top_secret/xbzf136INTRO-1.jpg downloads<BS><BS><BS><BS><BS><BS><BS><BS>esktop/dumpster<BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[K<ESC>[Asr/src/fhttpd$ scp -r /users/lclarkey/top_secret/xbzf136INTRO-1<ESC>[5P.jpg desktop
+1.jpg<ESC>[K<ESC>[Akey@server:/usr/src/fhttpd$ cd ..<ESC>[K
+
+INPUT|lclarkey-buffer-12|U |000000000|lclarkey|server:xdg-open top_secret/xbzf136INTRO-1.jpg|
+INPUT|lclarkey-buffer-13|U |000000000|lclarkey|server:tar cvzf IwillChooseFileName.tar.gz top_secret|
+INPUT|lclarkey-buffer-14|U |000000000|lclarkey|server:pscp.exe lclarkey@users.isi.deterlab.net:top_sec|cret/wuer136intro-4.JPG Old<ESC>[Attpd$ <ESC>[24Psftp wuer136intro-4.JPG
+
+INPUT|lclarkey-buffer-15|U |000000000|lclarkey|server:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg top_sec|cret<ESC>[Arkey@server:/usr/src/fhttpd$ cp /<ESC>[9Pdev/136intro-2jjaj.JPEG top_secret
+
+INPUT|lclarkey-buffer-16|U |000000000|lclarkey|server:cp /.hidden/asdf136Intro-5kqlw.jpeg top_secret|
+INPUT|lclarkey-buffer-17|U |000000000|lclarkey|server:find / -iname "*intro*.JPEG" 2>dev/null|
+INPUT|lclarkey-buffer-18|U |000000000|lclarkey|server:cp /var/log/136intro-3.jpg top_secret|
+INPUT|lclarkey-buffer-19|U |000000000|lclarkey|server:find / -name ""intro""2> /dev/null |xargs file$1|1<ESC>[Aclarkey@server:/usr/src/fhttpd$ find |
+
+1 | grep JPEG<ESC>[Aer:/usr/src/fhttpd$ find /
+
+1 | grep JPEG<ESC>[Aer:/usr/src/fhttpd$ find <ESC>[15P| xargs file $1 | grep JPEG
+
+INPUT|lclarkey-buffer-20|U |000000000|lclarkey|server:Find /-mount -name ""intro""2> /dev/null |xargs| file$1 | grep JPEG<ESC>[Ar/src/fhttpd$ ssh intro.lclarkey-intro-21.CS495LC.isi.deterlab.net<ESC>[K<ESC>[Akey@server:/usr/src/fhttpd$ <ESC>[26Prm ~/.ssh/known_hosts
+
+INPUT|lclarkey-buffer-21|U |000000000|lclarkey|server:ssh intro.lclarkey-intro-21.CS495LC.isi.deterlab|b.net<ESC>[Akey@server:/usr/src/fhttpd$ ssh <ESC>[16Plclarkey@users.deterlab.net
+
+INPUT|lclarkey-buffer-22|U |000000000|lclarkey|server:ssh intro.lclarkey-intro-21.cs495lc.isi.deterlab|b.net<ESC>[Akey@server:/usr/src/fhttpd$ ssh intro.lclarkey.lclarkey-intro-21.cs495lc.isi.<ESC>[9@deterlab.net<ESC>[Ar:/usr/src/fhttpd$ ssh intro.lclarkey-intro-21.cs495lc.isi.deterlab.net<ESC>[K<ESC>[Akey@server:/usr/src/fhttpd$ ssh intro.lclarkey<ESC>[4P.CS495LC.isi.deterlab.net
+
+INPUT|lclarkey-buffer-23|U |000000000|lclarkey|server:ssh intro.XXXXXXXXXX.CS495LC.isi.deterlab.net^[|OA<BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BEL><BE
+INPUT|lclarkey-buffer-24|U |000000000|lclarkey|server:ssh intro.lclarkey-intro-21.cs495lc.isi.deterlab|b.net<ESC>[Akey@server:/usr/src/fhttpd$ ssh intro.lclarkey.lclarkey-intro-21.cs495lc.isi.<ESC>[9@deterlab.net<ESC>[Ar:/usr/src/fhttpd$ ssh intro.lclarkey-intro-21.cs495lc.isi.deterlab.net<ESC>[K<ESC>[Akey@server:/usr/src/fhttpd$ find intro<ESC>[K
+
+INPUT|lclarkey-buffer-25|U |000000000|lclarkey|server:ssh intro.lclarkey-intro-21.CS495LC.isi.deterlab|b.net<ESC>[Akey@server:/usr/src/fhttpd$ <ESC>[26Prm ~/.ssh/known_hosts
+
+INPUT|lclarkey-buffer-26|U |000000000|lclarkey|server:ssh intro.lclarkey-intro-21.CS495LC.isi.deterlab|b.net<ESC>[Akey@server:/usr/src/fhttpd$ Find /-mount -name ""intro""2> /dev/null |xargs file$1 | grep JPEG<ESC>[Ar/src/fhttpd$ <ESC>[18Pfindxargs file $1 | grep JPEG
+
+INPUT|lclarkey-buffer-27|U |000000000|lclarkey|server:find / -name ""intro""2> /dev/null |xargs file$1|1 | grep JPEG<ESC>[Aer:/usr/src/fhttpd$ find |
+
+1 | grep JPEG
+1<ESC>[K<ESC>[Aclarkey@server:/usr/src/fhttpd$ find /
+
+1<ESC>[Aclarkey@server:/usr/src/fhttpd$ find / -name ""intro""2>  <ESC>[K
+
+INPUT|lclarkey-buffer-28|U |000000000|lclarkey|server:cp /etc/wuer136intro-4.JPG top_secret|
+INPUT|lclarkey-buffer-29|U |000000000|lclarkey|server:cp /.hidden/asdf136Intro-5kqlw.jpeg top_secret|
+INPUT|lclarkey-buffer-30|U |000000000|lclarkey|server:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg top_sec|cret<ESC>[Arkey@server:/usr/src/fhttpd$ ls<ESC>[K
+
+INPUT|lclarkey-buffer-31|U |000000000|lclarkey|server:pscp.exe lclarkey@users.isi.deterlab.net:top_sec|cret/wuer136intro-4.JPG Old<ESC>[Attpd$ ls<ESC>[K
+
+INPUT|lclarkey-buffer-32|U |000000000|lclarkey|server:tar cvzf IwillChooseFileName.tar.gz top_secret|
+INPUT|lclarkey-buffer-33|U |000000000|lclarkey|server:xdg-open top_secret/xbzf136INTRO-1.jpg|
+INPUT|lclarkey-buffer-34|U |000000000|lclarkey|server:scp -r /users/lclarkey/top_secret/xbzf136INTRO-1|1.jpg desktop<ESC>[Aer:/usr/src/fhttpd$ sudo scp -r /users/lclarkey/top_secret/xbzf136IN<ESC>[5@TRO-1.jpg desktop/dumpster
+NTRO-1.jpg d<ESC>[7Pownloads<ESC>[A/src/fhttpd$ sftp ssh intro.lclarkey.CS495LC.isi.deterlab.net <ESC>[K<ESC>[Alarkey@server:/usr/src/fhttpd$ sftp intro.lclarkey.CS495LC.isi.deterlab.net top_secret<ESC>[A@server:/usr/src/fhttpd$ sftp <ESC>[4Plclarkey@users.deterlab.net top_secret
+
+INPUT|lclarkey-buffer-35|U |000000000|lclarkey|server:sftp lclarkey@users.deterlab.net top_secret|
+INPUT|lclarkey-buffer-36|A0 |000000000|lclarkey|server:./webserver 8000|
+INPUT|lclarkey-buffer-37|U |000000000|lclarkey|server:cd /usr/src/fhttpd|
+INPUT|lclarkey-buffer-38|M1 |1543436916|lclarkey|server:emacs webserver.c|%=>
+=-111:----F1  *scratch*      All L1     (Fundamental) ---------------------------
+Loading 00debian-vars...done
+/etc/emacs/site-start.d/50autoconf.el (source)...
+done
+Loading /etc/emacs/site-start.d/50autoconf.el (source)...doneFile Edit Options Buffers Tools Lisp-Interaction Help                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-111:----F1  *scratch*      All L1     (Lisp Interaction) ----------------------
+For information about GNU Emacs and the GNU system%% type C-h C-a.
+Note: file is write protected
+Note: file is write protectedFile Edit Options Buffers Tools C Help                                          
+
+// webserver.c                                                                  
+
+// FrobozzCo Official Webserver                                                 
+
+// Barbazzo Fernap barbazzo@gue.com                                             
+
+// Gustar Woom

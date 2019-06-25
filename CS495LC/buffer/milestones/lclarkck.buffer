@@ -1,0 +1,3820 @@
+User lclarkck start time 1542830483 end 1542831251
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkck-buffer-0|U |000000000|lclarkck|:|
+INPUT|lclarkck-buffer-1|U |000000000|lclarkck|:|
+INPUT|lclarkck-buffer-2|U |1542830483|lclarkck|server:ls|locations_of_jpg.txt  nohup.out  top_secret  top_secret.tar
+INPUT|lclarkck-buffer-3|U |1542830486|lclarkck|server:cat nohup.out|%intro rbhatia-firstlab CS495LC
+Warning: Permanently added 'intro.rbhatia-firstlab.cs495lc%%192.168.1.92' (RSA) to the list of known hosts.
+
+ssh: Could not resolve hostname intro.rbhatia-firstlab.cs495lc: Name or service not known
+%
+INPUT|lclarkck-buffer-4|U |1542830492|lclarkck|server:clear|
+INPUT|lclarkck-buffer-5|U |1542830492|lclarkck|server:ls|locations_of_jpg.txt  nohup.out  top_secret  top_secret.tar
+INPUT|lclarkck-buffer-6|U |1542830494|lclarkck|server:cat nohup.out|%intro rbhatia-firstlab CS495LC
+Warning: Permanently added 'intro.rbhatia-firstlab.cs495lc%%192.168.1.92' (RSA) to the list of known hosts.
+
+ssh: Could not resolve hostname intro.rbhatia-firstlab.cs495lc: Name or service not known
+%
+INPUT|lclarkck-buffer-7|U |1542830495|lclarkck|server:clear|
+INPUT|lclarkck-buffer-8|U |1542830495|lclarkck|server:ls|locations_of_jpg.txt  nohup.out  top_secret  top_secret.tar
+INPUT|lclarkck-buffer-9|U |000000000|lclarkck|server:cd /us|users/ usr/   
+INPUT|lclarkck-buffer-10|U |000000000|lclarkck|server:cd /us|users/ usr/   
+INPUT|lclarkck-buffer-11|U |000000000|lclarkck|server:cd /usr/|bin/     games/   include/ lib/     local/   sbin/    share/   src/     testbed/ 
+INPUT|lclarkck-buffer-12|U |000000000|lclarkck|server:cd /usr/src/fhttpd/|
+INPUT|lclarkck-buffer-13|U |1542830545|lclarkck|server:ls|frobnick  index.html  Makefile webserver  webserver.c
+INPUT|lclarkck-buffer-14|U |1542830550|lclarkck|server:make|make: Nothing to be done for 'project'.
+INPUT|lclarkck-buffer-15|A0 |1542830569|lclarkck|server:./webserver 8080|
+
+^C
+INPUT|lclarkck-buffer-16|U |000000000|lclarkck|server:^C|
+INPUT|lclarkck-buffer-17|U |1542830591|lclarkck|server:tmux|(B>]112
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INPUT|lclarkck-buffer-18|U |1542830592|lclarkck|server:ls|
+INPUT|lclarkck-buffer-19|U |000000000|lclarkck|server:"  "  (0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq(B(Blclarkck@server:/usr/src/fhttpd$ ls|frobnick  index.html  Makefile  webserver  webserver.c<ESC>[K
+INPUT|lclarkck-buffer-20|U |000000000|lclarkck|server:|<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+INPUT|lclarkck-buffer-21|U |000000000|lclarkck|server:ls  (0qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq(B(B|
+INPUT|lclarkck-buffer-22|U |000000000|lclarkck|server:./werb  bserver 8080|<ESC>[?25l<ESC>[54d<ESC>[30m<ESC>[42m[0] 0:sudo*                                                             "server.conf.cs495lc.i" 12:03 21-Nov-18<ESC>(B<ESC>[m<ESC>[4;1H<ESC>[?12l<ESC>[?25h<ESC>[?25l<ESC>(0<ESC>[23Bqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq<ESC>[32mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq<ESC>(B<ESC>(B<ESC>[m<ESC>[28;34H<ESC>[?12l<ESC>[?25h<ESC>[?25l<ESC>[54;1H<ESC>[30m<ESC>[42m[0] 0:bash*                                                             "server.conf.cs495lc.i" 12:03 21-Nov-18<ESC>(B<ESC>[m<ESC>[28;34H<ESC>[?12l<ESC>[?25h<ESC>[28;53r<ESC>[H<ESC>[28;34Ht<ESC>[1;54r<ESC>[H<ESC>[28;35H<ESC>[28;53r<ESC>[H<ESC>[28;35He<ESC>[1;54r<ESC>[H<ESC>[28;36H<ESC>[28;53r<ESC>[H<ESC>[28;36Hl<ESC>[1;54r<ESC>[H<ESC>[28;37H<ESC>[28;53r<ESC>[H<ESC>[28;37He<ESC>[1;54r<ESC>[H<ESC>[28;38H<ESC>[28;53r<ESC>[H<ESC>[28;37H <ESC>[1;54r<ESC>[H<ESC>[28;37H<ESC>[28;53r<ESC>[H<ESC>[28;37Hn<ESC>[1;54r<ESC>[H<ESC>[28;38H<ESC>[28;53r<ESC>[H<ESC>[28;38He<ESC>[1;5
+INPUT|lclarkck-buffer-23|U |000000000|lclarkck|server:[0] 0:bash*                                                             "server.conf.cs495lc.i" 12:03 21-Nov-18(Btelnet localhost 8080|<ESC>[28;53r<ESC>[H<ESC>[36dTrying 127.0.0.1...<ESC>[1;54r<ESC>[H<ESC>[37d<ESC>[28;53r<ESC>[H<ESC>[37dConnected to localhost.
+Escape character is '^]'.<ESC>[1;54r<ESC>[H<ESC>[39d<ESC>[?25l<ESC>[54d<ESC>[30m<ESC>[42m[0] 0:telnet*                                                           "server.conf.cs495lc.i" 12:04 21-Nov-18<ESC>(B<ESC>[m<ESC>[39;1H<ESC>[?12l<ESC>[?25h<ESC>[28;53r<ESC>[H<ESC>[39dg<ESC>[1;54r<ESC>[H<ESC>[39;2H<ESC>[28;53r<ESC>[H<ESC>[39;2He<ESC>[1;54r<ESC>[H<ESC>[39;3H<ESC>[28;53r<ESC>[H<ESC>[39;3Ht<ESC>[1;54r<ESC>[H<ESC>[39;4H<ESC>[28;53r<ESC>[H<ESC>[39;3H <ESC>[1;54r<ESC>[H<ESC>[39;3H<ESC>[28;53r<ESC>[H<ESC>[39;2H <ESC>[1;54r<ESC>[H<ESC>[39;2H<ESC>[28;53r<ESC>[H<ESC>[39d <ESC>[1;54r<ESC>[H<ESC>[39d<ESC>[28;53r<ESC>[H<ESC>[39dG<ESC>[1;54r<ESC>[H<ESC>[39;2H<ESC>[28;53r<ESC>[H<ESC>[39;2HE<ESC>[1;54r<ESC>[H<ESC>[39;3H<ESC>[28;53r<ESC>[H<ESC>[39;3HT<ESC>[1;54r<ESC>[H<ESC>[39;4H<ESC>[28;53r<ESC>[H<ESC>[39;4H <ESC>[1;54r<ESC>[H<ESC>[39;5H<ESC>[28;53r<ESC>[H<ESC>[39;5H/<ES
+INPUT|lclarkck-buffer-24|U |1542831251|lclarkck|server:ls|frobnick  index.html  Makefile  webserver  webserver.c
+INPUT|lclarkck-buffer-25|A0 |000000000|lclarkck|server:./webserver 8080|<C3><BF><C3><ACUTE><C3><BF><C3><BD><ESC>[K
+<ESC>[K
+GET /<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/85.frob.txt'>85.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/86.frob.txt'>86.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/87.frob.txt'>87.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/88.frob.txt'>88.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/89.frob.txt'>89.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/90.frob.txt'>90.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/91.frob.txt'>91.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/92.frob.txt'>92.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.tx
+INPUT|lclarkck-buffer-26|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+INPUT|lclarkck-buffer-27|U |000000000|lclarkck|server:ls|frobnick  index.html  Makefile  webserver  webserver.c<ESC>[K
+INPUT|lclarkck-buffer-28|A0 |000000000|lclarkck|server:./webserver 8080|<C3><BF><C3><ACUTE><C3><BF><C3><BD><ESC>[K
+<ESC>[K
+GET /<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/85.frob.txt'>85.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/86.frob.txt'>86.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/87.frob.txt'>87.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/88.frob.txt'>88.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/89.frob.txt'>89.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/90.frob.txt'>90.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/91.frob.txt'>91.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/92.frob.txt'>92.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick
+INPUT|lclarkck-buffer-29|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+INPUT|lclarkck-buffer-30|U |000000000|lclarkck|server:ls|frobnick  index.html  Makefile  webserver  webserver.c<ESC>[K
+INPUT|lclarkck-buffer-31|A0 |000000000|lclarkck|server:./webserver 8080|<C3><BF><C3><ACUTE><C3><BF><C3><BD><ESC>[K
+<ESC>[K
+GET /<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/85.frob.txt'>85.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/86.frob.txt'>86.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/87.frob.txt'>87.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/88.frob.txt'>88.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/89.frob.txt'>89.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/90.frob.txt'>90.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/91.frob.txt'>91.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/92.frob.txt'>92.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a hre
+INPUT|lclarkck-buffer-32|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+INPUT|lclarkck-buffer-33|U |000000000|lclarkck|server:ls|frobnick  index.html  Makefile  webserver  webserver.c<ESC>[K
+INPUT|lclarkck-buffer-34|A0 |000000000|lclarkck|server:./webserver 8080|<C3><BF><C3><ACUTE><C3><BF><C3><BD><ESC>[K
+<ESC>[K
+GET /<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/85.frob.txt'>85.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/86.frob.txt'>86.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/87.frob.txt'>87.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/88.frob.txt'>88.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/89.frob.txt'>89.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/90.frob.txt'>90.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/91.frob.txt'>91.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/92.frob.txt'>92.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K<NL
+INPUT|lclarkck-buffer-35|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+INPUT|lclarkck-buffer-36|U |000000000|lclarkck|server:ls|frobnick  index.html  Makefile  webserver  webserver.c<ESC>[K
+INPUT|lclarkck-buffer-37|A0 |000000000|lclarkck|server:./webserver 8080|<C3><BF><C3><ACUTE><C3><BF><C3><BD><ESC>[K
+<ESC>[K
+GET /<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/85.frob.txt'>85.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/86.frob.txt'>86.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/87.frob.txt'>87.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/88.frob.txt'>88.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/89.frob.txt'>89.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/90.frob.txt'>90.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/91.frob.txt'>91.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/92.frob.txt'>92.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li
+INPUT|lclarkck-buffer-38|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+INPUT|lclarkck-buffer-39|U |000000000|lclarkck|server:ls|frobnick  index.html  Makefile  webserver  webserver.c<ESC>[K
+INPUT|lclarkck-buffer-40|A0 |000000000|lclarkck|server:./webserver 8080|<C3><BF><C3><ACUTE><C3><BF><C3><BD><ESC>[K
+<ESC>[K
+GET /<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/85.frob.txt'>85.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/86.frob.txt'>86.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/87.frob.txt'>87.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/88.frob.txt'>88.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/89.frob.txt'>89.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/90.frob.txt'>90.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/91.frob.txt'>91.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/92.frob.txt'>92.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.
+INPUT|lclarkck-buffer-41|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+INPUT|lclarkck-buffer-42|U |000000000|lclarkck|server:ls|frobnick  index.html  Makefile  webserver  webserver.c<ESC>[K
+INPUT|lclarkck-buffer-43|A0 |000000000|lclarkck|server:./webserver 8080|<C3><BF><C3><ACUTE><C3><BF><C3><BD><ESC>[K
+<ESC>[K
+GET /<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/85.frob.txt'>85.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/86.frob.txt'>86.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/87.frob.txt'>87.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/88.frob.txt'>88.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/89.frob.txt'>89.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/90.frob.txt'>90.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/91.frob.txt'>91.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/92.frob.txt'>92.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.tx
+INPUT|lclarkck-buffer-44|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+INPUT|lclarkck-buffer-45|U |000000000|lclarkck|server:ls|frobnick  index.html  Makefile  webserver  webserver.c<ESC>[K
+INPUT|lclarkck-buffer-46|A0 |000000000|lclarkck|server:./webserver 8080|<C3><BF><C3><ACUTE><C3><BF><C3><BD><ESC>[K
+<ESC>[K
+GET /<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/85.frob.txt'>85.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/86.frob.txt'>86.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/87.frob.txt'>87.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/88.frob.txt'>88.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/89.frob.txt'>89.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/90.frob.txt'>90.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/91.frob.txt'>91.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/92.frob.txt'>92.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick
+INPUT|lclarkck-buffer-47|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+INPUT|lclarkck-buffer-48|U |000000000|lclarkck|server:ls|frobnick  index.html  Makefile  webserver  webserver.c<ESC>[K
+INPUT|lclarkck-buffer-49|A0 |000000000|lclarkck|server:./webserver 8080|<C3><BF><C3><ACUTE><C3><BF><C3><BD><ESC>[K
+<ESC>[K
+GET /<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/85.frob.txt'>85.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/86.frob.txt'>86.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/87.frob.txt'>87.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/88.frob.txt'>88.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/89.frob.txt'>89.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/90.frob.txt'>90.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/91.frob.txt'>91.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/92.frob.txt'>92.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a hre
+INPUT|lclarkck-buffer-50|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+INPUT|lclarkck-buffer-51|U |000000000|lclarkck|server:ls|frobnick  index.html  Makefile  webserver  webserver.c<ESC>[K
+INPUT|lclarkck-buffer-52|A0 |000000000|lclarkck|server:./webserver 8080|<C3><BF><C3><ACUTE><C3><BF><C3><BD><ESC>[K
+<ESC>[K
+GET /<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/85.frob.txt'>85.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/86.frob.txt'>86.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/87.frob.txt'>87.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/88.frob.txt'>88.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/89.frob.txt'>89.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/90.frob.txt'>90.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/91.frob.txt'>91.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/92.frob.txt'>92.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K<NL
+INPUT|lclarkck-buffer-53|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+INPUT|lclarkck-buffer-54|U |000000000|lclarkck|server:ls|frobnick  index.html  Makefile  webserver  webserver.c<ESC>[K
+INPUT|lclarkck-buffer-55|A0 |000000000|lclarkck|server:./webserver 8080|<C3><BF><C3><ACUTE><C3><BF><C3><BD><ESC>[K
+<ESC>[K
+GET /<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/85.frob.txt'>85.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/86.frob.txt'>86.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/87.frob.txt'>87.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/88.frob.txt'>88.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/89.frob.txt'>89.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/90.frob.txt'>90.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/91.frob.txt'>91.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/92.frob.txt'>92.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li
+INPUT|lclarkck-buffer-56|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+INPUT|lclarkck-buffer-57|U |000000000|lclarkck|server:ls|frobnick  index.html  Makefile  webserver  webserver.c<ESC>[K
+INPUT|lclarkck-buffer-58|A0 |000000000|lclarkck|server:./webserver 8080|<C3><BF><C3><ACUTE><C3><BF><C3><BD><ESC>[K
+<ESC>[K
+GET /<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/85.frob.txt'>85.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/86.frob.txt'>86.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/87.frob.txt'>87.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/88.frob.txt'>88.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/89.frob.txt'>89.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/90.frob.txt'>90.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/91.frob.txt'>91.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/92.frob.txt'>92.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/93.frob.txt'>93.frob.
+INPUT|lclarkck-buffer-59|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+INPUT|lclarkck-buffer-60|U |000000000|lclarkck|server:ls|frobnick  index.html  Makefile  webserver  webserver.c<ESC>[K
+INPUT|lclarkck-buffer-61|A0 |000000000|lclarkck|server:./webserver 8080|<C3><BF><C3><ACUTE><C3><BF><C3><BD><ESC>[K
+<ESC>[K
+GET /<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/85.frob.txt'>85.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/86.frob.txt'>86.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/87.frob.txt'>87.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/88.frob.txt'>88.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/89.frob.txt'>89.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/90.frob.txt'>90.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/91.frob.txt'>91.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/92.frob.txt'>92.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/93.frob.tx
+INPUT|lclarkck-buffer-62|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+<ESC>[30m<ESC>[42m[0] 0:telnet*                                                           "server.conf.cs495lc.i" 12:10 21-Nov-18<ESC>(B<ESC>[m<ESC>[66;1H<ESC>[?12l<ESC>[?25h<ESC>[41;66r<ESC>[H<ESC>[66d
+<ESC>[1;67r<ESC>[H<ESC>[66d<ESC>[1;39r<ESC>[H<ESC>[7BGet / HTTP/1.0<ESC>[41;66r<ESC>[H<ESC>[66dHTTP/1.0 501 Not Implemented
+Date: Wed Nov 21 20:10:21 2018
+Server: Frobozz Magic Software Company Webserver v.002
+Connection: close
+Content-Type: text/html
+
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html><ESC>[1;67r<ESC>[H<ESC>[66;32H<ESC>[41;66r<ESC>[H<ESC>[66;32HConnection closed by foreign host.
+INPUT|lclarkck-buffer-63|U |000000000|lclarkck|server:[0] 0:bash*                                                             "server.conf.cs495lc.i" 12:10 21-Nov-18(Bck ;ear|
+INPUT|lclarkck-buffer-64|U |000000000|lclarkck|server:clear|<ESC>[1;39r<ESC>[H<ESC>[K
+INPUT|lclarkck-buffer-65|A0 |000000000|lclarkck|server:clear;earsudo ./webserver 8080|<ESC>[1;39r<ESC>[H
+INPUT|lclarkck-buffer-66|A0 |000000000|lclarkck|server:./webserver 8080sudo ./webserver 8080ps -aux|%<ESC>[1;39r<ESC>[H<ESC>[3BUSER       PID %%CPU %%MEM    VSZ   RSS TTY      STAT START   TIME COMMAND<ESC>[1;67r<ESC>[H<ESC>[4B<ESC>[1;39r<ESC>[H<ESC>[4Broot         1  0.3  0.2  40144  6044 ?        Ss   11:49   0:04 /sbin/init<ESC>[1;67r<ESC>[H<ESC>[5B<ESC>[1;39r<ESC>[H<ESC>[5Broot         2  0.0  0.0      0     0 ?        S    11:49   0:00 [kthreadd]<ESC>[1;67r<ESC>[H<ESC>[6B<ESC>[1;39r<ESC>[H<ESC>[6Broot         3  0.0  0.0      0     0 ?        S    11:49   0:00 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S<   11:49   0:00 [kworker/0:0H]<ESC>[1;67r<ESC>[H<ESC>[8B<ESC>[1;39r<ESC>[H<ESC>[8Broot         6  0.0  0.0      0     0 ?        S    11:49   0:00 [kworker/u16:0]
+root         7  0.0  0.0      0     0 ?        S    11:49   0:00 [rcu_sched]
+root         8  0.0  0.0      0     0 ?        S    11:49   0:00 [rcu_bh]<ESC>[1;67r<ESC>[H<ESC>[11B<ESC>[1;39r<ESC>[H<ESC>[11Broot         9  0.0  0.0      0     0 ?        S    11:49   0:00 [migration/0]
+root   
+INPUT|lclarkck-buffer-67|U |000000000|lclarkck|server:ps|<ESC>[1;67r<ESC>[H<ESC>[39d<ESC>[1;39r<ESC>[H<ESC>[39d  PID TTY          TIME CMD
+<ESC>[1;67r<ESC>[H<ESC>[39d<ESC>[1;39r<ESC>[H<ESC>[39d22583 pts/1    00:00:00 bash
+<ESC>[1;67r<ESC>[H<ESC>[39d<ESC>[1;39r<ESC>[H<ESC>[39d22672 pts/1    00:00:00 ps
+INPUT|lclarkck-buffer-68|U |000000000|lclarkck|server:ps  - au       s - aux [0] 0:bash*                                                             "server.conf.cs495lc.i" 12:11 21-Nov-18(B     aux | grep 8080|<ESC>[1;67r<ESC>[H<ESC>[39d<ESC>[1;39r<ESC>[H<ESC>[39dlclarkck 22678  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[1;67r<ESC>[H<ESC>[39;75H<ESC>[1;39r<ESC>[H<ESC>[39d
+INPUT|lclarkck-buffer-69|U |000000000|lclarkck|server:pkill 22678|
+INPUT|lclarkck-buffer-70|U |000000000|lclarkck|server:clear|<ESC>[1;67r<ESC>[H<ESC>[39d<ESC>[1;39r<ESC>[H<ESC>[K
+INPUT|lclarkck-buffer-71|U |000000000|lclarkck|server:clearpkill 22678s -aux | grep 8080|<ESC>[1;39r<ESC>[H
+lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[1;67r<ESC>[H<ESC>[2;75H
+INPUT|lclarkck-buffer-72|A0 |000000000|lclarkck|server:ps -aux | grep 8080clearps -aux | grep 8080ps -aux | grep 8080clearpkill 22678s -aux | grep 8080 -aux | grep 8080 -auxsudo ./webserver 8080clearsudo ./webserver 8080|<ESC>[?25l<ESC>[67d<ESC>[30m<ESC>[42m[0] 0:sudo*                                                             "server.conf.cs495lc.i" 12:11 21-Nov-18<ESC>(B<ESC>[m<ESC>[4;1H<ESC>[?12l<ESC>[?25h<ESC>[1;39r<ESC>[H<ESC>[3B<C3><CENT><C2><88><C2><AB><ESC>[1;67r<ESC>[H<ESC>[4;4H<ESC>[1;39r<ESC>[H<ESC>[4;4H^[[B<ESC>[1;67r<ESC>[H<ESC>[4;8H<ESC>[1;39r<ESC>[H<ESC>[4;8H^B<ESC>[1;67r<ESC>[H<ESC>[4;10H<ESC>[1;39r<ESC>[H<ESC>[4;10H^[[B<ESC>[1;67r<ESC>[H<ESC>[4;14H<ESC>[1;39r<ESC>[H<ESC>[4;14H^[[B<ESC>[1;67r<ESC>[H<ESC>[4;18H<ESC>[1;39r<ESC>[H<ESC>[4;18H^[[B<ESC>[1;67r<ESC>[H<ESC>[4;22H<ESC>[1;39r<ESC>[H<ESC>[4;22H^[[B<ESC>[1;67r<ESC>[H<ESC>[4;26H<ESC>[?25l<ESC>(0<ESC>[40;1Hqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq<ESC>[32mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq<ESC>(B<ESC>(B<ESC>[m<ESC>[66;34H<ESC>[?12l<ESC>[?25h<ESC>[?25l
+INPUT|lclarkck-buffer-73|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-74|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body><ESC>[K
+</html><ESC>[K
+Connection closed by foreign host.<E
+INPUT|lclarkck-buffer-75|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-76|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-77|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-78|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body><ESC>[K
+</html><ESC>[K
+Connection closed by foreign host.<E
+INPUT|lclarkck-buffer-79|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-80|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-81|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-82|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body><ESC>[K
+</html><ESC>[K
+Connection closed by foreign host.<E
+INPUT|lclarkck-buffer-83|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-84|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-85|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-86|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body><ESC>[K
+</html><ESC>[K
+Connection closed by foreign host.<E
+INPUT|lclarkck-buffer-87|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-88|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-89|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-90|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body><ESC>[K
+</html><ESC>[K
+Connection closed by foreign host.<E
+INPUT|lclarkck-buffer-91|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-92|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-93|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-94|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body><ESC>[K
+</html><ESC>[K
+Connection closed by foreign host.<E
+INPUT|lclarkck-buffer-95|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-96|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-97|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-98|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body><ESC>[K
+</html><ESC>[K
+Connection closed by foreign host.<E
+INPUT|lclarkck-buffer-99|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-100|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-101|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-102|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body><ESC>[K
+</html><ESC>[K
+Connection closed by foreign host.<E
+INPUT|lclarkck-buffer-103|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-104|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-105|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-106|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body><ESC>[K
+</html><ESC>[K
+Connection closed by foreign host.<E
+INPUT|lclarkck-buffer-107|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-108|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-109|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-110|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body><ESC>[K
+</html><ESC>[K
+Connection closed by foreign host.<E
+INPUT|lclarkck-buffer-111|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-112|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-113|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-114|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body><ESC>[K
+</html><ESC>[K
+Connection closed by foreign host.<E
+INPUT|lclarkck-buffer-115|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-116|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-117|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-118|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-119|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-120|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-121|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-122|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-123|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-124|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-125|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-126|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-127|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-128|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-129|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-130|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-131|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-132|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-133|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-134|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-135|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-136|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-137|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-138|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-139|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-140|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-141|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-142|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-143|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-144|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-145|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-146|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-147|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-148|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-149|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-150|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-151|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-152|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-153|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-154|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-155|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-156|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-157|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-158|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-159|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-160|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-161|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-162|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-163|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-164|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-165|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-166|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-167|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-168|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-169|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-170|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-171|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-172|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-173|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-174|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-175|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-176|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-177|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-178|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-179|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-180|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-181|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-182|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-183|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-184|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-185|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-186|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-187|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-188|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-189|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-190|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-191|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-192|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-193|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-194|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-195|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-196|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-197|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-198|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-199|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-200|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-201|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-202|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-203|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-204|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-205|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-206|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-207|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-208|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-209|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-210|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-211|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-212|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-213|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-214|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-215|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-216|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-217|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-218|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-219|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-220|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-221|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-222|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-223|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-224|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-225|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-226|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-227|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-228|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-229|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-230|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-231|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-232|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-233|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-234|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-235|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-236|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-237|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-238|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-239|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-240|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-241|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-242|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-243|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-244|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-245|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-246|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-247|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-248|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-249|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-250|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-251|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-252|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-253|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-254|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-255|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-256|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-257|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-258|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-259|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-260|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-261|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-262|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-263|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-264|U |000000000|lclarkck|server:telnet localhost 8080|
+INPUT|lclarkck-buffer-265|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-266|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K<ESC>[2B<li><a href='frobnick/93.frob.txt'>93.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/94.frob.txt'>94.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/95.frob.txt'>95.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/96.frob.txt'>96.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/97.frob.txt'>97.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/98.frob.txt'>98.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/99.frob.txt'>99.frob.txt</a></li><ESC>[K
+<li><a href='frobnick/100.frob.txt'>100.frob.txt</a></li><ESC>[K
+</ul><ESC>[K
+</body
+INPUT|lclarkck-buffer-267|U |000000000|lclarkck|server:telnet localhost 8080|Trying 127.0.0.1...<ESC>[K
+Connected to localhost.<ESC>[K
+Escape character is '^]'.<ESC>[K
+Get / HTTP/1.0 <ESC>[K
+<ESC>[K
+HTTP/1.0 501 Not Implemented<ESC>[K
+Date: Wed Nov 21 20:10:21 2018<ESC>[K
+Server: Frobozz Magic Software Company Webserver v.002<ESC>[K
+Connection: close<ESC>[K
+Content-Type: text/html<ESC>[K
+<ESC>[K
+<html><head><title>501 Not Implemented</title></head><body><h2>HTTP/1.0</h2><h1>501 Not Implemented</h1><h2>URI: index.html</h2></body></html>Connection closed by foreign host.<ESC>[K
+INPUT|lclarkck-buffer-268|U |000000000|lclarkck|server:telnet localhost 8080|%<ESC>[30m<ESC>[42m[0] 0:bash*                                                                                                                                                                                                                       "server.conf.cs495lc.i" 12:11 21-Nov-18<ESC>(B<ESC>[m<ESC>[66;55H<ESC>[?12l<ESC>[?25h<ESC>[?25l
+<ESC>[30m<ESC>[43mkill-pane 1? (y/n) <ESC>[7m <ESC>(B<ESC>[m<ESC>[30m<ESC>[43m                                                                                                                                                                                                                                                     <ESC>(B<ESC>[m<ESC>[66;55H<ESC>[Hroot      2356  0.0  0.2  25296  5564 ?        S    11:50   0:00 /usr/bin/perl /usr/local/src/snoopy/logsnoopy.<ESC>[K
+root     22451  0.0  0.3  97572  6500 ?        Ss   12:01   0:00 sshd: lclarkck [priv]<ESC>[K
+lclarkck 22453  0.0  0.2  47336  4604 ?        Ss   12:01   0:00 /lib/systemd/sys
+INPUT|lclarkck-buffer-269|U |000000000|lclarkck|server:ps|  PID TTY          TIME CMD<ESC>[K
+22583 pts/1    00:00:00 bash<ESC>[K
+22672 pts/1    00:00:00 ps<ESC>[K
+INPUT|lclarkck-buffer-270|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22678  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-271|U |000000000|lclarkck|server:pkill 22678|
+INPUT|lclarkck-buffer-272|U |000000000|lclarkck|server:clear|
+INPUT|lclarkck-buffer-273|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-274|A0 |000000000|lclarkck|server:./webserver 8080|%<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[30m<ESC>[42m[0] 0:bash*                                                                                                                                                                                                                       "server.conf.cs495lc.i" 12:11 21-Nov-18<ESC>(B<ESC>[m<ESC>[31;26H<ESC>[?12l<ESC>[?25h<ESC>[?25l<ESC>[67;1H<ESC>[30m<ESC>[43m(rename-session) 0<ESC>[7m <ESC>(B<ESC>[m<ESC>[30m<ESC>[43m                                                                                                                                
+INPUT|lclarkck-buffer-275|U |000000000|lclarkck|server:ps|  PID TTY          TIME CMD<ESC>[K
+22583 pts/1    00:00:00 bash<ESC>[K
+22672 pts/1    00:00:00 ps<ESC>[K
+INPUT|lclarkck-buffer-276|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22678  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-277|U |000000000|lclarkck|server:pkill 22678|
+INPUT|lclarkck-buffer-278|U |000000000|lclarkck|server:clear|
+INPUT|lclarkck-buffer-279|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-280|A0 |000000000|lclarkck|server:./webserver 8080|%<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[30m<ESC>[43mDuplicate session: 0                                                                                                                                                                                                                                                     <ESC>(B<ESC>[m<ESC>[31;26H<ESC>[Hroot      2356  0.0  0.2  25296  5564 ?        S    11:50   0:00 /usr/bin/perl /usr/local/src/snoopy/logsnoopy.<ESC>[K
+root     22451  0.0  0.3  97572  6500 ?        Ss   12:01   0:00 sshd: lclarkck [priv]<ESC>[K
+lclarkck 22453  0.0 
+INPUT|lclarkck-buffer-281|U |000000000|lclarkck|server:ps|  PID TTY          TIME CMD<ESC>[K
+22583 pts/1    00:00:00 bash<ESC>[K
+22672 pts/1    00:00:00 ps<ESC>[K
+INPUT|lclarkck-buffer-282|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22678  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-283|U |000000000|lclarkck|server:pkill 22678|
+INPUT|lclarkck-buffer-284|U |000000000|lclarkck|server:clear|
+INPUT|lclarkck-buffer-285|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080<ESC>[K
+INPUT|lclarkck-buffer-286|A0 |000000000|lclarkck|server:./webserver 8080|%<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ESC>[30m<ESC>[42m[0] 0:bash*                                                                                                                                                                                                                       "server.conf.cs495lc.i" 12:12 21-Nov-18<ESC>(B<ESC>[m<ESC>[31;26H<ESC>[?12l<ESC>[?25h<ESC>[?25l<ESC>(0<ESC>[1;133Hx<ESC>[2;133Hx<ESC>[3;133Hx<ESC>[4;133Hx<ESC>[5;133Hx<ESC>[6;133Hx<ESC>[7;133Hx<ESC>[8;133Hx<ESC>[9;133Hx<ESC>[10;133Hx<ESC>[11;133Hx<ESC>[12;133Hx<ESC>[13;133Hx<ESC>[14;133Hx<ESC>[15;133Hx<ESC>[16
+INPUT|lclarkck-buffer-287|U |000000000|lclarkck|server:ps|  PID TTY          TIME CMD                                                                                                         
+22583 pts/1    00:00:00 bash                                                                                                        
+22672 pts/1    00:00:00 ps                                                                                                          
+INPUT|lclarkck-buffer-288|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22678  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080                                                          
+INPUT|lclarkck-buffer-289|U |000000000|lclarkck|server:pkill 22678|
+INPUT|lclarkck-buffer-290|U |000000000|lclarkck|server:clear|
+INPUT|lclarkck-buffer-291|U |000000000|lclarkck|server:ps -aux | grep 8080|lclarkck 22682  0.0  0.0  17388  2044 pts/1    S+   12:11   0:00 grep 8080                                                          
+INPUT|lclarkck-buffer-292|A0 |000000000|lclarkck|server:./webserver 8080|<C3><CENT><C2><88><C2><AB>^[[B^B^[[B^[[B^[[B^[[B                                                                                                           
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                         
+INPUT|lclarkck-buffer-293|U |000000000|lclarkck|server:telnet localhost 8080Trying 127.0.0.1...Connected to localhost.Escape character is '^]'.[0] 0:telnet*                                                                                                                                                                                                                     "server.conf.cs495lc.i" 12:12 21-Nov-18(Bget     GET / HTTP/1.0|
+INPUT|lclarkck-buffer-294|A3 A1 |000000000|lclarkck|server:%lynxThe program 'lynx' is currently not installed. To run 'lynx' please ask your administrator to install the package 'lynx'42.frob.txt43.frob.txt44.frob.txt45.frob.txt46.frob.txt47.frob.txt48.frob.txt49.frob.txt50.frob.txt51.frob.txt52.frob.txt53.frob.txt54.frob.txt55.frob.txt56.frob.txt57.frob.txt58.frob.txt59.frob.txt60.frob.txt61.frob.txt62.frob.txt63.frob.txt64.frob.txt65.frob.txt66.frob.txt67.frob.txt68.frob.txt69.frob.txt70.frob.txt71.frob.txt72.frob.txt73.frob.txt74.frob.txt75.frob.txt76.frob.txt77.frob.txt78.frob.txt79.frob.txt80.frob.txt81.frob.txt82.frob.txt83.frob.txt84.frob.txt85.frob.txt86.frob.txt87.frob.txt88.frob.txt89.frob.txt90.frob.txt91.frob.txt92.frob.txt93.frob.txt94.frob.txt95.frob.txt96.frob.txt97.frob.txt98.frob.txt99.frob.txt100.frob.txtConnection closed by foreign host.lclarkck@server:/usr/src/fhttpd$ lynxThe program 'lynx' is currently not installed. To run 'lynx' please ask your administrator to install the package 'lynx'lclarkck@server:/usr/src/fhttpd$ clear43.frob.txt44.frob.txt45.frob.txt46.frob.txt47.frob.txt48.frob.txt49.frob.txt50.frob.txt51.frob.txt52.frob.txt53.frob.txt54.frob.txt55.frob.txt56.frob.txt57.frob.txt58.frob.txt59.frob.txt60.frob.txt61.frob.txt62.frob.txt63.frob.txt64.frob.txt65.frob.txt66.frob.txt67.frob.txt68.frob.txt69.frob.txt70.frob.txt71.frob.txt72.frob.txt73.frob.txt74.frob.txt75.frob.txt76.frob.txt77.frob.txt78.frob.txt79.frob.txt80.frob.txt81.frob.txt82.frob.txt83.frob.txt84.frob.txt85.frob.txt86.frob.txt87.frob.txt88.frob.txt89.frob.txt90.frob.txt91.frob.txt92.frob.txt93.frob.txt94.frob.txt95.frob.txt96.frob.txt97.frob.txt98.frob.txt99.frob.txt100.frob.txtConnection closed by foreign host.lclarkck@server:/usr/src/fhttpd$ lynxThe program 'lynx' is currently not installed. To run 'lynx' please ask your administrator to install the package 'lynx'lclarkck@server:/usr/src/fhttpd$ clear                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        lclarkck@server:/usr/src/fhttpd$ we get lo  http://localhost:8080 --2018-11-21 12:12:49--  http://localhost:8080/Resolving localhost (localhost)... 127.0.0.1Connecting to localhost (localhost)|127.0.0.1|:8080... connected.HTTP request sent| awaiting response... GET / HTTP/1.1%
+INPUT|lclarkck-buffer-295|A1 A3 |000000000|lclarkck|server:lclarkck@server:/usr/src/fhttpd$ sudo !!sudo wget http://localhost:8080 --2018-11-21 12:12:53--  http://localhost:8080/Resolving localhost (localhost)... 127.0.0.1Connecting to localhost (localhost)|127.0.0.1|:8080... failed: Connection refused.lclarkck@server:/usr/src/fhttpd$ lclarkck@server:/usr/src/fhttpd$ (0xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx(B(B|
+INPUT|lclarkck-buffer-296|U |000000000|lclarkck|server:|
+INPUT|lclarkck-buffer-297|A0 |000000000|lclarkck|server:[0] 0:bash*                                                                                                                                                                                                                       "server.conf.cs495lc.i" 12:13 21-Nov-18(Bsudo ./webserver 8080|
+INPUT|lclarkck-buffer-298|U |000000000|lclarkck|server:ps a -aux | grep 8080|<ESC>[1;66r<ESC>[H<ESC>[43dlclarkck 22712  0.0  0.0  17388  2044 pts/1    S+   12:13   0:00 grep 8080<ESC>[1;67r<ESC>[H<ESC>[43;75H
+INPUT|lclarkck-buffer-299|U |000000000|lclarkck|server:pkill 22712|
+INPUT|lclarkck-buffer-300|U |000000000|lclarkck|server:clear|<ESC>[1;66r<ESC>[H                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                              
+INPUT|lclarkck-buffer-301|A0 |000000000|lclarkck|server:clearpkill 22712s -aux | grep 8080lclarkck@server:/usr/src/fhttpd$   ps -aux | grep 8080                                                                              sudo ./webserver 8080|<ESC>[1;66r<ESC>[H
+INPUT|lclarkck-buffer-302|U |000000000|lclarkck|server:ps|
+INPUT|lclarkck-buffer-303|A0 |000000000|lclarkck|server:. sudo ./webserver 9000|
+INPUT|lclarkck-buffer-304|A3 A1 |000000000|lclarkck|server:%wget http://localhost:808lclarkck@server:/usr/src/fhttpd$ wget http://localhost:800/index.html                                                               lclarkck@server:/usr/src/fhttpd$ wget http://localhost:80/index.html                                                                lclarkck@server:/usr/src/fhttpd$ wget http://localhost:0/index.html                                                                 lclarkck@server:/usr/src/fhttpd$ wget http://localhost: 0/index.html                                                                90lclarkck@server:/usr/src/fhttpd$ wget http://localhost:90 /index.html                                                               00lclarkck@server:/usr/src/fhttpd$ wget http://localhost:900 /index.html                                                              0--2018-11-21 12:14:08--  http://localhost:9000/index.htmlResolving localhost (localhost)... 127.0.0.1Connecting to localhost (localhost)|127.0.0.1|:9000... connected.HTTP request sent| awaiting response... GET /index.html HTTP/1.1%
+INPUT|lclarkck-buffer-305|M1 |000000000|lclarkck|server:%lsfrobnick  index.html  Makefilewebserver  webserver.clclarkck@server:/usr/src/fhttpd$ [0] 0:bash*                                                                                                                                                                                                                       "server.conf.cs495lc.i" 12:14 21-Nov-18(Bcat index.html Frobnick Production ReportsFrobnick Production Reports1.frob.txt2.frob.txt3.frob.txt4.frob.txt5.frob.txt6.frob.txt7.frob.txt8.frob.txt9.frob.txt10.frob.txt11.frob.txt12.frob.txt13.frob.txt14.frob.txt15.frob.txt16.frob.txt17.frob.txt18.frob.txt19.frob.txt20.frob.txt21.frob.txt22.frob.txt23.frob.txt24.frob.txt25.frob.txt26.frob.txt--2018-11-21 12:12:53--  http://localhost:8080/Resolving localhost (localhost)... 127.0.0.1Connecting to localhost (localhost)|127.0.0.1|:8080... failed: Connection refused.lclarkck@server:/usr/src/fhttpd$ lclarkck@server:/usr/src/fhttpd$ wget http://localhost:8080/index.html--2018-11-21 12:13:59--  http://localhost:8080/index.htmlResolving localhost (localhost)... 127.0.0.1Connecting to localhost (localhost)|127.0.0.1|:8080... failed: Connection refused.lclarkck@server:/usr/src/fhttpd$ wget http://localhost:9000/index.html                                                              --2018-11-21 12:14:08--  http://localhost:9000/index.htmlResolving localhost (localhost)... 127.0.0.1Connecting to localhost (localhost)|127.0.0.1|:9000... connected.HTTP request sent| awaiting response... 200 OKLength: unspecified [text/html]index.html.1: Permission denied%
+INPUT|lclarkck-buffer-306|M3 M1 |000000000|lclarkck|server:lsfrobnick  index.html  Makefile  webserver  webserver.clclarkck@server:/usr/src/fhttpd$ cat index.html         Frobnick Production Reports        Frobnick Production Reports        1.frob.txt2.frob.txt3.frob.txt4.frob.txt5.frob.txt6.frob.txt7.frob.txt8.frob.txt9.frob.txt10.frob.txt11.frob.txt12.frob.txt13.frob.txt14.frob.txt15.frob.txt16.frob.txt17.frob.txt18.frob.txt19.frob.txt20.frob.txt21.frob.txt22.frob.txt23.frob.txt24.frob.txt25.frob.txt26.frob.txt27.frob.txt28.frob.txt29.frob.txt30.frob.txt31.frob.txt32.frob.txt33.frob.txt34.frob.txt35.frob.txt36.frob.txt37.frob.txtfrobnick  index.html  Makefile  webserver  webserver.clclarkck@server:/usr/src/fhttpd$ cat index.html         Frobnick Production Reports        Frobnick Production Reports        1.frob.txt2.frob.txt3.frob.txt4.frob.txt5.frob.txt6.frob.txt7.frob.txt8.frob.txt9.frob.txt10.frob.txt11.frob.txt12.frob.txt13.frob.txt14.frob.txt15.frob.txt16.frob.txt17.frob.txt18.frob.txt19.frob.txt20.frob.txt21.frob.txt22.frob.txt23.frob.txt24.frob.txt25.frob.txt26.frob.txt27.frob.txt28.frob.txt29.frob.txt30.frob.txt31.frob.txt32.frob.txt33.frob.txt34.frob.txt35.frob.txt36.frob.txt37.frob.txt38.frob.txt39.frob.txt40.frob.txt41.frob.txt42.frob.txt43.frob.txt44.frob.txt45.frob.txt46.frob.txt47.frob.txt48.frob.txt49.frob.txt50.frob.txt51.frob.txt52.frob.txt53.frob.txt54.frob.txt55.frob.txt8.frob.txt9.frob.txt10.frob.txt11.frob.txt12.frob.txt13.frob.txt14.frob.txt15.frob.txt16.frob.txt17.frob.txt18.frob.txt19.frob.txt20.frob.txt21.frob.txt22.frob.txt23.frob.txt24.frob.txt25.frob.txt26.frob.txt27.frob.txt28.frob.txt29.frob.txt30.frob.txt31.frob.txt32.frob.txt33.frob.txt34.frob.txt35.frob.txt36.frob.txt37.frob.txt38.frob.txt39.frob.txt40.frob.txt41.frob.txt42.frob.txt43.frob.txt44.frob.txt45.frob.txt46.frob.txt47.frob.txt48.frob.txt49.frob.txt50.frob.txt51.frob.txt52.frob.txt53.frob.txt54.frob.txt55.frob.txt56.frob.txt57.frob.txt58.frob.txt59.frob.txt60.frob.txt61.frob.txt62.frob.txt63.frob.txt64.frob.txt65.frob.txt66.frob.txt67.frob.txt68.frob.txt69.frob.txt70.frob.txt71.frob.txt72.frob.txt73.frob.txt26.frob.txt27.frob.txt28.frob.txt29.frob.txt30.frob.txt31.frob.txt32.frob.txt33.frob.txt34.frob.txt35.frob.txt36.frob.txt37.frob.txt38.frob.txt39.frob.txt40.frob.txt41.frob.txt42.frob.txt43.frob.txt44.frob.txt45.frob.txt46.frob.txt47.frob.txt48.frob.txt49.frob.txt50.frob.txt51.frob.txt52.frob.txt53.frob.txt54.frob.txt55.frob.txt56.frob.txt57.frob.txt58.frob.txt59.frob.txt60.frob.txt61.frob.txt62.frob.txt63.frob.txt64.frob.txt65.frob.txt66.frob.txt67.frob.txt68.frob.txt69.frob.txt70.frob.txt71.frob.txt72.frob.txt73.frob.txt74.frob.txt75.frob.txt76.frob.txt77.frob.txt78.frob.txt79.frob.txt80.frob.txt81.frob.txt82.frob.txt83.frob.txt84.frob.txt85.frob.txt86.frob.txt87.frob.txt88.frob.txt89.frob.txt90.frob.txt91.frob.txt39.frob.txt40.frob.txt41.frob.txt42.frob.txt43.frob.txt44.frob.txt45.frob.txt46.frob.txt47.frob.txt48.frob.txt49.frob.txt50.frob.txt51.frob.txt52.frob.txt53.frob.txt54.frob.txt55.frob.txt56.frob.txt57.frob.txt58.frob.txt59.frob.txt60.frob.txt61.frob.txt62.frob.txt63.frob.txt64.frob.txt65.frob.txt66.frob.txt67.frob.txt68.frob.txt69.frob.txt70.frob.txt71.frob.txt72.frob.txt73.frob.txt74.frob.txt75.frob.txt76.frob.txt77.frob.txt78.frob.txt79.frob.txt80.frob.txt81.frob.txt82.frob.txt83.frob.txt84.frob.txt85.frob.txt86.frob.txt87.frob.txt88.frob.txt89.frob.txt90.frob.txt91.frob.txt92.frob.txt93.frob.txt94.frob.txt95.frob.txt96.frob.txt97.frob.txt98.frob.txt99.frob.txt100.frob.txtlclarkck@server:/usr/src/fhttpd$ view ind|

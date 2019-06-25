@@ -1,0 +1,643 @@
+User lclarkex start time 1537557774 end 1537919324
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkex-intro-0|U |000000000|lclarkex|:|
+INPUT|lclarkex-intro-1|U |000000000|lclarkex|intro:pwd|/users/lclarkex
+INPUT|lclarkex-intro-2|U |000000000|lclarkex|:|
+INPUT|lclarkex-intro-3|U |1537557774|lclarkex|intro:ls|
+INPUT|lclarkex-intro-4|U |000000000|lclarkex|intro:cd ..|
+INPUT|lclarkex-intro-5|U |1537557851|lclarkex|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkex  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkex-intro-6|U |000000000|lclarkex|intro:cd abhi|
+INPUT|lclarkex-intro-7|U |1537557857|lclarkex|intro:ls|
+INPUT|lclarkex-intro-8|U |000000000|lclarkex|intro:cd ..|
+INPUT|lclarkex-intro-9|U |000000000|lclarkex|intro:cd alefiya|
+INPUT|lclarkex-intro-10|U |1537557871|lclarkex|intro:ls|
+INPUT|lclarkex-intro-11|U |000000000|lclarkex|intro:cd ..|
+INPUT|lclarkex-intro-12|U |000000000|lclarkex|intro:pwd|/users
+INPUT|lclarkex-intro-13|U |000000000|lclarkex|intro:cd sunshine|
+INPUT|lclarkex-intro-14|U |1537557889|lclarkex|intro:ls|
+INPUT|lclarkex-intro-15|U |000000000|lclarkex|intro:cd ..|
+INPUT|lclarkex-intro-16|U |000000000|lclarkex|intro:cd ..|
+INPUT|lclarkex-intro-17|U |1537557917|lclarkex|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkex-intro-18|U |000000000|lclarkex|intro:cd lib|
+INPUT|lclarkex-intro-19|U |1537557931|lclarkex|intro:ls|apparmor    klibc-k3La8MUnuzHQ0_kG8hokcGAC0PA.so  recovery-mode
+cpp     libhandle.so.1     resolvconf
+crda     libhandle.so.1.0.3     systemd
+cryptsetup  lsb       terminfo
+firmware    modprobe.d      udev
+hdparm     modules      ufw
+ifupdown    modules-load.d     x86_64-linux-gnu
+init     open-iscsi      xtables
+INPUT|lclarkex-intro-20|A0 A2 A1 A3 A4 |000000000|lclarkex|intro:$find . -name \"*.intro\"|
+INPUT|lclarkex-intro-21|U |1537557963|lclarkex|intro:ls|apparmor    klibc-k3La8MUnuzHQ0_kG8hokcGAC0PA.so  recovery-mode
+cpp     libhandle.so.1     resolvconf
+crda     libhandle.so.1.0.3     systemd
+cryptsetup  lsb       terminfo
+firmware    modprobe.d      udev
+hdparm     modules      ufw
+ifupdown    modules-load.d     x86_64-linux-gnu
+init     open-iscsi      xtables
+INPUT|lclarkex-intro-22|U |000000000|lclarkex|intro:cd ..|
+INPUT|lclarkex-intro-23|U |000000000|lclarkex|intro:pwd|/
+INPUT|lclarkex-intro-24|U |1537558271|lclarkex|intro:updatedb|
+INPUT|lclarkex-intro-25|A4 A3 A1 A2 A0 |000000000|lclarkex|intro:locate *.jpg|locate: can not open `/var/lib/mlocate/mlocate.db': Permission denied
+INPUT|lclarkex-intro-26|U |000000000|lclarkex|intro:e *.jpg|/usr/share/doc/libsane/umax/sane-logo.jpg
+/usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+/usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+/usr/share/doc/libsane/umax/sane-umax-standard.jpg
+/usr/share/doc/libsane/umax/sane-umax-text.jpg
+/usr/share/doc/libsane/umax/sane-umax-text2.jpg
+/usr/share/doc/libsane/umax/sane-umax-text4.jpg
+/usr/share/doc/libsane/umax/sane-umax.jpg
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+/var/log/136intro-3.jpg
+INPUT|lclarkex-intro-27|A1 A4 A3 A0 A2 |000000000|lclarkex|intro:locate *.JGEG|
+INPUT|lclarkex-intro-28|A0 A2 A1 A4 A3 |000000000|lclarkex|intro:locate *.JPEG|
+INPUT|lclarkex-intro-29|M3 |000000000|lclarkex|intro:locate *.JPGG|/etc/wuer136intro-4.JPG
+INPUT|lclarkex-intro-30|U |1537814420|lclarkex|intro:ls|
+INPUT|lclarkex-intro-31|U |000000000|lclarkex|intro:cd ..|
+INPUT|lclarkex-intro-32|U |1537814424|lclarkex|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkex  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkex-intro-33|U |000000000|lclarkex|intro:cd .|
+INPUT|lclarkex-intro-34|U |1537814430|lclarkex|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkex-intro-35|U |1537814440|lclarkex|intro:updatedb|
+INPUT|lclarkex-intro-36|M2 M0 |000000000|lclarkex|intro:locate *.jpg|/usr/share/doc/libsane/umax/sane-logo.jpg
+/usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+/usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+/usr/share/doc/libsane/umax/sane-umax-standard.jpg
+/usr/share/doc/libsane/umax/sane-umax-text.jpg
+/usr/share/doc/libsane/umax/sane-umax-text2.jpg
+/usr/share/doc/libsane/umax/sane-umax-text4.jpg
+/usr/share/doc/libsane/umax/sane-umax.jpg
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+/var/log/136intro-3.jpg
+INPUT|lclarkex-intro-37|A4 A3 A1 A2 A0 |000000000|lclarkex|intro:owdo locate *.jpg|%No command 'owd' found%% did you mean:
+ Command 'owl' from package 'owl' (universe)
+ Command 'xwd' from package 'x11-apps' (main)
+ Command 'pwd' from package 'coreutils' (main)
+ Command 'owx' from package 'owx' (universe)
+ Command 'gwd' from package 'geneweb' (universe)
+ Command 'od' from package 'coreutils' (main)
+owd: command not found%
+INPUT|lclarkex-intro-38|U |000000000|lclarkex|intro:pwd|/
+INPUT|lclarkex-intro-39|U |000000000|lclarkex|intro:cd|
+INPUT|lclarkex-intro-40|U |1537814632|lclarkex|intro:ls|
+INPUT|lclarkex-intro-41|U |000000000|lclarkex|intro:pwd|/users/lclarkex
+INPUT|lclarkex-intro-42|U |000000000|lclarkex|intro:mkdir topsecret|
+INPUT|lclarkex-intro-43|U |1537814669|lclarkex|intro:ls|topsecret
+INPUT|lclarkex-intro-44|U |000000000|lclarkex|intro:cd topsecret|
+INPUT|lclarkex-intro-45|U |1537814679|lclarkex|intro:ls|
+INPUT|lclarkex-intro-46|A0 A2 A1 A3 A4 |1537814858|lclarkex|intro:lspw[1P[1@sudo locate *.jpg|/usr/share/doc/libsane/umax/sane-logo.jpg
+/usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+/usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+/usr/share/doc/libsane/umax/sane-umax-standard.jpg
+/usr/share/doc/libsane/umax/sane-umax-text.jpg
+/usr/share/doc/libsane/umax/sane-umax-text2.jpg
+/usr/share/doc/libsane/umax/sane-umax-text4.jpg
+/usr/share/doc/libsane/umax/sane-umax.jpg
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+/var/log/136intro-3.jpg
+INPUT|lclarkex-intro-47|U |000000000|lclarkex|intro:mv /usr/log/136intro-3.jpg|mv: missing destination file operand after '/usr/log/136intro-3.jpg'
+Try 'mv --help' for more information.
+INPUT|lclarkex-intro-48|U |000000000|lclarkex|intro:mv /usr/share/pixmaps/xbzf136INTRO-1|mv: missing destination file operand after '/usr/share/pixmaps/xbzf136INTRO-1.jpg'
+Try 'mv --help' for more information.
+INPUT|lclarkex-intro-49|U |1537814791|lclarkex|intro:mv /usr/share/pixmaps/xbzf136INTRO-1.jpg intro-1|mv: cannot remove '/usr/share/pixmaps/xbzf136INTRO-1.jpg': Permission denied
+INPUT|lclarkex-intro-50|A4 A3 A1 A2 A0 |000000000|lclarkex|intro:sudomv /usr/share/pixmaps/xbzf136INTRO-1.jpg intro-1 clarkex@intro:~/topsecret$ sudo mv /usr/share/pixmaps/xbzf136INTRO-1.jpg intro-1|1<ESC>[Aclarkex@intro:~/topsecret$ sudo 
+
+
+INPUT|lclarkex-intro-51|U |1537814899|lclarkex|intro:ls|intro-1
+INPUT|lclarkex-intro-52|U |1537814854|lclarkex|intro:mv /usr/share/pixmaps/xbzf136INTRO-1.jpg intro-1|
+INPUT|lclarkex-intro-53|U |000000000|lclarkex|intro:mv /usr/share/pixmaps/xbzf136INTRO-1.jpg intro-|
+INPUT|lclarkex-intro-54|U |000000000|lclarkex|intro:mv /usr/share/pixmaps/xbzf136INTRO-1.jpg intro|
+INPUT|lclarkex-intro-55|U |1537814891|lclarkex|intro:mv /var/log/136intro-3.jpg|mv: missing destination file operand after '/var/log/136intro-3.jpg'
+Try 'mv --help' for more information.
+INPUT|lclarkex-intro-56|U |1537814897|lclarkex|intro:mv /var/log/136intro-3.jpg intro-3|
+INPUT|lclarkex-intro-57|U |1537814978|lclarkex|intro:ls|intro-1  intro-3
+INPUT|lclarkex-intro-58|U |000000000|lclarkex|intro:mv /var/log/136intro-3.jpg intro-3|
+INPUT|lclarkex-intro-59|U |1537815188|lclarkex|intro:lssudo mv /usr/share/pixmaps/xbzf136INTRO-1.jpg intro-1|1[Aclarkex@intro:~/topsecret$ [4Pmv /usr/share/pixmaps/xbzf136INTRO-1.jpg intro-1
+
+INPUT|lclarkex-intro-60|A2 A0 A4 A3 A1 |000000000|lclarkex|intro:locate *.JPEGro-3.jpg136INTRO-1.jpg intro-1|
+INPUT|lclarkex-intro-61|M4 |000000000|lclarkex|intro:locate *.jpeg|/.hidden/asdf136Intro-5kqlw.jpeg
+INPUT|lclarkex-intro-62|M3 |000000000|lclarkex|intro:locate *.JPG|/etc/wuer136intro-4.JPG
+INPUT|lclarkex-intro-63|U |1537815221|lclarkex|intro:lssudo mv /var/log/136intro-3.jp[1[1[1[1[1[1[1[1[1[1[1[1[1[1[1[1[1[1[1[1[1[1P[1@e[1@t[1@c[1@/[1@w[1@u[1@e[1@r[1@1[1@3[1@6[1@i[1@n[1@t[1@r[1@o[1@-[1@4[1@.[1@J[1@P[1@G|
+INPUT|lclarkex-intro-64|U |1537817666|lclarkex|intro:ls|intro-1  intro-3  intro-4
+INPUT|lclarkex-intro-65|A4 A3 A1 A2 A0 |000000000|lclarkex|intro:locate *intro-5intro-4.JPG intro-4|
+INPUT|lclarkex-intro-66|M2 M0 |000000000|lclarkex|intro:locate *.jpg|/usr/share/doc/libsane/umax/sane-logo.jpg
+/usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+/usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+/usr/share/doc/libsane/umax/sane-umax-standard.jpg
+/usr/share/doc/libsane/umax/sane-umax-text.jpg
+/usr/share/doc/libsane/umax/sane-umax-text2.jpg
+/usr/share/doc/libsane/umax/sane-umax-text4.jpg
+/usr/share/doc/libsane/umax/sane-umax.jpg
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+/var/log/136intro-3.jpg
+INPUT|lclarkex-intro-67|M4 |000000000|lclarkex|intro:locate *.jpeg|/.hidden/asdf136Intro-5kqlw.jpeg
+INPUT|lclarkex-intro-68|U |000000000|lclarkex|intro:mv /.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkex-intro-69|U |1537817670|lclarkex|intro:ls|intro-1  intro-3  intro-4  intro-5
+INPUT|lclarkex-intro-70|U |1537815186|lclarkex|intro:mv /.hidden/asdf136Intro-5kqlw.jpeg intro-5|
+INPUT|lclarkex-intro-71|A1 A3 A4 A0 A2 |000000000|lclarkex|intro:findte *.jpeg|find: '*.jpeg': No such file or directory
+INPUT|lclarkex-intro-72|A1 A3 A4 A0 A2 |000000000|lclarkex|intro:find *.jpg|find: '*.jpg': No such file or directory
+INPUT|lclarkex-intro-73|U |000000000|lclarkex|intro:cd ..|
+INPUT|lclarkex-intro-74|U |000000000|lclarkex|intro:cd ..|
+INPUT|lclarkex-intro-75|U |000000000|lclarkex|intro:cd /|
+INPUT|lclarkex-intro-76|U |000000000|lclarkex|intro:pwd|/
+INPUT|lclarkex-intro-77|U |1537817803|lclarkex|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkex-intro-78|A1 A4 A3 A0 A2 |1537815207|lclarkex|intro:find *jpg|find: '*jpg': No such file or directory
+INPUT|lclarkex-intro-79|A4 A3 A1 A2 A0 |1537815330|lclarkex|intro:find / -name \"*intro*\" 2> /dev/null | wc|q
+quit
+
+
+
+
+
+
+skj;dfalkdjfasd
+fasd;klfja
+^C
+INPUT|lclarkex-intro-80|A2 A0 A4 A3 A1 |1537815454|lclarkex|intro:find / - [1@[1@-[1@m[1@o[1@u[1@n[1@tl | wc|     27      27    1048
+INPUT|lclarkex-intro-81|A2 A0 A4 A3 A1 |000000000|lclarkex|intro:find / -mount -name \"*intro*\" 2> /dev/null|/var/log/ttylog/alltty.intro
+/var/log/ttylog/ttylog.intro.1
+/var/log/ttylog/cli.intro.csv
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/share/exp/createimage/logs/cli.intro.csv.1535412403
+/proj/share/exp/createimage/logs/ttylog.intro.0
+/proj/share/exp/createimage/logs/alltty.intro
+/proj/share/exp/createimage/logs/cli.intro.csv
+/proj/share/exp/createimage/count.intro
+/local/logs/intro_startcmd.err
+/local/logs/intro_startcmd.err.10
+/local/logs/intro_startcmd.out.10
+/local/logs/intro_startcmd.out
+/local/logs/intro_startcmd.status.10
+/local/logs/intro_startcmd.status
+/usr/share/man/man4/intro.4.gz
+/usr/share/man/man2/intro.2.gz
+/usr/share/man/man1/intro.1.gz
+/usr/share/man/man5/intro.5.gz
+/usr/share/man/man8/intro.8.gz
+/usr/share/man/man6/intro.6.gz
+/usr/share/man/man3/intro.3.gz
+/usr/share/man/man7/intro.7.gz
+/usr/share/vim/vim74/doc/intro.txt
+/usr/lib/python3/dist-package
+INPUT|lclarkex-intro-82|A0 A2 A1 A4 A3 |000000000|lclarkex|intro:find / -mount -name \"*i.jpg*\" 2> /dev/null|/usr/share/doc/libsane/umax/sane-umax-text2.jpg
+/usr/share/doc/libsane/umax/sane-umax-standard.jpg
+/usr/share/doc/libsane/umax/sane-umax-text.jpg
+/usr/share/doc/libsane/umax/sane-umax.jpg
+/usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+/usr/share/doc/libsane/umax/sane-umax-text4.jpg
+/usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+/usr/share/doc/libsane/umax/sane-logo.jpg
+INPUT|lclarkex-intro-83|A1 A4 A3 A0 A2 |000000000|lclarkex|intro:find / -mount -name \"*.jpge\" 2> /dev/null|
+INPUT|lclarkex-intro-84|A0 A2 A1 A3 A4 |000000000|lclarkex|intro:find / -mount -name \"*..JPEG\" 2> /dev/null|
+INPUT|lclarkex-intro-85|A1 A4 A3 A0 A2 |000000000|lclarkex|intro:find / -mount -name \"*.JPEG*\" 2> /dev/null|
+INPUT|lclarkex-intro-86|A4 A3 A1 A2 A0 |000000000|lclarkex|intro:find / -mount -name \"*.Jjpg*" 2> /dev/nulll|/usr/share/doc/libsane/umax/sane-umax-text2.jpg
+/usr/share/doc/libsane/umax/sane-umax-standard.jpg
+/usr/share/doc/libsane/umax/sane-umax-text.jpg
+/usr/share/doc/libsane/umax/sane-umax.jpg
+/usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+/usr/share/doc/libsane/umax/sane-umax-text4.jpg
+/usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+/usr/share/doc/libsane/umax/sane-logo.jpg
+INPUT|lclarkex-intro-87|A0 A2 A1 A3 A4 |000000000|lclarkex|intro:find / -mount -name \"*.intro-22> /dev/null|
+INPUT|lclarkex-intro-88|A4 A3 A1 A2 A0 |000000000|lclarkex|intro:find / -mount -name \"*intro-2*\" 2> /dev/null|/var/log/ttylog/alltty.intro
+/var/log/ttylog/ttylog.intro.1
+/var/log/ttylog/cli.intro.csv
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/share/exp/createimage/logs/cli.intro.csv.1535412403
+/proj/share/exp/createimage/logs/ttylog.intro.0
+/proj/share/exp/createimage/logs/alltty.intro
+/proj/share/exp/createimage/logs/cli.intro.csv
+/proj/share/exp/createimage/count.intro
+/local/logs/intro_startcmd.err
+/local/logs/intro_startcmd.err.10
+/local/logs/intro_startcmd.out.10
+/local/logs/intro_startcmd.out
+/local/logs/intro_startcmd.status.10
+/local/logs/intro_startcmd.status
+/usr/share/man/man4/intro.4.gz
+/usr/share/man/man2/intro.2.gz
+/usr/share/man/man1/intro.1.gz
+/usr/share/man/man5/intro.5.gz
+/usr/share/man/man8/intro.8.gz
+/usr/share/man/man6/intro.6.gz
+/usr/share/man/man3/intro.3.gz
+/usr/share/man/man7/intro.7.gz
+/usr/share/vim/vim74/doc/intro.txt
+/usr/lib/python3/dist-package
+INPUT|lclarkex-intro-89|A4 A3 A1 A2 A0 |000000000|lclarkex|intro:find / -mount -name \"*iINTRO\" 2> /dev/null|/usr/share/doc/bash/INTRO.gz
+INPUT|lclarkex-intro-90|A0 A2 A1 A3 A4 |000000000|lclarkex|intro:find / ~ -ctime -3e \"*I~TRO*\" 2> /dev/null|/users/lclarkex
+/users/lclarkex/.bash_history
+/users/lclarkex/topsecret
+/users/lclarkex/topsecret/intro-1
+/users/lclarkex/topsecret/intro-3
+/users/lclarkex/topsecret/intro-4
+/users/lclarkex/topsecret/intro-5
+INPUT|lclarkex-intro-91|U |000000000|lclarkex|intro:CD /|CD: command not found
+INPUT|lclarkex-intro-92|U |000000000|lclarkex|intro:/ *.JPEG|!TRUNCATED TO 500L! /
+/sbin
+/sbin/blockdev
+/sbin/rarp
+/sbin/lvscan
+/sbin/installkernel
+/sbin/insmod
+/sbin/pam_tally2
+/sbin/iscsi_discovery
+/sbin/kbdrate
+/sbin/shadowconfig
+/sbin/cfdisk
+/sbin/e2undo
+/sbin/pam_extrausers_chkpwd
+/sbin/capsh
+/sbin/fsck.cramfs
+/sbin/mii-tool
+/sbin/mkfs.ext4
+/sbin/vconfig
+/sbin/mkfs.ntfs
+/sbin/mdadm
+/sbin/veritysetup
+/sbin/iscsi-iname
+/sbin/request-key
+/sbin/mkfs.msdos
+/sbin/sfdisk
+/sbin/ntfslabel
+/sbin/xfs_repair
+/sbin/fatlabel
+/sbin/fsck.fat
+/sbin/pvcreate
+/sbin/fsck.vfat
+/sbin/fsck
+/sbin/dumpe2fs
+/sbin/mount.ntfs-3g
+/sbin/pvremove
+/sbin/tipc
+/sbin/mkfs.xfs
+/sbin/depmod
+/sbin/vgcfgbackup
+/sbin/cryptsetup-reencrypt
+/sbin/lvmchange
+/sbin/findfs
+/sbin/lvremove
+/sbin/dosfsck
+/sbin/mkfs.cramfs
+/sbin/lsmod
+/sbin/fsck.ext4dev
+/sbin/mount.fuse
+/sbin/vgchange
+/sbin/ntfsresize
+/sbin/vgdisplay
+/sbin/ifdown
+/sbi
+INPUT|lclarkex-intro-93|A2 A0 A4 A3 A1 |000000000|lclarkex|intro:find / -nameG|^C
+INPUT|lclarkex-intro-94|M1 |000000000|lclarkex|intro:find /devame *.JPEG|/dev/136intro-2jjaj.JPEG
+INPUT|lclarkex-intro-95|A4 A3 A1 A2 A0 |000000000|lclarkex|intro:find / -mount -name "*intro*" 2> /dev/null | wc|
+INPUT|lclarkex-intro-96|A1 A3 A4 A0 A2 |000000000|lclarkex|intro:find / -name "*intro*" 2> /dev/null | wc|
+INPUT|lclarkex-intro-97|U |000000000|lclarkex|intro:mv /dev/136intro-2jjaj.JPEGqlw.jpeg intro-2|
+INPUT|lclarkex-intro-98|U |000000000|lclarkex|intro:pwd|/
+INPUT|lclarkex-intro-99|U |000000000|lclarkex|intro:cd|
+INPUT|lclarkex-intro-100|U |000000000|lclarkex|intro:pwd|/users/lclarkex
+INPUT|lclarkex-intro-101|U |1537817810|lclarkex|intro:ls|topsecret
+INPUT|lclarkex-intro-102|U |000000000|lclarkex|intro:cd topsecret|
+INPUT|lclarkex-intro-103|U |000000000|lclarkex|intro:ls|intro-1  intro-3  intro-4  intro-5
+INPUT|lclarkex-intro-104|U |000000000|lclarkex|intro:mv /dev/136intro-2jjaj.JPEG intro-2|mv: cannot stat '/dev/136intro-2jjaj.JPEG': No such file or directory
+INPUT|lclarkex-intro-105|U |1537817651|lclarkex|intro:mv /dev/136intro-2jjaj.JPEG intro-2|
+INPUT|lclarkex-intro-106|U |000000000|lclarkex|intro:cd ..|
+INPUT|lclarkex-intro-107|U |000000000|lclarkex|intro:cd /|
+INPUT|lclarkex-intro-108|U |1537817714|lclarkex|intro:mv /dev/136intro-2jjaj.JPEG intro-2|mv: cannot stat '/dev/136intro-2jjaj.JPEG': No such file or directory
+INPUT|lclarkex-intro-109|U |1537817726|lclarkex|intro:mv /dev/136intro-2jjaj.JPEG intro-2|
+INPUT|lclarkex-intro-110|U |000000000|lclarkex|intro:mv /dev/136intro-2jjaj.JPEG intro-2|
+INPUT|lclarkex-intro-111|U |000000000|lclarkex|intro:mv /dev/136intro-2jjaj.JPEG intro-2|
+INPUT|lclarkex-intro-112|U |000000000|lclarkex|intro:mv /dev/136intro-2jjaj.JPEG intro-2|
+INPUT|lclarkex-intro-113|A4 A3 A1 A2 A0 |000000000|lclarkex|intro:find /dev -name *.JPEG|
+INPUT|lclarkex-intro-114|U |000000000|lclarkex|intro:pwd|/
+INPUT|lclarkex-intro-115|A1 A3 A4 A0 A2 |000000000|lclarkex|intro:find /dev -name *.JPEG|
+INPUT|lclarkex-intro-116|U |000000000|lclarkex|intro:pwd|/
+INPUT|lclarkex-intro-117|U |000000000|lclarkex|intro:cd|
+INPUT|lclarkex-intro-118|U |000000000|lclarkex|intro:pwd|/users/lclarkex
+INPUT|lclarkex-intro-119|U |000000000|lclarkex|intro:ls|topsecret
+INPUT|lclarkex-intro-120|U |000000000|lclarkex|intro:cd topsecret|
+INPUT|lclarkex-intro-121|U |000000000|lclarkex|intro:ls|intro-1  intro-3  intro-4  intro-5
+INPUT|lclarkex-intro-122|U |1537837054|lclarkex|intro:ls|topsecret
+INPUT|lclarkex-intro-123|U |000000000|lclarkex|intro:cd topsecret|
+INPUT|lclarkex-intro-124|U |1537837062|lclarkex|intro:ls|intro-1  intro-3  intro-4  intro-5
+INPUT|lclarkex-intro-125|U |000000000|lclarkex|intro:scp -r lclarkex@intro:~/topsecret /Users/student/Des|ktop
+ssh: Could not resolve hostname intro: Name or service not known
+
+INPUT|lclarkex-intro-126|U |000000000|lclarkex|intro:scp -r lclarkex@intro:~/topsecret /Users/student/Desk|ktop<ESC>[Arkex@intro:~/topsecret$ ls<ESC>[K
+
+INPUT|lclarkex-intro-127|U |000000000|lclarkex|intro:scp -r lclarkex@intro:~/topsecret /Users/student/Desk|ktop<BS><BS><BS>
+INPUT|lclarkex-intro-128|U |000000000|lclarkex|intro:scp -r lclarkex@intr:~/topsecret /Users/student/Desktclarkex@intro:~/topsecret$ scp -r lclarkex@int:~/topsecret /Users/student/Desktoplarkex@intro:~/topsecret$ scp -r lclarkex@in:~/topsecret /Users/student/Desktopclarkex@intro:~/topsecret$ scp -r lclarkex@i:~/topsecret /Users/student/Desktop|
+INPUT|lclarkex-intro-129|U |000000000|lclarkex|intro:scp -r lclarkex@i|
+INPUT|lclarkex-intro-130|U |000000000|lclarkex|intro:scp -r lclarkex@u:~/topsecret /Users/student/Desktop clarkex@intro:~/topsecret$ scp -r lclarkex@us:~/topsecret /Users/student/Desktop|p<ESC>[Aclarkex@intro:~/topsecret$ scp -r lclarkex@use:~/topsecret /Users/student/Desktop<ESC>[Alarkex@intro:~/topsecret$ scp -r lclarkex@user:~/topsecret /Users/student/Desktop<ESC>[Aarkex@intro:~/topsecret$ scp -r lclarkex@users:~/topsecret /Users/student/Desk<ESC>[1@t<ESC>[Alarkex@intro:~/topsecret$ scp -r lclarkex@users.:~/topsecret /Users/student/Des<ESC>[1@k<ESC>[Alarkex@intro:~/topsecret$ scp -r lclarkex@users.d:~/topsecret /Users/student/De<ESC>[1@s<ESC>[Alarkex@intro:~/topsecret$ scp -r lclarkex@users.de:~/topsecret /Users/student/D<ESC>[1@e<ESC>[Alarkex@intro:~/topsecret$ scp -r lclarkex@users.det:~/topsecret /Users/student/<ESC>[1@D<ESC>[Alarkex@intro:~/topsecret$ scp -r lclarkex@users.dete:~/topsecret /Users/student<ESC>[1@/<ESC>[Alarkex@intro:~/topsecret$ scp -r lclarkex@users.deter:~/topsecret /Users/studen<ESC>[1@t<ESC>[Alarkex@intro:~/topsecret$ scp -r lclarkex@users.deterl:~/topsecret /Users/stude<ESC>[1@n<ESC>[Alarkex@intro:~/topsecret$ scp -r lclarkex@users.deterla:~
+INPUT|lclarkex-intro-131|U |000000000|lclarkex|intro:pwd|/users/lclarkex/topsecret
+INPUT|lclarkex-intro-132|U |1537837620|lclarkex|intro:mkdir answers.txt|
+INPUT|lclarkex-intro-133|U |000000000|lclarkex|intro:pwd|/users/lclarkex/topsecret
+INPUT|lclarkex-intro-134|U |1537837622|lclarkex|intro:ls|answers.txt  intro-1  intro-3  intro-4 intro-5
+INPUT|lclarkex-intro-135|U |1537837645|lclarkex|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"answers.txt" is a directory[>c[1;1H[34m" ============================================================================
+" Netrw Directory Listing                                        [m[36m(netrw v155)[m
+[34m"   /users/lclarkex/topsecret/answers.txt
+"   Sorted by[m[38;5;130m      name[m
+[34m"   Sort sequence:[m[38;5;130m [\/]$[m[34m%%[m[38;5;130m\<core\%%(\.\d\+\)\=\>[m[34m%%[m[38;5;130m\.h$[m[34m%%[m[38;5;130m\.c$[m[34m%%[m[38;5;130m\.cpp$[m[34m%%[m[38;5;130m\~\=\*$[m[34m%%[m[38;5;130m*[m[34m%%[m[38;5;130m\.o$[m[34m%%[m[38;5;130m\[m[6;1H[34m"   Quick Help: [m[36m<F1>[m[35m:[mhelp  [36m-[m[35m:[mgo up dir  [36mD[m[35m:[mdelete  [36mR[m[35m:[mrename  [36ms[m[35m:[msort-by  [36mx[m[35m:[mspecial[7;1H[34m" ==============================================================================[m[8;1H[4m[34m..[m[4m[36m/[m[4m                                                                             
+INPUT|lclarkex-intro-136|U |1537837828|lclarkex|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"answers.txt" is a directory[>c[1;1H[34m" ============================================================================
+" Netrw Directory Listing                                        [m[36m(netrw v155)[m
+[34m"   /users/lclarkex/topsecret/answers.txt
+"   Sorted by[m[38;5;130m      name[m
+[34m"   Sort sequence:[m[38;5;130m [\/]$[m[34m%%[m[38;5;130m\<core\%%(\.\d\+\)\=\>[m[34m%%[m[38;5;130m\.h$[m[34m%%[m[38;5;130m\.c$[m[34m%%[m[38;5;130m\.cpp$[m[34m%%[m[38;5;130m\~\=\*$[m[34m%%[m[38;5;130m*[m[34m%%[m[38;5;130m\.o$[m[34m%%[m[38;5;130m\[m[6;1H[34m"   Quick Help: [m[36m<F1>[m[35m:[mhelp  [36m-[m[35m:[mgo up dir  [36mD[m[35m:[mdelete  [36mR[m[35m:[mrename  [36ms[m[35m:[msort-by  [36mx[m[35m:[mspecial[7;1H[34m" ==============================================================================[m[8;1H[4m[34m..[m[4m[36m/[m[4m                                                                             
+INPUT|lclarkex-intro-137|U |1537837993|lclarkex|intro:pico answers.txt|%[?1049h[1;24r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[22;25H(B[0;7m[ "answers.txt" is a directory ]
+[3d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3                New Buffer                                      [23;1H^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos
+[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line
+[3d[1;71H(B[0;7mModified
+[3d(B[m[KThe var director c
+[22d[K[3;19holds files that the system writes data to during operations.
+[4dThe dev directory contains subdirectories that hold files related to specific 
+$ific d[K 
+The dev directory contains subdirectories that hold files related to specific 
+$ific d[K 
+The dev directory contains subdirectories that hold files related to specific 
+$ific d[Kevices.
+The dev directory contains subdirectories t
+INPUT|lclarkex-intro-138|U |000000000|lclarkex|intro:pwd|/users/lclarkex/topsecret
+INPUT|lclarkex-intro-139|U |1537838302|lclarkex|intro:ls|answers.txt  anwerss.txt  intro-1  intro-3  intro-4  intro-5
+INPUT|lclarkex-intro-140|U |000000000|lclarkex|intro:cd answers.txt|
+INPUT|lclarkex-intro-141|U |1537838309|lclarkex|intro:ls|
+INPUT|lclarkex-intro-142|U |1537838349|lclarkex|intro:rmdir answers.txt|rmdir: failed to remove 'answers.txt': No such file or directory
+INPUT|lclarkex-intro-143|U |000000000|lclarkex|intro:pwd|/users/lclarkex/topsecret/answers.txt
+INPUT|lclarkex-intro-144|U |000000000|lclarkex|intro:cd ..|
+INPUT|lclarkex-intro-145|U |000000000|lclarkex|intro:rmdir answers.txt|
+INPUT|lclarkex-intro-146|U |1537838361|lclarkex|intro:ls|anwerss.txt  intro-1  intro-3  intro-4 intro-5
+INPUT|lclarkex-intro-147|U |1537838368|lclarkex|intro:pico answerss.txt|[?1049h[1;24r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[22;35H(B[0;7m[ New File ]
+[3d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3             File: answerss.txt                                 [23;1H^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos
+[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line
+[3d[22d(B[0;7mFile Name to Write: answerss.txt                                                [23;14H(B[m   (B[0;7mM-D(B[m DOS Format  (B[0;7mM-A(B[m Append      (B[0;7mM-B(B[m Backup File[K[24;2H(B[0;7mC(B[m Cancel       (B[0;7mM-M(B[m Mac Format  (B[0;7mM-P(B[m Prepend     (B[0;7m^T(B[m To Files[K[22;33H(B[0;7ma(B[m(B[0;7mn(B[m(B[0;7ms(B[(B[0;7m(B[(B[0;7m(B[(B[0;7m(B[(B[0;7m(B[(B[0;7m(B[(B[0;7m(B[(B[0;7m(B[(B[0;7m(B[(B[0;7m(B[(B[0;7m(B[(B[0;7m(B[(B[0;7m(B[(B[0;7m(B[(B[0;7m(B[(B[0;7m(B[m(B[
+INPUT|lclarkex-intro-148|U |1537838404|lclarkex|intro:ls|answers.txt  anwerss.txt  intro-1  intro-3  intro-4  intro-5
+INPUT|lclarkex-intro-149|U |000000000|lclarkex|intro:printf answers.txt|
+INPUT|lclarkex-intro-150|U |1537838441|lclarkex|intro:cat answers.txt|The var director holds files that the system writes data to during operations.
+The dev directory contains subdirectories that hold files related to specific d$
+
+INPUT|lclarkex-intro-151|U |1537838463|lclarkex|intro:rm answerss.txt|rm: cannot remove 'answerss.txt': No such file or directory
+INPUT|lclarkex-intro-152|U |1537838468|lclarkex|intro:ls|answers.txt  anwerss.txt  intro-1  intro-3  intro-4  intro-5
+INPUT|lclarkex-intro-153|U |1537838477|lclarkex|intro:rm anwerss.txt|
+INPUT|lclarkex-intro-154|U |1537838479|lclarkex|intro:ls|answers.txt  intro-1  intro-3  intro-4 intro-5
+INPUT|lclarkex-intro-155|M6 |1537838532|lclarkex|intro:df|%Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 1003696         48    1003648   1%% /dev
+tmpfs                                                 204776      11068     193708   6%% /run
+/dev/sda1                                           15616412    2894400   11922064  20%% /
+tmpfs                                                1023868          0    1023868   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023868          0    1023868   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973280384 1763488000  36%% /proj/CS495LC
+users.isi.deterlab.net:/mnt/other/users/lclarkex  2031313280 1272530304  596278016  69%% /users/lclarkex
+tmpfs                                                 204776          0     204776  
+INPUT|lclarkex-intro-156|U |1537838582|lclarkex|intro:man df|%[?1049h[?1h=
+DF(1)                            User Commands                           DF(1)[m
+[m
+[1mNAME[0m[m
+       df - report file system disk space usage[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mdf[0m [[4mOPTION[24m]... [[4mFILE[24m]...[m
+[m
+[1mDESCRIPTION[0m[m
+       This  manual  page  documents  the  GNU version of [1mdf[0m.  [1mdf[0m displays the[m
+       amount of disk space available on the file system containing each  file[m
+       name  argument.   If  no file name is given%% the space available on all[m
+       currently mounted file systems is shown.  Disk space  is  shown  in  1K[m
+       blocks  by  default%% unless the environment variable POSIXLY_CORRECT is[m
+       set%% in which case 512-byte blocks are used.[m
+[m
+       If an argument is the absolute file name of a disk device node contain-[m
+       ing  a  mounted  file system%% [1mdf[0m shows the space available on that file[m
+       system rather than on the file s
+INPUT|lclarkex-intro-157|M6 |000000000|lclarkex|intro:dfn df|%Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 1003696         48    1003648   1%% /dev
+tmpfs                                                 204776      11068     193708   6%% /run
+/dev/sda1                                           15616412    2894424   11922040  20%% /
+tmpfs                                                1023868          0    1023868   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023868          0    1023868   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973280384 1763488000  36%% /proj/CS495LC
+users.isi.deterlab.net:/mnt/other/users/lclarkex  2031313280 1272586112  596222080  69%% /users/lclarkex
+tmpfs                                                 204776          0     204776  
+INPUT|lclarkex-intro-158|U |1537838731|lclarkex|intro:man df|%[?1049h[?1h=
+DF(1)                            User Commands                           DF(1)[m
+[m
+[1mNAME[0m[m
+       df - report file system disk space usage[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mdf[0m [[4mOPTION[24m]... [[4mFILE[24m]...[m
+[m
+[1mDESCRIPTION[0m[m
+       This  manual  page  documents  the  GNU version of [1mdf[0m.  [1mdf[0m displays the[m
+       amount of disk space available on the file system containing each  file[m
+       name  argument.   If  no file name is given%% the space available on all[m
+       currently mounted file systems is shown.  Disk space  is  shown  in  1K[m
+       blocks  by  default%% unless the environment variable POSIXLY_CORRECT is[m
+       set%% in which case 512-byte blocks are used.[m
+[m
+       If an argument is the absolute file name of a disk device node contain-[m
+       ing  a  mounted  file system%% [1mdf[0m shows the space available on that file[m
+       system rather than on the file s
+INPUT|lclarkex-intro-159|A6 |1537838613|lclarkex|intro:df -tmpfs|df: no file systems processed
+INPUT|lclarkex-intro-160|A6 |000000000|lclarkex|intro:df --mpfs|df: unrecognized option '--tmpfs'
+Try 'df --help' for more information.
+INPUT|lclarkex-intro-161|M6 |1537838780|lclarkex|intro:df/dev/sda1|bash: df/dev/sda1: No such file or directory
+INPUT|lclarkex-intro-162|M6 |000000000|lclarkex|intro:df dev/sda1|%Filesystem     1K-blocks    Used Available Use%% Mounted on
+/dev/sda1       15616412 2894508  11921956  20%% /%
+INPUT|lclarkex-intro-163|A6 |000000000|lclarkex|intro:df /users.isi.deterlab.net:/mnt/projects/proj/CS495L|C
+df: '/users.isi.deterlab.net:/mnt/projects/proj/CS495LC': No such file or directory
+INPUT|lclarkex-intro-164|A6 |1537838828|lclarkex|intro:df /users.isi.deterlab.net:/mnt/projects/proj/CS495LC|C
+INPUT|lclarkex-intro-165|A6 |000000000|lclarkex|intro:df /users.isi.detrlab.net:/mnt/projects/proj/CS495LC|
+INPUT|lclarkex-intro-166|A6 |000000000|lclarkex|intro:df /users.isi.det|
+INPUT|lclarkex-intro-167|A6 |000000000|lclarkex|intro:df /proj/CS495Ce|%Filesystem                                         1K-blocks      Used  Available Use%% Mounted on
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160 973280384 1763487872  36%% /proj/CS495LC%
+INPUT|lclarkex-intro-168|U |000000000|lclarkex|intro:ls /proj/CS495LC|answers.txt  intro-1  intro-3  intro-4 intro-5
+INPUT|lclarkex-intro-169|A6 |1537838888|lclarkex|intro:df /proj/CS495LC > topsecret/output.txt|bash: topsecret/output.txt: No such file or directory
+INPUT|lclarkex-intro-170|A6 |1537839011|lclarkex|intro:df /proj/CS495LC > diskfree.txt|
+INPUT|lclarkex-intro-171|U |1537838907|lclarkex|intro:ls|answers.txt  diskfree.txt  intro-1  intro-3  intro-4  intro-5
+INPUT|lclarkex-intro-172|U |1537839019|lclarkex|intro:cat diskfree.txt|%Filesystem                                         1K-blocks      Used  Available Use%% Mounted on
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160 973280384 1763487872  36%% /proj/CS495LC%
+INPUT|lclarkex-intro-173|U |1537839014|lclarkex|intro:lsdf /proj/CS495LC > [8@topsecret/output.txt|
+INPUT|lclarkex-intro-174|U |1537839141|lclarkex|intro:lsdf /[33@users.isi.rlab.net:/mnt/projects/proj/CS495LC|
+INPUT|lclarkex-intro-175|U |000000000|lclarkex|intro:scp -r lclarkex@users.deterlab.net:~/topsecret /Users|
+INPUT|lclarkex-intro-176|U |1537837180|lclarkex|intro:scp -r lclarkex@intro:~/topsecret /Users/student/Desktop[K[Arkex@intro:~/topsecret$ ls[K|
+INPUT|lclarkex-intro-177|M1 |000000000|lclarkex|intro:find /dev -name *.JPEG|/dev/136intro-2jjaj.JPEG
+INPUT|lclarkex-intro-178|U |000000000|lclarkex|intro:cat diskfree.txtname *.JPEG|%Filesystem                                         1K-blocks      Used  Available Use%% Mounted on
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160 973280384 1763487872  36%% /proj/CS495LC%
+INPUT|lclarkex-intro-179|U |000000000|lclarkex|intro:cat diskfree.txtname *.JPEG|%Filesystem                                         1K-blocks      Used  Available Use%% Mounted on
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160 973280384 1763487872  36%% /proj/CS495LC%
+INPUT|lclarkex-intro-180|U |000000000|lclarkex|intro:cat diskfree.txtname *.JPEG|%Filesystem                                         1K-blocks      Used  Available Use%% Mounted on
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160 973280384 1763487872  36%% /proj/CS495LC%
+INPUT|lclarkex-intro-181|A6 |000000000|lclarkex|intro:df /proj/CS495LC > topsecret/output.txt|
+INPUT|lclarkex-intro-182|A6 |000000000|lclarkex|intro:df /users.isi.rlab.net:/mnt/projects/proj/CS495LC|
+INPUT|lclarkex-intro-183|U |000000000|lclarkex|intro:scp -r lclarkex@users.deterlab.net:~/topsecret /Users|
+INPUT|lclarkex-intro-184|U |000000000|lclarkex|intro:scp -r lclarkex@intro:~/topsecret /Users/student/Desktoprkex@intro:~/topsecret$ ls|
+INPUT|lclarkex-intro-185|U |000000000|lclarkex|intro:mv /dev/136intro-2jjaj.JPEG intro-2|
+INPUT|lclarkex-intro-186|U |000000000|lclarkex|intro:ls|answers.txt  diskfree.txt  intro-1  intro-2  intro-3  intro-4  intro-5
+INPUT|lclarkex-intro-187|U |000000000|lclarkex|intro:cd ..|
+INPUT|lclarkex-intro-188|U |000000000|lclarkex|intro:pwd|/users/lclarkex
+INPUT|lclarkex-intro-189|U |1537839337|lclarkex|intro:tar cfz topsecret topsecret.tgz|tar: topsecret.tgz: Cannot stat: No such file or directory
+tar (child): topsecret: Cannot open: Is a directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+INPUT|lclarkex-intro-190|U |1537918496|lclarkex|intro:ls|topsecret
+INPUT|lclarkex-intro-191|U |000000000|lclarkex|intro:cd topsecret|
+INPUT|lclarkex-intro-192|U |1537918502|lclarkex|intro:ls|answers.txt  diskfree.txt  intro-1  intro-2  intro-3  intro-4  intro-5
+INPUT|lclarkex-intro-193|U |1537918533|lclarkex|intro:pico answers.txt|[?1049h[1;24r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[22;33H(B[0;7m[ Reading File ]
+[3d(B[m[22;39H(B[0;7m 3 lines
+[6d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3             File: answers.txt                                  [3;1H(B[mThe var director holds files that the system writes data to during operations.
+[4dThe dev directory contains subdirectories that hold files related to specific d$[23;1H(B[0;7m^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos
+[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line
+[3d[4d[5d[6d[1;71H(B[0;7mModified
+[6d(B[mimage 1 is Forbidde
+[22d[K[6;20Hn planet
+[7dimage 2 is Godzilla
+[8dimage 3 is It came from outer space
+[9dimage 4 is the fly
+[10dimage [1P5 is 2001 a space odyssey[8G
+[22d(B[0;7mFile Name to Write: answers.txt       
+INPUT|lclarkex-intro-194|U |1537918650|lclarkex|intro:cat answers.txt|The var director holds files that the system writes data to during operations.
+The dev directory contains subdirectories that hold files related to specific d$
+
+image 1 is Forbidden planet
+image 2 is Godzilla
+image 3 is It came from outer space
+image 4 is the fly
+image 5 is 2001 a space odyssey
+INPUT|lclarkex-intro-195|M5 |1537918683|lclarkex|intro:less /proc/cpuinfo|[?1049h[?1h=
+processor       : 0
+vendor_id       : GenuineIntel
+cpu family      : 15
+model           : 4
+model name      : Intel(R) Xeon(TM) CPU 3.00GHz
+stepping        : 3
+microcode       : 0x5
+cpu MHz         : 2992.854
+cache size      : 2048 KB
+physical id     : 0
+siblings        : 2
+core id         : 0
+cpu cores       : 1
+apicid          : 0
+initial apicid  : 0
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 5
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc pebs bts nopl pni dtes64 monitor ds_cpl cid cx16 xtpr
+bugs            :
+[7m/proc/cpuinfo[27m[K
+[Kbogomips        : 5985.70
+:[K
+INPUT|lclarkex-intro-196|U |000000000|lclarkex|intro:pico answers.txtfo|%!TRUNCATED TO 500L! <ESC>[?1049h<ESC>[1;24r<ESC>(B<ESC>[m<ESC>[4l<ESC>[?7h<ESC>[?1h<ESC>=<ESC>[?1h<ESC>=<ESC>[?1h<ESC>=<ESC>[39;49m<ESC>[?25l<ESC>[39;49m<ESC>(B<ESC>[m<ESC>[H<ESC>[2J<ESC>[22;33H<ESC>(B<ESC>[0;7m[ Reading File ]
+<ESC>[3d<ESC>(B<ESC>[m<ESC>[22;39H<ESC>(B<ESC>[0;7m 8 lines
+<ESC>[11d<ESC>(B<ESC>[m<ESC>[?12l<ESC>[?25h<ESC>[H<ESC>[39;49m<ESC>(B<ESC>[0;7m  GNU nano 2.5.3             File: answers.txt                                  <ESC>[3;1H<ESC>(B<ESC>[mThe var director holds files that the system writes data to during operations.
+<ESC>[4dThe dev directory contains subdirectories that hold files related to specific d$<ESC>[6;1Himage 1 is Forbidden planet
+<ESC>[7dimage 2 is Godzilla
+<ESC>[8dimage 3 is It came from outer space
+<ESC>[9dimage 4 is the fly
+<ESC>[10dimage 5 is 2001 a space odyssey
+<ESC>[23d<ESC>(B<ESC>[0;7m^G<ESC>(B<ESC>[m Get Help  <ESC>(B<ESC>[0;7m^O<ESC>(B<ESC>[m Write Out <ESC>(B<ESC>[0;7m^W<ESC>(B<ESC>[m Where Is  <ESC>(B<ESC>[0;7m^
+INPUT|lclarkex-intro-197|U |1537918981|lclarkex|intro:cat answers.txt|%The var director holds files that the system writes data to during operations.
+The dev directory contains subdirectories that hold files related to specific
+devices such as hard disks.
+The vendor id of the CPU is GenuineIntel.
+
+I didn't know we needed to get the original file locations and I moved all the
+files%% so I am hoping it is ok that I don't include the original file locations
+
+image 1 is Forbidden planet
+image 2 is Godzilla
+image 3 is It came from outer space
+image 4 is the fly
+image 5 is 2001 a space odyssey%
+INPUT|lclarkex-intro-198|U |1537919005|lclarkex|intro:ls|answers.txt  diskfree.txt  intro-1  intro-2  intro-3  intro-4  intro-5
+INPUT|lclarkex-intro-199|U |1537919010|lclarkex|intro:cat diskfree.txt|%Filesystem                                         1K-blocks      Used  Available Use%% Mounted on
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160 973280384 1763487872  36%% /proj/CS495LC%
+INPUT|lclarkex-intro-200|U |1537918708|lclarkex|intro:pico answers.txt|%[?1049h[1;24r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[22;33H(B[0;7m[ Reading File ]
+[3d(B[m[22;39H(B[0;7m 13 lines ]
+[16d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3              File: answers.txt                                  [3;1H(B[mThe var director holds files that the system writes data to during operations.
+[4dThe dev directory contains subdirectories that hold files related to specific
+[5ddevices such as hard disks.
+[6dThe vendor id of the CPU is GenuineIntel.
+[8dI didn't know we needed to get the original file locations and I moved all the
+[9dfiles%% so I am hoping it is ok that I don't include the original file locations
+[11dimage 1 is Forbidden planet
+[12dimage 2 is Godzilla
+[13dimage 3 is It came from outer space
+[14dimage 4 is the fly
+[15dimage 5 is 2001 a space odyssey
+[23d(B[0;7m^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos<NL
+INPUT|lclarkex-intro-201|U |1537919171|lclarkex|intro:cat answers.txt|%Liam Beveridge%% liambeveridge@lclark.edu lclarkex
+
+The var director holds files that the system writes data to during operations.
+The dev directory contains subdirectories that hold files related to specific
+devices such as hard disks.
+The vendor id of the CPU is GenuineIntel.
+
+I didn't know we needed to get the original file locations and I moved all the
+files%% so I am hoping it is ok that I don't include the original file locations
+
+image 1 is Forbidden planet
+image 2 is Godzilla
+image 3 is It came from outer space
+image 4 is the fly
+image 5 is 2001 a space odyssey%
+INPUT|lclarkex-intro-202|U |000000000|lclarkex|intro:cd ..|
+INPUT|lclarkex-intro-203|U |1537919199|lclarkex|intro:ls|topsecret
+INPUT|lclarkex-intro-204|U |000000000|lclarkex|intro:mv topscret top_secret|
+INPUT|lclarkex-intro-205|U |1537919245|lclarkex|intro:ls|top_secret
+INPUT|lclarkex-intro-206|U |000000000|lclarkex|intro:cd top_secret|
+INPUT|lclarkex-intro-207|U |1537919253|lclarkex|intro:ls|answers.txt  diskfree.txt  intro-1  intro-2  intro-3  intro-4  intro-5
+INPUT|lclarkex-intro-208|U |1537919260|lclarkex|intro:cat answers.txt|%Liam Beveridge%% liambeveridge@lclark.edu lclarkex
+
+The var director holds files that the system writes data to during operations.
+The dev directory contains subdirectories that hold files related to specific
+devices such as hard disks.
+The vendor id of the CPU is GenuineIntel.
+
+I didn't know we needed to get the original file locations and I moved all the
+files%% so I am hoping it is ok that I don't include the original file locations
+
+image 1 is Forbidden planet
+image 2 is Godzilla
+image 3 is It came from outer space
+image 4 is the fly
+image 5 is 2001 a space odyssey%
+INPUT|lclarkex-intro-209|U |000000000|lclarkex|intro:cd..|cd..: command not found
+INPUT|lclarkex-intro-210|U |000000000|lclarkex|intro:cd ..|
+INPUT|lclarkex-intro-211|U |1537919266|lclarkex|intro:ls|top_secret
+INPUT|lclarkex-intro-212|U |1537919318|lclarkex|intro:tar cvzf lclarkex-intro.tar.gz top_secret|top_secret/
+top_secret/intro-1
+top_secret/intro-3
+top_secret/intro-4
+top_secret/intro-5
+top_secret/answers.txt
+top_secret/diskfree.txt
+top_secret/intro-2
+INPUT|lclarkex-intro-213|U |1537919324|lclarkex|intro:ls|lclarkex-intro.tar.gz  top_secret

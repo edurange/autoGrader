@@ -1,0 +1,131 @@
+User lclarkfl start time 1543435746 end 1543436604
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkfl-buffer-0|U |000000000|lclarkfl|:|
+INPUT|lclarkfl-buffer-1|U |000000000|lclarkfl|:|
+INPUT|lclarkfl-buffer-2|A0 |1543435746|lclarkfl|server:./webserver 0000|sudo: ./webserver: command not found
+INPUT|lclarkfl-buffer-3|U |1543435781|lclarkfl|server:ssh server.lclarkfl.CS495LC.isi.deterlab.net|Warning: Permanently added the RSA host key for IP address '192.168.1.6' to the list of known hosts.
+
+INPUT|lclarkfl-buffer-4|A0 |000000000|lclarkfl|server:./webserver 8080|sudo: ./webserver: command not found
+INPUT|lclarkfl-buffer-5|U |000000000|lclarkfl|server:wget http://localhost:8080|--2018-11-28 12:10:50--  http://localhost:8080/
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... failed: Connection refused.
+INPUT|lclarkfl-buffer-6|U |000000000|lclarkfl|server:wget http://localhost:0000|--2018-11-28 12:12:51--  http://localhost:0/
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:0... failed: Connection refused.
+INPUT|lclarkfl-buffer-7|U |000000000|lclarkfl|server:wget http://localhost:8080|
+INPUT|lclarkfl-buffer-8|A0 |000000000|lclarkfl|server:./webserver 8080|
+INPUT|lclarkfl-buffer-9|A0 |000000000|lclarkfl|server:./webserver 8080|sudo: ./webserver: command not found
+INPUT|lclarkfl-buffer-10|U |000000000|lclarkfl|server:l|l: command not found
+INPUT|lclarkfl-buffer-11|U |000000000|lclarkfl|server:ls|answers.txt  lclarkfl-intro.tar.gz
+INPUT|lclarkfl-buffer-12|U |000000000|lclarkfl|server:cd ../|
+INPUT|lclarkfl-buffer-13|U |000000000|lclarkfl|server:ls|aashraya  ekline    jaipuria  jross schwab  shareae  shareak  shareaq  shareaw  sharebc  sklower
+abhi   faber     jboman    kls2 scuric  shareaf  shareal  sharear  shareax  sharebd  sunshine
+alefiya   gbartlet  jelena    lclarkfl shareaa  shareag  shaream  shareas  shareay  shareta
+alwabel   gerow     jgli      melkins shareab  shareah  sharean  shareat  shareaz  sharetb
+bks   gknopf    jhickey   piobair shareac  shareai  shareao  shareau  shareba  sharetc
+bloznali  glawler   jjh       rgoodfel sharead  shareaj  shareap  shareav  sharebb  sharetd
+INPUT|lclarkfl-buffer-14|U |000000000|lclarkfl|server:cd~|%No command 'cd~' found%% did you mean:
+ Command 'cdo' from package 'cdo' (universe)
+ Command 'cdb' from package 'tinycdb' (main)
+ Command 'cdw' from package 'cdw' (universe)
+ Command 'cd5' from package 'cd5' (universe)
+ Command 'cdv' from package 'codeville' (universe)
+ Command 'cdp' from package 'irpas' (multiverse)
+ Command 'cde' from package 'cde' (universe)
+ Command 'cdi' from package 'cdo' (universe)
+cd~: command not found%
+INPUT|lclarkfl-buffer-15|U |000000000|lclarkfl|server:cd ~|
+INPUT|lclarkfl-buffer-16|U |000000000|lclarkfl|server:cd /usr/src/fhttpd|
+INPUT|lclarkfl-buffer-17|U |000000000|lclarkfl|server:ls|frobnick  index.html  Makefile webserver  webserver.c
+INPUT|lclarkfl-buffer-18|A0 |000000000|lclarkfl|server:./webserver 8080|GET / HTTP/1.1
+
+User-Agent: Wget/1.17.1 (linux-gnu)
+
+Accept: */*
+
+Accept-Encoding: identity
+
+Host: localhost:8080
+
+Connection: Keep-Alive
+
+
+GET /123456789 HTTP/1.1
+
+User-Agent: Wget/1.17.1 (linux-gnu)
+
+Accept: */*
+
+Accept-Encoding: identity
+
+Host: localhost:8080
+
+Connection: Keep-Alive
+
+
+ls
+INPUT|lclarkfl-buffer-19|U |1543435850|lclarkfl|server:wget http://localhost:8080|--2018-11-28 12:10:50--  http://localhost:8080/
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... failed: Connection refused.
+INPUT|lclarkfl-buffer-20|U |1543435971|lclarkfl|server:wget http://localhost:0000|--2018-11-28 12:12:51--  http://localhost:0/
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:0... failed: Connection refused.
+INPUT|lclarkfl-buffer-21|U |000000000|lclarkfl|server:wget http://localhost:8080|
+INPUT|lclarkfl-buffer-22|A0 |1543435981|lclarkfl|server:./webserver 8080|
+INPUT|lclarkfl-buffer-23|A0 |1543436030|lclarkfl|server:./webserver 8080|sudo: ./webserver: command not found
+INPUT|lclarkfl-buffer-24|U |000000000|lclarkfl|server:l|l: command not found
+INPUT|lclarkfl-buffer-25|U |000000000|lclarkfl|server:ls|answers.txt  lclarkfl-intro.tar.gz
+INPUT|lclarkfl-buffer-26|U |000000000|lclarkfl|server:cd ../|
+INPUT|lclarkfl-buffer-27|U |000000000|lclarkfl|server:ls|aashraya  ekline    jaipuria  jross schwab  shareae  shareak  shareaq  shareaw  sharebc  sklower
+abhi   faber     jboman    kls2 scuric  shareaf  shareal  sharear  shareax  sharebd  sunshine
+alefiya   gbartlet  jelena    lclarkfl shareaa  shareag  shaream  shareas  shareay  shareta
+alwabel   gerow     jgli      melkins shareab  shareah  sharean  shareat  shareaz  sharetb
+bks   gknopf    jhickey   piobair shareac  shareai  shareao  shareau  shareba  sharetc
+bloznali  glawler   jjh       rgoodfel sharead  shareaj  shareap  shareav  sharebb  sharetd
+INPUT|lclarkfl-buffer-28|U |000000000|lclarkfl|server:cd~|%No command 'cd~' found%% did you mean:
+ Command 'cdo' from package 'cdo' (universe)
+ Command 'cdb' from package 'tinycdb' (main)
+ Command 'cdw' from package 'cdw' (universe)
+ Command 'cd5' from package 'cd5' (universe)
+ Command 'cdv' from package 'codeville' (universe)
+ Command 'cdp' from package 'irpas' (multiverse)
+ Command 'cde' from package 'cde' (universe)
+ Command 'cdi' from package 'cdo' (universe)
+cd~: command not found%
+INPUT|lclarkfl-buffer-29|U |000000000|lclarkfl|server:cd ~|
+INPUT|lclarkfl-buffer-30|U |000000000|lclarkfl|server:cd /usr/src/fhttpd|
+INPUT|lclarkfl-buffer-31|U |000000000|lclarkfl|server:ls|frobnick  index.html  Makefile webserver  webserver.c
+INPUT|lclarkfl-buffer-32|A0 |000000000|lclarkfl|server:./webserver 8080|GET / HTTP/1.1
+
+User-Agent: Wget/1.17.1 (linux-gnu)
+
+Accept: */*
+
+Accept-Encoding: identity
+
+Host: localhost:8080
+
+Connection: Keep-Alive
+
+
+GET /123456789 HTTP/1.1
+
+User-Agent: Wget/1.17.1 (linux-gnu)
+
+Accept: */*
+
+Accept-Encoding: identity
+
+Host: localhost:8080
+
+Connection: Keep-Alive
+
+
+ls
+INPUT|lclarkfl-buffer-33|U |1543436555|lclarkfl|server:wget http://localhost:8080/123456789|%--2018-11-28 12:22:35--  http://localhost:8080/123456789
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... connected.
+HTTP request sent%% awaiting response... 404 Not Found
+2018-11-28 12:22:35 ERROR 404: Not Found.
+%
+INPUT|lclarkfl-buffer-34|A0 |1543436604|lclarkfl|server:gdb./webserver|bash: gdb./webserver: No such file or directory

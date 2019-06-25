@@ -1,0 +1,900 @@
+User lclarkfd start time 1537556417 end 1537817341
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkfd-intro-0|U |000000000|lclarkfd|:|
+INPUT|lclarkfd-intro-1|U |1537809414|lclarkfd|intro:cp top_secret/intro-2.jpg .|cp: cannot stat 'top_secret/intro-2.jpg': No such file or directory
+INPUT|lclarkfd-intro-2|U |000000000|lclarkfd|:|
+INPUT|lclarkfd-intro-3|U |000000000|lclarkfd|intro:cd top_secret|
+INPUT|lclarkfd-intro-4|U |1537809394|lclarkfd|intro:ls|answers.txt  intro-1.jpg  intro-3.jpg  intro-4.jpg  intro-5.jpg
+INPUT|lclarkfd-intro-5|U |000000000|lclarkfd|intro:cd ..|
+INPUT|lclarkfd-intro-6|U |000000000|lclarkfd|intro:cp top_secret/intro-3.jpg .|
+INPUT|lclarkfd-intro-7|U |1537809424|lclarkfd|intro:ls|intro-1.jpg  intro-3.jpg  top_secret
+INPUT|lclarkfd-intro-8|U |000000000|lclarkfd|intro:cp top_secret/intro-4.jpg .|
+INPUT|lclarkfd-intro-9|U |000000000|lclarkfd|intro:cp top_secret/intro-5.jpg .|
+INPUT|lclarkfd-intro-10|U |000000000|lclarkfd|intro:exit|exit
+INPUT|lclarkfd-intro-11|U |000000000|lclarkfd|intro:cd top_secret|
+INPUT|lclarkfd-intro-12|U |1537809594|lclarkfd|intro:ls|answers.txt  intro-1.jpg  intro-3.jpg  intro-4.jpg  intro-5.jpg
+INPUT|lclarkfd-intro-13|U |000000000|lclarkfd|intro:cd .    ^H|
+INPUT|lclarkfd-intro-14|U |000000000|lclarkfd|intro:cd ..|
+INPUT|lclarkfd-intro-15|U |000000000|lclarkfd|intro:cd ..|
+INPUT|lclarkfd-intro-16|U |000000000|lclarkfd|intro:cd ..|
+INPUT|lclarkfd-intro-17|U |1537809614|lclarkfd|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkfd-intro-18|A2 A0 A4 A3 A1 |1537809632|lclarkfd|intro:locate|locate: no pattern to search for specified
+INPUT|lclarkfd-intro-19|A0 A2 A1 A4 A3 |000000000|lclarkfd|intro:locate *.jpg|locate: can not open `/var/lib/mlocate/mlocate.db': Permission denied
+INPUT|lclarkfd-intro-20|A2 A0 A4 A3 A1 |000000000|lclarkfd|intro:locate *.jpg|/usr/share/doc/libsane/umax/sane-logo.jpg
+/usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+/usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+/usr/share/doc/libsane/umax/sane-umax-standard.jpg
+/usr/share/doc/libsane/umax/sane-umax-text.jpg
+/usr/share/doc/libsane/umax/sane-umax-text2.jpg
+/usr/share/doc/libsane/umax/sane-umax-text4.jpg
+/usr/share/doc/libsane/umax/sane-umax.jpg
+INPUT|lclarkfd-intro-21|A2 A0 A4 A3 A1 |000000000|lclarkfd|intro:locate *-2*.j*|locate: can not open `/var/lib/mlocate/mlocate.db': Permission denied
+INPUT|lclarkfd-intro-22|U |000000000|lclarkfd|intro:e *-2*.j*|
+INPUT|lclarkfd-intro-23|A2 A0 A4 A3 A1 |000000000|lclarkfd|intro:locate *-2*.J*|
+INPUT|lclarkfd-intro-24|A0 A2 A1 A3 A4 |1537809688|lclarkfd|intro:locate intro|/etc/apparmor.d/abstractions/apparmor_api/introspect
+/usr/lib/python3/dist-packages/dbus/_expat_introspect_parser.py
+/usr/lib/python3/dist-packages/dbus/__pycache__/_expat_introspect_parser.cpython-35.pyc
+/usr/share/man/man1/intro.1.gz
+/usr/share/man/man2/intro.2.gz
+/usr/share/man/man3/intro.3.gz
+/usr/share/man/man4/intro.4.gz
+/usr/share/man/man5/intro.5.gz
+/usr/share/man/man6/intro.6.gz
+/usr/share/man/man7/intro.7.gz
+/usr/share/man/man8/intro.8.gz
+/usr/share/vim/vim74/doc/intro.txt
+INPUT|lclarkfd-intro-25|U |000000000|lclarkfd|intro:cd usr/share/vim/vim74/doc|
+INPUT|lclarkfd-intro-26|U |1537809629|lclarkfd|intro:ls|arabic.txt    eval.txt     helphelp.txt       if_sniff.txt  netbeans.txt  os_risc.txt      pi_tar.txt      rileft.txt    tags.vim-tiny  usr_06.txt  usr_24.txt  usr_42.txt vi_diff.txt
+autocmd.txt   farsi.txt     help.txt        if_tcl.txt    options.txt   os_unix.txt      pi_vimball.txt  russian.txt   term.txt   usr_07.txt  usr_25.txt  usr_43.txt vim2html.pl
+change.txt    filetype.txt  help.txt.vim-tiny  indent.txt    os_390.txt    os_vms.txt      pi_zip.txt      scroll.txt    tips.txt   usr_08.txt  usr_26.txt  usr_44.txt visual.txt
+channel.txt   fold.txt     howto.txt        index.txt     os_amiga.txt  os_win32.txt      print.txt      sign.txt    todo.txt   usr_09.txt  usr_27.txt  usr_45.txt windows.txt
+cmdline.txt   ft_ada.txt    if_cscop.txt       insert.txt    os_beos.txt   pattern.txt      quickfix.txt    spell.txt    uganda.txt   usr_10.txt  usr_28.txt  usr_90.txt workshop.txt
+debugger.txt  ft_sql.txt    if
+INPUT|lclarkfd-intro-27|U |1537809718|lclarkfd|intro:file intro.txt|intro.txt: ASCII text
+INPUT|lclarkfd-intro-28|U |000000000|lclarkfd|intro:cd|
+INPUT|lclarkfd-intro-29|U |000000000|lclarkfd|intro:cd ..|
+INPUT|lclarkfd-intro-30|U |000000000|lclarkfd|intro:cd ..|
+INPUT|lclarkfd-intro-31|M2 |000000000|lclarkfd|intro:find / -name *.jpg|!TRUNCATED TO 500L! find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+/var/log/136intro-3.jpg
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied
+find: '/proc/2/task/2/fd': Permission denied
+find: '/proc/2/task/2/fdinfo': Permission denied
+INPUT|lclarkfd-intro-32|U |000000000|lclarkfd|intro:/ -name *.jpg|/var/log/136intro-3.jpg
+/users/lclarkfd/intro-1.jpg
+/users/lclarkfd/top_secret/intro-1.jpg
+/users/lclarkfd/top_secret/intro-3.jpg
+/users/lclarkfd/top_secret/intro-4.jpg
+/users/lclarkfd/top_secret/intro-5.jpg
+/users/lclarkfd/intro-3.jpg
+/users/lclarkfd/intro-4.jpg
+/users/lclarkfd/intro-5.jpg
+^C
+INPUT|lclarkfd-intro-33|M4 M2 M0 |000000000|lclarkfd|intro:find / -type f -name *136*.j*|/var/log/136intro-3.jpg
+/.hidden/asdf136Intro-5kqlw.jpeg
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|lclarkfd-intro-34|M3 M1 |000000000|lclarkfd|intro:find / -type f -name *136*.J*|/etc/wuer136intro-4.JPG
+/dev/136intro-2jjaj.JPEG
+INPUT|lclarkfd-intro-35|U |000000000|lclarkfd|intro:cd|
+INPUT|lclarkfd-intro-36|U |000000000|lclarkfd|intro:cd top_secret|
+INPUT|lclarkfd-intro-37|U |1537810087|lclarkfd|intro:cp /dev/136intro-2jjaj.JPEG .|
+INPUT|lclarkfd-intro-38|U |1537809713|lclarkfd|intro:ls|136intro-2jjaj.JPEG  answers.txt  intro-1.jpg  intro-3.jpg  intro-4.jpg  intro-5.jpg
+INPUT|lclarkfd-intro-39|U |1537810102|lclarkfd|intro:touch 136intro-2jjaj.JPEG intro-2.jpg|touch: cannot touch '136intro-2jjaj.JPEG': Permission denied
+INPUT|lclarkfd-intro-40|U |000000000|lclarkfd|intro:136intro-2jjaj.JPEG intro-2.jpg|
+INPUT|lclarkfd-intro-41|U |1537810088|lclarkfd|intro:ls|136intro-2jjaj.JPEG  answers.txt  intro-1.jpg  intro-2.jpg  intro-3.jpg  intro-4.jpg  intro-5.jpg
+INPUT|lclarkfd-intro-42|U |000000000|lclarkfd|intro:exit|exit
+INPUT|lclarkfd-intro-43|U |000000000|lclarkfd|intro:cd top_secret|
+INPUT|lclarkfd-intro-44|U |1537810220|lclarkfd|intro:nano answers.txt|%[?1049h[1;55r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[53;87H(B[0;7m[ Reading File ]
+[3d(B[m[53;93H(B[0;7m 0 lines
+[3d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3                                                  File: answers.txt                                                                                                          [54;1H^G(B[m Get Help[18G(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut Text[69G(B[0;7m^J(B[m Justify[86G(B[0;7m^C(B[m Cur Pos[103G(B[0;7m^Y(B[m Prev Page     (B[0;7mM-\(B[m First Line   (B[0;7mM-W(B[m WhereIs Next (B[0;7m^^(B[m Mark Text     (B[0;7mM-}(B[m Indent Text
+[55d(B[0;7m^X(B[m Exit[55;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Uncut Text    (B[0;7m^T(B[m To Spell[86G(B[0;7m^_(B[m Go To Line    (B[0;7m^V(B[m Next Page     (B[0;7mM-/(B[m Last Line    (B[0;7mM-](B[m To Bracket   (B[0;7mM-^(B[m Copy Text    (B[0;7mM-{(B[m Unindent Text
+[3d[?25l[53;70H(B[0;7m[ line 1/1 (100
+INPUT|lclarkfd-intro-45|U |000000000|lclarkfd|intro:answers.txt|%<ESC>[?1049h<ESC>[1;55r<ESC>(B<ESC>[m<ESC>[4l<ESC>[?7h<ESC>[?1h<ESC>=<ESC>[?1h<ESC>=<ESC>[?1h<ESC>=<ESC>[39;49m<ESC>[?25l<ESC>[39;49m<ESC>(B<ESC>[m<ESC>[H<ESC>[2J<ESC>[53;87H<ESC>(B<ESC>[0;7m[ Reading File ]
+<ESC>[3d<ESC>(B<ESC>[m<ESC>[53;93H<ESC>(B<ESC>[0;7m 0 lines
+<ESC>[3d<ESC>(B<ESC>[m<ESC>[?12l<ESC>[?25h<ESC>[H<ESC>[39;49m<ESC>(B<ESC>[0;7m  GNU nano 2.5.3                                                  File: answers.txt                                                                                                          <ESC>[54;1H^G<ESC>(B<ESC>[m Get Help<ESC>[18G<ESC>(B<ESC>[0;7m^O<ESC>(B<ESC>[m Write Out     <ESC>(B<ESC>[0;7m^W<ESC>(B<ESC>[m Where Is<ESC>[52G<ESC>(B<ESC>[0;7m^K<ESC>(B<ESC>[m Cut Text<ESC>[69G<ESC>(B<ESC>[0;7m^J<ESC>(B<ESC>[m Justify<ESC>[86G<ESC>(B<ESC>[0;7m^C<ESC>(B<ESC>[m Cur Pos<ESC>[103G<ESC>(B<ESC>[0;7m^Y<ESC>(B<ESC>[m Prev Page     <ESC>(B<ESC>[0;7mM-\<ESC>(B<ESC>[m First Line   <ESC>(B<ESC>[0;7mM-W<ESC>(B<ESC>[m WhereIs Next <ESC>(B<ESC>[0;7m^
+INPUT|lclarkfd-intro-46|U |1537810594|lclarkfd|intro:cat answers.txt|%1: Original location: /usr/share/pixmaps/xbzf136INTRO-1.jpg
+Title: Forbidden Planet
+
+2: Original location: /dev/136intro-2jjaj.JPEG
+Title: 
+
+3: original location: /var/log/136intro-3.jpg
+Title: It came from outer space
+
+4: Original location: /etc/wuer136intro-4.JPG
+Title: The Fly
+
+5: Original location: /.hidden/asdf136Intro-5kqlw.jpeg
+Title: 2001 Spcae Odyssey
+
+answers to questions
+1. The Var directory is meant for files that are variable and change%% like logs.
+2. The /dev directory contains the special device files for all the devices.
+3. %
+INPUT|lclarkfd-intro-47|U |000000000|lclarkfd|intro:cd ..|
+INPUT|lclarkfd-intro-48|U |000000000|lclarkfd|intro:cd ..|
+INPUT|lclarkfd-intro-49|U |000000000|lclarkfd|intro:cd ..|
+INPUT|lclarkfd-intro-50|M6 |1537810638|lclarkfd|intro:df|%Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 1003696         48    1003648   1%% /dev
+tmpfs                                                 204776      11048     193728   6%% /run
+/dev/sda1                                           15616412    2894536   11921928  20%% /
+tmpfs                                                1023868          0    1023868   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023868          0    1023868   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkfd  2031313280 1282613376  586194816  69%% /users/lclarkfd
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973211648 1763556736  36%% /proj/CS495LC
+tmpfs                                                 204776          0     204776  
+INPUT|lclarkfd-intro-51|U |000000000|lclarkfd|intro:cd|
+INPUT|lclarkfd-intro-52|U |000000000|lclarkfd|intro:cd top_secret|
+INPUT|lclarkfd-intro-53|A6 |1537810693|lclarkfd|intro:df > diskfree.txt|
+INPUT|lclarkfd-intro-54|U |1537810210|lclarkfd|intro:ls|136intro-2jjaj.JPEG  answers.txt  diskfree.txt intro-1.jpg  intro-2.jpg  intro-3.jpg  intro-4.jpg  intro-5.jpg
+INPUT|lclarkfd-intro-55|U |1537810700|lclarkfd|intro:cat diskfree.txt|%Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 1003696         48    1003648   1%% /dev
+tmpfs                                                 204776      11048     193728   6%% /run
+/dev/sda1                                           15616412    2894544   11921920  20%% /
+tmpfs                                                1023868          0    1023868   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023868          0    1023868   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkfd  2031313280 1282613376  586194816  69%% /users/lclarkfd
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973211648 1763556736  36%% /proj/CS495LC
+tmpfs                                                 204776          0     204776  
+INPUT|lclarkfd-intro-56|U |1537810708|lclarkfd|intro:rm intro-2.jpg|
+INPUT|lclarkfd-intro-57|U |1537810694|lclarkfd|intro:ls|136intro-2jjaj.JPEG  answers.txt  diskfree.txt intro-1.jpg  intro-3.jpg  intro-4.jpg  intro-5.jpg
+INPUT|lclarkfd-intro-58|U |1537810744|lclarkfd|intro:mv 136intro-2jjaj.JPEG intro-2.jpg|
+INPUT|lclarkfd-intro-59|U |1537810709|lclarkfd|intro:ls|answers.txt  diskfree.txt  intro-1.jpg intro-2.jpg  intro-3.jpg  intro-4.jpg  intro-5.jpg
+INPUT|lclarkfd-intro-60|U |1537810752|lclarkfd|intro:file intro-2.jpg|%intro-2.jpg: JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% Exif Standard: [TIFF image data%% big-endian%% direntries=7%% orientation=upper-left%% xresolution=98%% yresolution=106%% resolutionunit=2%% software=Adobe Photoshop CS Windows%% datetime=2004:09:23 12:26:39]%% baseline%% precision 8%% 295x450%% frames 3%
+INPUT|lclarkfd-intro-61|U |000000000|lclarkfd|intro:exit|exit
+INPUT|lclarkfd-intro-62|U |000000000|lclarkfd|intro:exit|exit
+INPUT|lclarkfd-intro-63|U |1537811009|lclarkfd|intro:nano answers.txt|%[?1049h[1;55r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[53;87H(B[0;7m[ Reading File ]
+[3d(B[m[53;93H(B[0;7m 19 lines ]
+[22d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3                                                  File: answers.txt                                                                                                          [3;1H(B[m1: Original location: /usr/share/pixmaps/xbzf136INTRO-1.jpg
+[4dTitle: Forbidden Planet
+[6d2: Original location: /dev/136intro-2jjaj.JPEG
+[7dTitle:
+[9d3: original location: /var/log/136intro-3.jpg
+[10dTitle: It came from outer space
+[12d4: Original location: /etc/wuer136intro-4.JPG
+[13dTitle: The Fly
+[15d5: Original location: /.hidden/asdf136Intro-5kqlw.jpeg
+[16dTitle: 2001 Spcae Odyssey
+[18danswers to questions
+[19d1. The Var directory is meant for files that are variable and change%% like logs.
+[20d2. The /dev directory contains the special device files for all the devices.
+[21d3.<NL
+INPUT|lclarkfd-intro-64|U |1537811025|lclarkfd|intro:cat answers.txt|%1: Original location: /usr/share/pixmaps/xbzf136INTRO-1.jpg
+Title: Forbidden Planet
+
+2: Original location: /dev/136intro-2jjaj.JPEG
+Title: Godzilla 
+
+3: original location: /var/log/136intro-3.jpg
+Title: It came from outer space
+
+4: Original location: /etc/wuer136intro-4.JPG
+Title: The Fly
+
+5: Original location: /.hidden/asdf136Intro-5kqlw.jpeg
+Title: 2001 Spcae Odyssey
+
+answers to questions
+1. The Var directory is meant for files that are variable and change%% like logs.
+2. The /dev directory contains the special device files for all the devices.
+3. %
+INPUT|lclarkfd-intro-65|U |000000000|lclarkfd|intro:cd ..|
+INPUT|lclarkfd-intro-66|U |000000000|lclarkfd|intro:cd ..|
+INPUT|lclarkfd-intro-67|U |000000000|lclarkfd|intro:cd ..|
+INPUT|lclarkfd-intro-68|U |000000000|lclarkfd|intro:cd vart|bash: cd: vart: No such file or directory
+INPUT|lclarkfd-intro-69|U |000000000|lclarkfd|intro:cd var|
+INPUT|lclarkfd-intro-70|U |1537811053|lclarkfd|intro:ls|backups  cache crash  emulab  lib  local  lock  log  mail  opt  run  snap  spool  tmp
+INPUT|lclarkfd-intro-71|A5 |000000000|lclarkfd|intro:find /var -name *vendor*|find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+INPUT|lclarkfd-intro-72|A5 |000000000|lclarkfd|intro:/var -name *vendor*|/var/lib/polkit-1/localauthority/10-vendor.d
+INPUT|lclarkfd-intro-73|A5 |000000000|lclarkfd|intro:find /var -name *vendor*|/var/lib/polkit-1/localauthority/10-vendor.d
+/etc/apt/apt.conf.d/01-vendor-ubuntu
+/etc/polkit-1/localauthority/10-vendor.d
+/sys/devices/pci0000:00/0000:00:00.0/subsystem_vendor
+/sys/devices/pci0000:00/0000:00:00.0/vendor
+/sys/devices/pci0000:00/0000:00:02.0/subsystem_vendor
+/sys/devices/pci0000:00/0000:00:02.0/0000:01:00.0/subsystem_vendor
+/sys/devices/pci0000:00/0000:00:02.0/0000:01:00.0/0000:02:05.0/subsystem_vendor
+/sys/devices/pci0000:00/0000:00:02.0/0000:01:00.0/0000:02:05.0/host2/target2:0:0/2:0:0:0/vendor
+/sys/devices/pci0000:00/0000:00:02.0/0000:01:00.0/0000:02:05.0/host2/target2:0:6/2:0:6:0/vendor
+/sys/devices/pci0000:00/0000:00:02.0/0000:01:00.0/0000:02:05.0/vendor
+/sys/devices/pci0000:00/0000:00:02.0/0000:01:00.0/0000:02:0c.0/subsystem_vendor
+/sys/devices/pci0000:00/0000:00:02.0/0000:01:00.0/0000:02:0c.0/vendor
+/sys/devices/pci0000:00/0000:00:02.0/0000:01:00.0/vendor
+/sys/devices/pci0000:00/0000:00:02.0/0000:01:00.2/subsystem_vendor<
+INPUT|lclarkfd-intro-74|A5 |000000000|lclarkfd|intro:find / -name *vendor*.txt|
+INPUT|lclarkfd-intro-75|U |000000000|lclarkfd|intro:cd ..|
+INPUT|lclarkfd-intro-76|U |000000000|lclarkfd|intro:;s|bash: syntax error near unexpected token `;'
+INPUT|lclarkfd-intro-77|U |1537811159|lclarkfd|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkfd-intro-78|U |000000000|lclarkfd|intro:cd proc|
+INPUT|lclarkfd-intro-79|U |1537811169|lclarkfd|intro:ls|1     1132  1375  150 165   1785  2217  27 2903  3136  3190  37   413  611  72  9  devices      ioports   loadavg  pagetypeinfo  sys      vmallocinfo
+10    1138  138   16 166   1799  2228  2708 2963  3137  32   374  421  64  73  99  diskstats    irq   locks    partitions  sysrq-trigger     vmstat
+100   1144  139   160 167   18    2234  2797 2964  315   33   38   428  65  74  acpi dma      kallsyms   mdstat   sched_debug  sysvipc     zoneinfo
+1064  12    140   1617 169   1919  23   28 3     3156  34   388  441  66  75  buddyinfo driver      kcore   meminfo  schedstat  thread-self
+1070  13    141   162 1691  2     2484  2846 30    3157  344   39   45   67  76  bus execdomains  keys   misc    scsi   timer_list
+1076  1331  1431  1625 17    20    25   2849 3036  316   35   393  46   68  77  cgroups fb      key-users   modules  s
+INPUT|lclarkfd-intro-80|A5 |000000000|lclarkfd|intro:cd cpuinfo|bash: cd: cpuinfo: Not a directory
+INPUT|lclarkfd-intro-81|A5 |1537811186|lclarkfd|intro:file cpuinfo|cpuinfo: empty
+INPUT|lclarkfd-intro-82|U |000000000|lclarkfd|intro:cd ..|
+INPUT|lclarkfd-intro-83|M5 |1537811211|lclarkfd|intro:less /proc/cpuinfo|%[?1049h[?1h=
+processor       : 0
+vendor_id       : GenuineIntel
+cpu family      : 15
+model           : 4
+model name      : Intel(R) Xeon(TM) CPU 3.00GHz
+stepping        : 1
+microcode       : 0x9
+cpu MHz         : 2992.842
+cache size      : 1024 KB
+physical id     : 0
+siblings        : 2
+core id         : 0
+cpu cores       : 1
+apicid          : 0
+initial apicid  : 0
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 5
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc pebs bts nopl pni dtes64 monitor ds_cpl cid cx16 xtpr
+bugs            :
+bogomips        : 5985.68
+clflush size    : 64
+cache_alignment : 128
+address sizes   : 36 bits physical%% 48 bits virtual
+power management:
+
+processor       : 1
+vendor_id       : GenuineIntel
+cpu family      : 15
+mo
+INPUT|lclarkfd-intro-84|U |000000000|lclarkfd|intro:cd|
+INPUT|lclarkfd-intro-85|U |000000000|lclarkfd|intro:cd top_secret|
+INPUT|lclarkfd-intro-86|U |1537811238|lclarkfd|intro:nano answers.txt|%[?1049h[1;55r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[53;87H(B[0;7m[ Reading File ]
+[3d(B[m[53;93H(B[0;7m 19 lines ]
+[22d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3                                                  File: answers.txt                                                                                                          [3;1H(B[m1: Original location: /usr/share/pixmaps/xbzf136INTRO-1.jpg
+[4dTitle: Forbidden Planet
+[6d2: Original location: /dev/136intro-2jjaj.JPEG
+[7dTitle: Godzilla
+[9d3: original location: /var/log/136intro-3.jpg
+[10dTitle: It came from outer space
+[12d4: Original location: /etc/wuer136intro-4.JPG
+[13dTitle: The Fly
+[15d5: Original location: /.hidden/asdf136Intro-5kqlw.jpeg
+[16dTitle: 2001 Spcae Odyssey
+[18danswers to questions
+[19d1. The Var directory is meant for files that are variable and change%% like logs.
+[20d2. The /dev directory contains the special device files for all the devices.
+
+INPUT|lclarkfd-intro-87|U |1537811277|lclarkfd|intro:nano answers.txt|%[?1049h[1;55r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[53;87H(B[0;7m[ Reading File ]
+[3d(B[m[53;93H(B[0;7m 20 lines ]
+[23d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3                                                  File: answers.txt                                                                                                          [3;1H(B[m1: Original location: /usr/share/pixmaps/xbzf136INTRO-1.jpg
+[4dTitle: Forbidden Planet
+[6d2: Original location: /dev/136intro-2jjaj.JPEG
+[7dTitle: Godzilla
+[9d3: original location: /var/log/136intro-3.jpg
+[10dTitle: It came from outer space
+[12d4: Original location: /etc/wuer136intro-4.JPG
+[13dTitle: The Fly
+[15d5: Original location: /.hidden/asdf136Intro-5kqlw.jpeg
+[16dTitle: 2001 Spcae Odyssey
+[18danswers to questions
+[19d1. The Var directory is meant for files that are variable and change%% like logs.
+[20d2. The /dev directory contains the special device files for all the devices.
+
+INPUT|lclarkfd-intro-88|U |000000000|lclarkfd|intro:cd ..|
+INPUT|lclarkfd-intro-89|U |1537811340|lclarkfd|intro:ls|intro-1.jpg  intro-2.jpg  intro-3.jpg  intro-4.jpg  intro-5.jpg  top_secret
+INPUT|lclarkfd-intro-90|U |1537811364|lclarkfd|intro:tar cvzf lclark-intro.tar.gz top_secret|top_secret/
+top_secret/answers.txt
+top_secret/intro-1.jpg
+top_secret/intro-2.jpg
+top_secret/intro-3.jpg
+top_secret/intro-4.jpg
+top_secret/intro-5.jpg
+top_secret/diskfree.txt
+INPUT|lclarkfd-intro-91|U |1537811367|lclarkfd|intro:ls|intro-1.jpg  intro-2.jpg  intro-3.jpg  intro-4.jpg  intro-5.jpg  lclark-intro.tar.gz  top_secret
+INPUT|lclarkfd-intro-92|U |000000000|lclarkfd|intro:exit|exit
+INPUT|lclarkfd-intro-93|U |000000000|lclarkfd|intro:cd ..|
+INPUT|lclarkfd-intro-94|A0 A2 A1 A3 A4 |000000000|lclarkfd|intro:locate *-2*.JPEG|locate: can not open `/var/lib/mlocate/mlocate.db': Permission denied
+INPUT|lclarkfd-intro-95|U |000000000|lclarkfd|intro:e *-2*.JPEG|
+INPUT|lclarkfd-intro-96|M2 |000000000|lclarkfd|intro:find /  -2*.JPEG|!TRUNCATED TO 500L! /
+/sbin
+/sbin/blockdev
+/sbin/rarp
+/sbin/lvscan
+/sbin/installkernel
+/sbin/insmod
+/sbin/pam_tally2
+/sbin/iscsi_discovery
+/sbin/kbdrate
+/sbin/shadowconfig
+/sbin/cfdisk
+/sbin/e2undo
+/sbin/pam_extrausers_chkpwd
+/sbin/capsh
+/sbin/fsck.cramfs
+/sbin/mii-tool
+/sbin/mkfs.ext4
+/sbin/vconfig
+/sbin/mkfs.ntfs
+/sbin/mdadm
+/sbin/veritysetup
+/sbin/iscsi-iname
+/sbin/request-key
+/sbin/mkfs.msdos
+/sbin/sfdisk
+/sbin/ntfslabel
+/sbin/xfs_repair
+/sbin/fatlabel
+/sbin/fsck.fat
+/sbin/pvcreate
+/sbin/fsck.vfat
+/sbin/fsck
+/sbin/dumpe2fs
+/sbin/mount.ntfs-3g
+/sbin/pvremove
+/sbin/tipc
+/sbin/mkfs.xfs
+/sbin/depmod
+/sbin/vgcfgbackup
+/sbin/cryptsetup-reencrypt
+/sbin/lvmchange
+/sbin/findfs
+/sbin/lvremove
+/sbin/dosfsck
+/sbin/mkfs.cramfs
+/sbin/lsmod
+/sbin/fsck.ext4dev
+/sbin/mount.fuse
+/sbin/vgchange
+/sbin/ntfsresize
+/sbin/vgdisplay
+/sbin/ifdown
+/sbi
+INPUT|lclarkfd-intro-97|M1 |000000000|lclarkfd|intro:find / -name  PEG|/dev/136intro-2jjaj.JPEG
+INPUT|lclarkfd-intro-98|A0 A2 A1 A4 A3 |000000000|lclarkfd|intro:locate *-2*.JPEGG*.JPEG|
+INPUT|lclarkfd-intro-99|U |1537813505|lclarkfd|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfd-intro-100|U |000000000|lclarkfd|intro:cd de|bash: cd: de: No such file or directory
+INPUT|lclarkfd-intro-101|U |000000000|lclarkfd|intro:cd dev|
+INPUT|lclarkfd-intro-102|U |1537813510|lclarkfd|intro:ls|136intro-2jjaj.JPEG  loop6   tty12 tty49    ttyS26
+autofs       loop7   tty13 tty5    ttyS27
+block       loop-control  tty14 tty50    ttyS28
+bsg       mapper   tty15 tty51    ttyS29
+btrfs-control      mcelog   tty16 tty52    ttyS3
+bus       mem   tty17 tty53    ttyS30
+cdrom       memory_bandwidth  tty18 tty54    ttyS31
+char       mqueue   tty19 tty55    ttyS4
+console       net   tty2 tty56    ttyS5
+core       network_latency  tty20 tty57    ttyS6
+cpu       network_throughput  tty21 tty58    ttyS7
+cpu_dma_latency      null   tty22 tty59    ttyS8
+cuse       port   tty23 tty6    ttyS9
+disk       ppp   tty24 tty60    uhid
+dri       psaux   tty25 tty61    uinput
+ecryptfs      ptmx   tty26 tty62  
+INPUT|lclarkfd-intro-103|A0 A2 A1 A3 A4 |1537813519|lclarkfd|intro:locate lightnvm|locate: can not open `/var/lib/mlocate/mlocate.db': Permission denied
+INPUT|lclarkfd-intro-104|U |000000000|lclarkfd|intro:e lightnvm|/lib/modules/4.4.0-79-generic/kernel/drivers/lightnvm
+/lib/modules/4.4.0-79-generic/kernel/drivers/lightnvm/gennvm.ko
+/lib/modules/4.4.0-79-generic/kernel/drivers/lightnvm/rrpc.ko
+/lib/modules/4.4.0-83-generic/kernel/drivers/lightnvm
+/lib/modules/4.4.0-83-generic/kernel/drivers/lightnvm/gennvm.ko
+/lib/modules/4.4.0-83-generic/kernel/drivers/lightnvm/rrpc.ko
+/usr/src/linux-headers-4.4.0-79/drivers/lightnvm
+/usr/src/linux-headers-4.4.0-79/drivers/lightnvm/Kconfig
+/usr/src/linux-headers-4.4.0-79/drivers/lightnvm/Makefile
+/usr/src/linux-headers-4.4.0-79/include/linux/lightnvm.h
+/usr/src/linux-headers-4.4.0-79/include/uapi/linux/lightnvm.h
+/usr/src/linux-headers-4.4.0-83/drivers/lightnvm
+/usr/src/linux-headers-4.4.0-83/drivers/lightnvm/Kconfig
+/usr/src/linux-headers-4.4.0-83/drivers/lightnvm/Makefile
+/usr/src/linux-headers-4.4.0-83/include/linux/lightnvm.h
+/usr/src/linux-headers-4.4.0-83/include/uapi/linux/lightnvm.h
+INPUT|lclarkfd-intro-105|U |000000000|lclarkfd|intro:exit|exit
+INPUT|lclarkfd-intro-106|U |000000000|lclarkfd|intro:exit|exit
+INPUT|lclarkfd-intro-107|A1 A4 A3 A0 A2 |000000000|lclarkfd|intro:find /dirame *.JPEG|find: '/dir': No such file or directory
+INPUT|lclarkfd-intro-108|U |000000000|lclarkfd|intro:cd ..|
+INPUT|lclarkfd-intro-109|U |000000000|lclarkfd|intro:cd ..|
+INPUT|lclarkfd-intro-110|U |1537815176|lclarkfd|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfd-intro-111|M1 |000000000|lclarkfd|intro:find /dev -name *.JPEG|/dev/136intro-2jjaj.JPEG
+INPUT|lclarkfd-intro-112|U |000000000|lclarkfd|intro:pwd|/
+INPUT|lclarkfd-intro-113|U |000000000|lclarkfd|intro:cd|
+INPUT|lclarkfd-intro-114|U |000000000|lclarkfd|intro:pwd|/users/lclarkfd
+INPUT|lclarkfd-intro-115|U |1537815826|lclarkfd|intro:ls|intro-1.jpg  intro-3.jpg  intro-5.jpg   top_secret
+intro-2.jpg  intro-4.jpg  lclarkfd-intro.tar.gz
+INPUT|lclarkfd-intro-116|U |1537815832|lclarkfd|intro:ls | cargs file $1|%No command 'cargs' found%% did you mean:
+ Command 'args' from package 'ucommon-utils' (universe)
+ Command 'xargs' from package 'findutils' (main)
+ Command 'cargo' from package 'cargo' (universe)
+ Command 'cdargs' from package 'cdargs' (universe)
+cargs: command not found%
+INPUT|lclarkfd-intro-117|U |1537815838|lclarkfd|intro:ls | [1P[1@xile $1|%intro-1.jpg:           JPEG image data%% JFIF standard 1.02%% aspect ratio%% density 100x100%% segment length 16%% progressive%% precision 8%% 398x308%% frames 3
+intro-2.jpg:           JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% Exif Standard: [TIFF image data%% big-endian%% direntries=7%% orientation=upper-left%% xresolution=98%% yresolution=106%% resolutionunit=2%% software=Adobe Photoshop CS Windows%% datetime=2004:09:23 12:26:39]%% baseline%% precision 8%% 295x450%% frames 3
+intro-3.jpg:           JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+intro-4.jpg:           JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3
+intro-5.jpg:           JPEG image data%% JFIF standard 1.02%% aspect ratio%% density 100x100%% segment leng
+INPUT|lclarkfd-intro-118|U |1537815838|lclarkfd|intro:ls | xargs file $1 | less|%[?1049h[?1h=
+intro-1.jpg:           JPEG image data%% JFIF standard 1.02%% aspect ratio%% density 100x100%% segment length 16%% progressive%% precision 8%% 398x308%% frames 3
+intro-2.jpg:           JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% Exif Standard: [TIFF image data%% big-endian%% direntries=7%% orientation=upper-left%% xresolution=98%% yresolution=106%% resolutionunit=2%% software=Adobe Photoshop CS Windows%% datetime=2004:09:23 12:26:39]%% baseline%% precision 8%% 295x450%% frames 3
+intro-3.jpg:           JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+intro-4.jpg:           JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3
+intro-5.jpg:           JPEG image data%% JFIF standard 1.02%% aspect ratio%% density 100x10
+INPUT|lclarkfd-intro-119|U |1537815843|lclarkfd|intro:ls | xargs file $[1P[1@2|%> ls | xargs file     
+intro-1.jpg:           JPEG image data%% JFIF standard 1.02%% aspect ratio%% density 100x100%% segment length 16%% progressive%% precision 8%% 398x308%% frames 3
+intro-2.jpg:           JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% Exif Standard: [TIFF image data%% big-endian%% direntries=7%% orientation=upper-left%% xresolution=98%% yresolution=106%% resolutionunit=2%% software=Adobe Photoshop CS Windows%% datetime=2004:09:23 12:26:39]%% baseline%% precision 8%% 295x450%% frames 3
+intro-3.jpg:           JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+intro-4.jpg:           JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3
+intro-5.jpg:           JPEG image data%% JFIF standard 1.02%% aspect ratio%% dens
+INPUT|lclarkfd-intro-120|U |1537815857|lclarkfd|intro:ls | xargs file $2 | ls | xargs file|
+INPUT|lclarkfd-intro-121|U |1537815864|lclarkfd|intro:[Kls | xargs file|%intro-1.jpg:           JPEG image data%% JFIF standard 1.02%% aspect ratio%% density 100x100%% segment length 16%% progressive%% precision 8%% 398x308%% frames 3
+intro-2.jpg:           JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% Exif Standard: [TIFF image data%% big-endian%% direntries=7%% orientation=upper-left%% xresolution=98%% yresolution=106%% resolutionunit=2%% software=Adobe Photoshop CS Windows%% datetime=2004:09:23 12:26:39]%% baseline%% precision 8%% 295x450%% frames 3
+intro-3.jpg:           JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+intro-4.jpg:           JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3
+intro-5.jpg:           JPEG image data%% JFIF standard 1.02%% aspect ratio%% density 100x100%% segment leng
+INPUT|lclarkfd-intro-122|U |1537816090|lclarkfd|intro:ls -l|total 476
+-rw-r--r-- 1 lclarkfd 31  23932 Sep 21 12:28 intro-1.jpg
+-rw-r--r-- 1 lclarkfd 31  45909 Sep 24 10:42 intro-2.jpg
+-rw-r--r-- 1 lclarkfd 31 101182 Sep 24 10:18 intro-3.jpg
+-rw-r--r-- 1 lclarkfd 31  48645 Sep 24 10:17 intro-4.jpg
+-rw-r--r-- 1 lclarkfd 31  24495 Sep 24 10:17 intro-5.jpg
+-rw-r--r-- 1 lclarkfd 31 233302 Sep 24 10:50 lclarkfd-intro.tar.gz
+drwxr-xr-x 2 lclarkfd 31    512 Sep 24 10:48 top_secret
+INPUT|lclarkfd-intro-123|U |1537816140|lclarkfd|intro:chmod intro-1.jpg|chmod: missing operand after 'intro-1.jpg'
+Try 'chmod --help' for more information.
+INPUT|lclarkfd-intro-124|U |1537816151|lclarkfd|intro:chmod intro-1.jpg -rwxr--r--|
+INPUT|lclarkfd-intro-125|U |1537816154|lclarkfd|intro:ls -l|total 476
+---------- 1 lclarkfd 31  23932 Sep 21 12:28 intro-1.jpg
+-rw-r--r-- 1 lclarkfd 31  45909 Sep 24 10:42 intro-2.jpg
+-rw-r--r-- 1 lclarkfd 31 101182 Sep 24 10:18 intro-3.jpg
+-rw-r--r-- 1 lclarkfd 31  48645 Sep 24 10:17 intro-4.jpg
+-rw-r--r-- 1 lclarkfd 31  24495 Sep 24 10:17 intro-5.jpg
+-rw-r--r-- 1 lclarkfd 31 233302 Sep 24 10:50 lclarkfd-intro.tar.gz
+drwxr-xr-x 2 lclarkfd 31    512 Sep 24 10:48 top_secret
+INPUT|lclarkfd-intro-126|U |1537816177|lclarkfd|intro:chmod intro-1.jpg 754|chmod: invalid mode: 'intro-1.jpg'
+Try 'chmod --help' for more information.
+INPUT|lclarkfd-intro-127|U |1537816188|lclarkfd|intro:chmod intro-1.jpg|chmod: missing operand after 'intro-1.jpg'
+Try 'chmod --help' for more information.
+INPUT|lclarkfd-intro-128|U |1537816191|lclarkfd|intro:chmod intro-1.jpg 7|chmod: invalid mode: 'intro-1.jpg'
+Try 'chmod --help' for more information.
+INPUT|lclarkfd-intro-129|U |000000000|lclarkfd|intro:chmod intro-2.jpg 754|chmod: invalid mode: 'intro-2.jpg'
+Try 'chmod --help' for more information.
+INPUT|lclarkfd-intro-130|U |1537816210|lclarkfd|intro:chmod --help|%Usage: chmod [OPTION]... MODE[%%MODE]... FILE...
+  or:  chmod [OPTION]... OCTAL-MODE FILE...
+  or:  chmod [OPTION]... --reference=RFILE FILE...
+Change the mode of each FILE to MODE.
+With --reference%% change the mode of each FILE to that of RFILE.
+
+  -c%% --changes          like verbose but report only when a change is made
+  -f%% --silent%% --quiet  suppress most error messages
+  -v%% --verbose          output a diagnostic for every file processed
+      --no-preserve-root  do not treat '/' specially (the default)
+      --preserve-root    fail to operate recursively on '/'
+      --reference=RFILE  use RFILE's mode instead of MODE values
+  -R%% --recursive        change files and directories recursively
+      --help     display this help and exit
+      --version  output version information and exit
+
+Each MODE is of the form '[ugoa]*([-+=]([rwxXst]*|[ugo]))+|[-+=][0-7]+'.
+
+GNU coreutils online help: <http://www.gnu.org/software/coreu
+INPUT|lclarkfd-intro-131|U |000000000|lclarkfd|intro:chmod a=754 intro-1.jpg|chmod: invalid mode: 'a=754'
+Try 'chmod --help' for more information.
+INPUT|lclarkfd-intro-132|U |000000000|lclarkfd|intro:chmod a=rwx intro-1.jpg|
+INPUT|lclarkfd-intro-133|U |1537816342|lclarkfd|intro:ls -l|total 476
+-rwxrwxrwx 1 lclarkfd 31  23932 Sep 21 12:28 intro-1.jpg
+-rw-r--r-- 1 lclarkfd 31  45909 Sep 24 10:42 intro-2.jpg
+-rw-r--r-- 1 lclarkfd 31 101182 Sep 24 10:18 intro-3.jpg
+-rw-r--r-- 1 lclarkfd 31  48645 Sep 24 10:17 intro-4.jpg
+-rw-r--r-- 1 lclarkfd 31  24495 Sep 24 10:17 intro-5.jpg
+-rw-r--r-- 1 lclarkfd 31 233302 Sep 24 10:50 lclarkfd-intro.tar.gz
+drwxr-xr-x 2 lclarkfd 31    512 Sep 24 10:48 top_secret
+INPUT|lclarkfd-intro-134|U |000000000|lclarkfd|intro:chmod u=rwx g=rx o=rxpg|chmod: cannot access 'g=rx': No such file or directory
+chmod: cannot access 'o=rx': No such file or directory
+INPUT|lclarkfd-intro-135|U |000000000|lclarkfd|intro:chmod u=rwx g=rx o=rx intro-1.jpg|
+INPUT|lclarkfd-intro-136|U |000000000|lclarkfd|intro:chmod g=rx intro-1.jpg|
+INPUT|lclarkfd-intro-137|U |000000000|lclarkfd|intro:chmod o=r intro-1.jpg|
+INPUT|lclarkfd-intro-138|U |1537816469|lclarkfd|intro:ls -l|total 476
+-rwxr--r-- 1 lclarkfd 31  23932 Sep 21 12:28 intro-1.jpg
+-rw-r--r-- 1 lclarkfd 31  45909 Sep 24 10:42 intro-2.jpg
+-rw-r--r-- 1 lclarkfd 31 101182 Sep 24 10:18 intro-3.jpg
+-rw-r--r-- 1 lclarkfd 31  48645 Sep 24 10:17 intro-4.jpg
+-rw-r--r-- 1 lclarkfd 31  24495 Sep 24 10:17 intro-5.jpg
+-rw-r--r-- 1 lclarkfd 31 233302 Sep 24 10:50 lclarkfd-intro.tar.gz
+drwxr-xr-x 2 lclarkfd 31    512 Sep 24 10:48 top_secret
+INPUT|lclarkfd-intro-139|U |1537816486|lclarkfd|intro:chmod 111 intro-1.jpg|
+INPUT|lclarkfd-intro-140|U |1537816488|lclarkfd|intro:ls -l|total 476
+---x--x--x 1 lclarkfd 31  23932 Sep 21 12:28 intro-1.jpg
+-rw-r--r-- 1 lclarkfd 31  45909 Sep 24 10:42 intro-2.jpg
+-rw-r--r-- 1 lclarkfd 31 101182 Sep 24 10:18 intro-3.jpg
+-rw-r--r-- 1 lclarkfd 31  48645 Sep 24 10:17 intro-4.jpg
+-rw-r--r-- 1 lclarkfd 31  24495 Sep 24 10:17 intro-5.jpg
+-rw-r--r-- 1 lclarkfd 31 233302 Sep 24 10:50 lclarkfd-intro.tar.gz
+drwxr-xr-x 2 lclarkfd 31    512 Sep 24 10:48 top_secret
+INPUT|lclarkfd-intro-141|U |000000000|lclarkfd|intro:chmod 444 intro-1.jpg|
+INPUT|lclarkfd-intro-142|U |1537816498|lclarkfd|intro:ls -l|total 476
+-r--r--r-- 1 lclarkfd 31  23932 Sep 21 12:28 intro-1.jpg
+-rw-r--r-- 1 lclarkfd 31  45909 Sep 24 10:42 intro-2.jpg
+-rw-r--r-- 1 lclarkfd 31 101182 Sep 24 10:18 intro-3.jpg
+-rw-r--r-- 1 lclarkfd 31  48645 Sep 24 10:17 intro-4.jpg
+-rw-r--r-- 1 lclarkfd 31  24495 Sep 24 10:17 intro-5.jpg
+-rw-r--r-- 1 lclarkfd 31 233302 Sep 24 10:50 lclarkfd-intro.tar.gz
+drwxr-xr-x 2 lclarkfd 31    512 Sep 24 10:48 top_secret
+INPUT|lclarkfd-intro-143|U |000000000|lclarkfd|intro:cd|
+INPUT|lclarkfd-intro-144|A0 A2 A1 A3 A4 |1537817341|lclarkfd|intro:find ~ | wc|     37      37    1112
+INPUT|lclarkfd-intro-145|A2 A0 A4 A3 A1 |000000000|lclarkfd|intro:find ~ -F c|find: unknown predicate `-F'
+      0       0       0
+INPUT|lclarkfd-intro-146|U |000000000|lclarkfd|intro:exit ~ |F | wc|exit
+INPUT|lclarkfd-intro-147|U |000000000|lclarkfd|intro:cd ..|
+INPUT|lclarkfd-intro-148|U |1537556417|lclarkfd|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfd  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfd-intro-149|U |000000000|lclarkfd|intro:cd|
+INPUT|lclarkfd-intro-150|U |1537556448|lclarkfd|intro:touch answers.txt|
+INPUT|lclarkfd-intro-151|U |1537556426|lclarkfd|intro:ls|answers.txt
+INPUT|lclarkfd-intro-152|U |000000000|lclarkfd|intro:cd ..|
+INPUT|lclarkfd-intro-153|U |000000000|lclarkfd|intro:cd ..|
+INPUT|lclarkfd-intro-154|U |000000000|lclarkfd|intro:cd ..|
+INPUT|lclarkfd-intro-155|U |1537556464|lclarkfd|intro:updateb|sudo: updateb: command not found
+INPUT|lclarkfd-intro-156|U |000000000|lclarkfd|intro:updateb|%No command 'updateb' found%% did you mean:
+ Command 'updatedb' from package 'locate' (universe)
+ Command 'updatedb' from package 'mlocate' (main)
+updateb: command not found%
+INPUT|lclarkfd-intro-157|A2 A0 A4 A3 A1 |1537556491|lclarkfd|intro:locate updatedb|locate: can not open `/var/lib/mlocate/mlocate.db': Permission denied
+INPUT|lclarkfd-intro-158|U |1537556497|lclarkfd|intro:updatedb|
+INPUT|lclarkfd-intro-159|A0 A2 A1 A3 A4 |000000000|lclarkfd|intro:locate *.jpg|locate: can not open `/var/lib/mlocate/mlocate.db': Permission denied
+INPUT|lclarkfd-intro-160|M2 M0 |000000000|lclarkfd|intro:locate *.jpg|/usr/share/doc/libsane/umax/sane-logo.jpg
+/usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+/usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+/usr/share/doc/libsane/umax/sane-umax-standard.jpg
+/usr/share/doc/libsane/umax/sane-umax-text.jpg
+/usr/share/doc/libsane/umax/sane-umax-text2.jpg
+/usr/share/doc/libsane/umax/sane-umax-text4.jpg
+/usr/share/doc/libsane/umax/sane-umax.jpg
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+/var/log/136intro-3.jpg
+INPUT|lclarkfd-intro-161|A0 A2 A1 A3 A4 |000000000|lclarkfd|intro:locate *intro*|locate: can not open `/var/lib/mlocate/mlocate.db': Permission denied
+INPUT|lclarkfd-intro-162|U |000000000|lclarkfd|intro:e *intro*|/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/local/logs/intro_startcmd.err
+/local/logs/intro_startcmd.err.10
+/local/logs/intro_startcmd.out
+/local/logs/intro_startcmd.out.10
+/local/logs/intro_startcmd.status
+/local/logs/intro_startcmd.status.10
+/proj/intro.createimage.Share
+/proj/intro.createimage.Share/exp
+/proj/intro.createimage.Share/exp/count.
+/proj/intro.createimage.Share/exp/logs
+/proj/intro.createimage.Share/exp/logs/ttylog..0
+/proj/share/exp/createimage/count.intro
+/proj/share/exp/createimage/logs/alltty.intro
+/proj/share/exp/createimage/logs/cli.intro.csv
+/proj/share/exp/createimage/logs/cli.intro.csv.1535412403
+/proj/share/exp/createimage/logs/ttylog.intro.0
+/usr/lib/python3/dist-packages/dbus/_expat_introspect_parser.py
+/usr/lib/python3/dist-packages/dbus/__pycache__/_expat_introspect_parser.cpython-35.pyc
+/usr/share/man/man1/intro.1.gz
+/usr/share/man/man2/intro.2.gz
+/usr/share
+INPUT|lclarkfd-intro-163|U |000000000|lclarkfd|intro:cd /usr/share/vim/vim74/doc|
+INPUT|lclarkfd-intro-164|U |1537556449|lclarkfd|intro:ls|arabic.txt    if_mzsch.txt  os_unix.txt    syntax.txt   usr_26.txt
+autocmd.txt    if_ole.txt  os_vms.txt    tabpage.txt   usr_27.txt
+change.txt    if_perl.txt  os_win32.txt    tags    usr_28.txt
+channel.txt    if_pyth.txt  pattern.txt    tagsrch.txt   usr_29.txt
+cmdline.txt    if_ruby.txt  pi_getscript.txt  tags.vim-tiny  usr_30.txt
+debugger.txt    if_sniff.txt  pi_gzip.txt    term.txt   usr_31.txt
+debug.txt    if_tcl.txt  pi_logipat.txt    tips.txt   usr_32.txt
+develop.txt    indent.txt  pi_netrw.txt    todo.txt   usr_40.txt
+diff.txt    index.txt  pi_paren.txt    uganda.txt   usr_41.txt
+digraph.txt    insert.txt  pi_spec.txt    undo.txt   usr_42.txt
+editing.txt    intro.txt  pi_tar.txt    usr_01.txt   usr_43.txt
+eval.txt    map.txt  pi_vimball.txt    usr_02.txt   usr_44.txt
+farsi.txt    mbyte.txt  pi_zip.txt    us
+INPUT|lclarkfd-intro-165|U |1537556610|lclarkfd|intro:file intro.txt|intro.txt: ASCII text
+INPUT|lclarkfd-intro-166|U |1537556616|lclarkfd|intro:cat intro.txt|%*intro.txt*     For Vim version 7.4.  Last change: 2015 Jan 20
+
+
+    VIM REFERENCE MANUAL    by Bram Moolenaar
+
+
+Introduction to Vim     *ref* *reference*
+
+1. Introduction   |intro|
+2. Vim on the internet  |internet|
+3. Credits   |credits|
+4. Notation   |notation|
+5. Modes%% introduction  |vim-modes-intro|
+6. Switching from mode to mode |mode-switching|
+7. The window contents  |window-contents|
+8. Definitions   |definitions|
+
+==============================================================================
+1. Introduction      *intro*
+
+Vim stands for Vi IMproved.  It used to be Vi IMitation%% but there are so many
+improvements that a name change was appropriate.  Vim is a text editor which
+includes almost all the commands from the Unix program \"Vi\" and a lot of new
+ones.  It is very useful for editing programs and other pla
+INPUT|lclarkfd-intro-167|U |000000000|lclarkfd|intro:cd|
+INPUT|lclarkfd-intro-168|U |1537556601|lclarkfd|intro:ls|answers.txt
+INPUT|lclarkfd-intro-169|U |1537556636|lclarkfd|intro:mkdir|mkdir: missing operand
+Try 'mkdir --help' for more information.
+INPUT|lclarkfd-intro-170|U |1537556642|lclarkfd|intro:mkdir top_secret|
+INPUT|lclarkfd-intro-171|U |1537556661|lclarkfd|intro:cp answers.txt /top_secret/answers.txt|cp: cannot create regular file '/top_secret/answers.txt': No such file or directory
+INPUT|lclarkfd-intro-172|U |000000000|lclarkfd|intro:mv answers.txt /top_secret/answers.txt|mv: cannot move 'answers.txt' to '/top_secret/answers.txt': No such file or directory
+INPUT|lclarkfd-intro-173|U |000000000|lclarkfd|intro:cd top_secret|
+INPUT|lclarkfd-intro-174|U |1537556701|lclarkfd|intro:mv ../answers.txt answers.txt|
+INPUT|lclarkfd-intro-175|U |1537556632|lclarkfd|intro:ls|answers.txt
+INPUT|lclarkfd-intro-176|U |000000000|lclarkfd|intro:cd ..|
+INPUT|lclarkfd-intro-177|U |1537556703|lclarkfd|intro:ls|top_secret
+INPUT|lclarkfd-intro-178|U |000000000|lclarkfd|intro:cd top_secret|
+INPUT|lclarkfd-intro-179|U |000000000|lclarkfd|intro:mv /usr/share/pixmaps/xbzf136INTRO-1.jpg intro-1/jp|g
+mv: cannot move '/usr/share/pixmaps/xbzf136INTRO-1.jpg' to 'intro-1/jpg': No such file or directory
+INPUT|lclarkfd-intro-180|U |1537556741|lclarkfd|intro:mv /usr/share/pixmaps/xbzf136INTRO-1.jpg intro-1/jpg|g
+INPUT|lclarkfd-intro-181|U |000000000|lclarkfd|intro:mv /usr/share/pixmaps/xbzf136INTRO-1.jpg intro-1jpg|
+INPUT|lclarkfd-intro-182|U |1537556748|lclarkfd|intro:mv /usr/share/pixmaps/xbzf136INTRO-1.jpg intro-1.jpg|g[Aclarkfd@intro:~/top_secret$ mv /usr/share/pixmaps/xbzf136INTRO-1.jpg intro-1.
+
+
+mv: cannot remove '/usr/share/pixmaps/xbzf136INTRO-1.jpg': Permission denied
+INPUT|lclarkfd-intro-183|U |1537556767|lclarkfd|intro:mv /usr/share/pixmaps/xbzf136INTRO-1.jpg intro-1.jpg|g
+INPUT|lclarkfd-intro-184|U |000000000|lclarkfd|intro:smv /usr/share/pixmaps/xbzf136INTRO-1.jpg intro-1.jpglarkfd@intro:~/top_secret$ sumv /usr/share/pixmaps/xbzf136INTRO-1.jpg intro-1.jpgarkfd@intro:~/top_secret$ sudmv /usr/share/pixmaps/xbzf136INTRO-1.jpg intro-1.jlarkfd@intro:~/top_secret$ sudomv /usr/share/pixmaps/xbzf136INTRO-1.jpg intro-1.larkfd@intro:~/top_secret$ sudo mv /usr/share/pixmaps/xbzf136INTRO-1.jpg intro-1larkfd@intro:~/top_secret$ sudo|
+
+INPUT|lclarkfd-intro-185|U |1537556706|lclarkfd|intro:ls|answers.txt  intro-1.jpg
+INPUT|lclarkfd-intro-186|U |1537556794|lclarkfd|intro:mv /var/log/136intro-3.jpg intro-3.jpgh|mv: cannot remove '/var/log/136intro-3.jpg': Permission denied
+INPUT|lclarkfd-intro-187|U |000000000|lclarkfd|intro:ar/log/136intro-3.jpg intro-3.jpg|
+INPUT|lclarkfd-intro-188|U |1537556823|lclarkfd|intro:mv /etc/wuer136intro-4.JPG intro-4.jpg|
+INPUT|lclarkfd-intro-189|U |000000000|lclarkfd|intro:mv /.hidden/asdf136Intro-5kqlw.jpeg intro-5.jp|g
+INPUT|lclarkfd-intro-190|U |1537556772|lclarkfd|intro:ls|answers.txt  intro-1.jpg  intro-3.jpg  intro-3.jpgh  intro-4.jpg  intro-5.jpg
+INPUT|lclarkfd-intro-191|U |1537556899|lclarkfd|intro:mv intro-3.jpgh intro-3.jpg|
+INPUT|lclarkfd-intro-192|U |1537556877|lclarkfd|intro:ls|answers.txt  intro-1.jpg  intro-3.jpg  intro-4.jpg  intro-5.jpg
+INPUT|lclarkfd-intro-193|U |1537556900|lclarkfd|intro:ls -F|answers.txt  intro-1.jpg  intro-3.jpg  intro-4.jpg  intro-5.jpg
+INPUT|lclarkfd-intro-194|U |1537556909|lclarkfd|intro:ls -a|.  ..  answers.txt  intro-1.jpg  intro-3.jpg  intro-4.jpg  intro-5.jpg
+INPUT|lclarkfd-intro-195|U |000000000|lclarkfd|intro:map scp|The program 'map' is currently not installed. To run 'map' please ask your administrator to install the package 'sgt-puzzles'
+INPUT|lclarkfd-intro-196|U |1537556931|lclarkfd|intro:man scp|%[?1049h[?1h=
+SCP(1)                    BSD General Commands Manual                   SCP(1)[m
+[m
+[1mNAME[0m[m
+     [1mscp[0m -- secure copy (remote file copy program)[m
+[m
+[1mSYNOPSIS[0m[m
+     [1mscp[0m [[1m-12346BCpqrv[0m] [[1m-c[0m [4mcipher[24m] [[1m-F[0m [4mssh_config[24m] [[1m-i[0m [4midentity_file[24m][m
+         [[1m-l[0m [4mlimit[24m] [[1m-o[0m [4mssh_option[24m] [[1m-P[0m [4mport[24m] [[1m-S[0m [4mprogram[24m][m
+         [[[4muser[24m@][4mhost1[24m:][4mfile1[24m [4m...[24m [[[4muser[24m@][4mhost2[24m:][4mfile2[24m[m
+[m
+[1mDESCRIPTION[0m[m
+     [1mscp[0m copies files between hosts on a network.  It uses ssh(1) for data[m
+     transfer%% and uses the same authentication and provides the same security[m
+     as ssh(1).  [1mscp[0m will ask for passwords or passphrases if they are needed[m
+     for authentication.[m
+[m
+     File names may contain a user and host specification to indicate that the[m
+     file is to be copied to
+INPUT|lclarkfd-intro-197|A2 A0 A4 A3 A1 |1537557009|lclarkfd|intro:man find|%[?1049h[?1h=
+FIND(1)                     General Commands Manual                    FIND(1)[m
+[m
+[1mNAME[0m[m
+       find - search for files in a directory hierarchy[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mfind[0m  [-H]  [-L]  [-P]  [-D  debugopts]  [-Olevel]  [starting-point...][m
+       [expression][m
+[m
+[1mDESCRIPTION[0m[m
+       This manual page documents the GNU version of [1mfind[0m.  GNU [1mfind[0m  searches[m
+       the  directory  tree  rooted at each given starting-point by evaluating[m
+       the given expression from left to right%%  according  to  the  rules  of[m
+       precedence  (see  section  OPERATORS)%%  until the outcome is known (the[m
+       left hand side is false for [4mand[24m operations%%  true  for  [4mor[24m)%%  at  which[m
+       point  [1mfind[0m  moves  on  to the next file name.  If no starting-point is[m
+       specified%% `.' is assumed.[m
+[m
+       If you are using [1mfind[0m in an environment  where 
+INPUT|lclarkfd-intro-198|A1 A3 A4 A0 A2 |000000000|lclarkfd|intro:locate *intrO*|
+INPUT|lclarkfd-intro-199|A1 A3 A4 A0 A2 |000000000|lclarkfd|intro:locate *intr0*|
+INPUT|lclarkfd-intro-200|A4 A3 A1 A2 A0 |000000000|lclarkfd|intro:locate *INTR\*|
+INPUT|lclarkfd-intro-201|A1 A4 A3 A0 A2 |000000000|lclarkfd|intro:locate *-2*.txt|/usr/lib/python2.7/dist-packages/Jinja2-2.8.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/Jinja2-2.8.egg-info/entry_points.txt
+/usr/lib/python2.7/dist-packages/Jinja2-2.8.egg-info/requires.txt
+/usr/lib/python2.7/dist-packages/Jinja2-2.8.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/ansible-2.0.0.2.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/ansible-2.0.0.2.egg-info/requires.txt
+/usr/lib/python2.7/dist-packages/ansible-2.0.0.2.egg-info/top_level.txt
+/usr/lib/python2.7/dist-packages/chardet-2.3.0.egg-info/dependency_links.txt
+/usr/lib/python2.7/dist-packages/chardet-2.3.0.egg-info/entry_points.txt
+/usr/lib/python2.7/dist-packages/chardet-2.3.0.egg-info/top_level.txt
+/usr/lib/python3/dist-packages/chardet-2.3.0.egg-info/dependency_links.txt
+/usr/lib/python3/dist-packages/chardet-2.3.0.egg-info/entry_points.txt
+/usr/lib/python3/dist-packages/chardet-2.3.0.egg-info/top_level.txt
+/usr/lib/python3/dist-packag
+INPUT|lclarkfd-intro-202|A0 A2 A1 A4 A3 |000000000|lclarkfd|intro:locate *-2*.jpg|
+INPUT|lclarkfd-intro-203|A1 A3 A4 A0 A2 |000000000|lclarkfd|intro:locate *-2*.JPG|
+INPUT|lclarkfd-intro-204|A4 A3 A1 A2 A0 |000000000|lclarkfd|intro:locate *-2*.Jpeg|
+INPUT|lclarkfd-intro-205|A4 A3 A1 A2 A0 |000000000|lclarkfd|intro:locate *-2*.jPEG|
+INPUT|lclarkfd-intro-206|A0 A2 A1 A3 A4 |000000000|lclarkfd|intro:locate *-2*|!TRUNCATED TO 500L! /etc/alternatives/emacs-24x24.png
+/etc/console-setup/compose.ISO-8859-2.inc
+/lib/firmware/iwlwifi-2000-6.ucode
+/lib/firmware/iwlwifi-2030-6.ucode
+/lib/firmware/iwlwifi-3168-21.ucode
+/lib/firmware/iwlwifi-3168-22.ucode
+/lib/firmware/iwlwifi-3945-2.ucode
+/lib/firmware/iwlwifi-4965-2.ucode
+/lib/firmware/iwlwifi-5150-2.ucode
+/lib/firmware/iwlwifi-7265D-21.ucode
+/lib/firmware/iwlwifi-7265D-22.ucode
+/lib/firmware/iwlwifi-8000C-21.ucode
+/lib/firmware/iwlwifi-8265-21.ucode
+/lib/firmware/iwlwifi-8265-22.ucode
+/lib/firmware/v4l-pvrusb2-24xxx-01.fw
+/lib/firmware/v4l-pvrusb2-29xxx-01.fw
+/lib/firmware/ath10k/QCA4019/hw1.0/board-2.bin
+/lib/firmware/ath10k/QCA6174/hw2.1/board-2.bin
+/lib/firmware/ath10k/QCA6174/hw3.0/board-2.bin
+/lib/firmware/ath10k/QCA9377/hw1.0/board-2.bin
+/lib/firmware/ath10k/QCA9888/hw2.0/board-2.bin
+/lib/firmware/ath10k/QCA9984/hw1.0/board-2.bin
+/lib/firmware/ath6k/AR6003/hw2.1.1/fw-2.bin
+/li
+INPUT|lclarkfd-intro-207|A0 A2 A1 A3 A4 |000000000|lclarkfd|intro:locate *-2*.j*|
+INPUT|lclarkfd-intro-208|A1 A3 A4 A0 A2 |000000000|lclarkfd|intro:locate *-2*.J*|
+INPUT|lclarkfd-intro-209|A4 A3 A1 A2 A0 |000000000|lclarkfd|intro:locate *i2*|!TRUNCATED TO 500L! /etc/alternatives/emacs-24x24.png
+/lib/firmware/iwlwifi-2000-6.ucode
+/lib/firmware/iwlwifi-2030-6.ucode
+/lib/firmware/iwlwifi-3168-21.ucode
+/lib/firmware/iwlwifi-3168-22.ucode
+/lib/firmware/iwlwifi-3945-2.ucode
+/lib/firmware/iwlwifi-4965-2.ucode
+/lib/firmware/iwlwifi-5150-2.ucode
+/lib/firmware/iwlwifi-7265D-21.ucode
+/lib/firmware/iwlwifi-7265D-22.ucode
+/lib/firmware/iwlwifi-8000C-21.ucode
+/lib/firmware/iwlwifi-8265-21.ucode
+/lib/firmware/iwlwifi-8265-22.ucode
+/lib/firmware/v4l-pvrusb2-24xxx-01.fw
+/lib/firmware/v4l-pvrusb2-29xxx-01.fw
+/lib/firmware/ath10k/QCA4019/hw1.0/board-2.bin
+/lib/firmware/ath10k/QCA6174/hw2.1/board-2.bin
+/lib/firmware/ath10k/QCA6174/hw3.0/board-2.bin
+/lib/firmware/ath10k/QCA9377/hw1.0/board-2.bin
+/lib/firmware/ath10k/QCA9888/hw2.0/board-2.bin
+/lib/firmware/ath10k/QCA9984/hw1.0/board-2.bin
+/lib/firmware/ath6k/AR6003/hw2.1.1/fw-2.bin
+/lib/firmware/ath6k/AR6004/hw1.2/fw-2.bin
+/li
+INPUT|lclarkfd-intro-210|A4 A3 A1 A2 A0 |000000000|lclarkfd|intro:locate *intro|
+INPUT|lclarkfd-intro-211|A2 A0 A4 A3 A1 |000000000|lclarkfd|intro:locate *intro*-2*|!TRUNCATED TO 500L! /lib/firmware/intel/ibt-hw-37.8.10-fw-22.50.19.14.f.bseq
+/lib/terminfo/s/screen-256color
+/lib/terminfo/s/screen-256color-bce
+/lib/terminfo/x/xterm-256color
+/lib/x86_64-linux-gnu/ld-2.23.so
+/lib/x86_64-linux-gnu/libBrokenLocale-2.23.so
+/lib/x86_64-linux-gnu/libanl-2.23.so
+/lib/x86_64-linux-gnu/libc-2.23.so
+/lib/x86_64-linux-gnu/libcidn-2.23.so
+/lib/x86_64-linux-gnu/libcrypt-2.23.so
+/lib/x86_64-linux-gnu/libdl-2.23.so
+/lib/x86_64-linux-gnu/libglib-2.0.so.0
+/lib/x86_64-linux-gnu/libglib-2.0.so.0.4800.2
+/lib/x86_64-linux-gnu/libm-2.23.so
+/lib/x86_64-linux-gnu/libmvec-2.23.so
+/lib/x86_64-linux-gnu/libnsl-2.23.so
+/lib/x86_64-linux-gnu/libnss_compat-2.23.so
+/lib/x86_64-linux-gnu/libnss_dns-2.23.so
+/lib/x86_64-linux-gnu/libnss_files-2.23.so
+/lib/x86_64-linux-gnu/libnss_hesiod-2.23.so
+/lib/x86_64-linux-gnu/libnss_nis-2.23.so
+/lib/x86_64-linux-gnu/libnss_nisplus-2.23.so
+/lib/x86_64-linux-gnu/libpthread-2.23.so<
+INPUT|lclarkfd-intro-212|M4 M3 M2 M0 |000000000|lclarkfd|intro:locate *136*|/.hidden/asdf136Intro-5kqlw.jpeg
+/etc/wuer136intro-4.JPG
+/etc/ssl/certs/ee1365c0.0
+/lib/modules/4.4.0-79-generic/kernel/drivers/iio/adc/max1363.ko
+/lib/modules/4.4.0-79-generic/kernel/drivers/iio/gyro/adis16136.ko
+/lib/modules/4.4.0-79-generic/kernel/drivers/usb/host/isp1362-hcd.ko
+/lib/modules/4.4.0-83-generic/kernel/drivers/iio/adc/max1363.ko
+/lib/modules/4.4.0-83-generic/kernel/drivers/iio/gyro/adis16136.ko
+/lib/modules/4.4.0-83-generic/kernel/drivers/usb/host/isp1362-hcd.ko
+/usr/lib/debug/usr/lib/x86_64-linux-gnu/gconv/IBM1364.so
+/usr/lib/x86_64-linux-gnu/gconv/IBM1364.so
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+/usr/src/linux-headers-4.4.0-79/include/linux/usb/isp1362.h
+/usr/src/linux-headers-4.4.0-79-generic/include/config/adis16136.h
+/usr/src/linux-headers-4.4.0-79-generic/include/config/max1363.h
+/usr/src/linux-headers-4.4.0-79-generic/include/config/usb/isp1362
+/usr/src/linux-headers-4.4.0-79-generic/include/config/usb/isp1362/hcd.h
+INPUT|lclarkfd-intro-213|U |000000000|lclarkfd|intro:cd|
+INPUT|lclarkfd-intro-214|U |1537557300|lclarkfd|intro:ls|top_secret
+INPUT|lclarkfd-intro-215|U |000000000|lclarkfd|intro:cd top_secret|
+INPUT|lclarkfd-intro-216|U |1537557307|lclarkfd|intro:ls|answers.txt  intro-1.jpg  intro-3.jpg  intro-4.jpg  intro-5.jpg
+INPUT|lclarkfd-intro-217|U |000000000|lclarkfd|intro:display intro-1.jpg|The program 'display' can be found in the following packages:
+ * imagemagick
+ * graphicsmagick-imagemagick-compat
+Ask your administrator to install one of them
+INPUT|lclarkfd-intro-218|U |000000000|lclarkfd|intro:feh intro.jpg|The program 'feh' is currently not installed. To run 'feh' please ask your administrator to install the package 'feh'
+INPUT|lclarkfd-intro-219|U |1537557402|lclarkfd|intro:python -m SimpleHTTPServer 8080|%Serving HTTP on 0.0.0.0 port 8080 ...
+^CTraceback (most recent call last):
+  File \"/usr/lib/python2.7/runpy.py\"%% line 174%% in _run_module_as_main
+    \"__main__\"%% fname%% loader%% pkg_name)
+  File \"/usr/lib/python2.7/runpy.py\"%% line 72%% in _run_code
+    exec code in run_globals
+  File \"/usr/lib/python2.7/SimpleHTTPServer.py\"%% line 235%% in <module>
+    test()
+  File \"/usr/lib/python2.7/SimpleHTTPServer.py\"%% line 231%% in test
+    BaseHTTPServer.test(HandlerClass%% ServerClass)
+  File \"/usr/lib/python2.7/BaseHTTPServer.py\"%% line 610%% in test
+    httpd.serve_forever()
+  File \"/usr/lib/python2.7/SocketServer.py\"%% line 231%% in serve_forever
+    poll_interval)
+  File \"/usr/lib/python2.7/SocketServer.py\"%% line 150%% in _eintr_retry
+    return func(*args)
+KeyboardInterrupt%
+INPUT|lclarkfd-intro-220|U |000000000|lclarkfd|intro:git clone https://github.com/stefanhaustein/Termina|lImageViewer.git
+Cloning into 'TerminalImageViewer'...
+fatal: unable to access 'https://github.com/stefanhaustein/TerminalImageViewer.git/': Failed to connect to github.com port 443: No route to host
+INPUT|lclarkfd-intro-221|U |000000000|lclarkfd|intro:eog intro-1.jpg|The program 'eog' is currently not installed. To run 'eog' please ask your administrator to install the package 'eog'
+INPUT|lclarkfd-intro-222|U |000000000|lclarkfd|intro:scp lclarkfd@deterlab.net:/image-1.jpg /home/image-|1.jpg
+INPUT|lclarkfd-intro-223|U |000000000|lclarkfd|intro:scp lclarkfd@deterlab.net:/image-1.jpg /home/image-1|1.jpg<BS><BS><BS><BS>
+INPUT|lclarkfd-intro-224|U |000000000|lclarkfd|intro:eog intro-1.jpgterlab.net:/image-1.jpg /home/image|
+INPUT|lclarkfd-intro-225|U |000000000|lclarkfd|intro:scp lclarkfd@deterlab.net:/image-1.jpg /home/image-1|1.jpg<ESC>[Akfd@intro:~/top_secret$ eog intro-1.jpg<ESC>[K
+
+INPUT|lclarkfd-intro-226|U |000000000|lclarkfd|intro:scp lclarkfd@deterlab.net:/image-1.jpg /home/image-1|1.jpg^C
+INPUT|lclarkfd-intro-227|U |1537557814|lclarkfd|intro:man scp|%[?1049h[?1h=
+SCP(1)                    BSD General Commands Manual                   SCP(1)[m
+[m
+[1mNAME[0m[m
+     [1mscp[0m -- secure copy (remote file copy program)[m
+[m
+[1mSYNOPSIS[0m[m
+     [1mscp[0m [[1m-12346BCpqrv[0m] [[1m-c[0m [4mcipher[24m] [[1m-F[0m [4mssh_config[24m] [[1m-i[0m [4midentity_file[24m][m
+         [[1m-l[0m [4mlimit[24m] [[1m-o[0m [4mssh_option[24m] [[1m-P[0m [4mport[24m] [[1m-S[0m [4mprogram[24m][m
+         [[[4muser[24m@][4mhost1[24m:][4mfile1[24m [4m...[24m [[[4muser[24m@][4mhost2[24m:][4mfile2[24m[m
+[m
+[1mDESCRIPTION[0m[m
+     [1mscp[0m copies files between hosts on a network.  It uses ssh(1) for data[m
+     transfer%% and uses the same authentication and provides the same security[m
+     as ssh(1).  [1mscp[0m will ask for passwords or passphrases if they are needed[m
+     for authentication.[m
+[m
+     File names may contain a user and host specification to indicate that the[m
+     file is to be copied to
+INPUT|lclarkfd-intro-228|U |000000000|lclarkfd|intro:pwd|/users/lclarkfd/top_secret
+INPUT|lclarkfd-intro-229|U |000000000|lclarkfd|intro:exit|exit
+INPUT|lclarkfd-intro-230|U |1537670581|lclarkfd|intro:ls|intro-1.jpg  top_secret
+INPUT|lclarkfd-intro-231|U |000000000|lclarkfd|intro:cs top_secret|The program 'cs' is currently not installed. To run 'cs' please ask your administrator to install the package 'csound'
+INPUT|lclarkfd-intro-232|U |000000000|lclarkfd|intro:cd top_secret|
+INPUT|lclarkfd-intro-233|U |1537670593|lclarkfd|intro:ls|answers.txt  intro-1.jpg  intro-3.jpg  intro-4.jpg  intro-5.jpg
+INPUT|lclarkfd-intro-234|U |000000000|lclarkfd|intro:exit|exit

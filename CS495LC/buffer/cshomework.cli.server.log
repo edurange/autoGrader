@@ -1,0 +1,8 @@
+CMBEGIN,,,cd ../,,
+CMBEGIN,Nov 28 12:03:46,/users/lclarkfe,ls,aashraya  gbartlet  jhickey   schwab   shareag<HT>shareao  shareaw  shareta<NL>abhi<HT>  gerow     jjh       scuric   shareah<HT>shareap  shareax  sharetb<NL>alefiya   gknopf    jross     shareaa  shareai<HT>shareaq  shareay  sharetc<NL>alwabel   glawler   kls2      shareab  shareaj<HT>sharear  shareaz  sharetd<NL>bks<HT>  jaipuria  lclarkfe  shareac  shareak<HT>shareas  shareba  sklower<NL>bloznali  jboman    melkins   sharead  shareal<HT>shareat  sharebb  sunshine<NL>ekline<HT>  jelena    piobair   shareae  shaream<HT>shareau  sharebc<NL>faber<HT>  jgli<HT>    rgoodfel  shareaf  sharean<HT>shareav  sharebd,ls
+CMBEGIN,,,cd lclarkfe,,
+CMBEGIN,Nov 28 12:03:59,/users,ls,lclarkfe-intro.tar.gz  top_secret,ls
+CMBEGIN,,,cd /usr/src/fhttpd,,
+CMBEGIN,Nov 28 12:04:24,/users/lclarkfe,ls,frobnick  index.html  Makefile<HT>webserver  webserver.c,ls
+CMBEGIN,Nov 28 12:08:33,/usr/src/fhttpd,sudo make,make: Nothing to be done for 'project'.,sudo make
+CMBEGIN,Nov 28 12:08:54,/usr/src/fhttpd,sudo ./webserver 4545,GET /<NL><NL>,sudo ./webserver 4545

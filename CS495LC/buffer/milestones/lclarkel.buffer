@@ -1,0 +1,368 @@
+User lclarkel start time 1542830786 end 1542832324
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkel-buffer-0|U |1542830786|lclarkel|server:ls /usr/src/fhttpd|frobnick  index.html  Makefile webserver  webserver.c
+INPUT|lclarkel-buffer-1|U |000000000|lclarkel|:|
+INPUT|lclarkel-buffer-2|U |000000000|lclarkel|:|
+INPUT|lclarkel-buffer-3|U |000000000|lclarkel|server:cd|
+INPUT|lclarkel-buffer-4|U |1542830811|lclarkel|server:make|make: Nothing to be done for 'project'.
+INPUT|lclarkel-buffer-5|U |1542830819|lclarkel|server:ls|frobnick  index.html  Makefile webserver  webserver.c
+INPUT|lclarkel-buffer-6|U |000000000|lclarkel|server:./|^C
+INPUT|lclarkel-buffer-7|U |000000000|lclarkel|server:s|home
+
+<C3><BF><C3><ACUTE><C3><BF><C3><BD><ACK><C3><BF><C3><ACUTE><C3><BF><C3><BD><ACK><C3><BF><C3><ACUTE><C3><BF><C3><BD><ACK><C3><BF><C3><ACUTE><C3><BF><C3><BD><ACK><C3><BF><C3><ACUTE><C3><BF><C3><BD><ACK><C3><BF><C3><ACUTE><C3><BF><C3><BD><ACK><C3><BF><C3><ACUTE><C3><BF><C3><BD><ACK><C3><BF><C3><ACUTE><C3><BF><C3><BD><ACK>
+GET /index.html HTTP/1.1
+
+User-Agent: Wget/1.17.1 (linux-gnu)
+
+Accept: */*
+
+Accept-Encoding: identity
+
+Host: localhost:8080
+
+Connection: Keep-Alive
+
+
+GET /conr.html HTTP/1.1
+
+User-Agent: Wget/1.17.1 (linux-gnu)
+
+Accept: */*
+
+Accept-Encoding: identity
+
+Host: localhost:8080
+
+Connection: Keep-Alive
+
+
+GET /09876543123456789 HTTP/1.1
+
+User-Agent: Wget/1.17.1 (linux-gnu)
+
+Accept: */*
+
+Accept-Encoding: identity
+
+Host: localhost:8080
+
+Connection: Keep-Alive
+
+
+GET /09876543123456789.html HTTP/1.1
+
+User-Agent: Wget/1.17.1 (linux-gnu)
+
+Acce
+INPUT|lclarkel-buffer-8|A0 |1542831098|lclarkel|server:./webserver 8080|bind: Address already in use
+INPUT|lclarkel-buffer-9|A0 |1542831454|lclarkel|server:./webserver 8081|GET /conr.html HTTP/1.1
+
+User-Agent: Wget/1.17.1 (linux-gnu)
+
+Accept: */*
+
+Accept-Encoding: identity
+
+Host: localhost:8081
+
+Connection: Keep-Alive
+
+
+^C
+INPUT|lclarkel-buffer-10|U |000000000|lclarkel|server:gdb|%GNU gdb (Ubuntu 7.11.1-0ubuntu1~16.04) 7.11.1
+Copyright (C) 2016 Free Software Foundation%% Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY%% to the extent permitted by law.  Type \"show copying\"
+and \"show warranty\" for details.
+This GDB was configured as \"x86_64-linux-gnu\".
+Type \"show configuration\" for configuration details.
+For bug reporting instructions%% please see:
+<http://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+<http://www.gnu.org/software/gdb/documentation/>.
+For help%% type \"help\".
+Type \"apropos word\" to search for commands related to \"word\"...
+Reading symbols from ./webserver...done.
+Attaching to program: /usr/src/fhttpd/webserver%% process 8080
+ptrace: No such process.
+/usr/src/fhttpd/8080: No such file or directory.
+(gdb) run
+
+INPUT|lclarkel-buffer-11|U |000000000|lclarkel|server:^C|
+INPUT|lclarkel-buffer-12|U |000000000|lclarkel|server:telnet localhost 808|Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+^[[C<BS> <BS><BS> <BS><BS> <BS><BS> <BS>home
+^C^C^C^C^C^C^C^C<C3><CENT><C2><EURO><C2><98><C3><CENT><C2><EURO><C2><98>^]
+
+telnet> ^]
+?Invalid command
+telnet> exit
+?Invalid command
+telnet> quit
+Connection closed.
+INPUT|lclarkel-buffer-13|U |1542831197|lclarkel|server:wget http://localhost:8080/index.html|%--2018-11-21 12:13:17--  http://localhost:8080/index.html
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... connected.
+HTTP request sent%% awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: 'index.html'
+
+
+index.html              [<=>                 ]       0  --.-KB/s               
+index.html              [ <=>                ]   5.59K  --.-KB/s    in 0s      
+
+2018-11-21 12:13:17 (186 MB/s) - 'index.html' saved [5725]
+%
+INPUT|lclarkel-buffer-14|U |000000000|lclarkel|server:wget http://localhost:8080/conr|%--2018-11-21 12:14:18--  http://localhost:8080/conr.html
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... connected.
+HTTP request sent%% awaiting response... 404 Not Found
+2018-11-21 12:14:18 ERROR 404: Not Found.
+%
+INPUT|lclarkel-buffer-15|U |1542831311|lclarkel|server:wget http://localhost:8080/09876543123456789|%--2018-11-21 12:15:11--  http://localhost:8080/09876543123456789
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... connected.
+HTTP request sent%% awaiting response... 404 Not Found
+2018-11-21 12:15:11 ERROR 404: Not Found.
+%
+INPUT|lclarkel-buffer-16|U |1542831317|lclarkel|server:wget http://localhost:8080/09876543123456789.html|%--2018-11-21 12:15:17--  http://localhost:8080/09876543123456789.html
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... connected.
+HTTP request sent%% awaiting response... 404 Not Found
+2018-11-21 12:15:17 ERROR 404: Not Found.
+%
+INPUT|lclarkel-buffer-17|U |000000000|lclarkel|server:wget http://localhost:8080/0987654321234567890-09876543234567|%89098765432134567890987654323456789098765432123456789098765432345678900987654320 
+9876543210987654321
+--2018-11-21 12:15:38--  http://localhost:8080/0987654321234567890-09876543234567890987654321345678909876543234567890987654321234567890987654323456789009876543209876543210987654321
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... connected.
+HTTP request sent%% awaiting response... 404 Not Found
+2018-11-21 12:15:38 ERROR 404: Not Found.
+%
+INPUT|lclarkel-buffer-18|U |000000000|lclarkel|server:wget http://localhost:8080/0987654321234567890-098765432345678|%890987654321345678909876543234567890987654321234567890987654323456789009876543209
+98765432109876543210987654321234567890-09876543234567890987654321345678909876543 
+234567890987654321234567890987654323456789009876543209876543210987654321
+The name is too long%% 266 chars total.
+Trying to shorten...
+New name is 0987654321234567890-098765432345678909876543213456789098765432345678909876543212345678909876543234567890098765432098765432109876543210987654321234567890-09876543234567890987654321345678909876543234567890987654321234567890987654323456789.
+--2018-11-21 12:16:17--  http://localhost:8080/0987654321234567890-098765432345678909876543213456789098765432345678909876543212345678909876543234567890098765432098765432109876543210987654321234567890-09876543234567890987654321345678909876543234567890987654321234567890987654323456789009876543209876543210987654321
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... connected.<NL
+INPUT|lclarkel-buffer-19|U |000000000|lclarkel|server:wget http://localhost:8080/0987654321234567890-098765432345678|%890987654321345678909876543234567890987654321234567890987654323456789009876543209
+98765432109876543210987654321234567890-098765432345678909876543213456789098765432
+23456789098765432123456789098765432345678900987654320987654321098765432109876543 
+21234567890-09876543234567890987654321345678909876543234567890987654321234567890 
+987654323456789009876543209876543210987654321
+The name is too long%% 399 chars total.
+Trying to shorten...
+New name is 0987654321234567890-098765432345678909876543213456789098765432345678909876543212345678909876543234567890098765432098765432109876543210987654321234567890-09876543234567890987654321345678909876543234567890987654321234567890987654323456789.
+--2018-11-21 12:16:27--  http://localhost:8080/0987654321234567890-098765432345678909876543213456789098765432345678909876543212345678909876543234567890098765432098765432109876543210987654321234567890-098765432345678909876543213456789098765432345678909876543212345678909876543234567890098765
+INPUT|lclarkel-buffer-20|U |000000000|lclarkel|server:wget http://localhost:8080/0987654321234567890-098765432345678|%890987654321345678909876543234567890987654321234567890987654323456789009876543209
+98765432109876543210987654321234567890-098765432345678909876543213456789098765432
+234567890987654321234567890987654323456789009876543209876543210987654321098765432
+21234567890-098765432345678909876543213456789098765432345678909876543212345678909
+9876543234567890098765432098765432109876543210987654321234567890-098765432345678 
+90987654321345678909876543234567890987654321234567890987654323456789009876543209 
+876543210987654321
+The name is too long%% 532 chars total.
+Trying to shorten...
+New name is 0987654321234567890-098765432345678909876543213456789098765432345678909876543212345678909876543234567890098765432098765432109876543210987654321234567890-09876543234567890987654321345678909876543234567890987654321234567890987654323456789.
+--2018-11-21 12:16:50--  http://localhost:8080/0987654321234567890-09876543234567890987654321345678909876543234567890987654321234567890987654323456
+INPUT|lclarkel-buffer-21|U |000000000|lclarkel|server:wget http://localhost:8080/0987654321234567890-098765432345678|%890987654321345678909876543234567890987654321234567890987654323456789009876543209
+98765432109876543210987654321234567890-098765432345678909876543213456789098765432
+234567890987654321234567890987654323456789009876543209876543210987654321098765432
+21234567890-098765432345678909876543213456789098765432345678909876543212345678909
+9876543234567890098765432098765432109876543210987654321234567890-0987654323456789
+909876543213456789098765432345678909876543212345678909876543234567890098765432098
+8765432109876543210987654321234567890-098765432345678909876543213456789098765432 
+34567890987654321234567890987654323456789009876543209876543210987654321
+The name is too long%% 665 chars total.
+Trying to shorten...
+New name is 0987654321234567890-098765432345678909876543213456789098765432345678909876543212345678909876543234567890098765432098765432109876543210987654321234567890-09876543234567890987654321345678909876543234567890987654321234567890987654323456789.
+--2018-11
+INPUT|lclarkel-buffer-22|U |000000000|lclarkel|server:wget http://localhost:8080/0987654321234567890-098765432345678|%890987654321345678909876543234567890987654321234567890987654323456789009876543209
+98765432109876543210987654321234567890-098765432345678909876543213456789098765432
+234567890987654321234567890987654323456789009876543209876543210987654321098765432
+21234567890-098765432345678909876543213456789098765432345678909876543212345678909
+9876543234567890098765432098765432109876543210987654321234567890-0987654323456789
+909876543213456789098765432345678909876543212345678909876543234567890098765432098
+8765432109876543210987654321234567890-0987654323456789098765432134567890987654323
+34567890987654321234567890987654323456789009876543209876543210987654321098765432 
+1234567890-098765432345678909876543213456789098765432345678909876543212345678909 
+87654323456789009876543209876543210987654321
+The name is too long%% 798 chars total.
+Trying to shorten...
+New name is 0987654321234567890-098765432345678909876543213456789098765432345678909876543212345678909876543234567890098
+INPUT|lclarkel-buffer-23|U |000000000|lclarkel|server:wget http://localhost:8080/0987654321234567890-098765432345678|890987654321345678909876543234567890987654321234567890987654323456789009876543209
+98765432109876543210987654321234567890-098765432345678909876543213456789098765432
+234567890987654321234567890987654323456789009876543209876543210987654321098765432
+21234567890-098765432345678909876543213456789098765432345678909876543212345678909
+9876543234567890098765432098765432109876543210987654321234567890-0987654323456789
+909876543213456789098765432345678909876543212345678909876543234567890098765432098
+8765432109876543210987654321234567890-0987654323456789098765432134567890987654323
+345678909876543212345678909876543234567890098765432098765432109876543210987654321
+1234567890-0987654323456789098765432134567890987654323456789098765432123456789098
+87654323456789009876543209876543210987654321<ESC>[A<ESC>[A876543209876543210987654321<ESC>[K
+
+<ESC>[K
+
+<ESC>[K<ESC>[A<ESC>[A34567890987654321234567890987654323456789009876543209876543210987654321<ESC>[A
+87654321098765432
+INPUT|lclarkel-buffer-24|U |000000000|lclarkel|server:wget http://localhost:8081|%--2018-11-21 12:17:46--  http://localhost:8081/conr.html
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8081... connected.
+HTTP request sent%% awaiting response... 404 Not Found
+2018-11-21 12:17:46 ERROR 404: Not Found.
+%
+INPUT|lclarkel-buffer-25|U |000000000|lclarkel|server:cd /usr/src/fhttpd|
+INPUT|lclarkel-buffer-26|U |1542831484|lclarkel|server:ls|frobnick  index.html  Makefile webserver  webserver.c
+INPUT|lclarkel-buffer-27|M1 |1542831514|lclarkel|server:emacs webserver.c|%=>
+=-111:----F1  *scratch*      All L1     (Fundamental) ---------------------------
+Loading 00debian-vars...done
+/etc/emacs/site-start.d/50autoconf.el (source)...
+done
+Loading /etc/emacs/site-start.d/50autoconf.el (source)...doneFile Edit Options Buffers Tools Lisp-Interaction Help                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-111:----F1  *scratch*      All L1     (Lisp Interaction) ----------------------
+For information about GNU Emacs and the GNU system%% type C-h C-a.
+Note: file is write protected
+Note: file is write protectedFile Edit Options Buffers Tools C Help                                          
+
+// webserver.c                                                                  
+
+// FrobozzCo Official Webserver                                                 
+
+// Barbazzo Fernap barbazzo@gue.com                                             
+
+// Gustar Woom
+INPUT|lclarkel-buffer-28|A2 |1542831878|lclarkel|server:grep -n strcpy webserver.c|%80: strcpy(searchstr%% \"\
+\
+\");
+92:   strcpy(retval%% (char *)hdrval);
+95:   strcpy(retval%% hdrptr);
+186: strcpy(req->headers%% last_position);%
+INPUT|lclarkel-buffer-29|U |000000000|lclarkel|server:grep -n gets|
+INPUT|lclarkel-buffer-30|U |000000000|lclarkel|server:grep -n printf|%442:  printf(\"%%s\
+\"%% headerstr);
+460:  fprintf(stderr%% \"No port specified. Exiting!\
+\");%
+INPUT|lclarkel-buffer-31|U |000000000|lclarkel|server:grep -n strcat|%62:  strcat(envstr%% \"TZ=\");
+63:  strcat(envstr%% tz);
+81: strcat(searchstr%% headername);
+82: strcat(searchstr%% \": \");
+232:   strcat(path%% \"index.html\");    
+295:  strcat(sendmessage%% \"HTTP/1.0 \");
+296:  strcat(sendmessage%% status(statcode));    
+297:  strcat(sendmessage%% \"\
+\
+Date: \");
+299:  strcat(sendmessage%% \"\
+\
+Server: Frobozz Magic Software Company Webserver v.002\");
+300:  strcat(sendmessage%% \"\
+\
+Connection: close\");
+301:  strcat(sendmessage%% \"\
+\
+Content-Type: \");    
+302:  strcat(sendmessage%% contype(ext));
+303:  strcat(sendmessage%% \"\
+\
+\
+\
+\");
+308:  strcat(sendmessage%% \"<html><head><title>\");
+309:  strcat(sendmessage%% status(statcode));
+310:  strcat(sendmessage%% \"</title></head><body><h2>HTTP/1.0</h2><h1>\");
+311:  strcat(sendmessage%% status(statcode));
+3
+INPUT|lclarkel-buffer-32|M1 |1542832169|lclarkel|server:emacs webserver.c|%=>
+=-111:----F1  *scratch*      All L1     (Fundamental) ---------------------------------------------------------------------------------
+Loading 00debian-vars...done
+/etc/emacs/site-start.d/50autoconf.el (source)...
+done
+Loading /etc/emacs/site-start.d/50autoconf.el (source)...doneFile Edit Options Buffers Tools Lisp-Interaction Help                                                                                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-111:----F1  *scratch*      All L1     (Lisp Interaction) ----------------------------------------------------------------------------
+For information about GNU Emacs and the GNU system%% type C-h C-a.
+Note: file is write protected
+Note: file is write protectedFile Edit Options Buffers Tools C Help                                                                                                
+
+// webserver.c                                                
+INPUT|lclarkel-buffer-33|M1 |1542832324|lclarkel|server:sudo emacs webserver.c|%=>
+=-111:----F1  *scratch*      All L1     (Fundamental) ---------------------------------------------------------------------------------
+Loading 00debian-vars...done
+/etc/emacs/site-start.d/50autoconf.el (source)...
+done
+Loading /etc/emacs/site-start.d/50autoconf.el (source)...doneFile Edit Options Buffers Tools Lisp-Interaction Help                                                                                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-111:----F1  *scratch*      All L1     (Lisp Interaction) ----------------------------------------------------------------------------
+For information about GNU Emacs and the GNU system%% type C-h C-a.
+For information about GNU Emacs and the GNU system%% type C-h C-a.File Edit Options Buffers Tools C Help                                                                                                
+
+// webserver.c                                            

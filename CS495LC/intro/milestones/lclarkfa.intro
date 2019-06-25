@@ -1,0 +1,548 @@
+User lclarkfa start time 1537939427 end 1538161469
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkfa-intro-0|U |000000000|lclarkfa|intro:get lclarkfa-intro.tar.gz|%No command 'get' found%% but there are 18 similar ones
+get: command not found%
+INPUT|lclarkfa-intro-1|U |000000000|lclarkfa|:|
+INPUT|lclarkfa-intro-2|U |000000000|lclarkfa|:|
+INPUT|lclarkfa-intro-3|U |1538160681|lclarkfa|intro:ls|lclarkfa-intro.tar.gz  top_secret
+INPUT|lclarkfa-intro-4|U |000000000|lclarkfa|intro:cd lclarkfa-intro.tar.gz|bash: cd: lclarkfa-intro.tar.gz: Not a directory
+INPUT|lclarkfa-intro-5|U |1538161329|lclarkfa|intro:cat lclarkfa-intro.tar.gz|%[wTT.JAdP  c$<VT>H &HN
+-  HPHs 9ghr&64{{};5ZU_Z@nVV %%(x)//W9>||_k<VT>n%%]'Pp]y?X<VT>ouq\P@X/.t{Ov?
+eD{eCe6@p^B$62'6'y<$(K@cmMCu3{;8w{]\<"|@G4O(S3<fbfeex)<VT>+3{pHIwM._jm.>l%%y66p.>{dO]_f1Rh <aaec{)7CHh/ I_%%/YV^QYU]S[7:6>195=3_][A..8?$s`a{$s =RM\s/ec3K[o]1<VT> t:G%%vT_w?P$6C"LxaJ#zu\<NP>~nbt1q<VT>Au^.r\E/~ tq0a7%%<NP>|s__i:JhhmXm:o
+'KQ$u$u{s/(w-YBb+[@:||1t<an/51v"O{a.J}tn<NP>q|\=)c~NQz1O+A=/dDt?Z:yv}F@H
+ [eLCg!K3)2;#)P0<NP>aP~:[
+zAZ3?j:o*2SgZ_#''59L"z.%%0Ts1P;)W8
+`D OO$gCooa(K27Nraw4nox6=p'"tK9&p
+%%bGn7[%%.n+-V_eV[?a<NP>m~_\U
+%%$C -t=
+[&U1_
+
+4t>:f/[/"nV&eGU*E[QC/63&w\yd":3? "
+O7
+O{C\8D!
+"]?2_Om<NP>%%`R5QnS#uzk"%%4F4_a!wUUjj T$M+F]TELh#ClXWOy(Cw&13_o?@[|@}Qbau?{J(ll}v\ac!rgqG((R]jEDn*hBRAop?Oal72Ex=IAS?kN@3<x^{IJ8lLJ[wDhbDd)n;Yq;xk9]Nmfy{P
+)Z{6C5r{mWB@*Q]<VT>g'mo>]CZ4#@&V&ajV;C~BT15USQHvwdh
+ rs?0f? tx_2[%%[
+-}$)2[*v#W1W DpKtj
+2jz{+uT
+l~]{rx@I/po'}A[=Ux-@Kz}m<NP>uh\ph-`<NP>$<<\$+AAqQf@s0V`#&'l4U[T<NP>[x<VT>-y:C8<NP
+INPUT|lclarkfa-intro-6|U |000000000|lclarkfa|intro:1;2c1;2c1;2c1;2c|1: command not found
+2c1: command not found
+2c1: command not found
+2c1: command not found
+2c: command not found
+INPUT|lclarkfa-intro-7|U |1538161469|lclarkfa|intro:ls|lclarkfa-intro.tar.gz  top_secret
+INPUT|lclarkfa-intro-8|A0 A2 A1 A3 A4 |1537939485|lclarkfa|intro:find intro|find: 'intro': No such file or directory
+INPUT|lclarkfa-intro-9|A1 A3 A4 A0 A2 |1537939491|lclarkfa|intro:find .intro|find: '.intro': No such file or directory
+INPUT|lclarkfa-intro-10|A1 A4 A3 A0 A2 |1537939520|lclarkfa|intro:find JPEG|find: 'JPEG': No such file or directory
+INPUT|lclarkfa-intro-11|A4 A3 A1 A2 A0 |1537939582|lclarkfa|intro:find intro|find: 'intro': No such file or directory
+INPUT|lclarkfa-intro-12|A0 A2 A1 A4 A3 |000000000|lclarkfa|intro:find .-intro \"*.JPEG\"|find: '.-intro': No such file or directory
+find: '*.JPEG': No such file or directory
+INPUT|lclarkfa-intro-13|A0 A2 A1 A3 A4 |000000000|lclarkfa|intro:find .-intro \"*.JPEG\"|find: '.-intro': No such file or directory
+find: '*.JPEG': No such file or directory
+INPUT|lclarkfa-intro-14|U |000000000|lclarkfa|intro:pwd|/users/lclarkfa
+INPUT|lclarkfa-intro-15|U |000000000|lclarkfa|intro:cd /|
+INPUT|lclarkfa-intro-16|A1 A4 A3 A0 A2 |000000000|lclarkfa|intro:find -i name \"*intro*\"|find: unknown predicate `-i'
+INPUT|lclarkfa-intro-17|M3 M2 |000000000|lclarkfa|intro:find -i i\=e \"*intro*\"|./var/log/ttylog/ttylog.intro.0
+./var/log/ttylog/alltty.intro
+./var/log/ttylog/cli.intro.csv
+./var/log/136intro-3.jpg
+./etc/wuer136intro-4.JPG
+./etc/apparmor.d/abstractions/apparmor_api/introspect
+./proj/intro.createimage.Share
+./proj/CS495LC/exp/Adrian-Intro
+./proj/CS495LC/exp/Adrian-Intro/tbdata/Adrian-Intro.png
+./proj/CS495LC/exp/Adrian-Intro/tbdata/Adrian-Intro.ns
+./proj/CS495LC/exp/Intro-csfirewall
+./proj/CS495LC/exp/Intro-csfirewall/tbdata/Intro-csfirewall.png
+./proj/CS495LC/exp/Intro-csfirewall/tbdata/Intro-csfirewall.ns
+./proj/CS495LC/exp/IntroExperiment
+./proj/CS495LC/exp/IntroExperiment/tbdata/IntroExperiment.ns
+./proj/CS495LC/exp/IntroExperiment/tbdata/IntroExperiment.png
+./proj/CS495LC/exp/derek-linuxintro
+./proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.ns
+./proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.png
+./proj/CS495LC/exp/george-introUnix
+./proj/CS495LC/exp/george-introUnix/tbdata/george
+INPUT|lclarkfa-intro-18|M3 M2 |1537940345|lclarkfa|intro:find -iname \"*intro*\" | head -n 5|./var/log/ttylog/ttylog.intro.0
+./var/log/ttylog/alltty.intro
+./var/log/ttylog/cli.intro.csv
+./var/log/136intro-3.jpg
+./etc/wuer136intro-4.JPG
+INPUT|lclarkfa-intro-19|A1 A4 A3 A0 A2 |000000000|lclarkfa|intro:locate -i \"*intro*\"|/etc/apparmor.d/abstractions/apparmor_api/introspect
+/usr/lib/python3/dist-packages/dbus/_expat_introspect_parser.py
+/usr/lib/python3/dist-packages/dbus/__pycache__/_expat_introspect_parser.cpython-35.pyc
+/usr/share/doc/bash/INTRO.gz
+/usr/share/man/man1/intro.1.gz
+/usr/share/man/man2/intro.2.gz
+/usr/share/man/man3/intro.3.gz
+/usr/share/man/man4/intro.4.gz
+/usr/share/man/man5/intro.5.gz
+/usr/share/man/man6/intro.6.gz
+/usr/share/man/man7/intro.7.gz
+/usr/share/man/man8/intro.8.gz
+/usr/share/vim/vim74/doc/intro.txt
+INPUT|lclarkfa-intro-20|A1 A3 A4 A0 A2 |000000000|lclarkfa|intro:locate -i \"*intro*\" fil|
+INPUT|lclarkfa-intro-21|A4 A3 A1 A2 A0 |000000000|lclarkfa|intro:man locate\|> qc^C
+INPUT|lclarkfa-intro-22|A1 A4 A3 A0 A2 |1537940470|lclarkfa|intro:man locate|%[?1049h[?1h=
+locate(1)                   General Commands Manual                  locate(1)[m
+[m
+[1mNAME[0m[m
+       locate - find files by name[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mlocate[0m [[4mOPTION[24m]... [4mPATTERN[24m...[m
+[m
+[1mDESCRIPTION[0m[m
+       [1mlocate[0m  reads  one or more databases prepared by [1mupdatedb[0m(8) and writes[m
+       file names matching at least one of the [4mPATTERN[24ms  to  standard  output%%[m
+       one per line.[m
+[m
+       If  [1m--regex[0m is not specified%% [4mPATTERN[24ms can contain globbing characters.[m
+       If any [4mPATTERN[24m contains no globbing characters%% [1mlocate[0m  behaves  as  if[m
+       the pattern were [1m*[0m[4mPATTERN[24m[1m*[0m.[m
+[m
+       By default%% [1mlocate[0m does not check whether files found in database still[m
+       exist (but it does require all parent directories to exist if the data-[m
+       base  was built with [1m--require-visibility[0m [1mno[0m)
+INPUT|lclarkfa-intro-23|U |1537940526|lclarkfa|intro:update db|sudo: update: command not found
+INPUT|lclarkfa-intro-24|U |1537940532|lclarkfa|intro:updatedb|^C
+INPUT|lclarkfa-intro-25|U |1537940545|lclarkfa|intro:updatedb|
+INPUT|lclarkfa-intro-26|M4 M3 M2 M0 |000000000|lclarkfa|intro:locate -i \"*intro*\"|/.hidden/asdf136Intro-5kqlw.jpeg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/local/logs/intro_startcmd.err
+/local/logs/intro_startcmd.err.10
+/local/logs/intro_startcmd.out
+/local/logs/intro_startcmd.out.10
+/local/logs/intro_startcmd.status
+/local/logs/intro_startcmd.status.10
+/proj/intro.createimage.Share
+/proj/intro.createimage.Share/exp
+/proj/intro.createimage.Share/exp/count.
+/proj/intro.createimage.Share/exp/logs
+/proj/intro.createimage.Share/exp/logs/ttylog..0
+/proj/share/exp/createimage/count.intro
+/proj/share/exp/createimage/logs/alltty.intro
+/proj/share/exp/createimage/logs/cli.intro.csv
+/proj/share/exp/createimage/logs/cli.intro.csv.1535412403
+/proj/share/exp/createimage/logs/ttylog.intro.0
+/usr/lib/python3/dist-packages/dbus/_expat_introspect_parser.py
+/usr/lib/python3/dist-packages/dbus/__pycache__/_expat_introspect_parser.cpython-35.pyc
+/usr/share/doc/bash/INTRO.gz
+/usr/share
+INPUT|lclarkfa-intro-27|M4 M3 M2 M0 |000000000|lclarkfa|intro:locate -i \"*i136o*\"|/.hidden/asdf136Intro-5kqlw.jpeg
+/etc/wuer136intro-4.JPG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+/var/log/136intro-3.jpg
+INPUT|lclarkfa-intro-28|U |000000000|lclarkfa|intro:pwd|/
+INPUT|lclarkfa-intro-29|U |1537939427|lclarkfa|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp    var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   users  vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   usr    vmlinuz.old
+INPUT|lclarkfa-intro-30|M4 M3 M2 M1 M0 |1537940788|lclarkfa|intro:find -iname \"*136intro*\" | head -n 5|./var/log/136intro-3.jpg
+./etc/wuer136intro-4.JPG
+./.hidden/asdf136Intro-5kqlw.jpeg
+./dev/136intro-2jjaj.JPEG
+./usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|lclarkfa-intro-31|U |000000000|lclarkfa|intro:cd users/lclarkfa/|
+INPUT|lclarkfa-intro-32|U |000000000|lclarkfa|intro:cd ~|
+INPUT|lclarkfa-intro-33|U |1537940891|lclarkfa|intro:mkdir top_secret|
+INPUT|lclarkfa-intro-34|U |000000000|lclarkfa|intro:cd /|
+INPUT|lclarkfa-intro-35|A2 A0 A4 A3 A1 |000000000|lclarkfa|intro:find -iname "*136intro*" | head -|
+INPUT|lclarkfa-intro-36|A4 A3 A1 A2 A0 |1537940759|lclarkfa|intro:lssudo find -iname "*136intro*" | head -|
+INPUT|lclarkfa-intro-37|A1 A3 A4 A0 A2 |1537940924|lclarkfa|intro:lssudo find -iname "*136intro*" | head -n 5|^C
+INPUT|lclarkfa-intro-38|U |000000000|lclarkfa|intro:mv /var/log/136intro-3.jpg ~/top_secret/|mv: cannot remove '/var/log/136intro-3.jpg': Permission denied
+INPUT|lclarkfa-intro-39|U |000000000|lclarkfa|intro:mv var/log/136intro-3.jpg  ~/top_secret/|
+INPUT|lclarkfa-intro-40|U |000000000|lclarkfa|intro:cd top_secret|bash: cd: top_secret: No such file or directory
+INPUT|lclarkfa-intro-41|U |000000000|lclarkfa|intro:cd users/lclarkfa/top_secret/|
+INPUT|lclarkfa-intro-42|U |1537941291|lclarkfa|intro:ls|136intro-3.jpg
+INPUT|lclarkfa-intro-43|U |000000000|lclarkfa|intro:mv ./etc/wuer136intro-4.JPG  ~/top_secret/|mv: cannot stat './etc/wuer136intro-4.JPG': No such file or directory
+INPUT|lclarkfa-intro-44|U |000000000|lclarkfa|intro:mv etc/wuer136intro-4.JPG ~/top_secret/|mv: cannot stat 'etc/wuer136intro-4.JPG': No such file or directory
+INPUT|lclarkfa-intro-45|U |000000000|lclarkfa|intro:mv etc/wuer136intro-4.JPG  ~/top_secret/|mv: cannot stat 'etc/wuer136intro-4.JPG': No such file or directory
+INPUT|lclarkfa-intro-46|U |000000000|lclarkfa|intro:cd users/lclarkfa/top_secret/|bash: cd: users/lclarkfa/top_secret/: No such file or directory
+INPUT|lclarkfa-intro-47|U |1537941593|lclarkfa|intro:ls|136intro-3.jpg
+INPUT|lclarkfa-intro-48|U |000000000|lclarkfa|intro:mv usr/share/pixmaps/xbzf136INTRO-1.jpg  ~/top_secret/|mv: cannot stat 'usr/share/pixmaps/xbzf136INTRO-1.jpg': No such file or directory
+INPUT|lclarkfa-intro-49|U |000000000|lclarkfa|intro:cd ~|
+INPUT|lclarkfa-intro-50|U |000000000|lclarkfa|intro:mv /etc/wuer136intro-4.JPG ~/top_secret/|
+INPUT|lclarkfa-intro-51|U |000000000|lclarkfa|intro:mv /.hidden/asdf136Intro-5kqlw.jpeg ~/top_secret/|
+INPUT|lclarkfa-intro-52|U |000000000|lclarkfa|intro:mv /dev/136intro-2jjaj.JPEG ~/top_secret/|
+INPUT|lclarkfa-intro-53|U |000000000|lclarkfa|intro:mv /usr/share/pixmaps/xbzf136INTRO-1.jpg ~/top_secret/|
+INPUT|lclarkfa-intro-54|U |000000000|lclarkfa|intro:cd users/lclarkfa/top_secret/|bash: cd: users/lclarkfa/top_secret/: No such file or directory
+INPUT|lclarkfa-intro-55|U |000000000|lclarkfa|intro:cd top_secret|
+INPUT|lclarkfa-intro-56|U |1537946622|lclarkfa|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkfa-intro-57|U |1537946617|lclarkfa|intro:mkdir answers.txt|
+INPUT|lclarkfa-intro-58|U |1537946780|lclarkfa|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkfa-intro-59|U |000000000|lclarkfa|intro:cd answers.txt|
+INPUT|lclarkfa-intro-60|U |000000000|lclarkfa|intro:cd top_secret|bash: cd: top_secret: No such file or directory
+INPUT|lclarkfa-intro-61|U |000000000|lclarkfa|intro:cd|
+INPUT|lclarkfa-intro-62|U |1537946792|lclarkfa|intro:ls|top_secret
+INPUT|lclarkfa-intro-63|U |000000000|lclarkfa|intro:cd top_secret|
+INPUT|lclarkfa-intro-64|U |1537946867|lclarkfa|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkfa-intro-65|U |1537946812|lclarkfa|intro:rm answers.txt|rm: cannot remove 'answers.txt': Is a directory
+INPUT|lclarkfa-intro-66|U |1537946833|lclarkfa|intro:rm answers.txt|rm: cannot remove 'answers.txt': Is a directory
+INPUT|lclarkfa-intro-67|U |1537946865|lclarkfa|intro:touch answers.txt|
+INPUT|lclarkfa-intro-68|U |1537947076|lclarkfa|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkfa-intro-69|U |000000000|lclarkfa|intro:cd answers.txt|
+INPUT|lclarkfa-intro-70|U |1537947074|lclarkfa|intro:touch q1.txt|
+INPUT|lclarkfa-intro-71|U |1537947224|lclarkfa|intro:ls|q1.txt
+INPUT|lclarkfa-intro-72|U |000000000|lclarkfa|intro:cd q1.txt|bash: cd: q1.txt: Not a directory
+INPUT|lclarkfa-intro-73|U |1537947138|lclarkfa|intro:open q1.txt|Couldn't get a file descriptor referring to the console
+INPUT|lclarkfa-intro-74|U |1537947156|lclarkfa|intro:open q1.txt|
+INPUT|lclarkfa-intro-75|U |000000000|lclarkfa|intro:cdd|%No command 'cdd' found%% did you mean:
+ Command 'cdw' from package 'cdw' (universe)
+ Command 'ldd' from package 'libc-bin' (main)
+ Command 'cdb' from package 'tinycdb' (main)
+ Command 'cdde' from package 'cdde' (universe)
+ Command 'cdv' from package 'codeville' (universe)
+ Command 'dd' from package 'coreutils' (main)
+ Command 'tdd' from package 'devtodo' (universe)
+ Command 'cdp' from package 'irpas' (multiverse)
+ Command 'cde' from package 'cde' (universe)
+ Command 'cdi' from package 'cdo' (universe)
+ Command 'cd5' from package 'cd5' (universe)
+ Command 'cdcd' from package 'cdcd' (universe)
+ Command 'cdo' from package 'cdo' (universe)
+ Command 'ddd' from package 'ddd' (universe)
+cdd: command not found%
+INPUT|lclarkfa-intro-76|U |000000000|lclarkfa|intro:cd|
+INPUT|lclarkfa-intro-77|U |1537947236|lclarkfa|intro:ls|top_secret
+INPUT|lclarkfa-intro-78|U |000000000|lclarkfa|intro:cd top_secret|
+INPUT|lclarkfa-intro-79|U |1537947283|lclarkfa|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkfa-intro-80|U |1537947263|lclarkfa|intro:rmdir answers.txt|rmdir: failed to remove 'answers.txt': Directory not empty
+INPUT|lclarkfa-intro-81|U |000000000|lclarkfa|intro:cd answers.txt|
+INPUT|lclarkfa-intro-82|U |1537947315|lclarkfa|intro:ls|q1.txt
+INPUT|lclarkfa-intro-83|U |1537947289|lclarkfa|intro:rm q1.txt|
+INPUT|lclarkfa-intro-84|U |000000000|lclarkfa|intro:cd ~|
+INPUT|lclarkfa-intro-85|U |000000000|lclarkfa|intro:cd top_secret|
+INPUT|lclarkfa-intro-86|U |1537947330|lclarkfa|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkfa-intro-87|U |1537947327|lclarkfa|intro:rmdir answers.txt|
+INPUT|lclarkfa-intro-88|U |1537947363|lclarkfa|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkfa-intro-89|U |1537947359|lclarkfa|intro:touch answers.txt|
+INPUT|lclarkfa-intro-90|U |1537947497|lclarkfa|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkfa-intro-91|U |1537947453|lclarkfa|intro:open answers.txt|Couldn't get a file descriptor referring to the console
+INPUT|lclarkfa-intro-92|U |1537947495|lclarkfa|intro:open answers.txt|
+INPUT|lclarkfa-intro-93|U |000000000|lclarkfa|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkfa-intro-94|U |000000000|lclarkfa|intro:echo /var is a standard subdirectory of the root directory in Linux and other Unix-|like operating systems that contains files to which the system writes data during the course of its operation.<ESC>[A
+INPUT|lclarkfa-intro-95|U |000000000|lclarkfa|intro:ls|
+INPUT|lclarkfa-intro-96|U |000000000|lclarkfa|intro:echo /var is a standard subdirectory of the root directory in Linux and other Unix-l|like operating systems that contains files to which the system writes data during the course of its operation.<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfa-intro-97|U |000000000|lclarkfa|intro:echo '/var is a standard subdirectory of the root directory in Linux and other Unix-llarkfa@intro:~/top_secret$ echo '/var is a standard subdirectory of the root directory in Linux and other Uni|
+-like operating systems that contains files to which the system writes data during the course of its operation.' 
+answers.txt
+/var is a standard subdirectory of the root directory in Linux and other Unix-like operating systems that contains files to which the system writes data during the course of its operation.answers.txt
+INPUT|lclarkfa-intro-98|U |1537947861|lclarkfa|intro:open answers.txt|
+INPUT|lclarkfa-intro-99|U |000000000|lclarkfa|intro:echo '/var is a standard subdirectory of the root directory in Linux and other Unix-|-like operating systems that contains files to which the system writes data during the course of its operation.'a
+answers.txt<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+<ESC>[1@>answers.txt<BEL>
+INPUT|lclarkfa-intro-100|U |000000000|lclarkfa|intro:echo '/var is a standard subdirectory of the root directory in Linux and other Unix-|-like operating systems that contains files to which the system writes data during the course of its operation.'>
+>answers.txt<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+<ESC>[A-like operating systems that contains files to which the system writes data during the course of its operation. '<ESC>[1@>
+<ESC>[A-like operating systems that contains files to which the system writes data during the course of its operation.'><ESC>[1P<ESC>[Alike operating systems that contains files to which the system writes data during the course of its operation.
+
+<ESC>[1@ >answers.txt
+INPUT|lclarkfa-intro-101|U |1537947984|lclarkfa|intro:open answers.txt|
+INPUT|lclarkfa-intro-102|U |1537947995|lclarkfa|intro:view answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;39r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[39;1H"answers.txt" [readonly] 1L%% 189C[>c[1;1H/var is a standard subdirectory of the root directory in Linux and other Unix-like operating systems that contaii[2;1Hns files to which the system writes data during the course of its operation.
+[94m~                                                                                                               [4;1H~                                                                                                               [5;1H~                                                                                                               [6;1H~                                                                                                               [7;1H~                                                                                                               [8;1H~                                                                                  
+INPUT|lclarkfa-intro-103|U |000000000|lclarkfa|intro:cd|
+INPUT|lclarkfa-intro-104|U |1538084178|lclarkfa|intro:ls|top_secret
+INPUT|lclarkfa-intro-105|U |000000000|lclarkfa|intro:cd top_secret|
+INPUT|lclarkfa-intro-106|U |1538084187|lclarkfa|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkfa-intro-107|U |000000000|lclarkfa|intro:cd answers.txt|bash: cd: answers.txt: Not a directory
+INPUT|lclarkfa-intro-108|U |1538084205|lclarkfa|intro:open answers.txt|Couldn't get a file descriptor referring to the console
+INPUT|lclarkfa-intro-109|U |1538084264|lclarkfa|intro:cat answers.txt|/var is a standard subdirectory of the root directory in Linux and other Unix-like operating systems that contains files to which the system writes data during the course of its operation.
+INPUT|lclarkfa-intro-110|U |000000000|lclarkfa|intro:echo 'The /dev directory contains special device files that control access to perip|heral devices.' ^C
+INPUT|lclarkfa-intro-111|U |000000000|lclarkfa|intro:echo 'The /dev directory contains special device files that control access to perip|heral devices.' >answers.txt
+INPUT|lclarkfa-intro-112|U |1538084404|lclarkfa|intro:cat answers.txt|The /dev directory contains special device files that control access to peripheral devices.
+INPUT|lclarkfa-intro-113|U |000000000|lclarkfa|intro:echo \''/var is a standard subdirectory of the root directory in Linux and other Uni|x-like operating systems that contains files to which the system writes data during the course of its operation. 
+ The /dev directory contains special device files that control access to peripheral devices.' >answers.txt
+> C
+> cd
+> ^C
+INPUT|lclarkfa-intro-114|U |000000000|lclarkfa|intro:echo ''/var is a standard subdirectory of the root directory in Linux and other Uni|x-like operating systems that contains files to which the system writes data during the course of its operation. 
+ The /dev directory contains special device files that control access to peripheral devices.' >answers.txt
+
+C
+
+cd<BS>
+<ESC>[AC
+<ESC>[A The /dev directory contains special device files that control access to peripheral devices.' >answers.txt<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+<ESC>[Ax-like operating systems that contains files to which the system writes data during the course of its operation<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>^C
+
+
+
+
+INPUT|lclarkfa-intro-115|U |000000000|lclarkfa|intro:echo ''/var is a standard subdirectory of the root directory in Linux and other Uni|x-like operating systems that contains files to which the system writes data during the course of its operation. 
+ The /dev directory contains special device files that control access to peripheral devices.' >answers.txt<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+<ESC>[Ax-like operating systems that contains files to which the system writes data during the course of its operation<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS
+INPUT|lclarkfa-intro-116|U |000000000|lclarkfa|intro:echo '/var is a standard subdirectory of the root directory in Linux and other Unix-like operating systems that contains files to which the system writes data during the course of its operation. Tclarkfa@intro:~/top_secret$ echo '/var is a standard subdirectory of the root directory in Linux and other Uni|
+-like operating systems that contains files to which the system writes data during the course of its operation.
+
+The /dev directory contains special device files that control access to peripheral devices.' >answers.txt
+INPUT|lclarkfa-intro-117|U |1538084580|lclarkfa|intro:cat answers.txt|/var is a standard subdirectory of the root directory in Linux and other Unix-like operating systems that contains files to which the system writes data during the course of its operation. The /dev directory contains special device files that control access to peripheral devices.
+INPUT|lclarkfa-intro-118|U |1538084705|lclarkfa|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkfa-intro-119|U |1538084746|lclarkfa|intro:touch diskfree.txt|
+INPUT|lclarkfa-intro-120|U |1538084748|lclarkfa|intro:ls|136intro-2jjaj.JPEG  answers.txt       diskfree.txt   xbzf136INTRO-1.jpg
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+INPUT|lclarkfa-intro-121|M6 |1538086884|lclarkfa|intro:df -k|%Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 1003696         48    1003648   1%% /dev
+tmpfs                                                 204776      11032     193744   6%% /run
+/dev/sda1                                           15616412    2894500   11921964  20%% /
+tmpfs                                                1023868          0    1023868   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023868          0    1023868   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkfa  2031313280 1269041152  599767040  68%% /users/lclarkfa
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973278592 1763489664  36%% /proj/CS495LC
+tmpfs                                                 204776          0     204776  
+INPUT|lclarkfa-intro-122|M6 |1538086824|lclarkfa|intro:df -h|%Filesystem                                         Size  Used Avail Use%% Mounted on
+udev                                               981M   48K  981M   1%% /dev
+tmpfs                                              200M   11M  190M   6%% /run
+/dev/sda1                                           15G  2.8G   12G  20%% /
+tmpfs                                             1000M     0 1000M   0%% /dev/shm
+tmpfs                                              5.0M     0  5.0M   0%% /run/lock
+tmpfs                                             1000M     0 1000M   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkfa   1.9T  1.2T  572G  68%% /users/lclarkfa
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC  2.8T  929G  1.7T  36%% /proj/CS495LC
+tmpfs                                              200M     0  200M   0%% /run/user/18205%
+INPUT|lclarkfa-intro-123|U |1538086946|lclarkfa|intro:du -h|8.0K ./.ssl
+28K ./.ssh
+4.0K ./.cache
+264K ./top_secret
+352K .
+INPUT|lclarkfa-intro-124|U |000000000|lclarkfa|intro:ls|top_secret
+INPUT|lclarkfa-intro-125|U |000000000|lclarkfa|intro:cd top_secret|
+INPUT|lclarkfa-intro-126|U |000000000|lclarkfa|intro:ls|136intro-2jjaj.JPEG  answers.txt       diskfree.txt   xbzf136INTRO-1.jpg
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+INPUT|lclarkfa-intro-127|U |000000000|lclarkfa|intro:cat answers.txt|/var is a standard subdirectory of the root directory in Linux and other Unix-like operating systems that contains files to which the system writes data during the course of its operation. The /dev directory contains special device files that control access to peripheral devices.
+INPUT|lclarkfa-intro-128|U |000000000|lclarkfa|intro:%echo 'Image one is from /usr/share/pixmaps and is the poster for forbidden planet| tw %
+INPUT|lclarkfa-intro-129|U |000000000|lclarkfa|intro:cat answers.txt|%/var is a standard subdirectory of the root directory in Linux and other Unix-like operating systems that contains files to which the system writes data during the course of its operation. The /dev directory contains special device files that control access to peripheral devices.
+Image one is from /usr/share/pixmaps and is the poster for forbidden planet%% two is from /dev and is the poster for godzilla%% three is from /var/log and is the poster for it came from outer space%% four is from /etc and is the poster for the fly%% and five is from /usr/share/pixmaps and is the poster for 2001 a space odyssey.%
+INPUT|lclarkfa-intro-130|U |000000000|lclarkfa|intro:man df|%<ESC>[?1049h<ESC>[?1h<ESC>=
+DF(1)                                            User Commands                                            DF(1)<ESC>[m
+<ESC>[m
+<ESC>[1mNAME<ESC>[0m<ESC>[m
+       df - report file system disk space usage<ESC>[m
+<ESC>[m
+<ESC>[1mSYNOPSIS<ESC>[0m<ESC>[m
+       <ESC>[1mdf<ESC>[0m [<ESC>[4mOPTION<ESC>[24m]... [<ESC>[4mFILE<ESC>[24m]...<ESC>[m
+<ESC>[m
+<ESC>[1mDESCRIPTION<ESC>[0m<ESC>[m
+       This manual page documents the GNU version of <ESC>[1mdf<ESC>[0m.  <ESC>[1mdf<ESC>[0m displays the amount of disk space available on the<ESC>[m
+       file system containing each file name argument.  If no file name is given%% the space  available  on  all<ESC>[m
+       currently  mounted file systems is shown.  Disk space is shown in 1K blocks by default%% unless the envi-<ESC>[m
+       ronment variable POSIXLY_CORRECT is set%% in which case 512-byte blocks are used.<ESC>[m
+<ESC>[m
+       If an argument is the absolute file name o
+INPUT|lclarkfa-intro-131|M6 |000000000|lclarkfa|intro:df -h|%Filesystem                                         Size  Used Avail Use%% Mounted on
+udev                                               981M   48K  981M   1%% /dev
+tmpfs                                              200M   16M  185M   8%% /run
+/dev/sda1                                           15G  2.8G   12G  20%% /
+tmpfs                                             1000M     0 1000M   0%% /dev/shm
+tmpfs                                              5.0M     0  5.0M   0%% /run/lock
+tmpfs                                             1000M     0 1000M   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkfa   1.9T  1.2T  572G  68%% /users/lclarkfa
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC  2.8T  929G  1.7T  36%% /proj/CS495LC
+tmpfs                                              200M     0  200M   0%% /run/user/18205%
+INPUT|lclarkfa-intro-132|U |000000000|lclarkfa|intro:%echo 'Filesystem                                         Size  Used Avail Use%% Mounte %|%d on
+> udev                                               981M   48K  981M   1%% /dev
+> tmpfs                                              200M   16M  185M   8%% /run
+> /dev/sda1                                           15G  2.8G   12G  20%% /
+> tmpfs                                             1000M     0 1000M   0%% /dev/shm
+> tmpfs                                              5.0M     0  5.0M   0%% /run/lock
+> tmpfs                                             1000M     0 1000M   0%% /sys/fs/cgroup
+> users.isi.deterlab.net:/mnt/other/users/lclarkfa   1.9T  1.2T  572G  68%% /users/lclarkfa
+> users.isi.deterlab.net:/mnt/projects/proj/CS495LC  2.8T  929G  1.7T  36%% /proj/CS495LC
+> tmpfs                                              200M     0  200M   0%% /run/user/18205' >diskfree.txt%
+INPUT|lclarkfa-intro-133|U |000000000|lclarkfa|intro:cat diskfree.txt|%Filesystem                                         Size  Used Avail Use%% Mounted on
+udev                                               981M   48K  981M   1%% /dev
+tmpfs                                              200M   16M  185M   8%% /run
+/dev/sda1                                           15G  2.8G   12G  20%% /
+tmpfs                                             1000M     0 1000M   0%% /dev/shm
+tmpfs                                              5.0M     0  5.0M   0%% /run/lock
+tmpfs                                             1000M     0 1000M   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkfa   1.9T  1.2T  572G  68%% /users/lclarkfa
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC  2.8T  929G  1.7T  36%% /proj/CS495LC
+tmpfs                                              200M     0  200M   0%% /run/user/18205%
+INPUT|lclarkfa-intro-134|M5 |000000000|lclarkfa|intro:cat /proc/cpuinfo|%processor : 0
+vendor_id : GenuineIntel
+cpu family : 15
+model  : 4
+model name : Intel(R) Xeon(TM) CPU 3.00GHz
+stepping : 1
+microcode : 0x9
+cpu MHz  : 2992.920
+cache size : 1024 KB
+physical id : 0
+siblings : 2
+core id  : 0
+cpu cores : 1
+apicid  : 0
+initial apicid : 0
+fpu  : yes
+fpu_exception : yes
+cpuid level : 5
+wp  : yes
+flags  : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc pebs bts nopl pni dtes64 monitor ds_cpl cid cx16 xtpr
+bugs  :
+bogomips : 5985.84
+clflush size : 64
+cache_alignment : 128
+address sizes : 36 bits physical%% 48 bits virtual
+power management:
+
+processor : 1
+vendor_id : GenuineIntel
+cpu family : 15
+model  : 4
+model name : Intel(R) Xeon(TM) CPU 3.00GHz
+steppin
+INPUT|lclarkfa-intro-135|A5 |000000000|lclarkfa|intro:echo 'The vendor ID is GenuineIntel' >>answers.txt|
+INPUT|lclarkfa-intro-136|U |000000000|lclarkfa|intro:cat answers.tx|cat: answers.tx: No such file or directory
+INPUT|lclarkfa-intro-137|U |000000000|lclarkfa|intro:cat answers.txt|%/var is a standard subdirectory of the root directory in Linux and other Unix-like operating systems that contains files to which the system writes data during the course of its operation. The /dev directory contains special device files that control access to peripheral devices.
+Image one is from /usr/share/pixmaps and is the poster for forbidden planet%% two is from /dev and is the poster for godzilla%% three is from /var/log and is the poster for it came from outer space%% four is from /etc and is the poster for the fly%% and five is from /usr/share/pixmaps and is the poster for 2001 a space odyssey.
+The vendor ID is GenuineIntel%
+INPUT|lclarkfa-intro-138|U |000000000|lclarkfa|intro:echo 'Thea Gordon-Wingfield' >>answers.txtwers.txt|
+INPUT|lclarkfa-intro-139|U |000000000|lclarkfa|intro:echo 'thea@lclark.edu' >>answers.txtrs.txt|
+INPUT|lclarkfa-intro-140|U |000000000|lclarkfa|intro:echo 'lclarkfa' >>answers.txters.txt|
+INPUT|lclarkfa-intro-141|U |000000000|lclarkfa|intro:echo 'Thea Gordon-Wingfield' >>answers.txt|
+INPUT|lclarkfa-intro-142|U |000000000|lclarkfa|intro:cat answers.txt|%/var is a standard subdirectory of the root directory in Linux and other Unix-like operating systems that contains files to which the system writes data during the course of its operation. The /dev directory contains special device files that control access to peripheral devices.
+Image one is from /usr/share/pixmaps and is the poster for forbidden planet%% two is from /dev and is the poster for godzilla%% three is from /var/log and is the poster for it came from outer space%% four is from /etc and is the poster for the fly%% and five is from /usr/share/pixmaps and is the poster for 2001 a space odyssey.
+The vendor ID is GenuineIntel
+Thea Gordon-Wingfield
+thea@lclark.edu
+lclarkfa%
+INPUT|lclarkfa-intro-143|U |000000000|lclarkfa|intro:tar cvzf lclarkfa-intro.tar.gz top_secret|tar: top_secret: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+INPUT|lclarkfa-intro-144|U |000000000|lclarkfa|intro:cd|
+INPUT|lclarkfa-intro-145|U |000000000|lclarkfa|intro:tar cvzf lclarkfa-intro.tar.gz top_secret|top_secret/
+top_secret/136intro-3.jpg
+top_secret/wuer136intro-4.JPG
+top_secret/asdf136Intro-5kqlw.jpeg
+top_secret/136intro-2jjaj.JPEG
+top_secret/xbzf136INTRO-1.jpg
+top_secret/answers.txt
+top_secret/.answers.txt.swp
+top_secret/diskfree.txt
+top_secret/lclarkfa-intro.tar.gz
+INPUT|lclarkfa-intro-146|U |000000000|lclarkfa|intro:cd top_secret|
+INPUT|lclarkfa-intro-147|U |1538100965|lclarkfa|intro:ls|136intro-2jjaj.JPEG  answers.txt       diskfree.txt   xbzf136INTRO-1.jpg
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+INPUT|lclarkfa-intro-148|U |1538100985|lclarkfa|intro:cat answers.txt|/var is a standard subdirectory of the root directory in Linux and other Unix-like operating systems that contains files to which the system writes data during the course of its operation. The /dev directory contains special device files that control access to peripheral devices.
+INPUT|lclarkfa-intro-149|U |000000000|lclarkfa|intro:%echo 'Image one is from /usr/share/pixmaps and is the poster for forbidden planet| tw %
+INPUT|lclarkfa-intro-150|U |1538101047|lclarkfa|intro:cat answers.txt|%/var is a standard subdirectory of the root directory in Linux and other Unix-like operating systems that contains files to which the system writes data during the course of its operation. The /dev directory contains special device files that control access to peripheral devices.
+Image one is from /usr/share/pixmaps and is the poster for forbidden planet%% two is from /dev and is the poster for godzilla%% three is from /var/log and is the poster for it came from outer space%% four is from /etc and is the poster for the fly%% and five is from /usr/share/pixmaps and is the poster for 2001 a space odyssey.%
+INPUT|lclarkfa-intro-151|U |1538101159|lclarkfa|intro:man df|%[?1049h[?1h=
+DF(1)                                            User Commands                                            DF(1)[m
+[m
+[1mNAME[0m[m
+       df - report file system disk space usage[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mdf[0m [[4mOPTION[24m]... [[4mFILE[24m]...[m
+[m
+[1mDESCRIPTION[0m[m
+       This manual page documents the GNU version of [1mdf[0m.  [1mdf[0m displays the amount of disk space available on the[m
+       file system containing each file name argument.  If no file name is given%% the space  available  on  all[m
+       currently  mounted file systems is shown.  Disk space is shown in 1K blocks by default%% unless the envi-[m
+       ronment variable POSIXLY_CORRECT is set%% in which case 512-byte blocks are used.[m
+[m
+       If an argument is the absolute file name of a disk device node containing  a  mounted  file  system%%  [1mdf[0m[m
+       shows the space available on that file system rather than on the file system contai
+INPUT|lclarkfa-intro-152|M6 |1538101212|lclarkfa|intro:df -h|%Filesystem                                         Size  Used Avail Use%% Mounted on
+udev                                               981M   48K  981M   1%% /dev
+tmpfs                                              200M   16M  185M   8%% /run
+/dev/sda1                                           15G  2.8G   12G  20%% /
+tmpfs                                             1000M     0 1000M   0%% /dev/shm
+tmpfs                                              5.0M     0  5.0M   0%% /run/lock
+tmpfs                                             1000M     0 1000M   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkfa   1.9T  1.2T  572G  68%% /users/lclarkfa
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC  2.8T  929G  1.7T  36%% /proj/CS495LC
+tmpfs                                              200M     0  200M   0%% /run/user/18205%
+INPUT|lclarkfa-intro-153|U |000000000|lclarkfa|intro:%echo 'Filesystem                                         Size  Used Avail Use%% Mounte %|%d on
+> udev                                               981M   48K  981M   1%% /dev
+> tmpfs                                              200M   16M  185M   8%% /run
+> /dev/sda1                                           15G  2.8G   12G  20%% /
+> tmpfs                                             1000M     0 1000M   0%% /dev/shm
+> tmpfs                                              5.0M     0  5.0M   0%% /run/lock
+> tmpfs                                             1000M     0 1000M   0%% /sys/fs/cgroup
+> users.isi.deterlab.net:/mnt/other/users/lclarkfa   1.9T  1.2T  572G  68%% /users/lclarkfa
+> users.isi.deterlab.net:/mnt/projects/proj/CS495LC  2.8T  929G  1.7T  36%% /proj/CS495LC
+> tmpfs                                              200M     0  200M   0%% /run/user/18205' >diskfree.txt%
+INPUT|lclarkfa-intro-154|U |1538101272|lclarkfa|intro:cat diskfree.txt|%Filesystem                                         Size  Used Avail Use%% Mounted on
+udev                                               981M   48K  981M   1%% /dev
+tmpfs                                              200M   16M  185M   8%% /run
+/dev/sda1                                           15G  2.8G   12G  20%% /
+tmpfs                                             1000M     0 1000M   0%% /dev/shm
+tmpfs                                              5.0M     0  5.0M   0%% /run/lock
+tmpfs                                             1000M     0 1000M   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkfa   1.9T  1.2T  572G  68%% /users/lclarkfa
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC  2.8T  929G  1.7T  36%% /proj/CS495LC
+tmpfs                                              200M     0  200M   0%% /run/user/18205%
+INPUT|lclarkfa-intro-155|M5 |1538101378|lclarkfa|intro:cat /proc/cpuinfo|%processor : 0
+vendor_id : GenuineIntel
+cpu family : 15
+model  : 4
+model name : Intel(R) Xeon(TM) CPU 3.00GHz
+stepping : 1
+microcode : 0x9
+cpu MHz  : 2992.920
+cache size : 1024 KB
+physical id : 0
+siblings : 2
+core id  : 0
+cpu cores : 1
+apicid  : 0
+initial apicid : 0
+fpu  : yes
+fpu_exception : yes
+cpuid level : 5
+wp  : yes
+flags  : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc pebs bts nopl pni dtes64 monitor ds_cpl cid cx16 xtpr
+bugs  :
+bogomips : 5985.84
+clflush size : 64
+cache_alignment : 128
+address sizes : 36 bits physical%% 48 bits virtual
+power management:
+
+processor : 1
+vendor_id : GenuineIntel
+cpu family : 15
+model  : 4
+model name : Intel(R) Xeon(TM) CPU 3.00GHz
+steppin
+INPUT|lclarkfa-intro-156|A5 |000000000|lclarkfa|intro:echo 'The vendor ID is GenuineIntel' >>answers.txt|
+INPUT|lclarkfa-intro-157|U |1538101478|lclarkfa|intro:cat answers.tx|cat: answers.tx: No such file or directory
+INPUT|lclarkfa-intro-158|U |1538101485|lclarkfa|intro:cat answers.txt|%/var is a standard subdirectory of the root directory in Linux and other Unix-like operating systems that contains files to which the system writes data during the course of its operation. The /dev directory contains special device files that control access to peripheral devices.
+Image one is from /usr/share/pixmaps and is the poster for forbidden planet%% two is from /dev and is the poster for godzilla%% three is from /var/log and is the poster for it came from outer space%% four is from /etc and is the poster for the fly%% and five is from /usr/share/pixmaps and is the poster for 2001 a space odyssey.
+The vendor ID is GenuineIntel%
+INPUT|lclarkfa-intro-159|U |000000000|lclarkfa|intro:echo 'Thea Gordon-Wingfield' >>answers.txtwers.txt|
+INPUT|lclarkfa-intro-160|U |000000000|lclarkfa|intro:echo 'thea@lclark.edu' >>answers.txtrs.txt|
+INPUT|lclarkfa-intro-161|U |000000000|lclarkfa|intro:echo 'lclarkfa' >>answers.txters.txt|
+INPUT|lclarkfa-intro-162|U |000000000|lclarkfa|intro:echo 'Thea Gordon-Wingfield' >>answers.txt|
+INPUT|lclarkfa-intro-163|U |000000000|lclarkfa|intro:cat answers.txt|%/var is a standard subdirectory of the root directory in Linux and other Unix-like operating systems that contains files to which the system writes data during the course of its operation. The /dev directory contains special device files that control access to peripheral devices.
+Image one is from /usr/share/pixmaps and is the poster for forbidden planet%% two is from /dev and is the poster for godzilla%% three is from /var/log and is the poster for it came from outer space%% four is from /etc and is the poster for the fly%% and five is from /usr/share/pixmaps and is the poster for 2001 a space odyssey.
+The vendor ID is GenuineIntel
+Thea Gordon-Wingfield
+thea@lclark.edu
+lclarkfa%
+INPUT|lclarkfa-intro-164|U |1538101691|lclarkfa|intro:tar cvzf lclarkfa-intro.tar.gz top_secret|tar: top_secret: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+INPUT|lclarkfa-intro-165|U |000000000|lclarkfa|intro:cd|
+INPUT|lclarkfa-intro-166|U |1538101769|lclarkfa|intro:tar cvzf lclarkfa-intro.tar.gz top_secret|top_secret/
+top_secret/136intro-3.jpg
+top_secret/wuer136intro-4.JPG
+top_secret/asdf136Intro-5kqlw.jpeg
+top_secret/136intro-2jjaj.JPEG
+top_secret/xbzf136INTRO-1.jpg
+top_secret/answers.txt
+top_secret/.answers.txt.swp
+top_secret/diskfree.txt
+top_secret/lclarkfa-intro.tar.gz

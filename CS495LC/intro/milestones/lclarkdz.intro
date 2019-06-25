@@ -1,0 +1,1120 @@
+User lclarkdz start time 1537749063 end 1537943229
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkdz-intro-0|U |000000000|lclarkdz|:|
+INPUT|lclarkdz-intro-1|U |000000000|lclarkdz|:|
+INPUT|lclarkdz-intro-2|U |1537749065|lclarkdz|intro:clear|
+INPUT|lclarkdz-intro-3|U |1537749063|lclarkdz|intro:ls|
+INPUT|lclarkdz-intro-4|U |000000000|lclarkdz|intro:cd users|bash: cd: users: No such file or directory
+INPUT|lclarkdz-intro-5|U |000000000|lclarkdz|intro:cd /users|
+INPUT|lclarkdz-intro-6|U |1537749113|lclarkdz|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkdz  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkdz-intro-7|U |000000000|lclarkdz|intro:cd lclarkdz|
+INPUT|lclarkdz-intro-8|U |1537749252|lclarkdz|intro:ls|
+INPUT|lclarkdz-intro-9|U |000000000|lclarkdz|intro:cd /users|
+INPUT|lclarkdz-intro-10|U |1537749281|lclarkdz|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkdz  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkdz-intro-11|U |000000000|lclarkdz|intro:cd /lclarkdz|bash: cd: /lclarkdz: No such file or directory
+INPUT|lclarkdz-intro-12|U |1537749307|lclarkdz|intro:clear|
+INPUT|lclarkdz-intro-13|U |1537749287|lclarkdz|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkdz  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkdz-intro-14|U |000000000|lclarkdz|intro:cd lclarkdz/|
+INPUT|lclarkdz-intro-15|U |1537749308|lclarkdz|intro:ls|
+INPUT|lclarkdz-intro-16|U |1537749340|lclarkdz|intro:ls|
+INPUT|lclarkdz-intro-17|U |000000000|lclarkdz|intro:cler|%No command 'cler' found%% did you mean:
+ Command 'clex' from package 'clex' (universe)
+ Command 'cver' from package 'gplcver' (universe)
+ Command 'cleo' from package 'cleo' (universe)
+ Command 'clear' from package 'ncurses-bin' (main)
+cler: command not found%
+INPUT|lclarkdz-intro-18|U |1537749367|lclarkdz|intro:clear|
+INPUT|lclarkdz-intro-19|U |000000000|lclarkdz|intro:cd /users|
+INPUT|lclarkdz-intro-20|U |000000000|lclarkdz|intro:la|la: command not found
+INPUT|lclarkdz-intro-21|U |1537814277|lclarkdz|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkdz  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkdz-intro-22|U |000000000|lclarkdz|intro:cd abhi/|
+INPUT|lclarkdz-intro-23|U |1537814288|lclarkdz|intro:ls|
+INPUT|lclarkdz-intro-24|U |1537814295|lclarkdz|intro:ls|
+INPUT|lclarkdz-intro-25|U |1537814300|lclarkdz|intro:../|bash: ../: Is a directory
+INPUT|lclarkdz-intro-26|U |000000000|lclarkdz|intro:cd ../|
+INPUT|lclarkdz-intro-27|U |000000000|lclarkdz|intro:cd lclarkdz|
+INPUT|lclarkdz-intro-28|U |000000000|lclarkdz|intro:cd ../|
+INPUT|lclarkdz-intro-29|U |1537814754|lclarkdz|intro:ls|
+INPUT|lclarkdz-intro-30|A4 A3 A1 A2 A0 |1537814778|lclarkdz|intro:find | xargs file $1|%.:                             directory
+./.login_conf:                 ASCII text
+./.cshrc:                      ASCII text
+./.login:                      ASCII text
+./.mail_aliases:               ASCII text
+./.mailrc:                     ASCII text
+./.profile:                    ASCII text
+./.rhosts:                     ASCII text
+./.shrc:                       ASCII text
+./.ssl:                        directory
+./.ssl/emulab.pem:             ASCII text
+./.ssh:                        directory
+./.ssh/id_rsa:                 PEM RSA private key
+./.ssh/id_rsa.pub:             OpenSSH RSA public key
+./.ssh/known_hosts:            ASCII text
+./.ssh/id_emulab.pub:          OpenSSH RSA public key
+./.ssh/authorized_keys:        ASCII text%% with very long lines
+./.ssh/external_keys:          ASCII text
+./.forward:                    ASCII text
+./.bash_history:               ASCII text
+./.cache:                      directory
+./
+INPUT|lclarkdz-intro-31|A1 A4 A3 A0 A2 |1537814817|lclarkdz|intro:find | xargs file jpg|%jpg:                           cannot open `jpg' (No such file or directory)
+.:                             directory
+./.login_conf:                 ASCII text
+./.cshrc:                      ASCII text
+./.login:                      ASCII text
+./.mail_aliases:               ASCII text
+./.mailrc:                     ASCII text
+./.profile:                    ASCII text
+./.rhosts:                     ASCII text
+./.shrc:                       ASCII text
+./.ssl:                        directory
+./.ssl/emulab.pem:             ASCII text
+./.ssh:                        directory
+./.ssh/id_rsa:                 PEM RSA private key
+./.ssh/id_rsa.pub:             OpenSSH RSA public key
+./.ssh/known_hosts:            ASCII text
+./.ssh/id_emulab.pub:          OpenSSH RSA public key
+./.ssh/authorized_keys:        ASCII text%% with very long lines
+./.ssh/external_keys:          ASCII text
+./.forward:                    ASCII text
+./.bash_his
+INPUT|lclarkdz-intro-32|A0 A2 A1 A3 A4 |1537814829|lclarkdz|intro:find | xargs file [1@*|%*jpg:                          cannot open `*jpg' (No such file or directory)
+.:                             directory
+./.login_conf:                 ASCII text
+./.cshrc:                      ASCII text
+./.login:                      ASCII text
+./.mail_aliases:               ASCII text
+./.mailrc:                     ASCII text
+./.profile:                    ASCII text
+./.rhosts:                     ASCII text
+./.shrc:                       ASCII text
+./.ssl:                        directory
+./.ssl/emulab.pem:             ASCII text
+./.ssh:                        directory
+./.ssh/id_rsa:                 PEM RSA private key
+./.ssh/id_rsa.pub:             OpenSSH RSA public key
+./.ssh/known_hosts:            ASCII text
+./.ssh/id_emulab.pub:          OpenSSH RSA public key
+./.ssh/authorized_keys:        ASCII text%% with very long lines
+./.ssh/external_keys:          ASCII text
+./.forward:                    ASCII text
+./.bash_hi
+INPUT|lclarkdz-intro-33|A1 A3 A4 A0 A2 |1537814851|lclarkdz|intro:find | xargs file *[1@.|%*.jpg:                         cannot open `*.jpg' (No such file or directory)
+.:                             directory
+./.login_conf:                 ASCII text
+./.cshrc:                      ASCII text
+./.login:                      ASCII text
+./.mail_aliases:               ASCII text
+./.mailrc:                     ASCII text
+./.profile:                    ASCII text
+./.rhosts:                     ASCII text
+./.shrc:                       ASCII text
+./.ssl:                        directory
+./.ssl/emulab.pem:             ASCII text
+./.ssh:                        directory
+./.ssh/id_rsa:                 PEM RSA private key
+./.ssh/id_rsa.pub:             OpenSSH RSA public key
+./.ssh/known_hosts:            ASCII text
+./.ssh/id_emulab.pub:          OpenSSH RSA public key
+./.ssh/authorized_keys:        ASCII text%% with very long lines
+./.ssh/external_keys:          ASCII text
+./.forward:                    ASCII text
+./.bash_h
+INPUT|lclarkdz-intro-34|U |1537814876|lclarkdz|intro:clear|
+INPUT|lclarkdz-intro-35|U |1537814877|lclarkdz|intro:ls|
+INPUT|lclarkdz-intro-36|U |1537814886|lclarkdz|intro:file *|*: cannot open `*' (No such file or directory)
+INPUT|lclarkdz-intro-37|A0 A2 A1 A4 A3 |1537814938|lclarkdz|intro:find | xargs file|%.:                             directory
+./.login_conf:                 ASCII text
+./.cshrc:                      ASCII text
+./.login:                      ASCII text
+./.mail_aliases:               ASCII text
+./.mailrc:                     ASCII text
+./.profile:                    ASCII text
+./.rhosts:                     ASCII text
+./.shrc:                       ASCII text
+./.ssl:                        directory
+./.ssl/emulab.pem:             ASCII text
+./.ssh:                        directory
+./.ssh/id_rsa:                 PEM RSA private key
+./.ssh/id_rsa.pub:             OpenSSH RSA public key
+./.ssh/known_hosts:            ASCII text
+./.ssh/id_emulab.pub:          OpenSSH RSA public key
+./.ssh/authorized_keys:        ASCII text%% with very long lines
+./.ssh/external_keys:          ASCII text
+./.forward:                    ASCII text
+./.bash_history:               ASCII text
+./.cache:                      directory
+./
+INPUT|lclarkdz-intro-38|M2 |000000000|lclarkdz|intro:find / *intro*|!TRUNCATED TO 500L! /
+/sbin
+/sbin/blockdev
+/sbin/rarp
+/sbin/lvscan
+/sbin/installkernel
+/sbin/insmod
+/sbin/pam_tally2
+/sbin/iscsi_discovery
+/sbin/kbdrate
+/sbin/shadowconfig
+/sbin/cfdisk
+/sbin/e2undo
+/sbin/pam_extrausers_chkpwd
+/sbin/capsh
+/sbin/fsck.cramfs
+/sbin/mii-tool
+/sbin/mkfs.ext4
+/sbin/vconfig
+/sbin/mkfs.ntfs
+/sbin/mdadm
+/sbin/veritysetup
+/sbin/iscsi-iname
+/sbin/request-key
+/sbin/mkfs.msdos
+/sbin/sfdisk
+/sbin/ntfslabel
+/sbin/xfs_repair
+/sbin/fatlabel
+/sbin/fsck.fat
+/sbin/pvcreate
+/sbin/fsck.vfat
+/sbin/fsck
+/sbin/dumpe2fs
+/sbin/mount.ntfs-3g
+/sbin/pvremove
+/sbin/tipc
+/sbin/mkfs.xfs
+/sbin/depmod
+/sbin/vgcfgbackup
+/sbin/cryptsetup-reencrypt
+/sbin/lvmchange
+/sbin/findfs
+/sbin/lvremove
+/sbin/dosfsck
+/sbin/mkfs.cramfs
+/sbin/lsmod
+/sbin/fsck.ext4dev
+/sbin/mount.fuse
+/sbin/vgchange
+/sbin/ntfsresize
+/sbin/vgdisplay
+/sbin/ifdown
+/sbi
+INPUT|lclarkdz-intro-39|M2 |000000000|lclarkdz|intro:find / -name *|!TRUNCATED TO 500L! find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+/var/log/ttylog/ttylog.intro.2
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/ttylog.intro.1
+/var/log/ttylog/cli.intro.csv
+find: '/var/log/unattended-upgrades': Permission denied
+/var/log/136intro-3.jpg
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find
+INPUT|lclarkdz-intro-40|U |1537815242|lclarkdz|intro:clear|
+INPUT|lclarkdz-intro-41|A1 A3 A4 A0 A2 |1537815361|lclarkdz|intro:man find|%[?1049h[?1h=
+FIND(1)        General Commands Manual       FIND(1)[m
+[m
+[1mNAME[0m[m
+       find  - search for files in a directory hier-[m
+       archy[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mfind[0m [-H] [-L] [-P] [-D debugopts]  [-Olevel][m
+       [starting-point...] [expression][m
+[m
+[1mDESCRIPTION[0m[m
+       This manual page documents the GNU version of[m
+       [1mfind[0m.  GNU [1mfind[0m searches the  directory  tree[m
+       rooted at each given starting-point by evalu-[m
+       ating  the  given  expression  from  left  to[m
+       right%%  according  to the rules of precedence[m
+       (see section OPERATORS)%% until the outcome is[m
+       known  (the  left  hand side is false for [4mand[24m[m
+       operations%% true for [4mor[24m)%% at which point [1mfind[0m[m
+       moves on to the next file name.  If no start-[m
+       ing-point is specified%% `.' is assumed.[m
+[m
+       If you are using [1mfind[0m in an envir
+INPUT|lclarkdz-intro-42|A0 A2 A1 A4 A3 |000000000|lclarkdz|intro:find / -mount -name \"*intro*\" 2> /de|v/null | wc
+     30      30    1127
+INPUT|lclarkdz-intro-43|M3 M2 |000000000|lclarkdz|intro:find / -mount -name "*intro*" 2> /d|dev/null | wc<BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS>
+/var/log/ttylog/ttylog.intro.2
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/ttylog.intro.1
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/share/exp/createimage/logs/cli.intro.csv.1535412403
+/proj/share/exp/createimage/logs/ttylog.intro.0
+/proj/share/exp/createimage/logs/alltty.intro
+/proj/share/exp/createimage/logs/cli.intro.csv
+/proj/share/exp/createimage/count.intro
+/local/logs/intro_startcmd.err
+/local/logs/intro_startcmd.err.10
+/local/logs/intro_startcmd.out.10
+/local/logs/intro_startcmd.out
+/local/logs/intro_startcmd.status.10
+/local/logs/intro_startcmd.status
+/usr/share/man/man4/intro.4.gz
+/usr/share/man/man2/intro.2.gz
+/usr/share/man/man1/intro.1.gz
+/usr/share/man/man5/intro.5.gz
+/usr/share/man/man8/intro.8.gz
+/usr/share/man/man6
+INPUT|lclarkdz-intro-44|M3 M2 |000000000|lclarkdz|intro:find / -mount -name \"*intro*\" 2> /d|%dev/null | wc<BS> <BS><BS> <BS><BS> <BS> xargs file $1 | grep JPEG
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "<E0><FB><FC>\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkdz-intro-45|M3 M2 |000000000|lclarkdz|intro:find / -mount -name "*intro*" 2> /dev/null | xargs file $1 | egrep "(JPEG)|%|(ASCII)\"
+/var/log/ttylog/ttylog.intro.2:                                                          ASCII text%% with CRLF%% CR%% LF line terminators%% with escape sequences%% with overstriking
+/var/log/ttylog/alltty.intro:                                                            ASCII text%% with CRLF%% CR%% LF line terminators%% with escape sequences%% with overstriking
+/var/log/ttylog/ttylog.intro.1:                                                          ASCII text%% with CRLF%% LF line terminators%% with escape sequences%% with overstriking
+/var/log/ttylog/cli.intro.csv:                                                           ASCII text%% with very long lines%% with CRLF line terminators
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "<E0><FB><FC>\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136i
+INPUT|lclarkdz-intro-46|U |000000000|lclarkdz|intro:|
+INPUT|lclarkdz-intro-47|A1 A4 A3 A0 A2 |1537889419|lclarkdz|intro:find / -mount -name \"*intro*\" 2> /dev|v/null | xargs file $1 | eg[13Pgrep JPEG(ASCII)\"
+v/null[K | wc[Atro:~$ man find[K
+
+INPUT|lclarkdz-intro-48|A4 A3 A1 A2 A0 |1537889436|lclarkdz|intro:find / -mount -name "*intro*" 2> /dev|v/null[K | xargs file $1 | egrep "(JPEG)|(ASCII)"[A
+INPUT|lclarkdz-intro-49|U |000000000|lclarkdz|intro:|
+INPUT|lclarkdz-intro-50|A4 A3 A1 A2 A0 |000000000|lclarkdz|intro:find / -mount -name \"*intro*\" 2> /dev|v/null | xargs file $1 | egrep \"(JPEG)|(ASCII)\"<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[13Pgrep JPEG
+v/null<ESC>[K | wc<ESC>[Atro:~$ man find<ESC>[K
+
+INPUT|lclarkdz-intro-51|A2 A0 A4 A3 A1 |1537889436|lclarkdz|intro:[3Pfind [4Pfind | xargs file *[1[1P[1P$1|
+INPUT|lclarkdz-intro-52|U |1537889417|lclarkdz|intro:lsssh intro.lclarkdz-intro21.CS495LC.is|si.deterlab.net[A~$ cd ../[K
+
+INPUT|lclarkdz-intro-53|U |000000000|lclarkdz|intro:ssh intro.lclarkdz-intro21.CS495LC.is|si.deterlab.net<ESC>[A~$ clear<ESC>[K
+
+INPUT|lclarkdz-intro-54|U |000000000|lclarkdz|intro:ssh intro.lclarkdz-intro21.CS495LC.is|si.deterlab.net<ESC>[A~$ ls<ESC>[K
+
+INPUT|lclarkdz-intro-55|U |000000000|lclarkdz|intro:ssh intro.lclarkdz-intro21.CS495LC.is|si.deterlab.net<ESC>[A~$ man file<ESC>[K
+
+INPUT|lclarkdz-intro-56|A4 A3 A1 A2 A0 |1537889492|lclarkdz|intro:lsfind | xargs file [1@*[1@.jpg|
+INPUT|lclarkdz-intro-57|A1 A3 A4 A0 A2 |000000000|lclarkdz|intro:find / -name *intro*|
+INPUT|lclarkdz-intro-58|A2 A0 A4 A3 A1 |000000000|lclarkdz|intro:find / -mount -name "*intro*" 2> /dev|v/null | wc<BS><BS><BS><BS><BS><ESC>[K | xargs file $1 | grep JPEG<BS><BS><BS><BS><BS><BS><BS><BS><BS>egrep "(JPEG)|(ASCII)"<ESC>[A
+INPUT|lclarkdz-intro-59|U |000000000|lclarkdz|intro:|
+INPUT|lclarkdz-intro-60|U |000000000|lclarkdz|intro:ls|
+INPUT|lclarkdz-intro-61|A1 A4 A3 A0 A2 |000000000|lclarkdz|intro:find|.
+./.login_conf
+./.cshrc
+./.login
+./.mail_aliases
+./.mailrc
+./.profile
+./.rhosts
+./.shrc
+./.ssl
+./.ssl/emulab.pem
+./.ssh
+./.ssh/id_rsa
+./.ssh/id_rsa.pub
+./.ssh/known_hosts
+./.ssh/id_emulab.pub
+./.ssh/authorized_keys
+./.ssh/external_keys
+./.forward
+./.bash_history
+./.cache
+./.cache/motd.legal-displayed
+INPUT|lclarkdz-intro-62|A0 A2 A1 A4 A3 |1537889423|lclarkdz|intro:man find|%[?1049h[?1h=
+FIND(1)        General Commands Manual       FIND(1)[m
+[m
+[1mNAME[0m[m
+       find  - search for files in a directory hier-[m
+       archy[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mfind[0m [-H] [-L] [-P] [-D debugopts]  [-Olevel][m
+       [starting-point...] [expression][m
+[m
+[1mDESCRIPTION[0m[m
+       This manual page documents the GNU version of[m
+       [1mfind[0m.  GNU [1mfind[0m searches the  directory  tree[m
+       rooted at each given starting-point by evalu-[m
+       ating  the  given  expression  from  left  to[m
+       right%%  according  to the rules of precedence[m
+       (see section OPERATORS)%% until the outcome is[m
+       known  (the  left  hand side is false for [4mand[24m[m
+       operations%% true for [4mor[24m)%% at which point [1mfind[0m[m
+       moves on to the next file name.  If no start-[m
+       ing-point is specified%% `.' is assumed.[m
+[m
+       If you are using [1mfind[0m in an envir
+INPUT|lclarkdz-intro-63|A1 A4 A3 A0 A2 |000000000|lclarkdz|intro:find / -mount -name "*intro*" 2> /dev|v/null | xargs file $1 | egrep "(JPEG)|(ASCII)"<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[13Pgrep JPEG
+v/null<ESC>[K | wc<ESC>[Atro:~$ man find<ESC>[K
+
+INPUT|lclarkdz-intro-64|A0 A2 A1 A3 A4 |000000000|lclarkdz|intro:find / -name *intro*|
+INPUT|lclarkdz-intro-65|A0 A2 A1 A4 A3 |000000000|lclarkdz|intro:find / -mount -name "*intro*" 2> /dev|v/null | wc<BS><BS><BS><BS><BS><ESC>[K | wc<ESC>[Atro:~$ man find<ESC>[K
+
+INPUT|lclarkdz-intro-66|A0 A2 A1 A4 A3 |1537889533|lclarkdz|intro:[3Pfind lend | xargs file|%.:                             directory
+./.login_conf:                 ASCII text
+./.cshrc:                      ASCII text
+./.login:                      ASCII text
+./.mail_aliases:               ASCII text
+./.mailrc:                     ASCII text
+./.profile:                    ASCII text
+./.rhosts:                     ASCII text
+./.shrc:                       ASCII text
+./.ssl:                        directory
+./.ssl/emulab.pem:             ASCII text
+./.ssh:                        directory
+./.ssh/id_rsa:                 PEM RSA private key
+./.ssh/id_rsa.pub:             OpenSSH RSA public key
+./.ssh/known_hosts:            ASCII text
+./.ssh/id_emulab.pub:          OpenSSH RSA public key
+./.ssh/authorized_keys:        ASCII text%% with very long lines
+./.ssh/external_keys:          ASCII text
+./.forward:                    ASCII text
+./.bash_history:               ASCII text
+./.cache:                      directory
+./
+INPUT|lclarkdz-intro-67|A0 A2 A1 A3 A4 |000000000|lclarkdz|intro:find / -mount -name "*intro*" 2> /dev|v/null | xargs file $1 | egrep "(JPEG)|(ASCII)"<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[13Pgrep JPEG
+v/null<ESC>[K | xargs file $1 | grep JPEG<BS><BS><BS><BS><BS><BS><BS><BS><BS>egrep "(JPEG)|(ASCII)"<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[13Pgrep JPEG
+v/null<ESC>[K | wc<ESC>[Atro:~$ man find<ESC>[K
+
+INPUT|lclarkdz-intro-68|A4 A3 A1 A2 A0 |000000000|lclarkdz|intro:find / -mount -name "*intro*" 2> /dev|v/null | wc<ESC>[Atro:~$ man find<ESC>[K
+
+INPUT|lclarkdz-intro-69|M2 |000000000|lclarkdz|intro:find / -name *intro*|!TRUNCATED TO 500L! find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+/var/log/ttylog/ttylog.intro.3
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/cli.intro.csv
+find: '/var/log/unattended-upgrades': Permission denied
+/var/log/136intro-3.jpg
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied<
+INPUT|lclarkdz-intro-70|A0 A2 A1 A3 A4 |000000000|lclarkdz|intro:find / -mount -name "*intro*" 2> /dev|v/null | xargs file $1 | egrep "(JPEG)|(ASCII)"<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[13Pgrep JPEG
+v/null<ESC>[K | wc<ESC>[Atro:~$ man find<ESC>[K
+
+INPUT|lclarkdz-intro-71|M3 M2 |000000000|lclarkdz|intro:find / -mount -name "*intro*" 2> /dev|v/null | wc<BS><BS><BS><BS><BS><ESC>[K
+/var/log/ttylog/ttylog.intro.3
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/share/exp/createimage/logs/cli.intro.csv.1535412403
+/proj/share/exp/createimage/logs/ttylog.intro.0
+/proj/share/exp/createimage/logs/alltty.intro
+/proj/share/exp/createimage/logs/cli.intro.csv
+/proj/share/exp/createimage/count.intro
+/local/logs/intro_startcmd.err
+/local/logs/intro_startcmd.err.10
+/local/logs/intro_startcmd.out.10
+/local/logs/intro_startcmd.out
+/local/logs/intro_startcmd.status.10
+/local/logs/intro_startcmd.status
+m<BS> <BS>^C
+INPUT|lclarkdz-intro-72|A4 A3 A1 A2 A0 |000000000|lclarkdz|intro:find / -mount -name \"*intro*\" 2> /dev|v/null<ESC>[Adz@intro:~$ find / -<ESC>[16Pname *intro*
+
+INPUT|lclarkdz-intro-73|M3 M2 |000000000|lclarkdz|intro:find / -mount -name "*intro*" 2> /dev|%v/null | xargs file $1 | egrep "(JPEG)|(ASCII)"<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[13Pgrep JPEG
+v/null<ESC>[K | wc<BS><BS><BS><BS><BS><ESC>[K | xargs file $1 | grep JPEG
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "<E0><FB><FC>\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkdz-intro-74|A2 A0 A4 A3 A1 |000000000|lclarkdz|intro:find / -mount -name \"*intro*\" 2> /dev|v/null | xargs file $1 | grep JPEG
+v/null<ESC>[K<ESC>[Adz@intro:~$ find / -<ESC>[16Pname *intro*
+
+INPUT|lclarkdz-intro-75|M3 M2 |000000000|lclarkdz|intro:find / -mount -name "*intro*" 2> /dev|%v/null | xargs file $1 | egrep "(JPEG)|(ASCII)"<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[13Pgrep JPEG<BS><BS><BS><BS><BS><BS><BS><BS><BS>egrep "(JPEG)|(ASCII)"
+/var/log/ttylog/cli.intro.csv:                                                           ASCII text%% with very long lines%% with CRLF line terminators
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "<E0><FB><FC>\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3
+/etc/apparmor.d/abstractions/apparmor_api/introspect:                                    ASCII text
+/proj/share/exp/createimage/lo
+INPUT|lclarkdz-intro-76|M3 M2 |000000000|lclarkdz|intro:find / -mount -name \"*intro*\" 2> /dev|%v/null | xargs file $1 | egrep \"(JPEG)|(ASCII)\"<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[13Pgrep JPEG
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "<E0><FB><FC>\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkdz-intro-77|M3 M2 |000000000|lclarkdz|intro:find / -mount -name \"*intro*\"|find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+/var/log/ttylog/ttylog.intro.3
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/cli.intro.csv
+find: '/var/log/unattended-upgrades': Permission denied
+/var/log/136intro-3.jpg
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/etc/ssl/private': Permission denied
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+find: '/etc/polkit-1/localauthority': Permission denied
+/proj/intro.createimage.Share
+/proj/share/exp/createimage/logs/cli.intro.csv.1535412403
+/proj/share/exp/createimage/logs/ttylog.intro.0
+/proj/share/exp/createimage/logs/alltty.intro
+/pro
+INPUT|lclarkdz-intro-78|A2 A0 A4 A3 A1 |1537889492|lclarkdz|intro:find / -mount -name \"*intro*\" | grep JPEG|find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/etc/ssl/private': Permission denied
+find: '/etc/polkit-1/localauthority': Permission denied
+find: '/root': Permission denied
+find: '/lost+found': Permission denied
+INPUT|lclarkdz-intro-79|M3 M2 |000000000|lclarkdz|intro:find / -mount -name \"*intro*\" 2> /dev/null | xa|%args file $1 | grep JPEG
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "<E0><FB><FC>\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkdz-intro-80|A0 A2 A1 A4 A3 |1537892784|lclarkdz|intro:find man|find: 'man': No such file or directory
+INPUT|lclarkdz-intro-81|A1 A3 A4 A0 A2 |1537892787|lclarkdz|intro:man find|%[?1049h[?1h=
+FIND(1)             General Commands Manual            FIND(1)[m
+[m
+[1mNAME[0m[m
+       find - search for files in a directory hierarchy[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mfind[0m [-H] [-L] [-P] [-D debugopts] [-Olevel] [starting-[m
+       point...] [expression][m
+[m
+[1mDESCRIPTION[0m[m
+       This manual page documents the  GNU  version  of  [1mfind[0m.[m
+       GNU  [1mfind[0m  searches  the  directory tree rooted at each[m
+       given starting-point by evaluating the given expression[m
+       from  left  to  right%% according to the rules of prece-[m
+       dence (see section OPERATORS)%%  until  the  outcome  is[m
+       known  (the left hand side is false for [4mand[24m operations%%[m
+       true for [4mor[24m)%% at which point [1mfind[0m moves on to the  next[m
+       file  name.   If no starting-point is specified%% `.' is[m
+       assumed.[m
+[m
+       If you are using [1mfind[0m in an environment where  
+INPUT|lclarkdz-intro-82|M2 |000000000|lclarkdz|intro:find / -name \"*intro*\"|!TRUNCATED TO 500L! find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+/var/log/ttylog/ttylog.intro.3
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/cli.intro.csv
+find: '/var/log/unattended-upgrades': Permission denied
+/var/log/136intro-3.jpg
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied<
+INPUT|lclarkdz-intro-83|M1 |1537889551|lclarkdz|intro:find / -name \"*intro*\" | grep JPEG|find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied
+find: '/proc/2/task/2/fd': Permission denied
+find: '/proc/2/task/2/fdinfo': Permission denied
+find: '/proc/2/task/2/ns': Permission denie
+INPUT|lclarkdz-intro-84|A0 A2 A1 A3 A4 |000000000|lclarkdz|intro:find / -namount -ntro*\" | grep JPEG|find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/etc/ssl/private': Permission denied
+find: '/etc/polkit-1/localauthority': Permission denied
+find: '/root': Permission denied
+find: '/lost+found': Permission denied
+INPUT|lclarkdz-intro-85|A4 A3 A1 A2 A0 |1537892661|lclarkdz|intro:find / -mount -name \"*intro*\" | grep JPEG|
+INPUT|lclarkdz-intro-86|A0 A2 A1 A3 A4 |000000000|lclarkdz|intro:find / -name "*INTRO*" | grep JPEG|!TRUNCATED TO 500L! find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied
+find: '/proc/2/task/2/fd': Permission denied
+find: '/proc/2/task/2/fdinfo': Permission denied
+find: '/proc/2/task/2/n
+INPUT|lclarkdz-intro-87|A1 A4 A3 A0 A2 |1537892672|lclarkdz|intro:find / -na[7@mount -name "*intro*" | grep JPEG|
+INPUT|lclarkdz-intro-88|A2 A0 A4 A3 A1 |1537893067|lclarkdz|intro:find / -[7P[7@mount -name "*intro*" | grep JPEG|
+INPUT|lclarkdz-intro-89|M1 |1537893227|lclarkdz|intro:find / -[7Pname "*intro*" | grep JPEG|find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied
+find: '/proc/2/task/2/fd': Permission denied
+find: '/proc/2/task/2/fdinfo': Permission denied
+find: '/proc/2/task/2/ns': Permission denie
+INPUT|lclarkdz-intro-90|A0 A2 A1 A4 A3 |1537893274|lclarkdz|intro:find / -na[7@mount -name "*intro*" | grep JPEG|
+INPUT|lclarkdz-intro-91|A2 A0 A4 A3 A1 |000000000|lclarkdz|intro:find / -name "*intro*" | grep JPEG|
+INPUT|lclarkdz-intro-92|A2 A0 A4 A3 A1 |000000000|lclarkdz|intro:find / -mount -name "*intro*" 2> /dev/null | xa|args file $1 | grep JPEG<ESC>[A -mount -name "*intro*" <ESC>[5P| grep JPEG
+
+INPUT|lclarkdz-intro-93|M3 M2 |000000000|lclarkdz|intro:find / -mount -name "*intro*" 2> /dev/null | xa|%args file $1 | grep JPEG
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "<E0><FB><FC>\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkdz-intro-94|M2 |000000000|lclarkdz|intro:find / -mount -name \"*intro*\" 2> /dev/null | xa|%args file $1 | grep JPEG<BS> <BS><BS> <BS><BS> <BS><BS> <BS>jpg
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "<E0><FB><FC>\011\006"%% baseline%% precision 8%% 602x858%% frames 3%
+INPUT|lclarkdz-intro-95|M3 |000000000|lclarkdz|intro:find / -mount -name \"*intro*\" 2> /dev/null | xa|%args file $1 | grep jpg<BS> <BS><BS> <BS><BS> <BS>JPG
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkdz-intro-96|A4 A3 A1 A2 A0 |000000000|lclarkdz|intro:find / -mount -name \"*intro*\" 2> /dev/null | xa|args file $1 | grep JPG<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkdz-intro-97|A1 A3 A4 A0 A2 |000000000|lclarkdz|intro:find / -mount -name "*intr*" 2> /dev/null | xarclarkdz@intro:~$ find / -mount -name "*int*" 2> /dev/null | xargclarkdz@intro:~$ find / -mount -name "*in*" 2> /dev/null | xargsclarkdz@intro:~$ find / -mount -name "*i*" 2> /dev/null | xargs clarkdz@intro:~$ find / -mount -name "**" 2> /dev/null | xargs fclarkdz@intro:~$ find / -mount -name "*I*" 2> /dev/null | xargs flarkdz@intro:~$ find / -mount -name "*IN*" 2> /dev/null | xargs larkdz@intro:~$ find / -mount -name "*INT*" 2> /dev/null | xargslarkdz@intro:~$ find / -mount -name "*INTR*" 2> /dev/null | xarglarkdz@intro:~$ find / -mount -name "*INTRO*" 2> /dev/null | xarlarkdz@intro:~$ find / -mount -name "*INTRO|
+
+INPUT|lclarkdz-intro-98|A0 A2 A1 A4 A3 |000000000|lclarkdz|intro:find / -mount -name \"*INTRO*\" 2> /dev/null | xa|args file $1 | grep JPG<ESC>[A<BS><BS><BS><BS><BS><ESC>[K
+
+INPUT|lclarkdz-intro-99|M0 |000000000|lclarkdz|intro:find / -mount -name \"*INTRO*\" 2> /dev/null | xa|%args file $1 | grep JPG<BS> <BS>EG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg: JPEG image data%% JFIF standard 1.02%% aspect ratio%% density 100x100%% segment length 16%% progressive%% precision 8%% 398x308%% frames 3%
+INPUT|lclarkdz-intro-100|M0 |000000000|lclarkdz|intro:find / -mount -name \"*INTRO*\" 2> /dev/null | xa|%args file $1 | grep JPEG<BS> <BS><BS> <BS><BS> <BS><BS> <BS>jpg
+/usr/share/pixmaps/xbzf136INTRO-1.jpg: JPEG image data%% JFIF standard 1.02%% aspect ratio%% density 100x100%% segment length 16%% progressive%% precision 8%% 398x308%% frames 3%
+INPUT|lclarkdz-intro-101|A0 A2 A1 A3 A4 |000000000|lclarkdz|intro:find / -mount -name \"*INTRO*\" 2> /dev/null | xa|args file $1 | grep jpg<BS>eg<BS>gg<BS>
+INPUT|lclarkdz-intro-102|A0 A2 A1 A4 A3 |000000000|lclarkdz|intro:find / -mount -name \"*INTRO*\" 2> /dev/null | xa|args file $1 | grep jpegg<BS> <BS>
+INPUT|lclarkdz-intro-103|A2 A0 A4 A3 A1 |000000000|lclarkdz|intro:find / -mount -name \"*INTRO*\" 2> /dev/null | xa|args file $1 | grep jpegg<BS><BS><BS><ESC>[2Pg<BS> <BS><BS> <BS>g<BS> <BS><BS> <BS>JPG
+INPUT|lclarkdz-intro-104|M0 |000000000|lclarkdz|intro:find / -mount -name \"*INTRO*\" 2> /dev/null | xa|%args file $1 | grep JPG<BS> <BS>EG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg: JPEG image data%% JFIF standard 1.02%% aspect ratio%% density 100x100%% segment length 16%% progressive%% precision 8%% 398x308%% frames 3%
+INPUT|lclarkdz-intro-105|M0 |000000000|lclarkdz|intro:find / -mount -name \"*INTRO*\" 2> /dev/null | xa|%args file $1 | grep JPEG<BS><BS><BS><BS>JPEG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg: JPEG image data%% JFIF standard 1.02%% aspect ratio%% density 100x100%% segment length 16%% progressive%% precision 8%% 398x308%% frames 3%
+INPUT|lclarkdz-intro-106|M0 |000000000|lclarkdz|intro:find / -mount -name \"*INTRO*\" 2> /dev|%v/null | xargs file $1 | grep JPEG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg: JPEG image data%% JFIF standard 1.02%% aspect ratio%% density 100x100%% segment length 16%% progressive%% precision 8%% 398x308%% frames 3%
+INPUT|lclarkdz-intro-107|A0 A2 A1 A3 A4 |000000000|lclarkdz|intro:find / -name \"*./.hidden*\"|%!TRUNCATED TO 500L! find: warning: Unix filenames usually don't contain slashes (though pathnames do).  That means that '-name '*./.hidden*'' will probably evaluate to false all the time on this system.  You might find the '-wholename' test more useful%% or perhaps '-samefile'.  Alternatively%% if you are using GNU grep%% you could use 'find ... -print0 | grep -FzZ '*./.hidden*''.
+find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo':
+INPUT|lclarkdz-intro-108|A0 A2 A1 A4 A3 |000000000|lclarkdz|intro:find / -namount -name "*INTRO*" 2> /dev|v/null | xargs file $1 | grep JPEG<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><ESC>[10Pname "*./.hidden*"
+
+INPUT|lclarkdz-intro-109|A4 A3 A1 A2 A0 |000000000|lclarkdz|intro:%find / -mount -name \"*./.hidden*\| *i %
+INPUT|lclarkdz-intro-110|A1 A3 A4 A0 A2 |000000000|lclarkdz|intro:%find / -mount -name \"*./.hidden*| *in%
+INPUT|lclarkdz-intro-111|A2 A0 A4 A3 A1 |000000000|lclarkdz|intro:find / -mount -name "*INTRO*" 2> /dev|v/null | xargs file $1 | grep JPEG<BS><BS><ESC>[1PG<BS><BS><BS>jpeg<BS><BS><BS><BS><ESC>[1PJPG<BS>EG<BS><BS><ESC>[1PG<BS>EG<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkdz-intro-112|A4 A3 A1 A2 A0 |000000000|lclarkdz|intro:find / -mount -name "*INTR*" 2> /dev/clarkdz@intro:~$ find / -mount -name "*INT*" 2> /dev/nclarkdz@intro:~$ find / -mount -name "*IN*" 2> /dev/nuclarkdz@intro:~$ find / -mount -name "*I*" 2> /dev/nulllarkdz@intro:~$ find / -mount -name "**" 2> /dev/nullclarkdz@intro:~$ find / -mount -name "*.*" 2> /dev/nulllarkdz@intro:~$ find / -mount -name "*./*" 2> /dev/nullarkdz@intro:~$ find / -mount -name "*./.*" 2> /dev/nularkdz@intro:~$ find / -mount -name "*./.h*" 2> /dev/nlarkdz@intro:~$ find / -mount -name "*./.hi*" 2> /dev/larkdz@intro:~$ find / -mount -name "*./.hid*" 2> /devlarkdz@intro:~$ find / -mount -name "*./.hidd*" 2> /delarkdz@intro:~$ find / -mount -name "*./.hidde*" 2> /dlarkdz@intro:~$ find / -mount -name "*./.hidden*" 2> /larkdz@intro:~$ find / -mount -name "*./.hidden|
+
+Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+INPUT|lclarkdz-intro-113|A1 A4 A3 A0 A2 |000000000|lclarkdz|intro:find / -name \"*./.hidden*\" | grep JP|%!TRUNCATED TO 500L! EG
+find: warning: Unix filenames usually don't contain slashes (though pathnames do).  That means that '-name '*./.hidden*'' will probably evaluate to false all the time on this system.  You might find the '-wholename' test more useful%% or perhaps '-samefile'.  Alternatively%% if you are using GNU grep%% you could use 'find ... -print0 | grep -FzZ '*./.hidden*''.
+find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fd
+INPUT|lclarkdz-intro-114|A0 A2 A1 A3 A4 |000000000|lclarkdz|intro:find / -name \"*./.hidden*\" | grep JPE|%EG<ESC>[Alarkdz@intro:~$ find / -mount -name "*./.hidden*" 2> /dev/null | xargs file $1 | grep JPEG<ESC>[A"*./.hidden*%% *intro*"<ESC>[K<ESC>[Adz@intro:~$ find / -<ESC>[10Pname "*./.hidden*"
+%
+INPUT|lclarkdz-intro-115|A2 A0 A4 A3 A1 |000000000|lclarkdz|intro:find / -mount -name "*INTRO*" 2> /dev|v/null | xargs file $1 | grep JPEG<BS><BS><ESC>[1PG<BS><BS><BS>jpegg<BS><BS><BS><ESC>[2Pg<BS><BS><BS>JPEG<BS><BS><ESC>[1PG<ESC>[Aname "*intro
+
+v/null | xargs file $1 | grep JPG<BS><BS><BS>jpg<BS><BS><BS>JPEG<BS><BS><BS><BS><ESC>[1Pjpg<BS><BS><BS>JPG<ESC>[Aname "*INTRO
+
+v/null | xargs file $1 | grep JPG<ESC>[Aname "*intro
+
+v/null | xargs file $1 | grep JPG<BS><BS><BS>jpg<BS><BS><BS>JPEG<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><ESC>[2Pname "*intro*" | grep JPEG
+
+INPUT|lclarkdz-intro-116|M3 M2 |000000000|lclarkdz|intro:find / -mount -name "*intro*" 2> /dev|%v/null | xargs file $1 | grep JPEG
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "<E0><FB><FC>\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkdz-intro-117|A0 A2 A1 A4 A3 |1537909863|lclarkdz|intro:locate updatedb|locate: can not open `/var/lib/mlocate/mlocate.db': Permission denied
+INPUT|lclarkdz-intro-118|U |1537909869|lclarkdz|intro:ls|
+INPUT|lclarkdz-intro-119|A4 A3 A1 A2 A0 |1537909877|lclarkdz|intro:locate -i|locate: no pattern to search for specified
+INPUT|lclarkdz-intro-120|A0 A2 A1 A4 A3 |1537909992|lclarkdz|intro:locate -i \"*jpeg*\"|locate: can not open `/var/lib/mlocate/mlocate.db': Permission denied
+INPUT|lclarkdz-intro-121|A2 A0 A4 A3 A1 |000000000|lclarkdz|intro:locate updatedb -i \"*.jpeg*\"|locate: can not open `/var/lib/mlocate/mlocate.db': Permission denied
+INPUT|lclarkdz-intro-122|A1 A3 A4 A0 A2 |1537909992|lclarkdz|intro:locate|locate: no pattern to search for specified
+INPUT|lclarkdz-intro-123|A4 A3 A1 A2 A0 |000000000|lclarkdz|intro:locate \"*.jpeg*\"|
+INPUT|lclarkdz-intro-124|A4 A3 A1 A2 A0 |1537910188|lclarkdz|intro:locate updatedb|/etc/updatedb.conf
+/etc/alternatives/updatedb
+/usr/bin/updatedb
+/usr/bin/updatedb.mlocate
+/usr/share/augeas/lenses/dist/updatedb.aug
+/usr/share/augeas/lenses/dist/tests/test_updatedb.aug
+/usr/share/man/man5/updatedb.conf.5.gz
+/usr/share/man/man8/updatedb.8.gz
+/usr/share/vim/vim74/ftplugin/updatedb.vim
+/usr/share/vim/vim74/syntax/updatedb.vim
+INPUT|lclarkdz-intro-125|A4 A3 A1 A2 A0 |000000000|lclarkdz|intro:locate -i \"*.jpeg*\"|
+INPUT|lclarkdz-intro-126|U |1537910217|lclarkdz|intro:ls|
+INPUT|lclarkdz-intro-127|A1 A4 A3 A0 A2 |000000000|lclarkdz|intro:locate updatedbeg*"|/etc/updatedb.conf
+/etc/alternatives/updatedb
+/usr/bin/updatedb
+/usr/bin/updatedb.mlocate
+/usr/share/augeas/lenses/dist/updatedb.aug
+/usr/share/augeas/lenses/dist/tests/test_updatedb.aug
+/usr/share/man/man5/updatedb.conf.5.gz
+/usr/share/man/man8/updatedb.8.gz
+/usr/share/vim/vim74/ftplugin/updatedb.vim
+/usr/share/vim/vim74/syntax/updatedb.vim
+INPUT|lclarkdz-intro-128|U |000000000|lclarkdz|intro:cd /users|
+INPUT|lclarkdz-intro-129|U |1537910316|lclarkdz|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkdz  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkdz-intro-130|A2 A0 A4 A3 A1 |000000000|lclarkdz|intro:locate updatedbeg*"|/etc/updatedb.conf
+/etc/alternatives/updatedb
+/usr/bin/updatedb
+/usr/bin/updatedb.mlocate
+/usr/share/augeas/lenses/dist/updatedb.aug
+/usr/share/augeas/lenses/dist/tests/test_updatedb.aug
+/usr/share/man/man5/updatedb.conf.5.gz
+/usr/share/man/man8/updatedb.8.gz
+/usr/share/vim/vim74/ftplugin/updatedb.vim
+/usr/share/vim/vim74/syntax/updatedb.vim
+INPUT|lclarkdz-intro-131|U |1537910329|lclarkdz|intro:clear|
+INPUT|lclarkdz-intro-132|A2 A0 A4 A3 A1 |1537910221|lclarkdz|intro:locate updatedb -i \"*.jpeg*\"|/etc/updatedb.conf
+/etc/alternatives/updatedb
+/usr/bin/updatedb
+/usr/bin/updatedb.mlocate
+/usr/share/augeas/lenses/dist/updatedb.aug
+/usr/share/augeas/lenses/dist/tests/test_updatedb.aug
+/usr/share/man/man5/updatedb.conf.5.gz
+/usr/share/man/man8/updatedb.8.gz
+/usr/share/vim/vim74/ftplugin/updatedb.vim
+/usr/share/vim/vim74/syntax/updatedb.vim
+INPUT|lclarkdz-intro-133|A0 A2 A1 A4 A3 |1537910324|lclarkdz|intro:locate updatedb -i \"*.jpeg*\"|
+INPUT|lclarkdz-intro-134|A1 A4 A3 A0 A2 |1537910695|lclarkdz|intro:locate updatedb|/etc/updatedb.conf
+/etc/alternatives/updatedb
+/usr/bin/updatedb
+/usr/bin/updatedb.mlocate
+/usr/share/augeas/lenses/dist/updatedb.aug
+/usr/share/augeas/lenses/dist/tests/test_updatedb.aug
+/usr/share/man/man5/updatedb.conf.5.gz
+/usr/share/man/man8/updatedb.8.gz
+/usr/share/vim/vim74/ftplugin/updatedb.vim
+/usr/share/vim/vim74/syntax/updatedb.vim
+INPUT|lclarkdz-intro-135|A1 A4 A3 A0 A2 |000000000|lclarkdz|intro:locate updatedb -name \"*intro*\"|locate: invalid value `ame' of --limit
+INPUT|lclarkdz-intro-136|A0 A2 A1 A4 A3 |000000000|lclarkdz|intro:locate updatedb -name \"*intro*\"|
+INPUT|lclarkdz-intro-137|A0 A2 A1 A3 A4 |000000000|lclarkdz|intro:locate updatedb -i \"*intro*\"|/etc/updatedb.conf
+/etc/alternatives/updatedb
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/usr/bin/updatedb
+/usr/bin/updatedb.mlocate
+/usr/lib/python3/dist-packages/dbus/_expat_introspect_parser.py
+/usr/lib/python3/dist-packages/dbus/__pycache__/_expat_introspect_parser.cpython-35.pyc
+/usr/share/augeas/lenses/dist/updatedb.aug
+/usr/share/augeas/lenses/dist/tests/test_updatedb.aug
+/usr/share/doc/bash/INTRO.gz
+/usr/share/man/man1/intro.1.gz
+/usr/share/man/man2/intro.2.gz
+/usr/share/man/man3/intro.3.gz
+/usr/share/man/man4/intro.4.gz
+/usr/share/man/man5/intro.5.gz
+/usr/share/man/man5/updatedb.conf.5.gz
+/usr/share/man/man6/intro.6.gz
+/usr/share/man/man7/intro.7.gz
+/usr/share/man/man8/intro.8.gz
+/usr/share/man/man8/updatedb.8.gz
+/usr/share/vim/vim74/doc/intro.txt
+/usr/share/vim/vim74/ftplugin/updatedb.vim
+/usr/share/vim/vim74/syntax/updatedb.vim
+INPUT|lclarkdz-intro-138|A0 A2 A1 A3 A4 |000000000|lclarkdz|intro:%sudo locate updatedb -i "*intro*|*.jpeg*\"%
+INPUT|lclarkdz-intro-139|A0 A2 A1 A4 A3 |000000000|lclarkdz|intro:%sudo locate updatedb -i \"*intro*|*.jpeg*\"<BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS>\" | grep \"*<BS> <BS><BS> <BS><BS> <BS> jpeg%
+INPUT|lclarkdz-intro-140|A4 A3 A1 A2 A0 |000000000|lclarkdz|intro:%sudo locate updatedb -i \"*intro*\" | grep jpeg|*.jpeg*"<BS><BS><BS><BS><BS><BS><BS><BS><BS>"<ESC>[K%
+INPUT|lclarkdz-intro-141|A0 A2 A1 A4 A3 |000000000|lclarkdz|intro:locate updatedb -i \"*i.jpeg\"|/etc/updatedb.conf
+/etc/alternatives/updatedb
+/usr/bin/updatedb
+/usr/bin/updatedb.mlocate
+/usr/share/augeas/lenses/dist/updatedb.aug
+/usr/share/augeas/lenses/dist/tests/test_updatedb.aug
+/usr/share/man/man5/updatedb.conf.5.gz
+/usr/share/man/man8/updatedb.8.gz
+/usr/share/vim/vim74/ftplugin/updatedb.vim
+/usr/share/vim/vim74/syntax/updatedb.vim
+INPUT|lclarkdz-intro-142|A4 A3 A1 A2 A0 |000000000|lclarkdz|intro:locate updatedb -i \"*..jpg*\"|/etc/updatedb.conf
+/etc/alternatives/updatedb
+/usr/bin/updatedb
+/usr/bin/updatedb.mlocate
+/usr/share/augeas/lenses/dist/updatedb.aug
+/usr/share/augeas/lenses/dist/tests/test_updatedb.aug
+/usr/share/doc/libsane/umax/sane-logo.jpg
+/usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+/usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+/usr/share/doc/libsane/umax/sane-umax-standard.jpg
+/usr/share/doc/libsane/umax/sane-umax-text.jpg
+/usr/share/doc/libsane/umax/sane-umax-text2.jpg
+/usr/share/doc/libsane/umax/sane-umax-text4.jpg
+/usr/share/doc/libsane/umax/sane-umax.jpg
+/usr/share/man/man5/updatedb.conf.5.gz
+/usr/share/man/man8/updatedb.8.gz
+/usr/share/vim/vim74/ftplugin/updatedb.vim
+/usr/share/vim/vim74/syntax/updatedb.vim
+INPUT|lclarkdz-intro-143|A2 A0 A4 A3 A1 |000000000|lclarkdz|intro:locate updatedb -i \"*.jpg*\"|
+INPUT|lclarkdz-intro-144|U |000000000|lclarkdz|intro:clear|
+INPUT|lclarkdz-intro-145|A4 A3 A1 A2 A0 |000000000|lclarkdz|intro:%sudo locate updatedb -i "*intro*" | grep jpeg|*.jpeg*"<BS><BS><BS><BS><BS><BS><BS><BS><BS>"<ESC>[K<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[3@name "*intro*"<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[K<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>baby<ESC>[K<BS><BS><BS><BS>locate updatedb -i "*.jpeg*"%
+INPUT|lclarkdz-intro-146|A4 A3 A1 A2 A0 |000000000|lclarkdz|intro:locate updatedb|
+INPUT|lclarkdz-intro-147|A4 A3 A1 A2 A0 |1537911199|lclarkdz|intro:ls[7@sudo locate updatedb|
+INPUT|lclarkdz-intro-148|A4 A3 A1 A2 A0 |000000000|lclarkdz|intro:locate updatedbeg*"|
+INPUT|lclarkdz-intro-149|U |000000000|lclarkdz|intro:ssh intro.lclarkdz-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkdz-intro-150|A1 A3 A4 A0 A2 |000000000|lclarkdz|intro:locate -iupdatedb -i "*.jpeg*"|
+INPUT|lclarkdz-intro-151|U |000000000|lclarkdz|intro:sudsh intro.lclarkdz-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkdz-intro-152|A2 A0 A4 A3 A1 |000000000|lclarkdz|intro:locate -i "*.jpeg*"|
+INPUT|lclarkdz-intro-153|A2 A0 A4 A3 A1 |000000000|lclarkdz|intro:locate updatedb|
+INPUT|lclarkdz-intro-154|A2 A0 A4 A3 A1 |000000000|lclarkdz|intro:locate updatedb|
+INPUT|lclarkdz-intro-155|A0 A2 A1 A4 A3 |000000000|lclarkdz|intro:locate updatedb -i "*.jpeg*"|
+INPUT|lclarkdz-intro-156|A1 A3 A4 A0 A2 |000000000|lclarkdz|intro:%sudo locate updatedb -nai "*intro*"*\"|*.jpeg*"<BS><BS><BS><BS><BS><BS><BS><BS><BS>" | grep jpeg<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[K<BS><BS><BS><BS><BS><BS><BS>.jpeg*"<BS><BS><BS><BS><ESC>[1Pg*"%
+INPUT|lclarkdz-intro-157|A2 A0 A4 A3 A1 |1537910844|lclarkdz|intro:cl[Kfind / -mount -name \"*hidden*\" | grep jpeg|find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/etc/ssl/private': Permission denied
+find: '/etc/polkit-1/localauthority': Permission denied
+find: '/root': Permission denied
+find: '/lost+found': Permission denied
+INPUT|lclarkdz-intro-158|A1 A3 A4 A0 A2 |1537911110|lclarkdz|intro:find / -name \"*intro*\" | grep jpeg|find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied
+find: '/proc/2/task/2/fd': Permission denied
+find: '/proc/2/task/2/fdinfo': Permission denied
+find: '/proc/2/task/2/ns': Permission denie
+INPUT|lclarkdz-intro-159|U |000000000|lclarkdz|intro:ls|
+INPUT|lclarkdz-intro-160|U |1537910926|lclarkdz|intro:clear|
+INPUT|lclarkdz-intro-161|A0 A2 A1 A3 A4 |1537911266|lclarkdz|intro:find / -mount -name \"*intr[1[1[1[1[1P[1@.[1@/[1@[1P[1@.[1P[1@h[1@i[1@dd*" 2> /dev/null | xargs file $1 | grep JPEG [Aclarkdz@intro:~$ find / -mount -name "./.hidde*" 2> /dev/null | xargs file $1 | grep JPEG|G[Aclarkdz@intro:~$ find / -mount -name "./.hidden*" 2> /dev/null | xargs file $1 | grep JPEG[Alarkdz@intro:~$ find / -mount -name "./.hidden
+
+
+Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+INPUT|lclarkdz-intro-162|A1 A4 A3 A0 A2 |000000000|lclarkdz|intro:%find / -name \".|.hidden<BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS>/.hidden*\"%
+INPUT|lclarkdz-intro-163|A1 A3 A4 A0 A2 |1537911134|lclarkdz|intro:find / -name \"./.hidden*\" | grep jpeg|%find: warning: Unix filenames usually don't contain slashes (though pathnames do).  That means that '-name './.hidden*'' will probably evaluate to false all the time on this system.  You might find the '-wholename' test more useful%% or perhaps '-samefile'.  Alternatively%% if you are using GNU grep%% you could use 'find ... -print0 | grep -FzZ './.hidden*''.
+find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+
+INPUT|lclarkdz-intro-164|A1 A3 A4 A0 A2 |1537911547|lclarkdz|intro:find / -name \"./.hidden*\" | grep GREP|%find: warning: Unix filenames usually don't contain slashes (though pathnames do).  That means that '-name './.hidden*'' will probably evaluate to false all the time on this system.  You might find the '-wholename' test more useful%% or perhaps '-samefile'.  Alternatively%% if you are using GNU grep%% you could use 'find ... -print0 | grep -FzZ './.hidden*''.
+find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+
+INPUT|lclarkdz-intro-165|A1 A3 A4 A0 A2 |1537911558|lclarkdz|intro:find / -name \"./.hidden*\" | grep GPEG|%find: warning: Unix filenames usually don't contain slashes (though pathnames do).  That means that '-name './.hidden*'' will probably evaluate to false all the time on this system.  You might find the '-wholename' test more useful%% or perhaps '-samefile'.  Alternatively%% if you are using GNU grep%% you could use 'find ... -print0 | grep -FzZ './.hidden*''.
+find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+
+INPUT|lclarkdz-intro-166|A1 A3 A4 A0 A2 |1537911580|lclarkdz|intro:find / -name \"./.hidden*\" | grep -i JPEG|%find: warning: Unix filenames usually don't contain slashes (though pathnames do).  That means that '-name './.hidden*'' will probably evaluate to false all the time on this system.  You might find the '-wholename' test more useful%% or perhaps '-samefile'.  Alternatively%% if you are using GNU grep%% you could use 'find ... -print0 | grep -FzZ './.hidden*''.
+find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+
+INPUT|lclarkdz-intro-167|A2 A0 A4 A3 A1 |1537911867|lclarkdz|intro:find / \-name \"./.hidden*\" | grep -i JPEG|%find: warning: Unix filenames usually don't contain slashes (though pathnames do).  That means that '-name './.hidden*'' will probably evaluate to false all the time on this system.  You might find the '-wholename' test more useful%% or perhaps '-samefile'.  Alternatively%% if you are using GNU grep%% you could use 'find ... -print0 | grep -FzZ './.hidden*''.%
+INPUT|lclarkdz-intro-168|A2 A0 A4 A3 A1 |000000000|lclarkdz|intro:find / -name \"./*hidden*\\"|%find: warning: Unix filenames usually don't contain slashes (though pathnames do).  That means that '-name '*./.hidden*'' will probably evaluate to false all the time on this system.  You might find the '-wholename' test more useful%% or perhaps '-samefile'.  Alternatively%% if you are using GNU grep%% you could use 'find ... -print0 | grep -FzZ '*./.hidden*''.%
+INPUT|lclarkdz-intro-169|U |1537942559|lclarkdz|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkdz  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkdz-intro-170|U |000000000|lclarkdz|intro:cd ./hidden|bash: cd: ./hidden: No such file or directory
+INPUT|lclarkdz-intro-171|U |000000000|lclarkdz|intro:cd ../|
+INPUT|lclarkdz-intro-172|U |1537942579|lclarkdz|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkdz-intro-173|U |000000000|lclarkdz|intro:cd ../|
+INPUT|lclarkdz-intro-174|U |1537942591|lclarkdz|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkdz-intro-175|A4 A3 A1 A2 A0 |000000000|lclarkdz|intro:find / -name \"./.hidden*\"|%!TRUNCATED TO 500L! find: warning: Unix filenames usually don't contain slashes (though pathnames do).  That means that '-name './.hidden*'' will probably evaluate to false all the time on this system.  You might find the '-wholename' test more useful%% or perhaps '-samefile'.  Alternatively%% if you are using GNU grep%% you could use 'find ... -print0 | grep -FzZ './.hidden*''.
+find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': P
+INPUT|lclarkdz-intro-176|U |1537942731|lclarkdz|intro:clear|
+INPUT|lclarkdz-intro-177|U |000000000|lclarkdz|intro:cd ./.hidden|
+INPUT|lclarkdz-intro-178|U |1537942778|lclarkdz|intro:ls|asdf136Intro-5kqlw.jpeg
+INPUT|lclarkdz-intro-179|U |1537942885|lclarkdz|intro:ls|asdf136Intro-5kqlw.jpeg
+INPUT|lclarkdz-intro-180|U |000000000|lclarkdz|intro:cd ../|
+INPUT|lclarkdz-intro-181|U |1537942890|lclarkdz|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkdz-intro-182|U |000000000|lclarkdz|intro:cd ../|
+INPUT|lclarkdz-intro-183|U |1537942900|lclarkdz|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkdz-intro-184|A4 A3 A1 A2 A0 |000000000|lclarkdz|intro:find / -name "./.hidden*"|
+INPUT|lclarkdz-intro-185|A0 A2 A1 A4 A3 |000000000|lclarkdz|intro:find / -name "./.hidden*" | grep -i JPEG|
+INPUT|lclarkdz-intro-186|A4 A3 A1 A2 A0 |000000000|lclarkdz|intro:find / -name "./.hidden*" | grep -i JPEG|
+INPUT|lclarkdz-intro-187|A4 A3 A1 A2 A0 |000000000|lclarkdz|intro:find / -name "*./.hidden*"| grep -i JPEG|
+INPUT|lclarkdz-intro-188|A1 A3 A4 A0 A2 |000000000|lclarkdz|intro:find / -name "./.hidden*" | grep -i JPEG|
+INPUT|lclarkdz-intro-189|A4 A3 A1 A2 A0 |000000000|lclarkdz|intro:find / -mount -name "./.hidden*" 2> /dev/null | xargs file $1|1 | grep JPEG<ESC>[Ao:/$ clear<ESC>[K
+
+INPUT|lclarkdz-intro-190|A4 A3 A1 A2 A0 |000000000|lclarkdz|intro:find / -mount -name "*hidden*" | grep jpeg|
+INPUT|lclarkdz-intro-191|A2 A0 A4 A3 A1 |000000000|lclarkdz|intro:%sudo locate updatedb -i "*intro*" | grep jpeg|*.jpeg*"<BS><BS><BS><BS><BS><BS><BS><BS><BS>"<ESC>[K<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[3@name "*intro*"<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[K<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>baby<ESC>[K<BS><BS><BS><BS><BS><BS><BS><BS>sh intro.lclarkdz-intro21.CS495LC.isi.deterlab.net%
+INPUT|lclarkdz-intro-192|A4 A3 A1 A2 A0 |000000000|lclarkdz|intro:locate updatedb -i "*.jpeg*"|
+INPUT|lclarkdz-intro-193|A0 A2 A1 A4 A3 |000000000|lclarkdz|intro:locate updatedb -i "*.jpeg*"|
+INPUT|lclarkdz-intro-194|U |1537942928|lclarkdz|intro:ssh intro.lclarkdz-intro21.CS495LC.isi.deterlab.net|Warning: Permanently added the RSA host key for IP address '192.168.1.203' to the list of known hosts.
+
+INPUT|lclarkdz-intro-195|U |000000000|lclarkdz|intro:ls|
+INPUT|lclarkdz-intro-196|U |000000000|lclarkdz|intro:cd ./.hidden|bash: cd: ./.hidden: No such file or directory
+INPUT|lclarkdz-intro-197|U |000000000|lclarkdz|intro:ls|
+INPUT|lclarkdz-intro-198|U |000000000|lclarkdz|intro:cd /users|
+INPUT|lclarkdz-intro-199|U |000000000|lclarkdz|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkdz  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkdz-intro-200|U |000000000|lclarkdz|intro:cd lclarkdz|
+INPUT|lclarkdz-intro-201|U |000000000|lclarkdz|intro:ls|
+INPUT|lclarkdz-intro-202|U |000000000|lclarkdz|intro:cd /users|
+INPUT|lclarkdz-intro-203|U |000000000|lclarkdz|intro:cd ../|
+INPUT|lclarkdz-intro-204|U |000000000|lclarkdz|intro:cd ./.hidden|
+INPUT|lclarkdz-intro-205|U |000000000|lclarkdz|intro:ls|asdf136Intro-5kqlw.jpeg
+INPUT|lclarkdz-intro-206|U |000000000|lclarkdz|intro:cd../|bash: cd../: No such file or directory
+INPUT|lclarkdz-intro-207|U |000000000|lclarkdz|intro:cd ../|
+INPUT|lclarkdz-intro-208|U |000000000|lclarkdz|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkdz-intro-209|U |000000000|lclarkdz|intro:cd ../|
+INPUT|lclarkdz-intro-210|U |000000000|lclarkdz|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkdz-intro-211|U |000000000|lclarkdz|intro:cd /users|
+INPUT|lclarkdz-intro-212|U |000000000|lclarkdz|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkdz  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkdz-intro-213|U |000000000|lclarkdz|intro:cd lclarkdz/|
+INPUT|lclarkdz-intro-214|U |000000000|lclarkdz|intro:ls|
+INPUT|lclarkdz-intro-215|U |000000000|lclarkdz|intro:cd ./.hidde|bash: cd: ./.hidde: No such file or directory
+INPUT|lclarkdz-intro-216|U |000000000|lclarkdz|intro:cd ./.hidden|bash: cd: ./.hidden: No such file or directory
+INPUT|lclarkdz-intro-217|U |000000000|lclarkdz|intro:cd /usersdz/|
+INPUT|lclarkdz-intro-218|U |000000000|lclarkdz|intro:cd ../|
+INPUT|lclarkdz-intro-219|U |000000000|lclarkdz|intro:cd ./.hidden|
+INPUT|lclarkdz-intro-220|U |000000000|lclarkdz|intro:ls|asdf136Intro-5kqlw.jpeg
+INPUT|lclarkdz-intro-221|U |000000000|lclarkdz|intro:clear|
+INPUT|lclarkdz-intro-222|U |000000000|lclarkdz|intro:cd ../|
+INPUT|lclarkdz-intro-223|U |000000000|lclarkdz|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkdz-intro-224|U |1537943088|lclarkdz|intro:cd ./.hidden|bash: cd: ./.hidden: No such file or directory
+INPUT|lclarkdz-intro-225|U |1537942932|lclarkdz|intro:ls|
+INPUT|lclarkdz-intro-226|U |000000000|lclarkdz|intro:cd /users|
+INPUT|lclarkdz-intro-227|U |1537942972|lclarkdz|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkdz  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkdz-intro-228|U |000000000|lclarkdz|intro:cd lclarkdz|
+INPUT|lclarkdz-intro-229|U |1537943002|lclarkdz|intro:ls|
+INPUT|lclarkdz-intro-230|U |000000000|lclarkdz|intro:cd /users|
+INPUT|lclarkdz-intro-231|U |000000000|lclarkdz|intro:cd ../|
+INPUT|lclarkdz-intro-232|U |000000000|lclarkdz|intro:cd ./.hidden|
+INPUT|lclarkdz-intro-233|U |1537943010|lclarkdz|intro:ls|asdf136Intro-5kqlw.jpeg
+INPUT|lclarkdz-intro-234|U |000000000|lclarkdz|intro:cd../|bash: cd../: No such file or directory
+INPUT|lclarkdz-intro-235|U |000000000|lclarkdz|intro:cd ../|
+INPUT|lclarkdz-intro-236|U |1537943031|lclarkdz|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkdz-intro-237|U |000000000|lclarkdz|intro:cd ../|
+INPUT|lclarkdz-intro-238|U |1537943093|lclarkdz|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkdz-intro-239|U |000000000|lclarkdz|intro:cd /users|
+INPUT|lclarkdz-intro-240|U |1537943098|lclarkdz|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkdz  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkdz-intro-241|U |000000000|lclarkdz|intro:cd lclarkdz/|
+INPUT|lclarkdz-intro-242|U |1537943108|lclarkdz|intro:ls|
+INPUT|lclarkdz-intro-243|U |000000000|lclarkdz|intro:cd ./.hidde|bash: cd: ./.hidde: No such file or directory
+INPUT|lclarkdz-intro-244|U |1537943120|lclarkdz|intro:lscd ./.hidden|bash: cd: ./.hidden: No such file or directory
+INPUT|lclarkdz-intro-245|U |000000000|lclarkdz|intro:cd /usersdz/|
+INPUT|lclarkdz-intro-246|U |000000000|lclarkdz|intro:cd ../|
+INPUT|lclarkdz-intro-247|U |000000000|lclarkdz|intro:cd ./.hidden|
+INPUT|lclarkdz-intro-248|U |1537943150|lclarkdz|intro:ls|asdf136Intro-5kqlw.jpeg
+INPUT|lclarkdz-intro-249|U |1537943221|lclarkdz|intro:clear|
+INPUT|lclarkdz-intro-250|U |000000000|lclarkdz|intro:cd ../|
+INPUT|lclarkdz-intro-251|U |1537943229|lclarkdz|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var

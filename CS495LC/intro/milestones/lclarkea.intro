@@ -1,0 +1,728 @@
+User lclarkea start time 1537934279 end 1537938560
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkea-intro-0|U |000000000|lclarkea|:|
+INPUT|lclarkea-intro-1|U |000000000|lclarkea|:|
+INPUT|lclarkea-intro-2|U |000000000|lclarkea|intro:cd top_secret|
+INPUT|lclarkea-intro-3|U |1537934279|lclarkea|intro:ls|
+INPUT|lclarkea-intro-4|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-5|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-6|U |1537934291|lclarkea|intro:ls|abhi   ekline    glawler   jhickey melkins   shareaa  shareaf  shareak  shareap  shareau  shareaz shareta
+alefiya   faber     jaipuria  jjh piobair   shareab  shareag  shareal  shareaq  shareav  shareba sharetb
+alwabel   gbartlet  jboman    jross rgoodfel  shareac  shareah  shaream  sharear  shareaw  sharebb sklower
+bks   gerow     jelena    kls2 schwab   sharead  shareai  sharean  shareas  shareax  sharebc sunshine
+bloznali  gknopf    jgli      lclarkea scuric   shareae  shareaj  shareao  shareat  shareay  sharebd
+INPUT|lclarkea-intro-7|U |000000000|lclarkea|intro:cd ../\|> 
+INPUT|lclarkea-intro-8|U |000000000|lclarkea|intro:cd ../\|> cd ../\\
+bash: cd: ../cd: No such file or directory
+INPUT|lclarkea-intro-9|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-10|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-11|U |1537934295|lclarkea|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  temp users  vmlinuz
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   tmp  usr    vmlinuz.old
+dev   home    lib       lost+found  opt  root  share  sys   top_secret var
+INPUT|lclarkea-intro-12|U |000000000|lclarkea|intro:cd top_secret/|
+INPUT|lclarkea-intro-13|U |1537934309|lclarkea|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkea-intro-14|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-15|U |1537934315|lclarkea|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  temp users  vmlinuz
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   tmp  usr    vmlinuz.old
+dev   home    lib       lost+found  opt  root  share  sys   top_secret var
+INPUT|lclarkea-intro-16|U |000000000|lclarkea|intro:d users|d: command not found
+INPUT|lclarkea-intro-17|U |000000000|lclarkea|intro:cd lclarkea|bash: cd: lclarkea: No such file or directory
+INPUT|lclarkea-intro-18|U |1537934710|lclarkea|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  temp users  vmlinuz
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   tmp  usr    vmlinuz.old
+dev   home    lib       lost+found  opt  root  share  sys   top_secret var
+INPUT|lclarkea-intro-19|U |000000000|lclarkea|intro:cd users/|
+INPUT|lclarkea-intro-20|U |1537934728|lclarkea|intro:ls|abhi   ekline    glawler   jhickey melkins   shareaa  shareaf  shareak  shareap  shareau  shareaz shareta
+alefiya   faber     jaipuria  jjh piobair   shareab  shareag  shareal  shareaq  shareav  shareba sharetb
+alwabel   gbartlet  jboman    jross rgoodfel  shareac  shareah  shaream  sharear  shareaw  sharebb sklower
+bks   gerow     jelena    kls2 schwab   sharead  shareai  sharean  shareas  shareax  sharebc sunshine
+bloznali  gknopf    jgli      lclarkea scuric   shareae  shareaj  shareao  shareat  shareay  sharebd
+INPUT|lclarkea-intro-21|U |000000000|lclarkea|intro:cd lclarkea/|
+INPUT|lclarkea-intro-22|U |1537934740|lclarkea|intro:ls|top_secret
+INPUT|lclarkea-intro-23|U |000000000|lclarkea|intro:cd top_secret/|
+INPUT|lclarkea-intro-24|U |1537934759|lclarkea|intro:mkdir test|
+INPUT|lclarkea-intro-25|U |1537934749|lclarkea|intro:ls|test
+INPUT|lclarkea-intro-26|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-27|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-28|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-29|U |1537934760|lclarkea|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  temp users  vmlinuz
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   tmp  usr    vmlinuz.old
+dev   home    lib       lost+found  opt  root  share  sys   top_secret var
+INPUT|lclarkea-intro-30|U |000000000|lclarkea|intro:cd top_secret|
+INPUT|lclarkea-intro-31|U |1537934804|lclarkea|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkea-intro-32|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-33|U |1537934831|lclarkea|intro:mv top_secret users/lclarkea/top_secret|mv: cannot remove 'top_secret/xbzf136INTRO-1.jpg': Permission denied
+mv: cannot remove 'top_secret/wuer136intro-4.JPG': Permission denied
+mv: cannot remove 'top_secret/136intro-2jjaj.JPEG': Permission denied
+mv: cannot remove 'top_secret/136intro-3.jpg': Permission denied
+mv: cannot remove 'top_secret/asdf136Intro-5kqlw.jpeg': Permission denied
+INPUT|lclarkea-intro-34|U |1537934850|lclarkea|intro:mv top_secret users/lclarkea/top_secret|mv: inter-device move failed: 'top_secret' to 'users/lclarkea/top_secret/top_secret'; unable to remove target: Directory not empty
+INPUT|lclarkea-intro-35|U |000000000|lclarkea|intro:cd top_secret/|
+INPUT|lclarkea-intro-36|U |1537934810|lclarkea|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkea-intro-37|U |1537934900|lclarkea|intro:mv 136intro-2jjaj.JPEG users/lclarkea/top_secret|mv: cannot move '136intro-2jjaj.JPEG' to 'users/lclarkea/top_secret': No such file or directory
+INPUT|lclarkea-intro-38|U |1537935012|lclarkea|intro:mc 136intro-2jjaj.JPEG /users/lclarkea/top_secret|sudo: mc: command not found
+INPUT|lclarkea-intro-39|U |000000000|lclarkea|intro:mv 136intro-2jjaj.JPEG /users/lclarkea/top_secret|
+INPUT|lclarkea-intro-40|U |1537934877|lclarkea|intro:ls|136intro-3.jpg asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkea-intro-41|U |000000000|lclarkea|intro:s|s: command not found
+INPUT|lclarkea-intro-42|U |1537935021|lclarkea|intro:ls|136intro-3.jpg asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkea-intro-43|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-44|U |1537935869|lclarkea|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  temp users  vmlinuz
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   tmp  usr    vmlinuz.old
+dev   home    lib       lost+found  opt  root  share  sys   top_secret var
+INPUT|lclarkea-intro-45|U |000000000|lclarkea|intro:cd users|
+INPUT|lclarkea-intro-46|U |000000000|lclarkea|intro:cd lclarkea/|
+INPUT|lclarkea-intro-47|U |1537935907|lclarkea|intro:ls|top_secret
+INPUT|lclarkea-intro-48|U |000000000|lclarkea|intro:cd top_secret/|
+INPUT|lclarkea-intro-49|U |1537935929|lclarkea|intro:ls|136intro-2jjaj.JPEG  test  top_secret
+INPUT|lclarkea-intro-50|U |000000000|lclarkea|intro:cd top_secret/|
+INPUT|lclarkea-intro-51|U |1537935932|lclarkea|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkea-intro-52|U |000000000|lclarkea|intro:iv answers.txt|The program 'iv' is currently not installed. To run 'iv' please ask your administrator to install the package 'openimageio-tools'
+INPUT|lclarkea-intro-53|U |1537935937|lclarkea|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  answers.txt  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkea-intro-54|U |000000000|lclarkea|intro:cd answers.txt|bash: cd: answers.txt: Not a directory
+INPUT|lclarkea-intro-55|U |000000000|lclarkea|intro:v answers.txt|v: command not found
+INPUT|lclarkea-intro-56|U |1537936237|lclarkea|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;23r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[23;1H[97m[41mE325: ATTENTION[m
+
+Found a swap file by the name ".answers.txt.swp"
+
+[10Cowned by: lclarkea   dated: Tue Sep 25 21:29:54 2018
+
+[9Cfile name: ~lclarkea/top_secret/top_secret/answers.txt
+
+[10Cmodified: YES
+
+[9Cuser name: lclarkea   host name: intro.lclarkea-intro21.cs495lc.isi.dete
+
+[8Cprocess ID: 16450 (still running)
+
+While opening file "answers.txt"
+
+[13Cdated: Tue Sep 25 21:27:27 2018
+
+
+(1) Another program may be editing the same file.  If this is the case%%
+
+    be careful not to end up with two different instances of the same
+
+    file when making changes.  Quit%% or continue with caution.
+
+(2) An edit session for this file crashed.
+
+    If this is the case%% use ":recover" or "vim -r answers.txt"
+
+    to recover the changes (see ":help recovery").
+
+    If you did this already%% delete the swap f
+INPUT|lclarkea-intro-57|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-58|U |1537934958|lclarkea|intro:cd../|bash: cd../: No such file or directory
+INPUT|lclarkea-intro-59|U |1537934953|lclarkea|intro:ls|abhi   ekline    glawler   jhickey melkins   shareaa  shareaf  shareak  shareap  shareau  shareaz shareta
+alefiya   faber     jaipuria  jjh piobair   shareab  shareag  shareal  shareaq  shareav  shareba sharetb
+alwabel   gbartlet  jboman    jross rgoodfel  shareac  shareah  shaream  sharear  shareaw  sharebb sklower
+bks   gerow     jelena    kls2 schwab   sharead  shareai  sharean  shareas  shareax  sharebc sunshine
+bloznali  gknopf    jgli      lclarkea scuric   shareae  shareaj  shareao  shareat  shareay  sharebd
+INPUT|lclarkea-intro-60|U |000000000|lclarkea|intro:cd lclarkea/|
+INPUT|lclarkea-intro-61|U |1537934959|lclarkea|intro:ls|top_secret
+INPUT|lclarkea-intro-62|U |000000000|lclarkea|intro:cd top_secret/|
+INPUT|lclarkea-intro-63|U |1537935031|lclarkea|intro:ls|136intro-2jjaj.JPEG  test  top_secret
+INPUT|lclarkea-intro-64|U |000000000|lclarkea|intro:cd top_secret/|
+INPUT|lclarkea-intro-65|U |1537935034|lclarkea|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkea-intro-66|U |1537935041|lclarkea|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkea-intro-67|U |1537935470|lclarkea|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;30r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[30;1H"answers.txt" [New File][>c[2;1H[94m~                                                                                                                       [3;1H~                                                                                                                       [4;1H~                                                                                                                       [5;1H~                                                                                                                       [6;1H~                                                                                                                       [7;1H~                                                                                                                       [8;1H~                                                                                                                       [9;1H~
+INPUT|lclarkea-intro-68|U |000000000|lclarkea|intro:cd top_secret/|
+INPUT|lclarkea-intro-69|U |1537936439|lclarkea|intro:ls|136intro-2jjaj.JPEG  test  top_secret
+INPUT|lclarkea-intro-70|U |000000000|lclarkea|intro:cd top_secret/|
+INPUT|lclarkea-intro-71|U |1537936444|lclarkea|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  answers.txt  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkea-intro-72|U |1537936453|lclarkea|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;30r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[30;1H[97m[41mE325: ATTENTION[m
+
+Found a swap file by the name ".answers.txt.swp"
+
+[10Cowned by: lclarkea   dated: Tue Sep 25 21:29:54 2018
+
+[9Cfile name: ~lclarkea/top_secret/top_secret/answers.txt
+
+[10Cmodified: YES
+
+[9Cuser name: lclarkea   host name: intro.lclarkea-intro21.cs495lc.isi.dete
+
+[8Cprocess ID: 16450
+
+While opening file "answers.txt"
+
+[13Cdated: Tue Sep 25 21:27:27 2018
+
+
+(1) Another program may be editing the same file.  If this is the case%%
+
+    be careful not to end up with two different instances of the same
+
+    file when making changes.  Quit%% or continue with caution.
+
+(2) An edit session for this file crashed.
+
+    If this is the case%% use ":recover" or "vim -r answers.txt"
+
+    to recover the changes (see ":help recovery").
+
+    If you did this already%% delete the swap file ".answers.tx
+INPUT|lclarkea-intro-73|U |000000000|lclarkea|intro:cd top_secret/|
+INPUT|lclarkea-intro-74|U |1537936705|lclarkea|intro:ls|136intro-2jjaj.JPEG  test  top_secret
+INPUT|lclarkea-intro-75|U |000000000|lclarkea|intro:cd t|bash: cd: t: No such file or directory
+INPUT|lclarkea-intro-76|U |000000000|lclarkea|intro:cd top_secret/|
+INPUT|lclarkea-intro-77|U |1537936708|lclarkea|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  answers.txt  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkea-intro-78|U |1537936717|lclarkea|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;25r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[25;1H[97m[41mE325: ATTENTION[m
+
+Found a swap file by the name ".answers.txt.swp"
+
+[10Cowned by: lclarkea   dated: Tue Sep 25 21:29:54 2018
+
+[9Cfile name: ~lclarkea/top_secret/top_secret/answers.txt
+
+[10Cmodified: YES
+
+[9Cuser name: lclarkea   host name: intro.lclarkea-intro21.cs495lc.isi.dete
+
+[8Cprocess ID: 16450
+
+While opening file "answers.txt"
+
+[13Cdated: Tue Sep 25 21:27:27 2018
+
+
+(1) Another program may be editing the same file.  If this is the case%%
+
+    be careful not to end up with two different instances of the same
+
+    file when making changes.  Quit%% or continue with caution.
+
+(2) An edit session for this file crashed.
+
+    If this is the case%% use ":recover" or "vim -r answers.txt"
+
+    to recover the changes (see ":help recovery").
+
+    If you did this already%% delete the swap file ".answers.tx
+INPUT|lclarkea-intro-79|A5 |1537937218|lclarkea|intro:less/proc/cpuinfo|bash: less/proc/cpuinfo: No such file or directory
+INPUT|lclarkea-intro-80|M5 |000000000|lclarkea|intro:less /proc /cpuinfo|%<ESC>[?1049h<ESC>[?1h<ESC>=
+processor       : 0
+vendor_id       : GenuineIntel
+cpu family      : 15
+model           : 4
+model name      : Intel(R) Xeon(TM) CPU 3.00GHz
+stepping        : 3
+microcode       : 0x5
+cpu MHz         : 2992.946
+cache size      : 2048 KB
+physical id     : 0
+siblings        : 2
+core id         : 0
+cpu cores       : 1
+apicid          : 0
+initial apicid  : 0
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 5
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse  <BS>sse2 ss ht tm pbe syscall nx lm constant_tsc pebs bts nopl pni dtes64 monitor ds_cpl cid cx16 xtpr
+bugs            :
+bogomips        : 5985.89
+clflush size    : 64
+cache_alignment : 128
+address sizes   : 36 bits physical%% 48 bits virtual
+power management:
+
+processor       : 1
+<ESC>[7m/proc/cpuinfo<ESC>[27m<ESC>[K<NL
+INPUT|lclarkea-intro-81|U |1537937196|lclarkea|intro:ls|top_secret
+INPUT|lclarkea-intro-82|U |000000000|lclarkea|intro:cd top_secret/|
+INPUT|lclarkea-intro-83|U |1537937573|lclarkea|intro:ls|136intro-2jjaj.JPEG  test  top_secret
+INPUT|lclarkea-intro-84|U |000000000|lclarkea|intro:cd top_secret/|
+INPUT|lclarkea-intro-85|U |1537937577|lclarkea|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  answers.txt  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkea-intro-86|U |1537937585|lclarkea|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;30r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[30;1H[97m[41mE325: ATTENTION[m
+
+Found a swap file by the name ".answers.txt.swp"
+
+[10Cowned by: lclarkea   dated: Tue Sep 25 21:29:54 2018
+
+[9Cfile name: ~lclarkea/top_secret/top_secret/answers.txt
+
+[10Cmodified: YES
+
+[9Cuser name: lclarkea   host name: intro.lclarkea-intro21.cs495lc.isi.dete
+
+[8Cprocess ID: 16450
+
+While opening file "answers.txt"
+
+[13Cdated: Tue Sep 25 21:27:27 2018
+
+
+(1) Another program may be editing the same file.  If this is the case%%
+
+    be careful not to end up with two different instances of the same
+
+    file when making changes.  Quit%% or continue with caution.
+
+(2) An edit session for this file crashed.
+
+    If this is the case%% use ":recover" or "vim -r answers.txt"
+
+    to recover the changes (see ":help recovery").
+
+    If you did this already%% delete the swap file ".answers.tx
+INPUT|lclarkea-intro-87|U |000000000|lclarkea|intro:cd top_secret/|
+INPUT|lclarkea-intro-88|U |000000000|lclarkea|intro:cd top_secret/|
+INPUT|lclarkea-intro-89|U |1537938187|lclarkea|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  answers.txt  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkea-intro-90|U |000000000|lclarkea|intro:cd answers.txt|bash: cd: answers.txt: Not a directory
+INPUT|lclarkea-intro-91|U |000000000|lclarkea|intro:i answers.txt|The program 'i' is currently not installed. To run 'i' please ask your administrator to install the package 'iprint'
+INPUT|lclarkea-intro-92|U |1537938206|lclarkea|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;30r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[30;1H[97m[41mE325: ATTENTION[m
+
+Found a swap file by the name ".answers.txt.swp"
+
+[10Cowned by: lclarkea   dated: Tue Sep 25 21:29:54 2018
+
+[9Cfile name: ~lclarkea/top_secret/top_secret/answers.txt
+
+[10Cmodified: YES
+
+[9Cuser name: lclarkea   host name: intro.lclarkea-intro21.cs495lc.isi.dete
+
+[8Cprocess ID: 16450
+
+While opening file "answers.txt"
+
+[13Cdated: Tue Sep 25 21:27:27 2018
+
+
+(1) Another program may be editing the same file.  If this is the case%%
+
+    be careful not to end up with two different instances of the same
+
+    file when making changes.  Quit%% or continue with caution.
+
+(2) An edit session for this file crashed.
+
+    If this is the case%% use ":recover" or "vim -r answers.txt"
+
+    to recover the changes (see ":help recovery").
+
+    If you did this already%% delete the swap file ".answers.tx
+INPUT|lclarkea-intro-93|U |000000000|lclarkea|intro:cd top_secret/|
+INPUT|lclarkea-intro-94|U |1537938515|lclarkea|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  answers.txt  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkea-intro-95|M6 |1537938518|lclarkea|intro:df|%Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 1003424          0    1003424   0%% /dev
+tmpfs                                                 204720      23908     180812  12%% /run
+/dev/sda1                                           15616412    2903352   11913112  20%% /
+tmpfs                                                1023600          0    1023600   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023600          0    1023600   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973269760 1763498496  36%% /proj/CS495LC
+users.isi.deterlab.net:/mnt/other/users/lclarkea  2031313280 1292303232  576504960  70%% /users/lclarkea
+tmpfs                                                 204720          0     204720  
+INPUT|lclarkea-intro-96|U |1537938560|lclarkea|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;30r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[30;1H[97m[41mE325: ATTENTION[m
+
+Found a swap file by the name ".answers.txt.swp"
+
+[10Cowned by: lclarkea   dated: Tue Sep 25 21:29:54 2018
+
+[9Cfile name: ~lclarkea/top_secret/top_secret/answers.txt
+
+[10Cmodified: YES
+
+[9Cuser name: lclarkea   host name: intro.lclarkea-intro21.cs495lc.isi.dete
+
+[8Cprocess ID: 16450
+
+While opening file "answers.txt"
+
+[13Cdated: Tue Sep 25 21:27:27 2018
+
+
+(1) Another program may be editing the same file.  If this is the case%%
+
+    be careful not to end up with two different instances of the same
+
+    file when making changes.  Quit%% or continue with caution.
+
+(2) An edit session for this file crashed.
+
+    If this is the case%% use ":recover" or "vim -r answers.txt"
+
+    to recover the changes (see ":help recovery").
+
+    If you did this already%% delete the swap file ".answers.tx
+INPUT|lclarkea-intro-97|U |000000000|lclarkea|intro:cd/bin|bash: cd/bin: No such file or directory
+INPUT|lclarkea-intro-98|U |000000000|lclarkea|intro:cd main|bash: cd: main: No such file or directory
+INPUT|lclarkea-intro-99|U |000000000|lclarkea|intro:ssh intro.lclarkea-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkea-intro-100|U |000000000|lclarkea|intro:pwd|/users/lclarkea
+INPUT|lclarkea-intro-101|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-102|U |000000000|lclarkea|intro:ls|abhi   ekline    glawler   jhickey melkins   shareaa  shareaf  shareak  shareap  shareau  shareaz shareta
+alefiya   faber     jaipuria  jjh piobair   shareab  shareag  shareal  shareaq  shareav  shareba sharetb
+alwabel   gbartlet  jboman    jross rgoodfel  shareac  shareah  shaream  sharear  shareaw  sharebb sklower
+bks   gerow     jelena    kls2 schwab   sharead  shareai  sharean  shareas  shareax  sharebc sunshine
+bloznali  gknopf    jgli      lclarkea scuric   shareae  shareaj  shareao  shareat  shareay  sharebd
+INPUT|lclarkea-intro-103|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-104|U |000000000|lclarkea|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkea-intro-105|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-106|U |000000000|lclarkea|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkea-intro-107|U |000000000|lclarkea|intro:ssh intro.lclarkea-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkea-intro-108|U |000000000|lclarkea|intro:ls|
+INPUT|lclarkea-intro-109|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-110|U |000000000|lclarkea|intro:ls|abhi   ekline    glawler   jhickey melkins   shareaa  shareaf  shareak  shareap  shareau  shareaz shareta
+alefiya   faber     jaipuria  jjh piobair   shareab  shareag  shareal  shareaq  shareav  shareba sharetb
+alwabel   gbartlet  jboman    jross rgoodfel  shareac  shareah  shaream  sharear  shareaw  sharebb sklower
+bks   gerow     jelena    kls2 schwab   sharead  shareai  sharean  shareas  shareax  sharebc sunshine
+bloznali  gknopf    jgli      lclarkea scuric   shareae  shareaj  shareao  shareat  shareay  sharebd
+INPUT|lclarkea-intro-111|U |000000000|lclarkea|intro:cd lclarkea/|
+INPUT|lclarkea-intro-112|U |000000000|lclarkea|intro:mkdir top_secret|
+INPUT|lclarkea-intro-113|U |000000000|lclarkea|intro:ls|top_secret
+INPUT|lclarkea-intro-114|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-115|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-116|U |000000000|lclarkea|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkea-intro-117|U |000000000|lclarkea|intro:cd bin|
+INPUT|lclarkea-intro-118|U |000000000|lclarkea|intro:ls|bash      chown    ip        nc   red     tcsh
+btrfs      chvt    journalctl  nc.openbsd  rm     tempfile
+btrfs-calc-size     cp     kbd_mode    netcat   rmdir     touch
+btrfsck      cpio    keyctl      netstat   rnano     true
+btrfs-convert     csh     kill        networkctl  run-parts    udevadm
+btrfs-debug-tree    dash    kmod        nisdomainname  rzsh     ulockmgr_server
+btrfs-find-root     date    less        ntfs-3g   sed     umount
+btrfs-image     dd     lessecho    ntfs-3g.probe  setfacl    uname
+btrfs-map-logical   df     lessfile    ntfs-3g.secaudit  setfont    uncompress
+btrfs-select-super  dir     lesskey     ntfs-3g.usermap  setupcon    unicode_start
+btrfs-show-super    dmesg    lesspipe    ntfscat   sh    
+INPUT|lclarkea-intro-119|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-120|U |000000000|lclarkea|intro:ls|abhi   ekline    glawler   jhickey melkins   shareaa  shareaf  shareak  shareap  shareau  shareaz shareta
+alefiya   faber     jaipuria  jjh piobair   shareab  shareag  shareal  shareaq  shareav  shareba sharetb
+alwabel   gbartlet  jboman    jross rgoodfel  shareac  shareah  shaream  sharear  shareaw  sharebb sklower
+bks   gerow     jelena    kls2 schwab   sharead  shareai  sharean  shareas  shareax  sharebc sunshine
+bloznali  gknopf    jgli      lclarkea scuric   shareae  shareaj  shareao  shareat  shareay  sharebd
+INPUT|lclarkea-intro-121|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-122|U |000000000|lclarkea|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkea-intro-123|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-124|U |000000000|lclarkea|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkea-intro-125|U |000000000|lclarkea|intro:ssh intro.lclarkea-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkea-intro-126|U |000000000|lclarkea|intro:ls|
+INPUT|lclarkea-intro-127|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-128|U |000000000|lclarkea|intro:ls|abhi   ekline    glawler   jhickey melkins   shareaa  shareaf  shareak  shareap  shareau  shareaz shareta
+alefiya   faber     jaipuria  jjh piobair   shareab  shareag  shareal  shareaq  shareav  shareba sharetb
+alwabel   gbartlet  jboman    jross rgoodfel  shareac  shareah  shaream  sharear  shareaw  sharebb sklower
+bks   gerow     jelena    kls2 schwab   sharead  shareai  sharean  shareas  shareax  sharebc sunshine
+bloznali  gknopf    jgli      lclarkea scuric   shareae  shareaj  shareao  shareat  shareay  sharebd
+INPUT|lclarkea-intro-129|U |000000000|lclarkea|intro:cd lclarkea/|
+INPUT|lclarkea-intro-130|U |000000000|lclarkea|intro:mkdir top_secret|
+INPUT|lclarkea-intro-131|U |000000000|lclarkea|intro:ls|top_secret
+INPUT|lclarkea-intro-132|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-133|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-134|U |000000000|lclarkea|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkea-intro-135|U |000000000|lclarkea|intro:cd bin|
+INPUT|lclarkea-intro-136|U |000000000|lclarkea|intro:ls|bash      chown    ip        nc   red     tcsh
+btrfs      chvt    journalctl  nc.openbsd  rm     tempfile
+btrfs-calc-size     cp     kbd_mode    netcat   rmdir     touch
+btrfsck      cpio    keyctl      netstat   rnano     true
+btrfs-convert     csh     kill        networkctl  run-parts    udevadm
+btrfs-debug-tree    dash    kmod        nisdomainname  rzsh     ulockmgr_server
+btrfs-find-root     date    less        ntfs-3g   sed     umount
+btrfs-image     dd     lessecho    ntfs-3g.probe  setfacl    uname
+btrfs-map-logical   df     lessfile    ntfs-3g.secaudit  setfont    uncompress
+btrfs-select-super  dir     lesskey     ntfs-3g.usermap  setupcon    unicode_start
+btrfs-show-super    dmesg    lesspipe    ntfscat   sh    
+INPUT|lclarkea-intro-137|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-138|U |000000000|lclarkea|intro:ls|abhi   ekline    glawler   jhickey melkins   shareaa  shareaf  shareak  shareap  shareau  shareaz shareta
+alefiya   faber     jaipuria  jjh piobair   shareab  shareag  shareal  shareaq  shareav  shareba sharetb
+alwabel   gbartlet  jboman    jross rgoodfel  shareac  shareah  shaream  sharear  shareaw  sharebb sklower
+bks   gerow     jelena    kls2 schwab   sharead  shareai  sharean  shareas  shareax  sharebc sunshine
+bloznali  gknopf    jgli      lclarkea scuric   shareae  shareaj  shareao  shareat  shareay  sharebd
+INPUT|lclarkea-intro-139|U |000000000|lclarkea|intro:cd lclarkea/|
+INPUT|lclarkea-intro-140|U |000000000|lclarkea|intro:mkdir top_secret|
+INPUT|lclarkea-intro-141|U |000000000|lclarkea|intro:ls|top_secret
+INPUT|lclarkea-intro-142|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-143|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-144|U |000000000|lclarkea|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkea-intro-145|U |000000000|lclarkea|intro:cd bin|
+INPUT|lclarkea-intro-146|U |000000000|lclarkea|intro:ls|bash      chown    ip        nc   red     tcsh
+btrfs      chvt    journalctl  nc.openbsd  rm     tempfile
+btrfs-calc-size     cp     kbd_mode    netcat   rmdir     touch
+btrfsck      cpio    keyctl      netstat   rnano     true
+btrfs-convert     csh     kill        networkctl  run-parts    udevadm
+btrfs-debug-tree    dash    kmod        nisdomainname  rzsh     ulockmgr_server
+btrfs-find-root     date    less        ntfs-3g   sed     umount
+btrfs-image     dd     lessecho    ntfs-3g.probe  setfacl    uname
+btrfs-map-logical   df     lessfile    ntfs-3g.secaudit  setfont    uncompress
+btrfs-select-super  dir     lesskey     ntfs-3g.usermap  setupcon    unicode_start
+btrfs-show-super    dmesg    lesspipe    ntfscat   sh    
+INPUT|lclarkea-intro-147|U |000000000|lclarkea|intro:cd top_secret|
+INPUT|lclarkea-intro-148|U |000000000|lclarkea|intro:ls|
+INPUT|lclarkea-intro-149|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-150|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-151|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-152|U |000000000|lclarkea|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkea-intro-153|U |000000000|lclarkea|intro:cd bin|
+INPUT|lclarkea-intro-154|U |000000000|lclarkea|intro:ls|bash      chown    ip        nc   red     tcsh
+btrfs      chvt    journalctl  nc.openbsd  rm     tempfile
+btrfs-calc-size     cp     kbd_mode    netcat   rmdir     touch
+btrfsck      cpio    keyctl      netstat   rnano     true
+btrfs-convert     csh     kill        networkctl  run-parts    udevadm
+btrfs-debug-tree    dash    kmod        nisdomainname  rzsh     ulockmgr_server
+btrfs-find-root     date    less        ntfs-3g   sed     umount
+btrfs-image     dd     lessecho    ntfs-3g.probe  setfacl    uname
+btrfs-map-logical   df     lessfile    ntfs-3g.secaudit  setfont    uncompress
+btrfs-select-super  dir     lesskey     ntfs-3g.usermap  setupcon    unicode_start
+btrfs-show-super    dmesg    lesspipe    ntfscat   sh    
+INPUT|lclarkea-intro-155|U |000000000|lclarkea|intro:pwd|/bin
+INPUT|lclarkea-intro-156|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-157|U |000000000|lclarkea|intro:cd var|
+INPUT|lclarkea-intro-158|U |000000000|lclarkea|intro:cd log|
+INPUT|lclarkea-intro-159|U |000000000|lclarkea|intro:ls|136intro-3.jpg   auth.log  dist-upgrade  emulab.log      fsck   lastlog   quagga   ttylog
+alternatives.log  bootstrap.log  dmesg        faillog        installer  lxd     syslog   unattended-upgrades
+apt    btmp   dpkg.log      fontconfig.log  kern.log   ntpstats  tiplogs  wtmp
+INPUT|lclarkea-intro-160|U |000000000|lclarkea|intro:mv 136intro-3.jpg top_secret|mv: cannot move '136intro-3.jpg' to 'top_secret': Permission denied
+INPUT|lclarkea-intro-161|U |000000000|lclarkea|intro:sudp mv 136intro-3.jpg top|%No command 'sudp' found%% did you mean:
+ Command 'sfdp' from package 'graphviz' (main)
+ Command 'sudo' from package 'sudo' (main)
+ Command 'sudo' from package 'sudo-ldap' (universe)
+ Command 'sup' from package 'sup' (universe)
+sudp: command not found%
+INPUT|lclarkea-intro-162|U |000000000|lclarkea|intro:sudp mv 136intro-3.jpg top_secret|%No command 'sudp' found%% did you mean:
+ Command 'sup' from package 'sup' (universe)
+ Command 'sudo' from package 'sudo-ldap' (universe)
+ Command 'sudo' from package 'sudo' (main)
+ Command 'sfdp' from package 'graphviz' (main)
+sudp: command not found%
+INPUT|lclarkea-intro-163|U |000000000|lclarkea|intro:mv 136intro-3.jpg top_secret|
+INPUT|lclarkea-intro-164|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-165|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-166|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-167|U |000000000|lclarkea|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkea-intro-168|U |000000000|lclarkea|intro:d users/|d: command not found
+INPUT|lclarkea-intro-169|U |000000000|lclarkea|intro:mk dir top_secert|mk: command not found
+INPUT|lclarkea-intro-170|U |000000000|lclarkea|intro:mkdir top_secret|mkdir: cannot create directory 'top_secret': Permission denied
+INPUT|lclarkea-intro-171|U |000000000|lclarkea|intro:mkdir top_secert|
+INPUT|lclarkea-intro-172|U |000000000|lclarkea|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp  usr  vmlinuz.old
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   top_secert var
+dev   home    lib       lost+found  opt  root  share  sys   users vmlinuz
+INPUT|lclarkea-intro-173|U |000000000|lclarkea|intro:cd top_secert/|
+INPUT|lclarkea-intro-174|U |000000000|lclarkea|intro:ls|
+INPUT|lclarkea-intro-175|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-176|U |000000000|lclarkea|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp  usr  vmlinuz.old
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   top_secert var
+dev   home    lib       lost+found  opt  root  share  sys   users vmlinuz
+INPUT|lclarkea-intro-177|U |000000000|lclarkea|intro:cd var/|
+INPUT|lclarkea-intro-178|U |000000000|lclarkea|intro:cd log|
+INPUT|lclarkea-intro-179|U |000000000|lclarkea|intro:ls|alternatives.log  bootstrap.log  dmesg      faillog      installer lxd   syslog      ttylog
+apt    btmp   dpkg.log    fontconfig.log  kern.log ntpstats  tiplogs     unattended-upgrades
+auth.log   dist-upgrade  emulab.log  fsck      lastlog quagga   top_secret  wtmp
+INPUT|lclarkea-intro-180|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-181|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-182|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-183|U |000000000|lclarkea|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp  usr  vmlinuz.old
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   top_secert var
+dev   home    lib       lost+found  opt  root  share  sys   users vmlinuz
+INPUT|lclarkea-intro-184|U |000000000|lclarkea|intro:mkdir temp|
+INPUT|lclarkea-intro-185|U |000000000|lclarkea|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  temp users  vmlinuz
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   tmp  usr    vmlinuz.old
+dev   home    lib       lost+found  opt  root  share  sys   top_secert var
+INPUT|lclarkea-intro-186|U |000000000|lclarkea|intro:cd users|
+INPUT|lclarkea-intro-187|U |000000000|lclarkea|intro:ls|abhi   ekline    glawler   jhickey melkins   shareaa  shareaf  shareak  shareap  shareau  shareaz shareta
+alefiya   faber     jaipuria  jjh piobair   shareab  shareag  shareal  shareaq  shareav  shareba sharetb
+alwabel   gbartlet  jboman    jross rgoodfel  shareac  shareah  shaream  sharear  shareaw  sharebb sklower
+bks   gerow     jelena    kls2 schwab   sharead  shareai  sharean  shareas  shareax  sharebc sunshine
+bloznali  gknopf    jgli      lclarkea scuric   shareae  shareaj  shareao  shareat  shareay  sharebd
+INPUT|lclarkea-intro-188|U |000000000|lclarkea|intro:cd lclarkea/|
+INPUT|lclarkea-intro-189|U |000000000|lclarkea|intro:ls|top_secret
+INPUT|lclarkea-intro-190|U |000000000|lclarkea|intro:cd top_secret|
+INPUT|lclarkea-intro-191|U |000000000|lclarkea|intro:ls|
+INPUT|lclarkea-intro-192|U |000000000|lclarkea|intro:cd ../      t|
+INPUT|lclarkea-intro-193|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-194|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-195|U |000000000|lclarkea|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  temp users  vmlinuz
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   tmp  usr    vmlinuz.old
+dev   home    lib       lost+found  opt  root  share  sys   top_secert var
+INPUT|lclarkea-intro-196|U |000000000|lclarkea|intro:cd top_secert/|
+INPUT|lclarkea-intro-197|U |000000000|lclarkea|intro:ls|
+INPUT|lclarkea-intro-198|U |000000000|lclarkea|intro:cd ../_secert/|
+INPUT|lclarkea-intro-199|U |000000000|lclarkea|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  temp users  vmlinuz
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   tmp  usr    vmlinuz.old
+dev   home    lib       lost+found  opt  root  share  sys   top_secert var
+INPUT|lclarkea-intro-200|U |000000000|lclarkea|intro:cd var|
+INPUT|lclarkea-intro-201|U |000000000|lclarkea|intro:cd log|
+INPUT|lclarkea-intro-202|U |000000000|lclarkea|intro:ls|alternatives.log  bootstrap.log  dmesg      faillog      installer lxd   syslog      ttylog
+apt    btmp   dpkg.log    fontconfig.log  kern.log ntpstats  tiplogs     unattended-upgrades
+auth.log   dist-upgrade  emulab.log  fsck      lastlog quagga   top_secret  wtmp
+INPUT|lclarkea-intro-203|U |000000000|lclarkea|intro:cd top_secret|bash: cd: top_secret: Not a directory
+INPUT|lclarkea-intro-204|U |000000000|lclarkea|intro:cd top_secret|bash: cd: top_secret: Not a directory
+INPUT|lclarkea-intro-205|U |000000000|lclarkea|intro:mv top_secret temp|
+INPUT|lclarkea-intro-206|U |000000000|lclarkea|intro:ls|alternatives.log  bootstrap.log  dmesg      faillog      installer lxd   syslog   ttylog
+apt    btmp   dpkg.log    fontconfig.log  kern.log ntpstats  temp    unattended-upgrades
+auth.log   dist-upgrade  emulab.log  fsck      lastlog quagga   tiplogs  wtmp
+INPUT|lclarkea-intro-207|U |000000000|lclarkea|intro:cd temp|bash: cd: temp: Not a directory
+INPUT|lclarkea-intro-208|U |000000000|lclarkea|intro:ls|alternatives.log  bootstrap.log  dmesg      faillog      installer lxd   syslog   ttylog
+apt    btmp   dpkg.log    fontconfig.log  kern.log ntpstats  temp    unattended-upgrades
+auth.log   dist-upgrade  emulab.log  fsck      lastlog quagga   tiplogs  wtmp
+INPUT|lclarkea-intro-209|U |000000000|lclarkea|intro:%v te|<BS> <BS>mp tpo<BS> <BS><BS> <BS><BS> <BS>op_secret%
+INPUT|lclarkea-intro-210|U |000000000|lclarkea|intro:m temp op_secret|mv: cannot move 'temp' to 'op_secret': Permission denied
+INPUT|lclarkea-intro-211|U |000000000|lclarkea|intro:mv temp tp_secret|mv: cannot move 'temp' to 'top_secret': Permission denied
+INPUT|lclarkea-intro-212|U |000000000|lclarkea|intro:mv temp top_secret|
+INPUT|lclarkea-intro-213|U |000000000|lclarkea|intro:ls|alternatives.log  bootstrap.log  dmesg      faillog      installer lxd   syslog      ttylog
+apt    btmp   dpkg.log    fontconfig.log  kern.log ntpstats  tiplogs     unattended-upgrades
+auth.log   dist-upgrade  emulab.log  fsck      lastlog quagga   top_secret  wtmp
+INPUT|lclarkea-intro-214|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-215|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-216|U |000000000|lclarkea|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  temp users  vmlinuz
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   tmp  usr    vmlinuz.old
+dev   home    lib       lost+found  opt  root  share  sys   top_secert var
+INPUT|lclarkea-intro-217|U |000000000|lclarkea|intro:cd top_secert/|
+INPUT|lclarkea-intro-218|U |000000000|lclarkea|intro:ls|
+INPUT|lclarkea-intro-219|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-220|U |000000000|lclarkea|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  temp users  vmlinuz
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   tmp  usr    vmlinuz.old
+dev   home    lib       lost+found  opt  root  share  sys   top_secert var
+INPUT|lclarkea-intro-221|U |000000000|lclarkea|intro:cd var/|
+INPUT|lclarkea-intro-222|U |000000000|lclarkea|intro:cd log|
+INPUT|lclarkea-intro-223|U |000000000|lclarkea|intro:ls|alternatives.log  bootstrap.log  dmesg      faillog      installer lxd   syslog      ttylog
+apt    btmp   dpkg.log    fontconfig.log  kern.log ntpstats  tiplogs     unattended-upgrades
+auth.log   dist-upgrade  emulab.log  fsck      lastlog quagga   top_secret  wtmp
+INPUT|lclarkea-intro-224|U |000000000|lclarkea|intro:cd top_secret /temp|bash: cd: top_secret: Not a directory
+INPUT|lclarkea-intro-225|U |000000000|lclarkea|intro:mv top_secret /temp|mv: cannot move 'top_secret' to '/temp/top_secret': Permission denied
+INPUT|lclarkea-intro-226|U |000000000|lclarkea|intro:mv top_secret /temp|mv: cannot move 'top_secret' to 'temp': Permission denied
+INPUT|lclarkea-intro-227|U |000000000|lclarkea|intro:sudp mv top_secret /|%No command 'sudp' found%% did you mean:
+ Command 'sudo' from package 'sudo' (main)
+ Command 'sudo' from package 'sudo-ldap' (universe)
+ Command 'sfdp' from package 'graphviz' (main)
+ Command 'sup' from package 'sup' (universe)
+sudp: command not found%
+INPUT|lclarkea-intro-228|U |000000000|lclarkea|intro:mv top_secret /temp|
+INPUT|lclarkea-intro-229|U |000000000|lclarkea|intro:ls|alternatives.log  bootstrap.log  dmesg      faillog      installer lxd   syslog   unattended-upgrades
+apt    btmp   dpkg.log    fontconfig.log  kern.log ntpstats  tiplogs  wtmp
+auth.log   dist-upgrade  emulab.log  fsck      lastlog quagga   ttylog
+INPUT|lclarkea-intro-230|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-231|U |000000000|lclarkea|intro:ls|backups  cache crash  emulab  lib  local  lock  log  mail  opt  run  snap  spool  tmp
+INPUT|lclarkea-intro-232|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-233|U |000000000|lclarkea|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  temp users  vmlinuz
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   tmp  usr    vmlinuz.old
+dev   home    lib       lost+found  opt  root  share  sys   top_secert var
+INPUT|lclarkea-intro-234|U |000000000|lclarkea|intro:cd temp/|
+INPUT|lclarkea-intro-235|U |000000000|lclarkea|intro:ls|top_secret
+INPUT|lclarkea-intro-236|U |000000000|lclarkea|intro:mv /top_secret /top_secret|mv: cannot stat '/top_secret': No such file or directory
+INPUT|lclarkea-intro-237|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-238|U |000000000|lclarkea|intro:sudp mkdir top_secret|%No command 'sudp' found%% did you mean:
+ Command 'sudo' from package 'sudo' (main)
+ Command 'sudo' from package 'sudo-ldap' (universe)
+ Command 'sup' from package 'sup' (universe)
+ Command 'sfdp' from package 'graphviz' (main)
+sudp: command not found%
+INPUT|lclarkea-intro-239|U |000000000|lclarkea|intro:mkdir top_secret|
+INPUT|lclarkea-intro-240|U |000000000|lclarkea|intro:cd temp/|
+INPUT|lclarkea-intro-241|U |000000000|lclarkea|intro:ls|top_secret
+INPUT|lclarkea-intro-242|U |000000000|lclarkea|intro:top_|sudo: top_: command not found
+INPUT|lclarkea-intro-243|U |000000000|lclarkea|intro:mv top_secret /top_secret|
+INPUT|lclarkea-intro-244|U |000000000|lclarkea|intro:ls|
+INPUT|lclarkea-intro-245|U |000000000|lclarkea|intro:cd ...|bash: cd: ...: No such file or directory
+INPUT|lclarkea-intro-246|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-247|U |000000000|lclarkea|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  temp top_secret  var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   tmp  users     vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   top_secert usr     vmlinuz.old
+INPUT|lclarkea-intro-248|U |000000000|lclarkea|intro:cd top_secret/|
+INPUT|lclarkea-intro-249|U |000000000|lclarkea|intro:ls|top_secret
+INPUT|lclarkea-intro-250|U |000000000|lclarkea|intro:mv top_secret 136intro-3.jpg|mv: cannot move 'top_secret' to '136intro-3.jpg': Permission denied
+INPUT|lclarkea-intro-251|A1 A4 A3 A0 A2 |000000000|lclarkea|intro:sudoop_secret 136intro-3.jpg|
+INPUT|lclarkea-intro-252|U |000000000|lclarkea|intro:ls|136intro-3.jpg
+INPUT|lclarkea-intro-253|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-254|U |000000000|lclarkea|intro:rmdir top_secert|rmdir: failed to remove 'top_secert': Permission denied
+INPUT|lclarkea-intro-255|U |000000000|lclarkea|intro:sudp rmdir top_secert|%No command 'sudp' found%% did you mean:
+ Command 'sup' from package 'sup' (universe)
+ Command 'sfdp' from package 'graphviz' (main)
+ Command 'sudo' from package 'sudo-ldap' (universe)
+ Command 'sudo' from package 'sudo' (main)
+sudp: command not found%
+INPUT|lclarkea-intro-256|U |000000000|lclarkea|intro:rmdir top_secert|
+INPUT|lclarkea-intro-257|U |000000000|lclarkea|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  temp users  vmlinuz
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   tmp  usr    vmlinuz.old
+dev   home    lib       lost+found  opt  root  share  sys   top_secret var
+INPUT|lclarkea-intro-258|U |000000000|lclarkea|intro:cd efc|bash: cd: efc: No such file or directory
+INPUT|lclarkea-intro-259|U |000000000|lclarkea|intro:cd etc/|
+INPUT|lclarkea-intro-260|U |000000000|lclarkea|intro:cd wuer136intro-4.JPG|bash: cd: wuer136intro-4.JPG: Not a directory
+INPUT|lclarkea-intro-261|U |000000000|lclarkea|intro:mv wuer136intro-4.JPG /top_secret|
+INPUT|lclarkea-intro-262|U |000000000|lclarkea|intro:ls|acpi   drirc   kernel    os-release     selinux
+adduser.conf  dumpdates  kernel-img.conf  overlayroot.conf    services
+alternatives  emacs   ldap    pam.conf     sgml
+ansible   emacs24   ld.so.cache   pam.d      shadow
+apache2   emulab   ld.so.conf   papersize     shadow-
+apm   environment  ld.so.conf.d   passwd     shells
+apparmor  fonts   ld.so.preload   passwd-     skel
+apparmor.d  fstab   legal    perl      sos.conf
+apport   fstab.preemulab  libaudit.conf   pki      ssh
+apt   fuse.conf  libnl-3   pm      ssl
+at.deny   gai.conf  libpaper.d   polkit-1     subgid
+at-spi2   gconf   lighttpd   popularity-contest.conf  subgid-
+bash.bashrc  gdb   locale.alias   ppp   
+INPUT|lclarkea-intro-263|U |000000000|lclarkea|intro:cd ..|
+INPUT|lclarkea-intro-264|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-265|U |000000000|lclarkea|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  temp users  vmlinuz
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   tmp  usr    vmlinuz.old
+dev   home    lib       lost+found  opt  root  share  sys   top_secret var
+INPUT|lclarkea-intro-266|U |000000000|lclarkea|intro:cd top_secret/|
+INPUT|lclarkea-intro-267|U |000000000|lclarkea|intro:ls|136intro-3.jpg wuer136intro-4.JPG
+INPUT|lclarkea-intro-268|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-269|U |000000000|lclarkea|intro:cd dev/|
+INPUT|lclarkea-intro-270|U |000000000|lclarkea|intro:ls|136intro-2jjaj.JPEG  fuse loop6      rtc0      tty12  tty30  tty49  ttyprintk  ttyS26   vcs3
+autofs       hpet loop7      sda       tty13  tty31  tty5   ttyS0      ttyS27   vcs4
+block       hugepages loop-control     sda1      tty14  tty32  tty50  ttyS1      ttyS28   vcs5
+bsg       hwrng mapper      sda2      tty15  tty33  tty51  ttyS10     ttyS29   vcs6
+btrfs-control      i2c-0 mcelog      sda3      tty16  tty34  tty52  ttyS11     ttyS3    vcs7
+bus       i2c-1 mem      sg0       tty17  tty35  tty53  ttyS12     ttyS30   vcsa
+cdrom       i2c-2 memory_bandwidth    sg1       tty18  tty36  tty54  ttyS13     ttyS31   vcsa1
+char       i2c-3 mqueue      sg2       tty19  tty37  tty55  ttyS14     ttyS4    vcsa2
+console       initctl net      shm       tty2   tty38  tty56  ttyS15     ttyS5    vcsa3
+core       input network_latency     snapshot  
+INPUT|lclarkea-intro-271|U |000000000|lclarkea|intro:file *|%136intro-2jjaj.JPEG: JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% Exif Standard: [TIFF image data%% big-endian%% direntries=7%% orientation=upper-left%% xresolution=98%% yresolution=106%% resolutionunit=2%% software=Adobe Photoshop CS Windows%% datetime=2004:09:23 12:26:39]%% baseline%% precision 8%% 295x450%% frames 3
+autofs:              character special (10/235)
+block:               directory
+bsg:                 directory
+btrfs-control:       character special (10/234)
+bus:                 directory
+cdrom:               symbolic link to sr0
+char:                directory
+console:             character special (5/1)
+core:                symbolic link to /proc/kcore
+cpu:                 directory
+cpu_dma_latency:     character special (10/59)
+cuse:                character special (10/203)
+disk:                directory
+dri:                 directory
+ecryptfs:            character special 
+INPUT|lclarkea-intro-272|U |000000000|lclarkea|intro:|
+INPUT|lclarkea-intro-273|U |000000000|lclarkea|intro:mv 136intro-2jjaj.JPEG /top_secret|
+INPUT|lclarkea-intro-274|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-275|U |000000000|lclarkea|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  temp users  vmlinuz
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   tmp  usr    vmlinuz.old
+dev   home    lib       lost+found  opt  root  share  sys   top_secret var
+INPUT|lclarkea-intro-276|U |000000000|lclarkea|intro:cd top_secret/|
+INPUT|lclarkea-intro-277|U |000000000|lclarkea|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  wuer136intro-4.JPG
+INPUT|lclarkea-intro-278|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-279|U |000000000|lclarkea|intro:cd usr|
+INPUT|lclarkea-intro-280|U |000000000|lclarkea|intro:cd share/|
+INPUT|lclarkea-intro-281|U |000000000|lclarkea|intro:cd pixmaps/|
+INPUT|lclarkea-intro-282|U |000000000|lclarkea|intro:cd xbzf136INTRO-1.jpg|bash: cd: xbzf136INTRO-1.jpg: Not a directory
+INPUT|lclarkea-intro-283|U |000000000|lclarkea|intro:mv xbzf136INTRO-1.jpg /top_secret|
+INPUT|lclarkea-intro-284|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-285|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-286|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-287|U |000000000|lclarkea|intro:cd .hidden/|
+INPUT|lclarkea-intro-288|U |000000000|lclarkea|intro:mv asdf136Intro-5kqlw.jpeg /top_secret|
+INPUT|lclarkea-intro-289|U |000000000|lclarkea|intro:cd ../|
+INPUT|lclarkea-intro-290|U |000000000|lclarkea|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  temp users  vmlinuz
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   tmp  usr    vmlinuz.old
+dev   home    lib       lost+found  opt  root  share  sys   top_secret var
+INPUT|lclarkea-intro-291|U |000000000|lclarkea|intro:cd top_secret/|
+INPUT|lclarkea-intro-292|U |000000000|lclarkea|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkea-intro-293|U |000000000|lclarkea|intro:vi answers.txt|%<ESC>[?1049h<ESC>[?1h<ESC>=<ESC>[2;1H<BD><ESC>[6n<ESC>[2;1H  <ESC>[1;1H<ESC>]11;?<BEL><ESC>[1;30r<ESC>[?12;25h<ESC>[?12l<ESC>[?25h<ESC>[27m<ESC>[23m<ESC>[m<ESC>[H<ESC>[2J<ESC>[?25l<ESC>[30;1H"answers.txt" [New File]<ESC>[>c<ESC>[2;1H<ESC>[94m~                                                                                                                       <ESC>[3;1H~                                                                                                                       <ESC>[4;1H~                                                                                                                       <ESC>[5;1H~                                                                                                                       <ESC>[6;1H~                                                                                                                       <ESC>[7;1H~                                                                                                          
+INPUT|lclarkea-intro-294|U |000000000|lclarkea|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkea-intro-295|U |000000000|lclarkea|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkea-intro-296|U |000000000|lclarkea|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg

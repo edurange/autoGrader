@@ -1,0 +1,1745 @@
+User lclarkfi start time 1537817361 end 1538084837
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkfi-intro-0|U |000000000|lclarkfi|:|
+INPUT|lclarkfi-intro-1|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-2|U |000000000|lclarkfi|:|
+INPUT|lclarkfi-intro-3|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-4|U |1538083275|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-5|U |000000000|lclarkfi|intro:cd home|
+INPUT|lclarkfi-intro-6|U |1538083294|lclarkfi|intro:ls|deter
+INPUT|lclarkfi-intro-7|U |000000000|lclarkfi|intro:cd ~|
+INPUT|lclarkfi-intro-8|U |1538083344|lclarkfi|intro:mkdir top_secret|
+INPUT|lclarkfi-intro-9|U |1538083299|lclarkfi|intro:ls|hello.jpg  hello.txt  top_secret
+INPUT|lclarkfi-intro-10|U |000000000|lclarkfi|intro:mv h*|
+INPUT|lclarkfi-intro-11|U |000000000|lclarkfi|intro:mv h* top_secret|
+INPUT|lclarkfi-intro-12|U |1538083347|lclarkfi|intro:ls|top_secret
+INPUT|lclarkfi-intro-13|U |1538083541|lclarkfi|intro:tar cvzf james.tar.gz top_secret|top_secret/
+top_secret/hello.txt
+INPUT|lclarkfi-intro-14|U |1538083395|lclarkfi|intro:ls|james.tar.gz  top_secret
+INPUT|lclarkfi-intro-15|U |1538083588|lclarkfi|intro:ls top_secret|hello.txt
+INPUT|lclarkfi-intro-16|U |1538083635|lclarkfi|intro:ls|james.tar.gz  top_secret
+INPUT|lclarkfi-intro-17|U |1538083895|lclarkfi|intro:lstar cvzf james.tar.gz top_secret|
+INPUT|lclarkfi-intro-18|U |1538084021|lclarkfi|intro:lsmv[3Pcd[2Pls[4Pecho "used 1268019456 available 6007887" >> diskfree.txt|
+INPUT|lclarkfi-intro-19|U |000000000|lclarkfi|intro:echo "used 1268019456 available 6007887" >> diskfree.txt|
+INPUT|lclarkfi-intro-20|U |1538084033|lclarkfi|intro:lslslsssh intro.lclarkfi-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkfi-intro-21|U |000000000|lclarkfi|intro:rm lclarkfi-intro.tar.gz|
+INPUT|lclarkfi-intro-22|U |000000000|lclarkfi|intro:rm lclarkfi-intro.tar.gz|
+INPUT|lclarkfi-intro-23|U |1538084143|lclarkfi|intro:ls[1Psudo echo \"used 1268019456 available 6007887\" > diskfree.txt|
+INPUT|lclarkfi-intro-24|U |000000000|lclarkfi|intro:echo "used 1268019456 available 6007887" > diskfree.txt|
+INPUT|lclarkfi-intro-25|U |000000000|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|
+INPUT|lclarkfi-intro-26|U |000000000|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|
+INPUT|lclarkfi-intro-27|U |000000000|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|
+INPUT|lclarkfi-intro-28|U |1538084160|lclarkfi|intro:ls[28@tar cvzf lclarkfi-intro.tar.gz top_secret|
+INPUT|lclarkfi-intro-29|U |1538084172|lclarkfi|intro:lstar cvzf lclarkfi-intro.tar.gz top_secret|
+INPUT|lclarkfi-intro-30|U |000000000|lclarkfi|intro:echo "used 1268019456 available 6007887" > diskfree.txt|
+INPUT|lclarkfi-intro-31|U |000000000|lclarkfi|intro:echo "used 1268019456 available 6007887" > diskfree.txt|
+INPUT|lclarkfi-intro-32|U |1538084458|lclarkfi|intro:lscd lssudo echo "1.usr/share/pixmaps/xbzf136INTRO-1.jpg" >> answers.t|txt[Aarkfi@intro:~$ [2Pecho "1.usr/share/pixmaps/xbzf136INTRO-1.jpg" >> answers.txt
+
+INPUT|lclarkfi-intro-33|U |000000000|lclarkfi|intro:echo "1.usr/share/pixmaps/xbzf136INTRO-1.jpg" >> answers.txt|
+INPUT|lclarkfi-intro-34|U |000000000|lclarkfi|intro:cat "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" >> answers.t|txt<ESC>[Aarkfi@intro:~$ sudo echo "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" 
+
+txt<ESC>[Aarkfi@intro:~$ sudo echo "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" >> answers.<ESC>[1@txt<ESC>[Arkfi@intro:~$ <ESC>[1Pecho "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" >> answers.txt
+
+INPUT|lclarkfi-intro-35|U |000000000|lclarkfi|intro:echo "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" >> answers.txt|
+INPUT|lclarkfi-intro-36|U |000000000|lclarkfi|intro:echo \"1./usr/share/pixmaps/xbzf136INTRO-1.jpg\" >> answers.|.txt<ESC>[Arkfi@intro:~$ <ESC>[1Pecho "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" >> answers.txt
+
+INPUT|lclarkfi-intro-37|U |000000000|lclarkfi|intro:echo "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" >> answers.txt|
+INPUT|lclarkfi-intro-38|U |1538084758|lclarkfi|intro:lslssudo mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-39|U |1538084834|lclarkfi|intro:ls[K|
+INPUT|lclarkfi-intro-40|U |000000000|lclarkfi|intro:mv -t home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-41|U |000000000|lclarkfi|intro:mv ~/ home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|mv: cannot move '/users/lclarkfi/top_secret' to './.hidden/asdf136Intro-5kqlw.jpeg': No such file or directory
+INPUT|lclarkfi-intro-42|U |000000000|lclarkfi|intro:ls|james.tar.gz  top_secret
+INPUT|lclarkfi-intro-43|U |000000000|lclarkfi|intro:mv -t op_secret ./.hidden/asdf136Intro-5kqlw.jpeg|mv: cannot stat './.hidden/asdf136Intro-5kqlw.jpeg': No such file or directory
+INPUT|lclarkfi-intro-44|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-45|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-46|U |000000000|lclarkfi|intro:mv -t ~/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-47|U |000000000|lclarkfi|intro:mv -t ~/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-48|U |000000000|lclarkfi|intro:mv -t ~/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-49|U |000000000|lclarkfi|intro:mv -t ~/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-50|U |000000000|lclarkfi|intro:mv ~/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-51|U |000000000|lclarkfi|intro:tar cvzf james.tar.gz top_secret|
+INPUT|lclarkfi-intro-52|U |000000000|lclarkfi|intro:echo "used 1268019456 available 6007887" >> diskfree.txt|
+INPUT|lclarkfi-intro-53|U |000000000|lclarkfi|intro:echo "used 1268019456 available 6007887" >> diskfree.txt|
+INPUT|lclarkfi-intro-54|U |000000000|lclarkfi|intro:echo "used 1268019456 available 6007887" >> diskfree.txt|
+INPUT|lclarkfi-intro-55|U |000000000|lclarkfi|intro:ssh intro.lclarkfi-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkfi-intro-56|U |000000000|lclarkfi|intro:rm lclarkfi-intro.tar.gz|
+INPUT|lclarkfi-intro-57|U |000000000|lclarkfi|intro:rm lclarkfi-intro.tar.gz|
+INPUT|lclarkfi-intro-58|U |000000000|lclarkfi|intro:rm lclarkfi-intro.tar.gz|
+INPUT|lclarkfi-intro-59|U |000000000|lclarkfi|intro:rm lclarkfi-intro.tar.gz|
+INPUT|lclarkfi-intro-60|U |000000000|lclarkfi|intro:echo \"used 1268019456 available 6007887\" > diskfree.txt|
+INPUT|lclarkfi-intro-61|U |000000000|lclarkfi|intro:echo "used 1268019456 available 6007887" > diskfree.txt|
+INPUT|lclarkfi-intro-62|U |000000000|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|
+INPUT|lclarkfi-intro-63|U |000000000|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|
+INPUT|lclarkfi-intro-64|U |000000000|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|
+INPUT|lclarkfi-intro-65|U |000000000|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|
+INPUT|lclarkfi-intro-66|U |000000000|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|
+INPUT|lclarkfi-intro-67|U |000000000|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|
+INPUT|lclarkfi-intro-68|U |000000000|lclarkfi|intro:echo "used 1268019456 available 6007887" > diskfree.txt|
+INPUT|lclarkfi-intro-69|U |000000000|lclarkfi|intro:echo "used 1268019456 available 6007887" > diskfree.txt|
+INPUT|lclarkfi-intro-70|U |000000000|lclarkfi|intro:echo "used 1268019456 available 6007887" > diskfree.txt|
+INPUT|lclarkfi-intro-71|U |000000000|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|
+INPUT|lclarkfi-intro-72|U |000000000|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|
+INPUT|lclarkfi-intro-73|U |000000000|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|
+INPUT|lclarkfi-intro-74|U |000000000|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|
+INPUT|lclarkfi-intro-75|U |000000000|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|
+INPUT|lclarkfi-intro-76|U |000000000|lclarkfi|intro:echo "used 1268019456 available 6007887" > diskfree.txt|
+INPUT|lclarkfi-intro-77|U |000000000|lclarkfi|intro:echo "used 1268019456 available 6007887" > diskfree.txt|
+INPUT|lclarkfi-intro-78|U |000000000|lclarkfi|intro:rm lclarkfi-intro.tar.gz|
+INPUT|lclarkfi-intro-79|U |000000000|lclarkfi|intro:rm lclarkfi-intro.tar.gz|
+INPUT|lclarkfi-intro-80|U |000000000|lclarkfi|intro:ssh intro.lclarkfi-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkfi-intro-81|U |000000000|lclarkfi|intro:echo "used 1268019456 available 6007887" >> diskfree.txt|
+INPUT|lclarkfi-intro-82|U |000000000|lclarkfi|intro:echo "used 1268019456 available 6007887" >> diskfree.txt|
+INPUT|lclarkfi-intro-83|U |000000000|lclarkfi|intro:tar cvzf james.tar.gz top_secret|
+INPUT|lclarkfi-intro-84|U |000000000|lclarkfi|intro:mv ~/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-85|U |000000000|lclarkfi|intro:mv -t ~/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-86|U |000000000|lclarkfi|intro:mv -t ~/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-87|U |000000000|lclarkfi|intro:mv -t ~/top_secret /usr/share/pixmaps/xbzf136INTRO-1.jpg|
+INPUT|lclarkfi-intro-88|U |000000000|lclarkfi|intro:mv -t ~/top_secret /dev/136intro2jjaj.JPEG|mv: cannot stat '/dev/136intro2jjaj.JPEG': No such file or directory
+INPUT|lclarkfi-intro-89|U |000000000|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-90|U |000000000|lclarkfi|intro:cd dev|
+INPUT|lclarkfi-intro-91|U |000000000|lclarkfi|intro:ls|136intro-2jjaj.JPEG  loop6   tty12 tty49    ttyS26
+autofs       loop7   tty13 tty5    ttyS27
+block       loop-control  tty14 tty50    ttyS28
+bsg       mapper   tty15 tty51    ttyS29
+btrfs-control      mcelog   tty16 tty52    ttyS3
+bus       mem   tty17 tty53    ttyS30
+cdrom       memory_bandwidth  tty18 tty54    ttyS31
+char       mqueue   tty19 tty55    ttyS4
+console       net   tty2 tty56    ttyS5
+core       network_latency  tty20 tty57    ttyS6
+cpu       network_throughput  tty21 tty58    ttyS7
+cpu_dma_latency      null   tty22 tty59    ttyS8
+cuse       port   tty23 tty6    ttyS9
+disk       ppp   tty24 tty60    uhid
+dri       psaux   tty25 tty61    uinput
+ecryptfs      ptmx   tty26 tty62  
+INPUT|lclarkfi-intro-92|U |000000000|lclarkfi|intro:pwd|/dev
+INPUT|lclarkfi-intro-93|U |000000000|lclarkfi|intro:mv -t ~/top_secret /usr/share/pixmaps/xbzf136INTRO-1.jp|pg<ESC>[Alarkfi@intro:/dev$ sudo mv -t ~/top_secret /<ESC>[12Pdev/136intro2jjaj.JPEG
+
+INPUT|lclarkfi-intro-94|U |000000000|lclarkfi|intro:mv -t ~/top_secret /dev/136intro2jjaj.JPEG|mv: cannot stat '/dev/136intro2jjaj.JPEG': No such file or directory
+INPUT|lclarkfi-intro-95|U |000000000|lclarkfi|intro:mv -t ~/top_secret /dev/136intro-jjaj.JPEG|
+INPUT|lclarkfi-intro-96|U |000000000|lclarkfi|intro:mv -t ~/top_secret /var/log/136intro-3.jpg|
+INPUT|lclarkfi-intro-97|U |000000000|lclarkfi|intro:mv -t ~/top_secret /etc/wuer136intro-4.JPG|
+INPUT|lclarkfi-intro-98|U |000000000|lclarkfi|intro:cd ~|
+INPUT|lclarkfi-intro-99|U |000000000|lclarkfi|intro:ls|james.tar.gz  top_secret
+INPUT|lclarkfi-intro-100|U |000000000|lclarkfi|intro:cd top_secret|
+INPUT|lclarkfi-intro-101|U |000000000|lclarkfi|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+136intro-3.jpg      hello.txt        xbzf136INTRO-1.jpg
+INPUT|lclarkfi-intro-102|U |1538084141|lclarkfi|intro:rm hello.txt|
+INPUT|lclarkfi-intro-103|U |000000000|lclarkfi|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkfi-intro-104|U |000000000|lclarkfi|intro:echo > answers.txt|
+INPUT|lclarkfi-intro-105|U |000000000|lclarkfi|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkfi-intro-106|U |000000000|lclarkfi|intro:echo > diskfreetxt|
+INPUT|lclarkfi-intro-107|U |000000000|lclarkfi|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      diskfree.txt
+answers.txt      wuer136intro-4.JPG
+INPUT|lclarkfi-intro-108|U |1538084215|lclarkfi|intro:1./usr/share/pixmaps/xbzf136INTRO-1.jpg|bash: 1./usr/share/pixmaps/xbzf136INTRO-1.jpg: No such file or directory
+INPUT|lclarkfi-intro-109|U |1538084253|lclarkfi|intro:1./usr/share/pixmaps/xbzf136INTRO-1.jpg >> answers|
+INPUT|lclarkfi-intro-110|U |1538084297|lclarkfi|intro:1./usr/share/pixmaps/xbzf136INTRO-1.jpg >> answers.txt|bash: 1./usr/share/pixmaps/xbzf136INTRO-1.jpg: No such file or directory
+INPUT|lclarkfi-intro-111|U |000000000|lclarkfi|intro:1./usr/share/pixmaps/xbzf136INTRO-1.jpg >> topsecanswers.txt clarkfi@intro:~/top_secret$ 1./usr/share/pixmaps/xbzf136INTRO-1.jpg >> topsecranswers.txt|t<ESC>[Aclarkfi@intro:~/top_secret$ 1./usr/share/pixmaps/xbzf136INTRO-1.jpg >> topsecreanswers.txt<ESC>[Alarkfi@intro:~/top_secret$ 1./usr/share/pixmaps/xbzf136INTRO-1.jpg >> topsecretanswers.txt<ESC>[Aarkfi@intro:~/top_secret$ 1./usr/share/pixmaps/xbzf136INTRO-1.jpg >> topsecret<BS><BS><BS><BS><BS><BS>_secretanswers.<ESC>[1@t<ESC>[Alarkfi@intro:~/top_secret$ 1./usr/share/pixmaps/xbzf136INTRO-1.jpg >> top_secret.answers<ESC>[1@.<ESC>[Alarkfi@intro:~/top_secret$ 1./usr/share/pixmaps/xbzf136INTRO-1.jpg >> top_secret./answer<ESC>[1@s<ESC>[Alarkfi@intro:~/top_secret$ 1./usr/share/pixmaps/xbzf136INTRO-1.jpg >> top_secret./<BS><BS>.<BS>/answers<ESC>[1P<ESC>[Aclarkfi@intro:~/top_secret$ 1./usr/share/pixmaps/xbzf136INTRO-1.jpg >> top_secret
+
+
+bash: top_secret/answers.txt: No such file or directory
+INPUT|lclarkfi-intro-112|U |000000000|lclarkfi|intro:1./usr/share/pixmaps/xbzf136INTRO-1.jpg >> top_secret/answers|s.txt<BS><BS><BS><BS>
+INPUT|lclarkfi-intro-113|U |000000000|lclarkfi|intro:1./usr/share/pixmaps/xbzf136INTRO-1.jpg > top_secret/answers.clarkfi@intro:~/top_secret$ 1./usr/share/pixmaps/xbzf136INTRO-1.jpg|
+
+bash: top_secret/answers.txt: No such file or directory
+INPUT|lclarkfi-intro-114|U |000000000|lclarkfi|intro:1./usr/share/pixmaps/xbzf136INTRO-1.jpg > top_secret/answers.|.txt<BS><BS><BS>
+INPUT|lclarkfi-intro-115|U |000000000|lclarkfi|intro:1./usr/share/pixmaps/xbzf136INTRO-1.jpg > top_secretanswers.tclarkfi@intro:~/top_secret$ 1./usr/share/pixmaps/xbzf136INTRO-1.jpg > top_secreanswers.txtlarkfi@intro:~/top_secret$ 1./usr/share/pixmaps/xbzf136INTRO-1.jpg > top_secranswers.txtclarkfi@intro:~/top_secret$ 1./usr/share/pixmaps/xbzf136INTRO-1.jpg > top_secanswers.txt|
+INPUT|lclarkfi-intro-116|U |000000000|lclarkfi|intro:1./usr/share/pixmaps/xbzf136INTRO-1.jpg > top_sec|
+INPUT|lclarkfi-intro-117|U |000000000|lclarkfi|intro:1./usr/share/pixmaps/xbzf136INTRO-1.jpg > top_se|bash: 1./usr/share/pixmaps/xbzf136INTRO-1.jpg: No such file or directory
+INPUT|lclarkfi-intro-118|U |000000000|lclarkfi|intro:cat sr/share/pixmaps/xbzf136INTRO-1.jpg > answers.txt|cat: 1./usr/share/pixmaps/xbzf136INTRO-1.jpg: No such file or directory
+INPUT|lclarkfi-intro-119|U |000000000|lclarkfi|intro:echo1./usr/share/pixmaps/xbzf136INTRO-1.jpg > answers.txt|
+INPUT|lclarkfi-intro-120|U |000000000|lclarkfi|intro:echo Godzilla movie posterxbzf136INTRO-1.jpg >>answers.txt|
+INPUT|lclarkfi-intro-121|U |000000000|lclarkfi|intro:echo /dev/136intro-2jjaj.JPEG answers.txt|
+INPUT|lclarkfi-intro-122|U |000000000|lclarkfi|intro:echo /dev/136intro-2jjaj.JPEG >> answers.txt|
+INPUT|lclarkfi-intro-123|U |000000000|lclarkfi|intro:echo Dimension  vie poster >> answers.txt|
+INPUT|lclarkfi-intro-124|U |000000000|lclarkfi|intro:echo /var/log/136intro-3.jpg>> answers.txt|
+INPUT|lclarkfi-intro-125|U |000000000|lclarkfi|intro:echo Fly movie poster >> answers.txt|
+INPUT|lclarkfi-intro-126|U |000000000|lclarkfi|intro:echo /etc/wuer136intro-4.JPG >> answers.txt|
+INPUT|lclarkfi-intro-127|U |000000000|lclarkfi|intro:ls|136intro-2jjaj.JPEG  answers.txt       diskfree.txt   xbzf136INTRO-1.jpg
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+INPUT|lclarkfi-intro-128|U |000000000|lclarkfi|intro:echo Picture of 2001 a space odyssey movie po >> answers.txt clarkfi@intro:~/top_secret$ echo Picture of 2001 a space odyssey movie pos >> answers.txt|t<ESC>[Aclarkfi@intro:~/top_secret$ echo Picture of 2001 a space odyssey movie post >> answers.txt<ESC>[Alarkfi@intro:~/top_secret$ echo Picture of 2001 a space odyssey movie poste >> answers.txt<ESC>[Aarkfi@intro:~/top_secret$ echo Picture of 2001 a space odyssey movie poster >> answers.<ESC>[1@t<ESC>[Alarkfi@intro:~/top_secret$ echo Picture of 2001 a space odyssey movie poster
+
+
+INPUT|lclarkfi-intro-129|U |000000000|lclarkfi|intro:echo Picture of 2001 a space odyssey movie poster >> answers.|.txt<ESC>[Arkfi@intro:~/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-130|U |000000000|lclarkfi|intro:echo Picture of 2001 a space odyssey movie poster >> answers.|.txt<BS><BS><BS>
+INPUT|lclarkfi-intro-131|U |000000000|lclarkfi|intro:echo Picture of 2001 a space odyssey movie poste >> answers.tclarkfi@intro:~/top_secret$ echo Picture of 2001 a space odyssey movie post >> answers.txtlarkfi@intro:~/top_secret$ echo Picture of 2001 a space odyssey movie pos >> answers.txtclarkfi@intro:~/top_secret$ echo Picture of 2001 a space odyssey movie po >> answers.txt|
+INPUT|lclarkfi-intro-132|U |000000000|lclarkfi|intro:echo Picture of 2001 a space odyssey movie po|
+INPUT|lclarkfi-intro-133|U |000000000|lclarkfi|intro:echo /.hidden/asdf123Intro-5kqlw.jpegmovie p|
+INPUT|lclarkfi-intro-134|U |000000000|lclarkfi|intro:echo /.hidden/asdf123Intro-5kqlw.jpeg >> answers.txt|
+INPUT|lclarkfi-intro-135|U |000000000|lclarkfi|intro:echo Picture of 2001 a space odyssey movie poster >> answers.|.txt<BS><BS><BS>
+INPUT|lclarkfi-intro-136|U |000000000|lclarkfi|intro:echo Picture of 2001 a space odysseymovie poster >> answers.tclarkfi@intro:~/top_secret$ echo Picture of 2001 a space odyssemovie poster >> answers.txtlarkfi@intro:~/top_secret$ echo Picture of 2001 a space odyssmovie poster >> answers.txtclarkfi@intro:~/top_secret$ echo Picture of 2001 a space odysmovie poster >> answers.txt|
+INPUT|lclarkfi-intro-137|U |000000000|lclarkfi|intro:echo Picture of 2001 a space odys|
+INPUT|lclarkfi-intro-138|U |000000000|lclarkfi|intro:echo Picture of Forbidden planet movie poster >> answers.txt clarkfi@intro:~/top_secret$ echo Picture of Forbidden planet|
+
+INPUT|lclarkfi-intro-139|U |000000000|lclarkfi|intro:echo contains files to which the system writes data during t|he course of its operation<ESC>[At$ echo Picture of Forbidden planet movie poster >> answers.tx
+
+INPUT|lclarkfi-intro-140|U |000000000|lclarkfi|intro:echo contains files to which the system writes data during|
+he course of its operation >> disk<BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS> answers.txt<BS><ESC>[A<BS><BS><BS><BS><BS><BS>Picture of Forbidden planet movie poster >> answers.tx
+
+INPUT|lclarkfi-intro-141|U |000000000|lclarkfi|intro:echo contains files to which the system writes data during|
+he course of its operation >> answers.txt<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfi-intro-142|U |000000000|lclarkfi|intro:%echo 1contains files to which the system writes data during thlarkfi@intro:~/top_secret$ echo 1|contains files to which the system writes data during <ESC>[1@t<ESC>[Alarkfi@intro:~/top_secret$ echo 1
+INPUT|lclarkfi-intro-143|U |000000000|lclarkfi|intro:echo 1.contains files to which the system writes data during| the course of its operation >> answers.txt<BS><ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS>Picture of Forbidden planet movie poster >> answers.txt 
+INPUT|lclarkfi-intro-144|U |000000000|lclarkfi|intro:echo 1.contains files to which the system writes data during| the course of its operation >> answers.txt<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P
+INPUT|lclarkfi-intro-145|U |000000000|lclarkfi|intro:echo 1.contains files to which the system writes data durin>>clarkfi@intro:~/top_secret$ echo 1.contains files to which the system writes data duri>|
+INPUT|lclarkfi-intro-146|U |000000000|lclarkfi|intro:echo 1.contains files to which the system writes data dur>> aclarkfi@intro:~/top_secret$ echo 1.contains files to which the system writes data du>> anclarkfi@intro:~/top_secret$ echo 1.contains files to which the system writes data d>> ansclarkfi@intro:~/top_secret$ echo 1.contains files to which the system writes data >> answclarkfi@intro:~/top_secret$ echo 1.contains files to which the system writes data>> answeclarkfi@intro:~/top_secret$ echo 1.contains files to which the system writes dat>> answerclarkfi@intro:~/top_secret$ echo 1.contains files to which the system writes da>> answersclarkfi@intro:~/top_secret$ echo 1.contains files to which the system writes d>> answers.clarkfi@intro:~/top_secret$ echo 1.contains files to which the system writes >> answers.tclarkfi@intro:~/top_secret$ echo 1.contains files to which the system writes>> answers.txtlarkfi@intro:~/top_secret$ echo 1.contains files to which the system write>> answers.txtclarkfi@intro:~/top_secret$ echo 1.contains files to which the system writ>> answers.txt|
+INPUT|lclarkfi-intro-147|U |000000000|lclarkfi|intro:echo 1.contains files to which the system writ|
+INPUT|lclarkfi-intro-148|U |000000000|lclarkfi|intro:echo 2.holds special device files related to  >> answers.txt clarkfi@intro:~/top_secret$ echo 2.holds special device files related to a >> answers.txt|t<ESC>[Aclarkfi@intro:~/top_secret$ echo 2.holds special device files related to a  >> answers.txt<ESC>[Alarkfi@intro:~/top_secret$ echo 2.holds special device files related to a c >> answers.txt<ESC>[Aarkfi@intro:~/top_secret$ echo 2.holds special device files related to a ce >> answers.<ESC>[1@t<ESC>[Alarkfi@intro:~/top_secret$ echo 2.holds special device files related to a cer >> answers<ESC>[1@.<ESC>[Alarkfi@intro:~/top_secret$ echo 2.holds special device files related to a cert >> answer<ESC>[1@s<ESC>[Alarkfi@intro:~/top_secret$ echo 2.holds special device files related to a certa >> answe<ESC>[1@r<ESC>[Alarkfi@intro:~/top_secret$ echo 2.holds special device files related to a certai >> answ<ESC>[1@e<ESC>[Alarkfi@intro:~/top_secret$ echo 2.holds special device files related to a certain >> ans<ESC>[1@w<ESC>[Alarkfi@intro:~/top_secret$ echo 2.holds special device files related to a certain  >> an<ESC>[1@s<ESC>[Alarkfi@intro:~/top_secret$ echo 2.holds special device files related to
+INPUT|lclarkfi-intro-149|U |000000000|lclarkfi|intro:%echo Used 1268019456| <ESC>[1@ <BS> <ESC>[1@ <BS><ESC>[1@A<ESC>[1@v<ESC>[1@a<ESC>[1@i<ESC>[1@l<ESC>[1@a<ESC>[1@b<ESC>[1@l<ESC>[1@e <ESC>[1@ <BS><ESC>[1@6<ESC>[1@0<ESC>[1@0<ESC>[1@7<ESC>[1@8<ESC>[1@8<ESC>[1@7%
+INPUT|lclarkfi-intro-150|U |000000000|lclarkfi|intro:%echo Used 1268019456uineIntel >>|  Available 6007887 >> diskfree <BS>. <BS>t <BS>x <BS>t <BS>%
+INPUT|lclarkfi-intro-151|U |000000000|lclarkfi|intro:%echo Used 1268019456|  Available 6007887 >> diskfree.txt <BS><BS><BS><BS><BS> <ESC>[K<BS>.txt <BS><BS><BS><BS><BS> <ESC>[K%
+INPUT|lclarkfi-intro-152|U |000000000|lclarkfi|intro:echo 2.holds special device files related to a certain type o|%of device >> answers.txt<ESC>[Aret$ echo <ESC>[7PUsed 1268019456%%  Available 6007887 >> diskfre
+%
+INPUT|lclarkfi-intro-153|U |000000000|lclarkfi|intro:%echo Used 1268019456|  Available 6007887 >> diskfree <BS><BS><BS><BS><BS>free%
+INPUT|lclarkfi-intro-154|U |000000000|lclarkfi|intro:echo 2.holds special device files related to a certain type o|%of device >> answers.txt<ESC>[Aret$ echo 1.contains files to which the system writes data during <ESC>[19@the course of its operation >> answers.txt<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS>2.holds special device files related to a certain type o<ESC>[19Pf device >> answers.txt<ESC>[Aret$ echo <ESC>[7PUsed 1268019456%%  Available 6007887 >> diskfre
+%
+INPUT|lclarkfi-intro-155|U |000000000|lclarkfi|intro:%echo Used 1268019456|  Available 6007887 >> diskfree <BS>.txt <BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<ESC>[1P<BS><BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<ESC>[1P<BS><ESC>[1P<BS><BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<ESC>[1P<BS><BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<ESC>[1@V<ESC>[1@e<ESC>[1@n<ESC>[1@d<ESC>[1@o<ESC>[1@r <ESC>[1@ <BS><ESC>[1@I<ESC>[1@D <ESC>[1@ <BS><ESC>[1@= <ESC>[1@ <BS><ESC>[1@G<ESC>[1@e<ESC>[1@n<ESC>[1@u<ESC>[1@i<ESC>[1@n<ESC>[1@e <ESC>[1@ <BS><ESC>[1P<BS><ESC>[1@I<ESC>[1@n<ESC>[1@t<ESC>[1@e<ESC>[1@l%
+INPUT|lclarkfi-intro-156|U |000000000|lclarkfi|intro:ls|136intro-2jjaj.JPEG  answers.txt       diskfree     wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  diskfree.txt  xbzf136INTRO-1.jpg
+INPUT|lclarkfi-intro-157|U |1538084766|lclarkfi|intro:rm diskfree|
+INPUT|lclarkfi-intro-158|U |000000000|lclarkfi|intro:ls|136intro-2jjaj.JPEG  answers.txt       diskfree.txt   xbzf136INTRO-1.jpg
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+INPUT|lclarkfi-intro-159|U |000000000|lclarkfi|intro:echo Vendor ID = GenuineIntel >> diskfree.txt|
+INPUT|lclarkfi-intro-160|U |000000000|lclarkfi|intro:%echo Used 1268019456|  Available 6007887 >> diskfree.txt <BS><BS><BS><BS><BS> <ESC>[K%
+INPUT|lclarkfi-intro-161|U |000000000|lclarkfi|intro:echo 2.holds special device files related to a certain type o|of device >> answers.txt<ESC>[Aret$ echo 1.contains files to which the system writes data during <ESC>[19@the course of its operation >> answers.txt<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS>Picture of Forbidden planet movie poster >> answers.txt 
+INPUT|lclarkfi-intro-162|U |000000000|lclarkfi|intro:echo /.hidden/asdf123Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-163|U |000000000|lclarkfi|intro:echo /.hidden/asdf123Intro-5kqlw.jpeg >> answers.txt|
+INPUT|lclarkfi-intro-164|U |000000000|lclarkfi|intro:echo Picture of 2001 a space odyssey movie poster >> answers.|.txt<ESC>[Arkfi@intro:~/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-165|U |000000000|lclarkfi|intro:echo /etc/wuer136intro-4.JPG >> answers.txt|
+INPUT|lclarkfi-intro-166|U |000000000|lclarkfi|intro:echo /var/log/136intro-3.jpg >> answers.txt|
+INPUT|lclarkfi-intro-167|U |000000000|lclarkfi|intro:echo Dimension movie poster >> answers.txt|
+INPUT|lclarkfi-intro-168|U |000000000|lclarkfi|intro:echo /dev/136intro-2jjaj.JPEG >> answers.txt|
+INPUT|lclarkfi-intro-169|U |000000000|lclarkfi|intro:echo Godzilla movie poster >> answers.txt|
+INPUT|lclarkfi-intro-170|U |000000000|lclarkfi|intro:echo 1./usr/share/pixmaps/xbzf136INTRO-1.jpg > answers.txt|
+INPUT|lclarkfi-intro-171|U |000000000|lclarkfi|intro:cat 1./usr/share/pixmaps/xbzf136INTRO-1.jpg > answers.txt|
+INPUT|lclarkfi-intro-172|U |000000000|lclarkfi|intro:1./usr/share/pixmaps/xbzf136INTRO-1.jpg > top_secret/answers.|.txt<ESC>[Arkfi@intro:~/top_secret$ 1./usr/share/pixmaps/xbzf136INTRO-1.jpg >> top_secret/answers<ESC>[1@.txt<ESC>[Akfi@intro:~/top_secret$ 1./usr/share/pixmaps/xbzf136INTRO-1.jpg >> <ESC>[6Panswers.txt
+
+INPUT|lclarkfi-intro-173|U |000000000|lclarkfi|intro:1./usr/share/pixmaps/xbzf136INTRO-1.jpg >> answers.txt|
+INPUT|lclarkfi-intro-174|U |000000000|lclarkfi|intro:mv -t ~/top_secret /dev/136intro2jjaj.JPEGG|
+INPUT|lclarkfi-intro-175|U |000000000|lclarkfi|intro:mv -t ~/top_secret /usr/share/pixmaps/xbzf136INTRO-1.jpg|g<ESC>[Aclarkfi@intro:~/top_secret$ sudo mv -t ~/top_secret <ESC>[3P./.hidden/asdf136Intro-5kqlw.jpeg
+
+INPUT|lclarkfi-intro-176|U |000000000|lclarkfi|intro:mv -t ~/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-177|U |000000000|lclarkfi|intro:mv -t ~/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-178|U |000000000|lclarkfi|intro:mv ~/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-179|U |000000000|lclarkfi|intro:tar cvzf james.tar.gz top_secret|
+INPUT|lclarkfi-intro-180|U |000000000|lclarkfi|intro:tar cvzf lclarkfi-introop_secret|tar: top_secret: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+INPUT|lclarkfi-intro-181|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-182|U |000000000|lclarkfi|intro:ls|james.tar.gz  top_secret
+INPUT|lclarkfi-intro-183|U |1538084837|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|top_secret/
+top_secret/answers.txt
+top_secret/asdf136Intro-5kqlw.jpeg
+top_secret/xbzf136INTRO-1.jpg
+top_secret/136intro-2jjaj.JPEG
+top_secret/136intro-3.jpg
+top_secret/wuer136intro-4.JPG
+top_secret/diskfree.txt
+top_secret/lclarkfi-intro.tar.gz
+INPUT|lclarkfi-intro-184|U |1537817361|lclarkfi|intro:ls|
+INPUT|lclarkfi-intro-185|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-186|U |1537817366|lclarkfi|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfi  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfi-intro-187|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-188|U |1537817378|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-189|A1 A4 A3 A0 A2 |1537817459|lclarkfi|intro:find -mount /[1@[1[1P[1@| -name[1P[1@ *into[1[1Pro* | 2 > [ /dev/[1Pll|%2: command not found
+No command '-name' found%% did you mean:
+ Command 'uname' from package 'coreutils' (main)
+-name: command not found%
+INPUT|lclarkfi-intro-190|A4 A3 A1 A2 A0 |000000000|lclarkfi|intro:find -mount / -name *intro* | 2 > /dev/null|find: paths must precede expression: /
+Usage: find [-H] [-L] [-P] [-Olevel] [-D help|tree|search|stat|rates|opt|exec|time] [path...] [expression]
+2: command not found
+INPUT|lclarkfi-intro-191|A1 A3 A4 A0 A2 |000000000|lclarkfi|intro:find -name *intro* | 2 > /dev/null|find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+2: command not found
+INPUT|lclarkfi-intro-192|U |000000000|lclarkfi|intro:cd home|
+INPUT|lclarkfi-intro-193|U |1537817387|lclarkfi|intro:ls|deter
+INPUT|lclarkfi-intro-194|A0 A2 A1 A4 A3 |000000000|lclarkfi|intro:find / -name *intro* | 2 > /dev/null|2: command not found
+INPUT|lclarkfi-intro-195|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-196|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-197|U |1537825304|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-198|U |000000000|lclarkfi|intro:cd home|
+INPUT|lclarkfi-intro-199|U |1537825392|lclarkfi|intro:mkdir top_secert|mkdir: cannot create directory 'top_secert': Permission denied
+INPUT|lclarkfi-intro-200|U |1537825402|lclarkfi|intro:mkdir top_secert|
+INPUT|lclarkfi-intro-201|U |1537825313|lclarkfi|intro:ls|deter  top_secert
+INPUT|lclarkfi-intro-202|U |1537825514|lclarkfi|intro:man touch|%[?1049h[?1h=
+TOUCH(1)                         User Commands                        TOUCH(1)[m
+[m
+[1mNAME[0m[m
+       touch - change file timestamps[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mtouch[0m [[4mOPTION[24m]... [4mFILE[24m...[m
+[m
+[1mDESCRIPTION[0m[m
+       Update  the  access  and modification times of each FILE to the current[m
+       time.[m
+[m
+       A FILE argument that does not exist is created empty%% unless [1m-c[0m  or  [1m-h[0m[m
+       is supplied.[m
+[m
+       A  FILE  argument  string of - is handled specially and causes touch to[m
+       change the times of the file associated with standard output.[m
+[m
+       Mandatory arguments to long options are  mandatory  for  short  options[m
+       too.[m
+[m
+       [1m-a[0m     change only the access time[m
+[m
+[7m Manual page touch(1) line 1 (press h for help or q to quit)[27m[K
+[K [KESC[KO[KB
+[K       [1m-c[0m%% [1m--no-create[0m[m
+[7m Manual page touch
+INPUT|lclarkfi-intro-203|U |000000000|lclarkfi|intro:echo answers.txt|answers.txt
+INPUT|lclarkfi-intro-204|U |1537825702|lclarkfi|intro:touch answers.txt|touch: cannot touch 'answers.txt': Permission denied
+INPUT|lclarkfi-intro-205|U |1537825708|lclarkfi|intro:touch answers.txt|
+INPUT|lclarkfi-intro-206|U |1537825405|lclarkfi|intro:ls|answers.txt  deter  top_secert
+INPUT|lclarkfi-intro-207|U |1537825848|lclarkfi|intro:mv answers.txt /home/top_secert|mv: cannot move 'answers.txt' to '/home/top_secert/answers.txt': Permission denied
+INPUT|lclarkfi-intro-208|U |000000000|lclarkfi|intro:swers.txt /home/top_secert|
+INPUT|lclarkfi-intro-209|U |000000000|lclarkfi|intro:cd top_secert|
+INPUT|lclarkfi-intro-210|U |1537825710|lclarkfi|intro:ls|answers.txt
+INPUT|lclarkfi-intro-211|A0 A2 A1 A4 A3 |1537826114|lclarkfi|intro:find [1@/[1@ - name \"*intor*\" | xrags file $1 ||
+INPUT|lclarkfi-intro-212|A2 A0 A4 A3 A1 |1537826121|lclarkfi|intro:find / - name "*intor*" | xrags file $1 |2 > /dev/null|%2: command not found
+No command 'xrags' found%% did you mean:
+ Command 'xargs' from package 'findutils' (main)
+xrags: command not found%
+INPUT|lclarkfi-intro-213|A4 A3 A1 A2 A0 |1537826138|lclarkfi|intro:find / - name \"*intor*\" | xrags file $1 [1[1[1[1[1[1[1[1[1[1[1[1[1[1[1[1[1[1P[1@[1P[1@ [1@|[1@|2: command not found
+INPUT|lclarkfi-intro-214|A2 A0 A4 A3 A1 |1537826179|lclarkfi|intro:find / - name \"*intor[1[1P[1@r[1@ov/null|2: command not found
+INPUT|lclarkfi-intro-215|A1 A3 A4 A0 A2 |000000000|lclarkfi|intro:find / - name \"*intro*\" | 2 > /dev/null|find: '-': No such file or directory
+find: 'name': No such file or directory
+find: '*intro*': No such file or directory
+2: command not found
+INPUT|lclarkfi-intro-216|A2 A0 A4 A3 A1 |000000000|lclarkfi|intro:find - | me \"*intro*\" | 2 > /dev/null|-: command not found
+2: command not found
+INPUT|lclarkfi-intro-217|A4 A3 A1 A2 A0 |000000000|lclarkfi|intro:find | - name \"*intro*\" | 2 > /dev/null|%2: command not found
+No command '-name' found%% did you mean:
+ Command 'uname' from package 'coreutils' (main)
+-name: command not found%
+INPUT|lclarkfi-intro-218|A4 A3 A1 A2 A0 |000000000|lclarkfi|intro:find | |name \"*intro*\" | 2 > /dev/null|%2: command not found
+No command '-name' found%% did you mean:
+ Command 'uname' from package 'coreutils' (main)
+-name: command not found%
+INPUT|lclarkfi-intro-219|A4 A3 A1 A2 A0 |000000000|lclarkfi|intro:find |-/-name \"*intro*\"|find: '/-name': No such file or directory
+find: '*intro*': No such file or directory
+INPUT|lclarkfi-intro-220|A2 A0 A4 A3 A1 |000000000|lclarkfi|intro:find /-|ame \"*intro*\"|%No command '-name' found%% did you mean:
+ Command 'uname' from package 'coreutils' (main)
+-name: command not found%
+INPUT|lclarkfi-intro-221|U |000000000|lclarkfi|intro:..|..: command not found
+INPUT|lclarkfi-intro-222|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-223|U |000000000|lclarkfi|intro:%cd|<BS> <BS>../%
+INPUT|lclarkfi-intro-224|U |1537825868|lclarkfi|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkfi-intro-225|A4 A3 A1 A2 A0 |1537826114|lclarkfi|intro:find /-name \"*intro*\"|find: '/-name': No such file or directory
+find: '*intro*': No such file or directory
+INPUT|lclarkfi-intro-226|M3 M2 M1 |1537828079|lclarkfi|intro:find / -name \"*intro*\"|/var/log/ttylog/ttylog.intro.0
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/ttylog.intro.1
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/CS495LC/exp/derek-linuxintro
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.ns
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.png
+/proj/CS495LC/exp/george-introUnix
+/proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.png
+/proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.ns
+/proj/CS495LC/exp/jmache-intro2
+/proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.ns
+/proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.png
+/proj/CS495LC/exp/lclarkai-intro
+/proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.ns
+/proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.png
+/proj/CS495LC/exp/lclarkan-intro
+/proj/CS495LC/exp/lclarkan-intro/tbda
+INPUT|lclarkfi-intro-227|A1 A3 A4 A0 A2 |000000000|lclarkfi|intro:find / -name \"*intro*\" | 2 > /dev/null|2: command not found
+INPUT|lclarkfi-intro-228|A1 A3 A4 A0 A2 |000000000|lclarkfi|intro:find / -name "*intro*" | 2 > /dev/null|
+INPUT|lclarkfi-intro-229|A4 A3 A1 A2 A0 |1537826896|lclarkfi|intro:[Ksudo find / -name \"*intro*\" | grep jpeg|
+INPUT|lclarkfi-intro-230|A2 A0 A4 A3 A1 |1537827042|lclarkfi|intro:find / -name \"*intro*\" | grep jpeg |[1@ head -n 5|
+INPUT|lclarkfi-intro-231|U |000000000|lclarkfi|intro:suman head|%<ESC>[?1049h<ESC>[?1h<ESC>=
+HEAD(1)                                                User Commands                                                HEAD(1)<ESC>[m
+<ESC>[m
+<ESC>[1mNAME<ESC>[0m<ESC>[m
+       head - output the first part of files<ESC>[m
+<ESC>[m
+<ESC>[1mSYNOPSIS<ESC>[0m<ESC>[m
+       <ESC>[1mhead<ESC>[0m [<ESC>[4mOPTION<ESC>[24m]... [<ESC>[4mFILE<ESC>[24m]...<ESC>[m
+<ESC>[m
+<ESC>[1mDESCRIPTION<ESC>[0m<ESC>[m
+       Print  the first 10 lines of each FILE to standard output.  With more than one FILE%% precede each with a header giv-<ESC>[m
+       ing the file name.<ESC>[m
+<ESC>[m
+       With no FILE%% or when FILE is -%% read standard input.<ESC>[m
+<ESC>[m
+       Mandatory arguments to long options are mandatory for short options too.<ESC>[m
+<ESC>[m
+       <ESC>[1m-c<ESC>[0m%% <ESC>[1m--bytes<ESC>[0m=<ESC>[4m[-]NUM<ESC>[24m<ESC>[m
+              print the first NUM bytes of each file; with the leading '-'%% print all but the 
+INPUT|lclarkfi-intro-232|M2 |000000000|lclarkfi|intro:find / -name "*intro*" | heap jpeg | head -n 5|/var/log/ttylog/ttylog.intro.0
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/ttylog.intro.1
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+INPUT|lclarkfi-intro-233|M3 M2 |1537827304|lclarkfi|intro:find / -name \"*intro*\" | head -n 25|/var/log/ttylog/ttylog.intro.0
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/ttylog.intro.1
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/CS495LC/exp/derek-linuxintro
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.ns
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.png
+/proj/CS495LC/exp/george-introUnix
+/proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.png
+/proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.ns
+/proj/CS495LC/exp/jmache-intro2
+/proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.ns
+/proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.png
+/proj/CS495LC/exp/lclarkai-intro
+/proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.ns
+/proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.png
+/proj/CS495LC/exp/lclarkan-intro
+/proj/CS495LC/exp/lclarkan-intro/tbda
+INPUT|lclarkfi-intro-234|M1 |000000000|lclarkfi|intro:find / -name \"*intro**\" | grep -i "jpeg" ||/dev/136intro-2jjaj.JPEG
+INPUT|lclarkfi-intro-235|M3 M2 |1537827534|lclarkfi|intro:find / -name \"*intro*\" | grep -i \"jpe[1P | head -n 25|/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+INPUT|lclarkfi-intro-236|M0 |000000000|lclarkfi|intro:find / -name \"*in*INTRO | grep -i \"jpg\" | head -n 25|/usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|lclarkfi-intro-237|U |000000000|lclarkfi|intro:cd .|
+INPUT|lclarkfi-intro-238|A4 A3 A1 A2 A0 |1537827556|lclarkfi|intro:find / -name "*INTRO*" | grep -i "jpg" | head -n 25|
+INPUT|lclarkfi-intro-239|A2 A0 A4 A3 A1 |000000000|lclarkfi|intro:man find|%!TRUNCATED TO 500L! <ESC>[?1049h<ESC>[?1h<ESC>=
+FIND(1)                                           General Commands Manual                                           FIND(1)<ESC>[m
+<ESC>[m
+<ESC>[1mNAME<ESC>[0m<ESC>[m
+       find - search for files in a directory hierarchy<ESC>[m
+<ESC>[m
+<ESC>[1mSYNOPSIS<ESC>[0m<ESC>[m
+       <ESC>[1mfind<ESC>[0m [-H] [-L] [-P] [-D debugopts] [-Olevel] [starting-point...] [expression]<ESC>[m
+<ESC>[m
+<ESC>[1mDESCRIPTION<ESC>[0m<ESC>[m
+       This  manual  page  documents  the  GNU  version of <ESC>[1mfind<ESC>[0m.  GNU <ESC>[1mfind<ESC>[0m searches the directory tree rooted at each given<ESC>[m
+       starting-point by evaluating the given expression from left to right%% according to the rules of precedence (see sec-<ESC>[m
+       tion  OPERATORS)%% until the outcome is known (the left hand side is false for <ESC>[4mand<ESC>[24m operations%% true for <ESC>[4mor<ESC>[24m)%% at which<ESC>[m
+       point <ESC>[1mfind<ES
+INPUT|lclarkfi-intro-240|A0 A2 A1 A3 A4 |000000000|lclarkfi|intro:find / -.-name '.*'|find: '.-name': No such file or directory
+find: '.*': No such file or directory
+INPUT|lclarkfi-intro-241|A1 A3 A4 A0 A2 |000000000|lclarkfi|intro:find / name '.*'|!TRUNCATED TO 500L! /var/spool/cron/atjobs/.SEQ
+/var/lib/ieee-data/.lastupdate
+/var/lib/apparmor/profiles/.apparmor.md5sums
+/users/faber/.forward
+/users/sklower/.forward
+/users/lclarkfi/.login_conf
+/users/lclarkfi/.cshrc
+/users/lclarkfi/.login
+/users/lclarkfi/.mail_aliases
+/users/lclarkfi/.mailrc
+/users/lclarkfi/.profile
+/users/lclarkfi/.rhosts
+/users/lclarkfi/.shrc
+/users/lclarkfi/.ssl
+/users/lclarkfi/.ssh
+/users/lclarkfi/.forward
+/users/lclarkfi/.bash_history
+/users/lclarkfi/.cache
+/users/scuric/.forward
+/home/deter/.bash_logout
+/home/deter/.profile
+/home/deter/.bashrc
+/etc/cron.monthly/.placeholder
+/etc/cron.weekly/.placeholder
+/etc/.pwd.lock
+/etc/init.d/.depend.boot
+/etc/init.d/.depend.stop
+/etc/init.d/.depend.start
+/etc/cron.hourly/.placeholder
+/etc/cron.d/.placeholder
+/etc/.java
+/etc/.java/.systemPrefs
+/etc/.java/.systemPrefs/.system.lock
+/etc/.java/.systemPrefs/.systemRootModFile<N
+INPUT|lclarkfi-intro-242|A2 A0 A4 A3 A1 |1537827622|lclarkfi|intro:find / -name '.*'| head -n 25|/var/spool/cron/atjobs/.SEQ
+/var/lib/ieee-data/.lastupdate
+/var/lib/apparmor/profiles/.apparmor.md5sums
+/users/faber/.forward
+/users/sklower/.forward
+/users/lclarkfi/.login_conf
+/users/lclarkfi/.cshrc
+/users/lclarkfi/.login
+/users/lclarkfi/.mail_aliases
+/users/lclarkfi/.mailrc
+/users/lclarkfi/.profile
+/users/lclarkfi/.rhosts
+/users/lclarkfi/.shrc
+/users/lclarkfi/.ssl
+/users/lclarkfi/.ssh
+/users/lclarkfi/.forward
+/users/lclarkfi/.bash_history
+/users/lclarkfi/.cache
+/users/scuric/.forward
+/home/deter/.bash_logout
+/home/deter/.profile
+/home/deter/.bashrc
+/etc/cron.monthly/.placeholder
+/etc/cron.weekly/.placeholder
+/etc/.pwd.lock
+INPUT|lclarkfi-intro-243|A1 A3 A4 A0 A2 |000000000|lclarkfi|intro:find / -name './*| head -n 25|%find: warning: Unix filenames usually don't contain slashes (though pathnames do).  That means that '-name './*'' will probably evaluate to false all the time on this system.  You might find the '-wholename' test more useful%% or perhaps '-samefile'.  Alternatively%% if you are using GNU grep%% you could use 'find ... -print0 | grep -FzZ './*''.%
+INPUT|lclarkfi-intro-244|A0 A2 A1 A4 A3 |000000000|lclarkfi|intro:find / -name './*'| head -n 25|/var/spool/cron/atjobs/.SEQ
+/var/lib/ieee-data/.lastupdate
+/var/lib/apparmor/profiles/.apparmor.md5sums
+/users/faber/.forward
+/users/sklower/.forward
+/users/lclarkfi/.login_conf
+/users/lclarkfi/.cshrc
+/users/lclarkfi/.login
+/users/lclarkfi/.mail_aliases
+/users/lclarkfi/.mailrc
+/users/lclarkfi/.profile
+/users/lclarkfi/.rhosts
+/users/lclarkfi/.shrc
+/users/lclarkfi/.ssl
+/users/lclarkfi/.ssh
+/users/lclarkfi/.forward
+/users/lclarkfi/.bash_history
+/users/lclarkfi/.cache
+/users/scuric/.forward
+/home/deter/.bash_logout
+/home/deter/.profile
+/home/deter/.bashrc
+/etc/cron.monthly/.placeholder
+/etc/cron.weekly/.placeholder
+/etc/.pwd.lock
+INPUT|lclarkfi-intro-245|A1 A4 A3 A0 A2 |000000000|lclarkfi|intro:find -type d -name ".*" -n 25|.
+./users/lclarkfi/.ssl
+./users/lclarkfi/.ssh
+./users/lclarkfi/.cache
+./etc/.java
+./etc/.java/.systemPrefs
+./root/.cpanm
+./root/.ssh
+./root/.cache
+./root/.cpan
+./.hidden
+./tmp/.ICE-unix
+./tmp/.XIM-unix
+./tmp/.font-unix
+./tmp/.Test-unix
+./tmp/.X11-unix
+./lib/modules/4.4.0-79-generic/vdso/.build-id
+./lib/modules/4.4.0-83-generic/vdso/.build-id
+./usr/src/linux-headers-4.4.0-79-generic/.tmp_versions
+./usr/src/linux-headers-4.4.0-83-generic/.tmp_versions
+./usr/local/src/ttylog/.git
+./usr/local/src/snoopy/src/output/.libs
+./usr/local/src/snoopy/src/output/.deps
+./usr/local/src/snoopy/src/.libs
+./usr/local/src/snoopy/src/datasource/.libs
+INPUT|lclarkfi-intro-246|A2 A0 A4 A3 A1 |1537828114|lclarkfi|intro:find -type d -name \".*\"| head -n 25|.
+./users/lclarkfi/.ssl
+./users/lclarkfi/.ssh
+./users/lclarkfi/.cache
+./etc/.java
+./etc/.java/.systemPrefs
+./root/.cpanm
+./root/.ssh
+./root/.cache
+./root/.cpan
+./.hidden
+./tmp/.ICE-unix
+./tmp/.XIM-unix
+./tmp/.font-unix
+./tmp/.Test-unix
+./tmp/.X11-unix
+./lib/modules/4.4.0-79-generic/vdso/.build-id
+./lib/modules/4.4.0-83-generic/vdso/.build-id
+./usr/src/linux-headers-4.4.0-79-generic/.tmp_versions
+./usr/src/linux-headers-4.4.0-83-generic/.tmp_versions
+./usr/local/src/ttylog/.git
+./usr/local/src/snoopy/src/output/.libs
+./usr/local/src/snoopy/src/output/.deps
+./usr/local/src/snoopy/src/.libs
+./usr/local/src/snoopy/src/datasource/.libs
+INPUT|lclarkfi-intro-247|U |000000000|lclarkfi|intro:cd ./.hidden|
+INPUT|lclarkfi-intro-248|U |1537826208|lclarkfi|intro:ls|asdf136Intro-5kqlw.jpeg
+INPUT|lclarkfi-intro-249|U |000000000|lclarkfi|intro:%cd|<BS> <BS>../%
+INPUT|lclarkfi-intro-250|U |1537828420|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-251|U |000000000|lclarkfi|intro:mv -t /home/top_secert /usr/share/pixmaps/xbzf136INTRO-1.jpg /|dev/136intro-2jjaj.JPEG
+mv: cannot move '/usr/share/pixmaps/xbzf136INTRO-1.jpg' to '/home/top_secert/xbzf136INTRO-1.jpg': Permission denied
+mv: cannot create regular file '/home/top_secert/136intro-2jjaj.JPEG': Permission denied
+INPUT|lclarkfi-intro-252|U |000000000|lclarkfi|intro:mv -t /home/top_secert /usr/share/pixmaps/xbzf136INTRO-1.jpg /d|dev/136intro-2jjaj.JPEG<BS><ESC>[A<BS><BS><BS><BS>ls<ESC>[K
+
+INPUT|lclarkfi-intro-253|U |000000000|lclarkfi|intro:mv -t /home/top_secert /usr/share/pixmaps/xbzf136INTRO-1.jpg /d|dev/136intro-2jjaj.JPEG<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfi-intro-254|U |000000000|lclarkfi|intro:smv -t /home/top_secert /usr/share/pixmaps/xbzf136INTRO-1.jpg /dlarkfi@intro:/$ sumv -t /home/top_secert /usr/share/pixmaps/xbzf136INTRO-1.jpg /larkfi@intro:/$ sudmv -t /home/top_secert /usr/share/pixmaps/xbzf136INTRO-1.jpg larkfi@intro:/$ sudomv -t /home/top_secert /usr/share/pixmaps/xbzf136INTRO-1.jpglarkfi@intro:/$ sudo mv -t /home/top_secert /usr/share/pixmaps/xbzf136INTRO-1.jplarkfi@intro:/$ sudo|
+
+INPUT|lclarkfi-intro-255|U |000000000|lclarkfi|intro:cd home|
+INPUT|lclarkfi-intro-256|U |000000000|lclarkfi|intro:cd top_serect|bash: cd: top_serect: No such file or directory
+INPUT|lclarkfi-intro-257|U |000000000|lclarkfi|intro:cd top_secret|bash: cd: top_secret: No such file or directory
+INPUT|lclarkfi-intro-258|U |1537828572|lclarkfi|intro:ls|deter  top_secert
+INPUT|lclarkfi-intro-259|U |000000000|lclarkfi|intro:cd top_secret|bash: cd: top_secret: No such file or directory
+INPUT|lclarkfi-intro-260|U |000000000|lclarkfi|intro:cd top_secert|
+INPUT|lclarkfi-intro-261|U |1537828592|lclarkfi|intro:ls|136intro-2jjaj.JPEG  answers.txt  xbzf136INTRO-1.jpg
+INPUT|lclarkfi-intro-262|U |000000000|lclarkfi|intro:mv -t /var/log/136intro-3.jpg /etc/wuer136|inr<BS> <BS>tro-4.JPG asdf136IN<BS> <BS>ntro-5kqlw.jpeg
+mv: target '/var/log/136intro-3.jpg' is not a directory
+INPUT|lclarkfi-intro-263|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-264|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-265|U |1537828774|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-266|U |000000000|lclarkfi|intro:mv -t /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG asdf|f136Intro-5kqlw.jpeg<ESC>[A<BS><BS>ls<ESC>[K
+
+INPUT|lclarkfi-intro-267|U |000000000|lclarkfi|intro:mv -t /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG asdf|f136Intro-5kqlw.jpeg
+mv: target '/var/log/136intro-3.jpg' is not a directory
+INPUT|lclarkfi-intro-268|U |000000000|lclarkfi|intro:cd home|
+INPUT|lclarkfi-intro-269|U |000000000|lclarkfi|intro:cd top_secret|bash: cd: top_secret: No such file or directory
+INPUT|lclarkfi-intro-270|U |000000000|lclarkfi|intro:cd top_secert|
+INPUT|lclarkfi-intro-271|U |1537828815|lclarkfi|intro:ls|136intro-2jjaj.JPEG  answers.txt  xbzf136INTRO-1.jpg
+INPUT|lclarkfi-intro-272|U |000000000|lclarkfi|intro:mv -t /var/log/136intro-3.jpg /etc/wuer136i|intro-4.JPG asdf136Intro-5kqlw.jpeg<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfi-intro-273|U |000000000|lclarkfi|intro:mv -t /var/log/136intro-3.jpg/etc/wuer136inclarkfi@intro:/home/top_secert$ sudo mv -t /var/log/136intro-3.jp/etc/wuer136intclarkfi@intro:/home/top_secert$ sudo mv -t /var/log/136intro-3.j/etc/wuer136intrclarkfi@intro:/home/top_secert$ sudo mv -t /var/log/136intro-3./etc/wuer136introclarkfi@intro:/home/top_secert$ sudo mv -t /var/log/136intro-3/etc/wuer136intro-clarkfi@intro:/home/top_secert$ sudo mv -t /var/log/136intro-/etc/wuer136intro-4clarkfi@intro:/home/top_secert$ sudo mv -t /var/log/136intro/etc/wuer136intro-4.clarkfi@intro:/home/top_secert$ sudo mv -t /var/log/136intr/etc/wuer136intro-4.Jclarkfi@intro:/home/top_secert$ sudo mv -t /var/log/136int/etc/wuer136intro-4.JPclarkfi@intro:/home/top_secert$ sudo mv -t /var/log/136in/etc/wuer136intro-4.JPGclarkfi@intro:/home/top_secert$ sudo mv -t /var/log/136i/etc/wuer136intro-4.JPG clarkfi@intro:/home/top_secert$ sudo mv -t /var/log/136/etc/wuer136intro-4.JPG aclarkfi@intro:/home/top_secert$ sudo mv -t /var/log/13/etc/wuer136intro-4.JPG asclarkfi@intro:/home/top_secert$ sudo mv -t /var/log/1/etc/wuer136intro-4.JPG asdclarkfi@intro:/home/top_secert$ sudo mv -t /var/log//etc/wuer136intro-4.JPG asdfclarkfi@intro:/home/top_secert$ sudo mv -t /var/log/etc/wuer136intro-4.JPG asdf1clarkfi@intro:/home/top_secert$ sudo mv -t /var/lo/etc/wuer136intro-4.JPG asdf13clarkfi@intro:/home/top_secert$ sudo mv -t /var/l/etc/wuer136intro-4.JPG asdf136clarkfi@intro:/home/top_secert$ sudo mv -t /var//etc/wuer136intro-4.JPG asdf136Iclarkfi@intro:/home/top_secert$ sudo mv -t /var/etc/wuer136intro-4.JPG asdf136Inclarkfi@intro:/home/top_secert$ sudo mv -t /va/etc/wuer136intro-4.JPG asdf136Intclarkfi@intro:/home/top_secert$ sudo mv -t /v/etc/wuer136intro-4.JPG asdf136Intrclarkfi@intro:/home/top_secert$ sudo mv -t //etc/wuer136intro-4.JPG asdf136Introclarkfi@intro:/home/top_secert$ sudo mv -t /etc/wuer136intro-4.JPG asdf136Intro-clarkfi@intro:/home/top_secert$ sudo mv -t|
+
+mv: target '/etc/wuer136intro-4.JPG' is not a directory
+INPUT|lclarkfi-intro-274|U |000000000|lclarkfi|intro:mv -t /etc/wuer136intro-4.JPG asdf136Intro-|-5kqlw.jpeg<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfi-intro-275|U |000000000|lclarkfi|intro:mv -t /etc/wuer136intro-4.JPGasdf136Intro-5clarkfi@intro:/home/top_secert$ sudo mv -t /etc/wuer136intro-4.JPasdf136Intro-5kclarkfi@intro:/home/top_secert$ sudo mv -t /etc/wuer136intro-4.Jasdf136Intro-5kqclarkfi@intro:/home/top_secert$ sudo mv -t /etc/wuer136intro-4.asdf136Intro-5kqlclarkfi@intro:/home/top_secert$ sudo mv -t /etc/wuer136intro-4asdf136Intro-5kqlwclarkfi@intro:/home/top_secert$ sudo mv -t /etc/wuer136intro-asdf136Intro-5kqlw.clarkfi@intro:/home/top_secert$ sudo mv -t /etc/wuer136introasdf136Intro-5kqlw.jclarkfi@intro:/home/top_secert$ sudo mv -t /etc/wuer136intrasdf136Intro-5kqlw.jpclarkfi@intro:/home/top_secert$ sudo mv -t /etc/wuer136intasdf136Intro-5kqlw.jpeglarkfi@intro:/home/top_secert$ sudo mv -t /etc/wuer136inasdf136Intro-5kqlw.jpegclarkfi@intro:/home/top_secert$ sudo mv -t /etc/wuer136iasdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-276|U |000000000|lclarkfi|intro:mv -t /etc/wuer136i|
+INPUT|lclarkfi-intro-277|U |000000000|lclarkfi|intro:mv -t /etc/wuer136|mv: failed to access 'asdf136Intro-5kqlw.jpeg': No such file or directory
+INPUT|lclarkfi-intro-278|U |000000000|lclarkfi|intro:mv -t /etc/wuer136intro-4.JPG asdf136Intro-|-5kqlw.jpeg<ESC>[Atro:/home/top_secert$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-279|U |000000000|lclarkfi|intro:mv -t /var/log/136intro-3.jpg /etc/wuer136i|intro-4.JPG asdf136Intro-5kqlw.jpeg<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfi-intro-280|U |000000000|lclarkfi|intro:cd home -t /var/log/136intro-3.jpg /etc/wuer13|
+INPUT|lclarkfi-intro-281|U |1537828991|lclarkfi|intro:lssudo mv -t /etc/wuer136intro-4.JPG asdf136Intro-|-5kqlw.jpeg[Atro:/home/top_secert$ [K
+
+INPUT|lclarkfi-intro-282|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-283|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-284|U |000000000|lclarkfi|intro:mv -t /etc/wuer136intro-4.JPG asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-285|U |1537829043|lclarkfi|intro:lscd sudo mv -t /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG asdf|f136Intro-5kqlw.jpegls[K
+
+INPUT|lclarkfi-intro-286|U |000000000|lclarkfi|intro:mv -t /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG asdf|f136Intro-5kqlw.jpeg<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfi-intro-287|U |000000000|lclarkfi|intro:mv -t //var/log/136intro-3.jpg /etc/wuer136intro-4.JPG asdflarkfi@intro:/$ sudo mv -t /h/var/log/136intro-3.jpg /etc/wuer136intro-4.JPG asdlarkfi@intro:/$ sudo mv -t /ho/var/log/136intro-3.jpg /etc/wuer136intro-4.JPG aslarkfi@intro:/$ sudo mv -t /hom/var/log/136intro-3.jpg /etc/wuer136intro-4.JPG alarkfi@intro:/$ sudo mv -t /home/var/log/136intro-3.jpg /etc/wuer136intro-4.JPG larkfi@intro:/$ sudo mv -t /home//var/log/136intro-3.jpg /etc/wuer136intro-4.JPGlarkfi@intro:/$ sudo mv -t /home/t/var/log/136intro-3.jpg /etc/wuer136intro-4.JPlarkfi@intro:/$ sudo mv -t /home/to/var/log/136intro-3.jpg /etc/wuer136intro-4.Jlarkfi@intro:/$ sudo mv -t /home/top/var/log/136intro-3.jpg /etc/wuer136intro-4.larkfi@intro:/$ sudo mv -t /home/top_/var/log/136intro-3.jpg /etc/wuer136intro-4larkfi@intro:/$ sudo mv -t /home/top_s/var/log/136intro-3.jpg /etc/wuer136intro-larkfi@intro:/$ sudo mv -t /home/top_se/var/log/136intro-3.jpg /etc/wuer136introlarkfi@intro:/$ sudo mv -t /home/top_sec/var/log/136intro-3.jpg /etc/wuer136intrlarkfi@intro:/$ sudo mv -t /home/top_sece/var/log/136intro-3.jpg /etc/wuer136intlarkfi@intro:/$ sudo mv -t /home/top_secer/var/log/136intro-3.jpg /etc/wuer136inlarkfi@intro:/$ sudo mv -t /home/top_secert/var/log/136intro-3.jpg /etc/wuer136ilarkfi@intro:/$ sudo mv -t /home/top_secert /var/log/136intro-3.jpg /etc/wuer136larkfi@intro:/$ sudo mv -t /home/top_secert|
+
+mv: cannot stat 'asdf136Intro-5kqlw.jpeg': No such file or directory
+INPUT|lclarkfi-intro-288|U |000000000|lclarkfi|intro:mv -t /home/top_secert /var/log/136intro-3.jpg /etc/wuer13|36intro-4.JPG asdf136Intro-5kqlw.jpeg<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[K
+
+INPUT|lclarkfi-intro-289|U |000000000|lclarkfi|intro:cd home|
+INPUT|lclarkfi-intro-290|U |000000000|lclarkfi|intro:cd top_secret|bash: cd: top_secret: No such file or directory
+INPUT|lclarkfi-intro-291|U |000000000|lclarkfi|intro:cd top_secert|
+INPUT|lclarkfi-intro-292|U |1537829085|lclarkfi|intro:ls|136intro-2jjaj.JPEG  answers.txt  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkfi-intro-293|U |1537829158|lclarkfi|intro:lscd sudo mv -t /home/top_secert /var/log/136intro-3.|.jpg /etc/wuer136intro-4.JPG asdf13cd ../[Kkqlw.jpeg[A
+
+INPUT|lclarkfi-intro-294|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-295|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-296|A1 A3 A4 A0 A2 |000000000|lclarkfi|intro:find / -name \"*Intro|
+INPUT|lclarkfi-intro-297|U |000000000|lclarkfi|intro:mv -t /home/top_secert /var/log/136intro-3.jpg /etc/wuer13|36intro-4.JPG asdf136Intro-5kqlw.jpeg<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>cd ../<ESC>[K
+
+INPUT|lclarkfi-intro-298|U |000000000|lclarkfi|intro:mv -t /etc/wuer136intro-4.JPG asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-299|U |000000000|lclarkfi|intro:mv -t /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG asdf|f136Intro-5kqlw.jpeg<ESC>[A<BS><BS>ls<ESC>[K
+
+INPUT|lclarkfi-intro-300|U |000000000|lclarkfi|intro:mv -t /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG asdf|f136Intro-5kqlw.jpeg<ESC>[A<BS><BS>ls<ESC>[K
+
+INPUT|lclarkfi-intro-301|U |000000000|lclarkfi|intro:mv -t /home/top_secert /usr/share/pixmaps/xbzf136INTRO-1.j|jpg /dev/136intro-2jjaj.JPEG<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>mv -t /home/top_secert /usr/share/pixmaps/xbzf136INTRO-1.jpg /d<ESC>[5Pev/136intro-2jjaj.JPEG<ESC>[A<BS><BS><BS><BS><BS>ls<ESC>[K
+
+INPUT|lclarkfi-intro-302|A1 A4 A3 A0 A2 |000000000|lclarkfi|intro:find -type d -name ".*"| head -n 25|
+INPUT|lclarkfi-intro-303|U |000000000|lclarkfi|intro:cd ./.hidden|
+INPUT|lclarkfi-intro-304|U |000000000|lclarkfi|intro:ls|asdf136Intro-5kqlw.jpeg
+INPUT|lclarkfi-intro-305|U |000000000|lclarkfi|intro:cd|
+INPUT|lclarkfi-intro-306|U |000000000|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-307|U |1537829137|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|mv: cannot move './.hidden/asdf136Intro-5kqlw.jpeg' to '/home/top_secert/asdf136Intro-5kqlw.jpeg': Permission denied
+INPUT|lclarkfi-intro-308|U |000000000|lclarkfi|intro:/home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-309|U |000000000|lclarkfi|intro:cd home|
+INPUT|lclarkfi-intro-310|U |000000000|lclarkfi|intro:cd top_secert|
+INPUT|lclarkfi-intro-311|U |000000000|lclarkfi|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkfi-intro-312|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secert$ mv -t /home/top_secert ./.hidden/asdf136Intro-5k<ESC>[5Pqlw.jpeg<ESC>[Aintro:/home/top_secert$ sudo mv -t /home/top_secert ./.hidden/asdf136Int<ESC>[5@ro-5kqlw.jpeg<ESC>[A:/home/top_secert$ cd home<ESC>[K
+
+INPUT|lclarkfi-intro-313|U |000000000|lclarkfi|intro:emacs xbz136INTRO-1.jpg|%<ESC>[?1049h<ESC>[?12;25h<ESC>[?1h<ESC>=<ESC>[H<ESC>[2J<ESC>[24d<ESC>[K<ESC>[?1l<ESC>><ESC>[?12l<ESC>[?25h<ESC>[?1049l<ESC>[39;49m
+<ESC>[?1049h<ESC>[?12;25h<ESC>[?1h<ESC>=<ESC>[H<ESC>[2J<ESC>[23d<ESC>[?25l<ESC>[30m<ESC>[47m-111:----F1  <ESC>[39;49m<ESC>[1m<ESC>[30m<ESC>[47m*scratch*   <ESC>[0m<ESC>[39;49m<ESC>[30m<ESC>[47m   All L1     (Fundamental) ---------------------------<ESC>[39;49m
+<ESC>[A<ESC>[2d<ESC>[?12l<ESC>[?25h<ESC>[?12;25h<ESC>[24d<ESC>[?25lLoading 00debian-vars...done<ESC>[K<ESC>[H
+<ESC>[?12l<ESC>[?25h<ESC>[?12;25h<ESC>[24;9H<ESC>[?25l/etc/emacs/site-start.d/50autoconf.el (source)...<ESC>[H
+<ESC>[?12l<ESC>[?25h<ESC>[?12;25h<ESC>[24;58H<ESC>[?25ldone<ESC>[H
+<ESC>[?12l<ESC>[?25h<ESC>[?12;25h<ESC>[>0c<ESC>[24d<ESC>[?25lLoading /etc/emacs/site-start.d/50autoconf.el (source)...done<ESC>[K<ESC>[H<ESC>[7mFile Edit Options Buffers Tools Lisp-Interaction Help                           <ESC>[0m<ESC>[39;49m<ESC>[27m
+<ESC>[A
+<ESC>[K
+<ESC>[K
+<ESC>[K
+<ES
+INPUT|lclarkfi-intro-314|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-315|U |000000000|lclarkfi|intro:cd home|
+INPUT|lclarkfi-intro-316|U |000000000|lclarkfi|intro:cd top_secert|
+INPUT|lclarkfi-intro-317|U |1537829994|lclarkfi|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkfi-intro-318|U |1537830020|lclarkfi|intro:xdg-open xbzf136INTRO-1.JPG|sudo: xdg-open: command not found
+INPUT|lclarkfi-intro-319|U |1537830109|lclarkfi|intro:python -m SimpleHTTPServer 8080|%Serving HTTP on 0.0.0.0 port 8080 ...
+^CTraceback (most recent call last):
+  File \"/usr/lib/python2.7/runpy.py\"%% line 174%% in _run_module_as_main
+    \"__main__\"%% fname%% loader%% pkg_name)
+  File \"/usr/lib/python2.7/runpy.py\"%% line 72%% in _run_code
+    exec code in run_globals
+  File \"/usr/lib/python2.7/SimpleHTTPServer.py\"%% line 235%% in <module>
+    test()
+  File \"/usr/lib/python2.7/SimpleHTTPServer.py\"%% line 231%% in test
+    BaseHTTPServer.test(HandlerClass%% ServerClass)
+  File \"/usr/lib/python2.7/BaseHTTPServer.py\"%% line 610%% in test
+    httpd.serve_forever()
+  File \"/usr/lib/python2.7/SocketServer.py\"%% line 231%% in serve_forever
+    poll_interval)
+  File \"/usr/lib/python2.7/SocketServer.py\"%% line 150%% in _eintr_retry
+    return func(*args)
+KeyboardInterrupt%
+INPUT|lclarkfi-intro-320|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-321|U |000000000|lclarkfi|intro:cd home|
+INPUT|lclarkfi-intro-322|U |000000000|lclarkfi|intro:cd top_secert|
+INPUT|lclarkfi-intro-323|U |1537832188|lclarkfi|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkfi-intro-324|U |000000000|lclarkfi|intro:scp lclarkfi@users.deterlab:top_secert/* jamest|ostado@jamess-ma<BS> <BS><BS> <BS>MacBookPR<BS> <BS>ro:Dest<BS> <BS>ktop
+ssh: Could not resolve hostname users.deterlab: Name or service not known
+
+INPUT|lclarkfi-intro-325|U |000000000|lclarkfi|intro:scp lclarkfi@users.deterlab:top_secert/* jamesto|ostado@jamess-MacBookPro:Desktop<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfi-intro-326|U |000000000|lclarkfi|intro:scp lclarkfi@users.deterlab.:top_secert/* jamestolarkfi@intro:/home/top_secert$ scp lclarkfi@users.deterlab.n:top_secert/* jamestlarkfi@intro:/home/top_secert$ scp lclarkfi@users.deterlab.ne:top_secert/* jameslarkfi@intro:/home/top_secert$ scp lclarkfi@users.deterlab.net:top_secert/* jamelarkfi@intro:/home/top_secert$ scp lclarkfi@users.deterlab.net|
+
+INPUT|lclarkfi-intro-327|U |000000000|lclarkfi|intro:sftp lclarkfi@users.isi.deterlab.net|
+INPUT|lclarkfi-intro-328|U |000000000|lclarkfi|intro:^C|
+INPUT|lclarkfi-intro-329|U |1537832516|lclarkfi|intro:sftp lclarkfi@users.isi.deterlab.net|
+INPUT|lclarkfi-intro-330|U |000000000|lclarkfi|intro:scp lclarkfi@users.deterlab.net:top_secert/* jam|mestostado@jamess-MacBookPro:Desktop<ESC>[A lclarkfi@users.deterlab:top_secert/* jamesto<ESC>[4Pstado@jamess-MacBookPro:Desktop<ESC>[A scp lclarkfi@users.deterlab.net:top_secert/* jam<ESC>[4@estostado@jamess-MacBookPro:Desktop<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfi-intro-331|U |000000000|lclarkfi|intro:sp lclarkfi@users.deterlab.net:top_secert/* jameclarkfi@intro:/home/top_secert$ sfp lclarkfi@users.deterlab.net:top_secert/* jamelarkfi@intro:/home/top_secert$ sftp lclarkfi@users.deterlab.net:top_secert/* jamlarkfi@intro:/home/top_secert$ sftp lclarkfi@users.ideterlab.net:top_secert/* jalarkfi@intro:/home/top_secert$ sftp lclarkfi@users.isdeterlab.net:top_secert/* jlarkfi@intro:/home/top_secert$ sftp lclarkfi@users.isideterlab.net:top_secert/* larkfi@intro:/home/top_secert$ sftp lclarkfi@users.isi.deterlab.net:top_secert/*larkfi@intro:/home/top_secert$ sftp lclarkfi@users.isi.|
+
+ssh: connect to host users.isi.deterlab.net port 22: Connection timed out
+
+Couldn't read packet: Connection reset by peer
+
+INPUT|lclarkfi-intro-332|U |1537832542|lclarkfi|intro:sftp lclarkfi@users.isi.deterlab.net:top_secert/|/* jamestostado@jamess-MacBookPro:Desktop[Aarkfi@users.isi.deterlab.net[K
+
+INPUT|lclarkfi-intro-333|U |000000000|lclarkfi|intro:sftp lclarkfi@users.isi.deterlab.net:top_secert/|/* jamestostado@jamess-MacBookPro:Desktop<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfi-intro-334|U |000000000|lclarkfi|intro:sfp lclarkfi@users.isi.deterlab.net:top_secert/*clarkfi@intro:/home/top_secert$ sp lclarkfi@users.isi.deterlab.net:top_secert/* clarkfi@intro:/home/top_secert$ scp lclarkfi@users.isi.deterlab.net:top_secert/* larkfi@intro:/home/top_secert$ scp lclarkfi@users.isi.deterlab.net:top_secert|
+* jam<BS><BS><BS><BS>
+<ESC>[1P<ESC>[1@1<ESC>[1@3<BS><ESC>[1P
+<ESC>[1P<ESC>[1@x<ESC>[1@b<ESC>[1@z<ESC>[1@f<ESC>[1@1<ESC>[1@3<ESC>[1@6<ESC>[1@I<ESC>[1@N<ESC>[1@T<ESC>[1@R<ESC>[1@O<ESC>[1@-<ESC>[1@1<ESC>[1@.<ESC>[1@j<ESC>[1@p<ESC>[1@g
+ssh: connect to host users.isi.deterlab.net port 22: Connection timed out
+
+INPUT|lclarkfi-intro-335|U |000000000|lclarkfi|intro:scp lclarkfi@users.isi.deterlab.net:top_secert/x|xbzf136INTRO-1.jpg jamestostado@jamess-MacBookPro:Desktop<BS><BS><BS><BS><BS><BS><BS>D<BS><BS><BS>o<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<ESC>[1@@<ESC>[1@1<ESC>[1@0<ESC>[1@.<ESC>[1@4<ESC>[1@.<ESC>[1@3<ESC>[1@6<ESC>[1@.<ESC>[1@5<ESC>[1@0
+ssh: connect to host users.isi.deterlab.net port 22: Connection timed out
+
+INPUT|lclarkfi-intro-336|U |000000000|lclarkfi|intro:echo \"share/pixmaps/xbzf136INTRO-1.jpg">> answers.txt|
+INPUT|lclarkfi-intro-337|U |000000000|lclarkfi|intro:echo answers.txt|answers.txt
+INPUT|lclarkfi-intro-338|U |000000000|lclarkfi|intro:echo "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" >> answers.txt|
+INPUT|lclarkfi-intro-339|U |000000000|lclarkfi|intro:1./usr/share/pixmaps/xbzf136INTRO-1.jpg >> answers.txt|
+INPUT|lclarkfi-intro-340|U |000000000|lclarkfi|intro:echo "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" >> answers.txt|
+INPUT|lclarkfi-intro-341|U |000000000|lclarkfi|intro:echo \"2./dev/136intro-2jjaj.JPEG6INTRO-1.jpg" >> answers.txt|
+INPUT|lclarkfi-intro-342|U |000000000|lclarkfi|intro:echo \"23./var/log/136intro-3.jpgG" >> answers.txt|
+INPUT|lclarkfi-intro-343|U |000000000|lclarkfi|intro:echo \"34./etc/wuer136intro-4.JPG" >> answers.txt|
+INPUT|lclarkfi-intro-344|U |000000000|lclarkfi|intro:echo \"45/./.hidden/asdf136Intro-5kqlw.jpegrs.txt|
+INPUT|lclarkfi-intro-345|U |1537834358|lclarkfi|intro:cat answers.txt|1./usr/share/pixmaps/xbzf136INTRO-1.jpg
+2./dev/136intro-2jjaj.JPEG
+3./var/log/136intro-3.jpg
+4./etc/wuer136intro-4.JPG
+5../.hidden/asdf136Intro-5kqlw.jpeg
+INPUT|lclarkfi-intro-346|U |000000000|lclarkfi|intro:echo "Descriptions of Images" >|
+INPUT|lclarkfi-intro-347|U |1537834494|lclarkfi|intro:cat answers.txt|1./usr/share/pixmaps/xbzf136INTRO-1.jpg
+2./dev/136intro-2jjaj.JPEG
+3./var/log/136intro-3.jpg
+4./etc/wuer136intro-4.JPG
+5../.hidden/asdf136Intro-5kqlw.jpeg
+Descriptions of Images
+INPUT|lclarkfi-intro-348|U |000000000|lclarkfi|intro:|
+INPUT|lclarkfi-intro-349|U |1537856505|lclarkfi|intro:ls|answers.txt
+INPUT|lclarkfi-intro-350|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-351|U |1537856514|lclarkfi|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfi  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfi-intro-352|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-353|U |1537856523|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-354|U |000000000|lclarkfi|intro:cd home|
+INPUT|lclarkfi-intro-355|U |1537856528|lclarkfi|intro:ls|deter
+INPUT|lclarkfi-intro-356|U |000000000|lclarkfi|intro:cd ~|
+INPUT|lclarkfi-intro-357|U |1537856555|lclarkfi|intro:ls|answers.txt
+INPUT|lclarkfi-intro-358|U |1537856564|lclarkfi|intro:cat answers.txt|1./usr/share/pixmaps/xbzf136INTRO-1.jpg
+2./dev/136intro-2jjaj.JPEG
+3./var/log/136intro-3.jpg
+4./etc/wuer136intro-4.JPG
+5../.hidden/asdf136Intro-5kqlw.jpeg
+Descriptions of Images
+INPUT|lclarkfi-intro-359|U |1537856653|lclarkfi|intro:ls[2Pls[4P[4P[30@echo "Descriptions of Images" >>  answers.txt|
+INPUT|lclarkfi-intro-360|U |000000000|lclarkfi|intro:echo "5../.hidden/asdf136Intro-5kqlw.jpeg" >> answers.txt|
+INPUT|lclarkfi-intro-361|U |000000000|lclarkfi|intro:echo "4./etc/wuer136intro-4.JPG" >> answers.txt|
+INPUT|lclarkfi-intro-362|U |000000000|lclarkfi|intro:echo \"3./var/log/136intro-3.jpg\" >> answers.txt|
+INPUT|lclarkfi-intro-363|U |000000000|lclarkfi|intro:echo "2./dev/136intro-2jjaj.JPEG" >> answers.txt|
+INPUT|lclarkfi-intro-364|U |000000000|lclarkfi|intro:echo "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" >> answers.txt|
+INPUT|lclarkfi-intro-365|U |000000000|lclarkfi|intro:1./usr/share/pixmaps/xbzf136INTRO-1.jpg >> answers.txt|
+INPUT|lclarkfi-intro-366|U |000000000|lclarkfi|intro:ssh intro.lclarkfi-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkfi-intro-367|U |000000000|lclarkfi|intro:scp lclarkfi@users.isi.deterlab.net:top_secert/xbzf136INTRO-1.j|jpg jamestostado@10.4.36.50:Desktop<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[7@jamess-MacBookPro:Desktop<ESC>[A
+INPUT|lclarkfi-intro-368|U |000000000|lclarkfi|intro:sftp lclarkfi@users.isi.deterlab.net:top_secert/* jamestostado@jamess-MacBookPro:Desktoparkfi@users.isi.deterlab.net|
+INPUT|lclarkfi-intro-369|U |000000000|lclarkfi|intro:sftp lclarkfi@users.isi.deterlab.net|
+INPUT|lclarkfi-intro-370|U |000000000|lclarkfi|intro:scp lclarkfi@users.deterlab.net:top_secert/* jamestostado@james|ss-MacBookPro:Desktop<ESC>[A lclarkfi@users.deterlab:top_secert/* jamestostado@jamess-Ma<ESC>[4PcBookPro:Desktop<ESC>[A ls<ESC>[K
+
+INPUT|lclarkfi-intro-371|U |000000000|lclarkfi|intro:ssh intro.lclarkfi-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkfi-intro-372|U |000000000|lclarkfi|intro:python -m SimpleHTTPServer 8080|
+INPUT|lclarkfi-intro-373|U |000000000|lclarkfi|intro:xdg-open xbzf136INTRO-1.JPG|
+INPUT|lclarkfi-intro-374|U |1537856668|lclarkfi|intro:lscd [6Pssh intro.lclarkfi-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkfi-intro-375|U |000000000|lclarkfi|intro:emacs xbz136INTRO-1.jpg|
+INPUT|lclarkfi-intro-376|U |1537856675|lclarkfi|intro:lscd sudo mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-377|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|mv: failed to access '/home/top_secert': No such file or directory
+INPUT|lclarkfi-intro-378|U |1537856680|lclarkfi|intro:ls|answers.txt
+INPUT|lclarkfi-intro-379|U |000000000|lclarkfi|intro:cd home|bash: cd: home: No such file or directory
+INPUT|lclarkfi-intro-380|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-381|U |1537856730|lclarkfi|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfi  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfi-intro-382|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-383|U |1537856798|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-384|U |000000000|lclarkfi|intro:cd home|
+INPUT|lclarkfi-intro-385|U |1537856925|lclarkfi|intro:ls|deter
+INPUT|lclarkfi-intro-386|U |1537856704|lclarkfi|intro:mkdir top_secret|mkdir: cannot create directory 'top_secret': Permission denied
+INPUT|lclarkfi-intro-387|U |1537856729|lclarkfi|intro:mkdir top_secret|
+INPUT|lclarkfi-intro-388|U |1537856937|lclarkfi|intro:ls|deter  top_secret
+INPUT|lclarkfi-intro-389|U |000000000|lclarkfi|intro:cd ~|
+INPUT|lclarkfi-intro-390|U |1537856940|lclarkfi|intro:ls|answers.txt
+INPUT|lclarkfi-intro-391|U |000000000|lclarkfi|intro:pwd|/users/lclarkfi
+INPUT|lclarkfi-intro-392|U |000000000|lclarkfi|intro:mkdir top_secretwers.txt|
+INPUT|lclarkfi-intro-393|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-394|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-395|U |1537856957|lclarkfi|intro:lscd [4P[4Pls[5@sudo mkdir top_secret|
+INPUT|lclarkfi-intro-396|U |1537857085|lclarkfi|intro:ls[2Pmv answers.txt /home/top_secret|mv: cannot create regular file '/home/top_secret/answers.txt': Permission denied
+INPUT|lclarkfi-intro-397|U |000000000|lclarkfi|intro:swers.txt /home/top_secret|
+INPUT|lclarkfi-intro-398|U |1537857104|lclarkfi|intro:ls|
+INPUT|lclarkfi-intro-399|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-400|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-401|U |1537857724|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-402|U |000000000|lclarkfi|intro:cd home|
+INPUT|lclarkfi-intro-403|U |1537857734|lclarkfi|intro:ls|deter  top_secret
+INPUT|lclarkfi-intro-404|U |000000000|lclarkfi|intro:top_secret|top_secret: command not found
+INPUT|lclarkfi-intro-405|U |000000000|lclarkfi|intro:cd _secret|
+INPUT|lclarkfi-intro-406|U |1537859186|lclarkfi|intro:ls|answers.txt
+INPUT|lclarkfi-intro-407|U |000000000|lclarkfi|intro:mv answers.txt /home/top_secret|
+INPUT|lclarkfi-intro-408|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ cat answers.txt<ESC>[K
+
+INPUT|lclarkfi-intro-409|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ cat answers.txt<ESC>[K
+
+INPUT|lclarkfi-intro-410|U |1537859201|lclarkfi|intro:lssudo mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg
+mv: failed to access '/home/top_secert': No such file or directory
+INPUT|lclarkfi-intro-411|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfi-intro-412|U |1537859208|lclarkfi|intro:ls[K mv -t /home/top_secert ./.hidden/asdf136I|
+INPUT|lclarkfi-intro-413|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-414|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-415|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-416|U |1537859213|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-417|U |1537856645|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|mv: failed to access '/home/top_secert': No such file or directory
+INPUT|lclarkfi-intro-418|U |000000000|lclarkfi|intro:cd home|
+INPUT|lclarkfi-intro-419|U |1537859221|lclarkfi|intro:ls|deter  top_secret
+INPUT|lclarkfi-intro-420|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jp|peg<BS><BS>
+INPUT|lclarkfi-intro-421|U |000000000|lclarkfi|intro:mv -t /home/top_secet ./.hidden/asdf136Intro-5kqlw.jpeglarkfi@intro:/home$ sudo mv -t /home/top_sect ./.hidden/asdf136Intro-5kqlw.jpegclarkfi@intro:/home$ sudo mv -t /home/top_secrt ./.hidden/asdf136Intro-5kqlw.jpeglarkfi@intro:/home$ sudo mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpegarkfi@intro:/home$ sudo mv -t /home/top_secre|
+
+mv: cannot stat './.hidden/asdf136Intro-5kqlw.jpeg': No such file or directory
+INPUT|lclarkfi-intro-422|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-423|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-424|U |1537857116|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-425|U |1537857172|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-426|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-427|U |1537859241|lclarkfi|intro:lssudo mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-428|U |1537859576|lclarkfi|intro:lssudo mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-429|U |1537859938|lclarkfi|intro:ls[3Plsls[4Psudo mv answers.txt /home/top_secret|
+INPUT|lclarkfi-intro-430|U |000000000|lclarkfi|intro:mv answers.txt /home/top_secret|
+INPUT|lclarkfi-intro-431|U |000000000|lclarkfi|intro:mkdir top_secret|
+INPUT|lclarkfi-intro-432|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-433|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-434|U |000000000|lclarkfi|intro:echo "Descriptions of Images" >>  answers.txt|
+INPUT|lclarkfi-intro-435|U |000000000|lclarkfi|intro:echo "5../.hidden/asdf136Intro-5kqlw.jpeg" >> answers.txt|
+INPUT|lclarkfi-intro-436|U |000000000|lclarkfi|intro:echo "4./etc/wuer136intro-4.JPG" >> answers.txt|
+INPUT|lclarkfi-intro-437|U |000000000|lclarkfi|intro:echo \"3./var/log/136intro-3.jpg\" >> answers.txt|
+INPUT|lclarkfi-intro-438|U |000000000|lclarkfi|intro:echo "2./dev/136intro-2jjaj.JPEG" >> answers.txt|
+INPUT|lclarkfi-intro-439|U |000000000|lclarkfi|intro:echo "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" >> answers.txt|
+INPUT|lclarkfi-intro-440|U |000000000|lclarkfi|intro:1./usr/share/pixmaps/xbzf136INTRO-1.jpg >> answers.txt|
+INPUT|lclarkfi-intro-441|U |000000000|lclarkfi|intro:ssh intro.lclarkfi-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkfi-intro-442|U |000000000|lclarkfi|intro:scp lclarkfi@users.isi.deterlab.net:top_secert/xbzf136INTRO-1.j|jpg jamestostado@10.4.36.50:Desktop<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[7@jamess-MacBookPro:Desktop<ESC>[A
+INPUT|lclarkfi-intro-443|U |000000000|lclarkfi|intro:sftp lclarkfi@users.isi.deterlab.net:top_secert/* jamestostado@jamess-MacBookPro:Desktoparkfi@users.isi.deterlab.net|
+INPUT|lclarkfi-intro-444|U |000000000|lclarkfi|intro:sftp lclarkfi@users.isi.deterlab.net|
+INPUT|lclarkfi-intro-445|U |000000000|lclarkfi|intro:scp lclarkfi@users.deterlab.net:top_secert/* jamestostado@james|ss-MacBookPro:Desktop<ESC>[A lclarkfi@users.deterlab:top_secert/* jamestostado@jamess-Ma<ESC>[4PcBookPro:Desktop<ESC>[A ls<ESC>[K
+
+INPUT|lclarkfi-intro-446|U |000000000|lclarkfi|intro:ssh intro.lclarkfi-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkfi-intro-447|U |000000000|lclarkfi|intro:python -m SimpleHTTPServer 8080|
+INPUT|lclarkfi-intro-448|U |000000000|lclarkfi|intro:xdg-open xbzf136INTRO-1.JPG|
+INPUT|lclarkfi-intro-449|U |1537859943|lclarkfi|intro:lscd [6Pssh intro.lclarkfi-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkfi-intro-450|U |000000000|lclarkfi|intro:emacs xbz136INTRO-1.jpg|
+INPUT|lclarkfi-intro-451|U |1537860010|lclarkfi|intro:lscd sudo mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-452|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-453|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-454|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-455|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-456|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-457|U |000000000|lclarkfi|intro:mv -t /home/top_secert /var/log/136intro-3.jpg /etc/wuer13|36intro-4.JPG asdf136Intro-5kqlw.jpeg<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>cd ../<ESC>[K
+
+INPUT|lclarkfi-intro-458|U |000000000|lclarkfi|intro:mv -t /etc/wuer136intro-4.JPG asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-459|U |000000000|lclarkfi|intro:mv -t /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG asdf|
+INPUT|lclarkfi-intro-460|U |1537857245|lclarkfi|intro:mv -t /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG asd|
+INPUT|lclarkfi-intro-461|U |000000000|lclarkfi|intro:mv -t /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG as|
+INPUT|lclarkfi-intro-462|U |000000000|lclarkfi|intro:mv -t /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG|mv: target '/var/log/136intro-3.jpg' is not a directory
+INPUT|lclarkfi-intro-463|U |000000000|lclarkfi|intro:mv -t /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG|
+INPUT|lclarkfi-intro-464|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-465|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-466|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-467|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-468|U |000000000|lclarkfi|intro:mv answers.txt /home/top_secret|
+INPUT|lclarkfi-intro-469|U |000000000|lclarkfi|intro:mv answers.txt /home/top_secret|
+INPUT|lclarkfi-intro-470|U |000000000|lclarkfi|intro:mkdir top_secret|
+INPUT|lclarkfi-intro-471|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-472|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-473|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-474|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-475|U |000000000|lclarkfi|intro:echo "Descriptions of Images" >>  answers.txt|
+INPUT|lclarkfi-intro-476|U |000000000|lclarkfi|intro:echo "5../.hidden/asdf136Intro-5kqlw.jpeg" >> answers.txt|
+INPUT|lclarkfi-intro-477|U |000000000|lclarkfi|intro:echo "4./etc/wuer136intro-4.JPG" >> answers.txt|
+INPUT|lclarkfi-intro-478|U |000000000|lclarkfi|intro:echo \"3./var/log/136intro-3.jpg\" >> answers.txt|
+INPUT|lclarkfi-intro-479|U |000000000|lclarkfi|intro:echo "2./dev/136intro-2jjaj.JPEG" >> answers.txt|
+INPUT|lclarkfi-intro-480|U |000000000|lclarkfi|intro:echo "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" >> answers.txt|
+INPUT|lclarkfi-intro-481|U |000000000|lclarkfi|intro:1./usr/share/pixmaps/xbzf136INTRO-1.jpg >> answers.txt|
+INPUT|lclarkfi-intro-482|U |000000000|lclarkfi|intro:ssh intro.lclarkfi-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkfi-intro-483|U |000000000|lclarkfi|intro:scp lclarkfi@users.isi.deterlab.net:top_secert/xbzf136INTRO-1.j|jpg jamestostado@10.4.36.50:Desktop<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[7@jamess-MacBookPro:Desktop<ESC>[A
+INPUT|lclarkfi-intro-484|U |000000000|lclarkfi|intro:sftp lclarkfi@users.isi.deterlab.net:top_secert/* jamestostado@jamess-MacBookPro:Desktoparkfi@users.isi.deterlab.net|
+INPUT|lclarkfi-intro-485|U |000000000|lclarkfi|intro:sftp lclarkfi@users.isi.deterlab.net|
+INPUT|lclarkfi-intro-486|U |000000000|lclarkfi|intro:scp lclarkfi@users.deterlab.net:top_secert/* jamestostado@james|ss-MacBookPro:Desktop<ESC>[A lclarkfi@users.deterlab:top_secert/* jamestostado@jamess-Ma<ESC>[4PcBookPro:Desktop<ESC>[A ls<ESC>[K
+
+INPUT|lclarkfi-intro-487|U |000000000|lclarkfi|intro:ssh intro.lclarkfi-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkfi-intro-488|U |000000000|lclarkfi|intro:python -m SimpleHTTPServer 8080|
+INPUT|lclarkfi-intro-489|U |000000000|lclarkfi|intro:xdg-open xbzf136INTRO-1.JPG|
+INPUT|lclarkfi-intro-490|U |000000000|lclarkfi|intro:ssh intro.lclarkfi-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkfi-intro-491|U |000000000|lclarkfi|intro:emacs xbz136INTRO-1.jpg|
+INPUT|lclarkfi-intro-492|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-493|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-494|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-495|U |000000000|lclarkfi|intro:mv -t /home/top_secert /var/log/136intro-3.jpg /etc/wuer13|36intro-4.JPG asdf136Intro-5kqlw.jpeg<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>cd ../<ESC>[K
+
+INPUT|lclarkfi-intro-496|U |000000000|lclarkfi|intro:mv -t /etc/wuer136intro-4.JPG asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-497|U |000000000|lclarkfi|intro:mv -t /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG asdf|f136Intro-5kqlw.jpeg<ESC>[A<BS><BS>ls<ESC>[K
+
+INPUT|lclarkfi-intro-498|U |000000000|lclarkfi|intro:mv -t /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG asdf|f136Intro-5kqlw.jpeg<ESC>[A<BS><BS>ls<ESC>[K
+
+INPUT|lclarkfi-intro-499|U |000000000|lclarkfi|intro:mv -t /home/top_secert /usr/share/pixmaps/xbzf136INTRO-1.j|jpg /dev/136intro-2jjaj.JPEG<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>mv -t /home/top_secert /usr/share/pixmaps/xbzf136INTRO-1.jpg /d<ESC>[5Pev/136intro-2jjaj.JPEG<ESC>[A<BS><BS><BS><BS><BS>sudo mv -t /home/top_secert /usr/share/pixmaps/xbzf136INTRO-1.j<ESC>[5@pg /dev/136intro-2jjaj.JPEG<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfi-intro-500|U |000000000|lclarkfi|intro:mv -t /home/top_secet /usr/share/pixmaps/xbzf136INTRO-1.jpclarkfi@intro:/$ sudo mv -t /home/top_sect /usr/share/pixmaps/xbzf136INTRO-1.jpgclarkfi@intro:/$ sudo mv -t /home/top_secrt /usr/share/pixmaps/xbzf136INTRO-1.jpglarkfi@intro:/$ sudo mv -t /home/top_secret /usr/share/pixmaps/xbzf136INTRO-1.jplarkfi@intro:/$ sudo mv -t /home/top_secre|
+
+INPUT|lclarkfi-intro-501|U |000000000|lclarkfi|intro:mv -t /home/top_secret /usr/share/pixmaps/xbzf136INTRO-1.j|jpg /dev/136intro-2jjaj.JPEG<ESC>[A /<ESC>[4Pvar/log/136intro-3.jpg /etc/wuer136intro-4.JPG
+
+INPUT|lclarkfi-intro-502|U |000000000|lclarkfi|intro:mv -t /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG|
+INPUT|lclarkfi-intro-503|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-504|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-505|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-506|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-507|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-508|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-509|U |000000000|lclarkfi|intro:mv answers.txt /home/top_secret|
+INPUT|lclarkfi-intro-510|U |000000000|lclarkfi|intro:mv answers.txt /home/top_secret|
+INPUT|lclarkfi-intro-511|U |000000000|lclarkfi|intro:mv answers.txt /home/top_secret|
+INPUT|lclarkfi-intro-512|U |000000000|lclarkfi|intro:mv answers.txt /home/top_secret|
+INPUT|lclarkfi-intro-513|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-514|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-515|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-516|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-517|U |000000000|lclarkfi|intro:mv -t /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG|
+INPUT|lclarkfi-intro-518|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-519|U |000000000|lclarkfi|intro:mv -t /hom/var/log/136intro-3.jpg /etc/wuer136intro-4.JPG clarkfi@intro:/$ sudo mv -t /home/var/log/136intro-3.jpg /etc/wuer136intro-4.JPG|G<ESC>[Aclarkfi@intro:/$ sudo mv -t /home//var/log/136intro-3.jpg /etc/wuer136intro-4.JPG<ESC>[Alarkfi@intro:/$ sudo mv -t /home/t/var/log/136intro-3.jpg /etc/wuer136intro-4.JPG<ESC>[Aarkfi@intro:/$ sudo mv -t /home/to/var/log/136intro-3.jpg /etc/wuer136intro-4.<ESC>[1@J<ESC>[Alarkfi@intro:/$ sudo mv -t /home/top/var/log/136intro-3.jpg /etc/wuer136intro-4<ESC>[1@.<ESC>[Alarkfi@intro:/$ sudo mv -t /home/top_/var/log/136intro-3.jpg /etc/wuer136intro-<ESC>[1@4<ESC>[Alarkfi@intro:/$ sudo mv -t /home/top_s/var/log/136intro-3.jpg /etc/wuer136intro<ESC>[1@-<ESC>[Alarkfi@intro:/$ sudo mv -t /home/top_se/var/log/136intro-3.jpg /etc/wuer136intr<ESC>[1@o<ESC>[Alarkfi@intro:/$ sudo mv -t /home/top_sec/var/log/136intro-3.jpg /etc/wuer136int<ESC>[1@r<ESC>[Alarkfi@intro:/$ sudo mv -t /home/top_secr/var/log/136intro-3.jpg /etc/wuer136in<ESC>[1@t<ESC>[Alarkfi@intro:/$ sudo mv -t /home/top_secre/var/log/136intro-3.jpg /etc/wuer136i<ESC>[1@n<ESC>[Alarkfi@intro:/$ sudo mv -t /home/top_secret/var/log/136in
+INPUT|lclarkfi-intro-520|U |000000000|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-521|U |000000000|lclarkfi|intro:cd home|
+INPUT|lclarkfi-intro-522|U |000000000|lclarkfi|intro:cd top_secret|
+INPUT|lclarkfi-intro-523|U |000000000|lclarkfi|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkfi-intro-524|U |000000000|lclarkfi|intro:touch diskfree.txt|touch: cannot touch 'diskfree.txt': Permission denied
+INPUT|lclarkfi-intro-525|U |1537859184|lclarkfi|intro:touch diskfree.txt|
+INPUT|lclarkfi-intro-526|U |000000000|lclarkfi|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      diskfree.txt
+answers.txt      wuer136intro-4.JPG
+INPUT|lclarkfi-intro-527|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-528|U |000000000|lclarkfi|intro:ls|deter  top_secret
+INPUT|lclarkfi-intro-529|U |000000000|lclarkfi|intro:cd ./|
+INPUT|lclarkfi-intro-530|U |000000000|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-531|U |000000000|lclarkfi|intro:cd dev|
+INPUT|lclarkfi-intro-532|U |000000000|lclarkfi|intro:ls|autofs   loop0       sg2       tty30  tty60  ttyS31
+block   loop1       shm       tty31  tty61  ttyS4
+bsg   loop2       snapshot  tty32  tty62  ttyS5
+btrfs-control  loop3       snd       tty33  tty63  ttyS6
+bus   loop4       sr0       tty34  tty7  ttyS7
+cdrom   loop5       stderr    tty35  tty8  ttyS8
+char   loop6       stdin     tty36  tty9  ttyS9
+console   loop7       stdout    tty37  ttyprintk  uhid
+core   loop-control      tty       tty38  ttyS0  uinput
+cpu   mapper       tty0      tty39  ttyS1  urandom
+cpu_dma_latency  mcelog       tty1      tty4   ttyS10  userio
+cuse   mem       tty10     tty40  ttyS11  vcs
+disk   memory_bandwidth    tty11     tty41  ttyS12  vcs1
+dri   mqueue       tty12     tty42  ttyS13  vcs2
+ecryptfs  net       tty13     tty
+INPUT|lclarkfi-intro-533|U |000000000|lclarkfi|intro:cd disk|
+INPUT|lclarkfi-intro-534|U |000000000|lclarkfi|intro:ls|by-id  by-label  by-path  by-uuid
+INPUT|lclarkfi-intro-535|U |000000000|lclarkfi|intro:cd by-id|
+INPUT|lclarkfi-intro-536|U |000000000|lclarkfi|intro:ls|ata-SAMSUNG_CD-ROM_SN-124
+scsi-SFUJITSU_MAU3036NC_ASL3P51003ME
+scsi-SFUJITSU_MAU3036NC_ASL3P51003ME-part1
+scsi-SFUJITSU_MAU3036NC_ASL3P51003ME-part2
+scsi-SFUJITSU_MAU3036NC_ASL3P51003ME-part3
+INPUT|lclarkfi-intro-537|U |1537859273|lclarkfi|intro:file ata-SAMSUNG_CD-ROM_SN-124|ata-SAMSUNG_CD-ROM_SN-124: symbolic link to ../../sr0
+INPUT|lclarkfi-intro-538|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-539|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-540|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-541|U |000000000|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-542|M6 |1537859583|lclarkfi|intro:df|%Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 1003696          0    1003696   0%% /dev
+tmpfs                                                 204776      11044     193732   6%% /run
+/dev/sda1                                           15616412    2894608   11921856  20%% /
+tmpfs                                                1023868          0    1023868   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023868          0    1023868   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkfi  2031313280 1268019456  600788736  68%% /users/lclarkfi
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973265024 1763503360  36%% /proj/CS495LC
+tmpfs                                                 204776          0     204776  
+INPUT|lclarkfi-intro-543|U |000000000|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-544|U |000000000|lclarkfi|intro:cd proc|
+INPUT|lclarkfi-intro-545|U |000000000|lclarkfi|intro:ls|1     1412  1703  2403 34   435  84        kallsyms      slabinfo
+10    1416  171   2406 345  45   85        kcore      softirqs
+100   1419  172   2408 35   46   9        keys      stat
+101   142   178   2410 359  47   99        key-users     swaps
+1058  1420  1796  2411 36   48   acpi        kmsg      sys
+1077  1429  18   25 368  5   buddyinfo    kpagecgroup   sysrq-trigger
+1089  15    184   2512 37   558  bus        kpagecount    sysvipc
+11    151   1901  26 375  64   cgroups      kpageflags    thread-self
+1101  1547  2   263 378  65   cmdline      loadavg      timer_list
+1120  1599  20   27 379  66   consoles     locks      timer_stats
+1126  16    21   28 38   67   cpuinfo      mdstat      tty
+12    161   2186  2845 380  68   crypto       meminfo      uptime
+1235  1621  22   2887 381  69   devices      misc      version
+1252  1623  2211  29 383
+INPUT|lclarkfi-intro-546|M5 |1537859965|lclarkfi|intro:cat cpuinfo|%processor : 0
+vendor_id : GenuineIntel
+cpu family : 15
+model  : 4
+model name : Intel(R) Xeon(TM) CPU 3.00GHz
+stepping : 1
+microcode : 0x9
+cpu MHz  : 2992.576
+cache size : 1024 KB
+physical id : 0
+siblings : 2
+core id  : 0
+cpu cores : 1
+apicid  : 0
+initial apicid : 0
+fpu  : yes
+fpu_exception : yes
+cpuid level : 5
+wp  : yes
+flags  : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc pebs bts nopl pni dtes64 monitor ds_cpl cid cx16 xtpr
+bugs  :
+bogomips : 5985.15
+clflush size : 64
+cache_alignment : 128
+address sizes : 36 bits physical%% 48 bits virtual
+power management:
+
+processor : 1
+vendor_id : GenuineIntel
+cpu family : 15
+model  : 4
+model name : Intel(R) Xeon(TM) CPU 3.00GHz
+steppin
+INPUT|lclarkfi-intro-547|U |000000000|lclarkfi|intro:cd .../|bash: cd: .../: No such file or directory
+INPUT|lclarkfi-intro-548|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-549|U |000000000|lclarkfi|intro:%cd|<BS> <BS>../%
+INPUT|lclarkfi-intro-550|U |000000000|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-551|U |000000000|lclarkfi|intro:|
+INPUT|lclarkfi-intro-552|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-553|U |000000000|lclarkfi|intro:cd|
+INPUT|lclarkfi-intro-554|U |1537939888|lclarkfi|intro:ls|
+INPUT|lclarkfi-intro-555|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-556|U |1537939897|lclarkfi|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfi  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfi-intro-557|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-558|U |1537939904|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-559|U |000000000|lclarkfi|intro:cd user|bash: cd: user: No such file or directory
+INPUT|lclarkfi-intro-560|U |000000000|lclarkfi|intro:cd users|
+INPUT|lclarkfi-intro-561|U |000000000|lclarkfi|intro:cd lclarkfi|
+INPUT|lclarkfi-intro-562|U |1537939971|lclarkfi|intro:ls|
+INPUT|lclarkfi-intro-563|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-564|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-565|U |1537939978|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-566|U |000000000|lclarkfi|intro:cd home|
+INPUT|lclarkfi-intro-567|U |1537939982|lclarkfi|intro:ls|deter
+INPUT|lclarkfi-intro-568|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-569|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-570|U |1537940000|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-571|U |000000000|lclarkfi|intro:cd home|
+INPUT|lclarkfi-intro-572|U |1537940005|lclarkfi|intro:ls|deter
+INPUT|lclarkfi-intro-573|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-574|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-575|U |1537940014|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-576|U |000000000|lclarkfi|intro:cd home|
+INPUT|lclarkfi-intro-577|U |1537940024|lclarkfi|intro:ls|deter
+INPUT|lclarkfi-intro-578|U |1537940068|lclarkfi|intro:ls|deter
+INPUT|lclarkfi-intro-579|U |1537940078|lclarkfi|intro:mkdir top_secret|mkdir: cannot create directory 'top_secret': Permission denied
+INPUT|lclarkfi-intro-580|U |1537940087|lclarkfi|intro:mkdir top_secret|
+INPUT|lclarkfi-intro-581|U |1537940088|lclarkfi|intro:ls|deter  top_secret
+INPUT|lclarkfi-intro-582|U |000000000|lclarkfi|intro:cd top_secret|
+INPUT|lclarkfi-intro-583|U |1537940097|lclarkfi|intro:ls|
+INPUT|lclarkfi-intro-584|U |1537940152|lclarkfi|intro:touch answers.txt|touch: cannot touch 'answers.txt': Permission denied
+INPUT|lclarkfi-intro-585|U |000000000|lclarkfi|intro:answers.txt|
+INPUT|lclarkfi-intro-586|U |000000000|lclarkfi|intro:diskfree.txte.txt_SN-124|
+INPUT|lclarkfi-intro-587|U |000000000|lclarkfi|intro:lsuch answers.txts.txtt|answers.txt  diskfree.txt
+INPUT|lclarkfi-intro-588|U |000000000|lclarkfi|intro:mv -t /home/top_secret /var/log/136intro-3.|.jpg /etc/wuer136intro-4.JPG<ESC>[Aret$ sudo mv -t /home/top_secret /usr/share/pixmaps/x<ESC>[15@bzf136INTRO-1.jpg /dev/136intro-2jjaj.JPEG<ESC>[A /home/top_secret /var/log/136intro-3.<ESC>[15Pjpg /etc/wuer136intro-4.JPG<ESC>[Aret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-589|U |000000000|lclarkfi|intro:mv -t /home/top_secret /var/log/136intro-3.|.jpg /etc/wuer136intro-4.JPG<ESC>[Aret$ sudo mv -t /home/top_secret /usr/share/pixmaps/x<ESC>[15@bzf136INTRO-1.jpg /dev/136intro-2jjaj.JPEG
+INPUT|lclarkfi-intro-590|U |000000000|lclarkfi|intro:mv -t /home/top_secret /usr/share/pixmaps/x|xbzf136INTRO-1.jpg /dev/136intro-2jjaj.JPEG<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>ls<ESC>[K
+
+INPUT|lclarkfi-intro-591|U |000000000|lclarkfi|intro:mv -t /home/top_secret /var/log/136intro-3.|.jpg /etc/wuer136intro-4.JPG<ESC>[Aret$ sudo mv -t /home/top_secret /usr/share/pixmaps/x<ESC>[15@bzf136INTRO-1.jpg /dev/136intro-2jjaj.JPEG<ESC>[A /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG<ESC>[K<ESC>[Atro:/home/top_secret$ sudo mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg<ESC>[A:/home/top_secret$ cd ../<ESC>[K
+
+INPUT|lclarkfi-intro-592|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ sudo mv -t /var/log/136intro-3.jpg /etc/wuer136i<ESC>[3Pntro-4.JPG
+mv: target '/var/log/136intro-3.jpg' is not a directory
+INPUT|lclarkfi-intro-593|U |000000000|lclarkfi|intro:mv -t /var/log/136intro-3.jpg /etc/wuer136i|intro-4.JPG<ESC>[Atro:/home/top_secret$ sudo mv -t /home/top_secret /usr/share/pixmaps/x<ESC>[32@bzf136INTRO-1.jpg /dev/136intro-2jjaj.JPEG<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>ls<ESC>[K
+
+INPUT|lclarkfi-intro-594|U |000000000|lclarkfi|intro:mv -t /home/top_secret /usr/share/pixmaps/x|xbzf136INTRO-1.jpg /dev/136intro-2jjaj.JPEG<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfi-intro-595|U |1537940233|lclarkfi|intro:mv -t /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG[K[Atro:/home/top_secret$ sudo mv -t /home/top_secret /usr/share/pixmaps/x[32@bzf136INTRO-1.jpg /dev/136intro-2jjaj.JPE[At /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG[K|
+INPUT|lclarkfi-intro-596|U |000000000|lclarkfi|intro:mv -t //var/log/136intro-3.jpg /etc/wuer136ilarkfi@intro:/home/top_secret$ sudo mv -t /h/var/log/136intro-3.jpg /etc/wuer136larkfi@intro:/home/top_secret$ sudo mv -t /ho/var/log/136intro-3.jpg /etc/wuer13larkfi@intro:/home/top_secret$ sudo mv -t /hom/var/log/136intro-3.jpg /etc/wuer1larkfi@intro:/home/top_secret$ sudo mv -t /home/var/log/136intro-3.jpg /etc/wuerlarkfi@intro:/home/top_secret$ sudo mv -t /home//var/log/136intro-3.jpg /etc/wuelarkfi@intro:/home/top_secret$ sudo mv -t /home/t/var/log/136intro-3.jpg /etc/wularkfi@intro:/home/top_secret$ sudo mv -t /home/to/var/log/136intro-3.jpg /etc/wlarkfi@intro:/home/top_secret$ sudo mv -t /home/top/var/log/136intro-3.jpg /etc/larkfi@intro:/home/top_secret$ sudo mv -t /home/top_/var/log/136intro-3.jpg /etclarkfi@intro:/home/top_secret$ sudo mv -t /home/top_s/var/log/136intro-3.jpg /etlarkfi@intro:/home/top_secret$ sudo mv -t /home/top_se/var/log/136intro-3.jpg /elarkfi@intro:/home/top_secret$ sudo mv -t /home/top_sec/var/log/136intro-3.jpg /larkfi@intro:/home/top_secret$ sudo mv -t /home/top_secr/var/log/136intro-3.jpg larkfi@intro:/home/top_secret$ sudo mv -t /home/top_secre/var/log/136intro-3.jpglarkfi@intro:/home/top_secret$ sudo mv -t /home/top_secret/var/log/136intro-3.jplarkfi@intro:/home/top_secret$ sudo mv -t /home/top_secret /var/log/136intro-3.jlarkfi@intro:/home/top_secret$ sudo mv -t /home/top_secret|
+
+INPUT|lclarkfi-intro-597|U |000000000|lclarkfi|intro:mv -t /home/top_secret /var/log/136intro-3.|.jpg /etc/wuer136intro-4.JPG<ESC>[Aret$ sudo mv -t /var/log/136intro-3.jpg /etc/wuer136i<ESC>[17Pntro-4.JPG<ESC>[Atro:/home/top_secret$ sudo mv -t /home/top_secret /usr/share/pixmaps/x<ESC>[32@bzf136INTRO-1.jpg /dev/136intro-2jjaj.JPEG<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>ls<ESC>[K
+
+INPUT|lclarkfi-intro-598|U |000000000|lclarkfi|intro:mv -t /home/top_secret /var/log/136intro-3.|.jpg /etc/wuer136intro-4.JPG<ESC>[Aret$ sudo mv -t /home/top_secret /usr/share/pixmaps/x<ESC>[15@bzf136INTRO-1.jpg /dev/136intro-2jjaj.JPEG<ESC>[A /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG<ESC>[K<ESC>[Atro:/home/top_secret$ sudo mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg<ESC>[A:/home/top_secret$ cd ../<ESC>[K
+
+INPUT|lclarkfi-intro-599|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Int|tro-5kqlw.jpeg
+mv: cannot stat './.hidden/asdf136Intro-5kqlw.jpeg': No such file or directory
+INPUT|lclarkfi-intro-600|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ sudo mv -t /home/top_secret /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG<ESC>[Aret$ sudo mv -t /var/log/136intro-3.jpg /etc/wuer136i<ESC>[17Pntro-4.JPG<ESC>[Atro:/home/top_secret$ sudo mv -t /home/top_secret /usr/share/pixmaps/x<ESC>[32@bzf136INTRO-1.jpg /dev/136intro-2jjaj.JPEG<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>ls<ESC>[K
+
+INPUT|lclarkfi-intro-601|U |000000000|lclarkfi|intro:mv -t /home/top_secret /var/log/136intro-3.|.jpg /etc/wuer136intro-4.JPG<ESC>[Aret$ sudo mv -t /home/top_secret /usr/share/pixmaps/x<ESC>[15@bzf136INTRO-1.jpg /dev/136intro-2jjaj.JPEG<ESC>[A /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG<ESC>[K<ESC>[Atro:/home/top_secret$ sudo mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg<ESC>[A:/home/top_secret$ sudo mv -t /var/log/136intro-3.jpg /etc/wuer136i<ESC>[3Pntro-4.JPG<ESC>[Atro:/home/top_secret$ sudo mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg
+mv: cannot stat './.hidden/asdf136Intro-5kqlw.jpeg': No such file or directory
+INPUT|lclarkfi-intro-602|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ sudo mv -t /home/top_secret /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG<ESC>[Aret$ sudo mv -t /var/log/136intro-3.jpg /etc/wuer136i<ESC>[17Pntro-4.JPG<ESC>[Atro:/home/top_secret$ sudo mv -t /home/top_secret /usr/share/pixmaps/x<ESC>[32@bzf136INTRO-1.jpg /dev/136intro-2jjaj.JPEG<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>ls<ESC>[K
+
+INPUT|lclarkfi-intro-603|U |000000000|lclarkfi|intro:mv -t /home/top_secret /var/log/136intro-3.|.jpg /etc/wuer136intro-4.JPG<ESC>[Aret$ sudo mv -t /home/top_secret /usr/share/pixmaps/x<ESC>[15@bzf136INTRO-1.jpg /dev/136intro-2jjaj.JPEG<ESC>[A /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG<ESC>[K<ESC>[Atro:/home/top_secret$ sudo mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg<ESC>[A:/home/top_secret$ cd ../<ESC>[K
+
+INPUT|lclarkfi-intro-604|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-605|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-606|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-607|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-608|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg
+mv: failed to access '/home/top_secert': No such file or directory
+INPUT|lclarkfi-intro-609|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfi-intro-610|U |000000000|lclarkfi|intro:mv -t /home/top_secet ./.hidden/asdf136Intrclarkfi@intro:/home/top_secret$ sudo mv -t /home/top_sect ./.hidden/asdf136Introclarkfi@intro:/home/top_secret$ sudo mv -t /home/top_secrt ./.hidden/asdf136Introlarkfi@intro:/home/top_secret$ sudo mv -t /home/top_secret ./.hidden/asdf136Intrlarkfi@intro:/home/top_secret$ sudo mv -t /home/top_secre|
+
+mv: cannot stat './.hidden/asdf136Intro-5kqlw.jpeg': No such file or directory
+INPUT|lclarkfi-intro-611|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ sudo mv -t /home/top_secer
+
+tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ sudo mv -t /home/top_secre
+
+tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ sudo mv -t /home/top_secret /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG<ESC>[Aret$ sudo mv -t /var/log/136intro-3.jpg /etc/wuer136i<ESC>[17Pntro-4.JPG<ESC>[Atro:/home/top_secret$ sudo mv -t /home/top_secret /usr/share/pixmaps/x<ESC>[32@bzf136INTRO-1.jpg /dev/136intro-2jjaj.JPEG<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>ls<ESC>[K
+
+INPUT|lclarkfi-intro-612|U |000000000|lclarkfi|intro:mv -t /home/top_secret /var/log/136intro-3.|.jpg /etc/wuer136intro-4.JPG<ESC>[Aret$ sudo mv -t /home/top_secret /usr/share/pixmaps/x<ESC>[15@bzf136INTRO-1.jpg /dev/136intro-2jjaj.JPEG<ESC>[A /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG<ESC>[K<ESC>[Atro:/home/top_secret$ sudo mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg<ESC>[A:/home/top_secret$ cd ../<ESC>[K
+
+INPUT|lclarkfi-intro-613|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-614|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-615|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-616|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-617|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-618|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfi-intro-619|U |000000000|lclarkfi|intro:mv -t /home/top_secet ./.hidden/asdf136Intrclarkfi@intro:/home/top_secret$ sudo mv -t /home/top_sect ./.hidden/asdf136Introclarkfi@intro:/home/top_secret$ sudo mv -t /home/top_secrt ./.hidden/asdf136Introlarkfi@intro:/home/top_secret$ sudo mv -t /home/top_secret ./.hidden/asdf136Intrlarkfi@intro:/home/top_secret$ sudo mv -t /home/top_secre|
+
+mv: cannot stat './.hidden/asdf136Intro-5kqlw.jpeg': No such file or directory
+INPUT|lclarkfi-intro-620|U |1537940188|lclarkfi|intro:ls|136intro-2jjaj.JPEG  answers.txt   wuer136intro-4.JPG
+136intro-3.jpg      diskfree.txt  xbzf136INTRO-1.jpg
+INPUT|lclarkfi-intro-621|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Int|tro-5kqlw.jpeg<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfi-intro-622|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hiddenasdf136Intrclarkfi@intro:/home/top_secret$ sudo mv -t /home/top_secret ./.hiddeasdf136Introclarkfi@intro:/home/top_secret$ sudo mv -t /home/top_secret ./.hiddasdf136Intro-clarkfi@intro:/home/top_secret$ sudo mv -t /home/top_secret ./.hidasdf136Intro-5clarkfi@intro:/home/top_secret$ sudo mv -t /home/top_secret ./.hiasdf136Intro-5kclarkfi@intro:/home/top_secret$ sudo mv -t /home/top_secret ./.hasdf136Intro-5kqclarkfi@intro:/home/top_secret$ sudo mv -t /home/top_secret ./.asdf136Intro-5kqlclarkfi@intro:/home/top_secret$ sudo mv -t /home/top_secret ./asdf136Intro-5kqlwclarkfi@intro:/home/top_secret$ sudo mv -t /home/top_secret .asdf136Intro-5kqlw.clarkfi@intro:/home/top_secret$ sudo mv -t /home/top_secret asdf136Intro-5kqlw.jclarkfi@intro:/home/top_secret$ sudo mv -t /home/top_secret|
+
+mv: cannot stat 'asdf136Intro-5kqlw.jpeg': No such file or directory
+INPUT|lclarkfi-intro-623|U |000000000|lclarkfi|intro:mv -t /home/top_secret asdf136Intro-5kqlw.j|jpeg<ESC>[Arkfi@intro:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-624|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ sudo mv -t /home/top_secer
+
+tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ sudo mv -t /home/top_secre
+
+tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ sudo mv -t /home/top_secret /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG<ESC>[Aret$ sudo mv -t /var/log/136intro-3.jpg /etc/wuer136i<ESC>[17Pntro-4.JPG<ESC>[Atro:/home/top_secret$ sudo mv -t /home/top_secret /usr/share/pixmaps/x<ESC>[32@bzf136INTRO-1.jpg /dev/136intro-2jjaj.JPEG<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>ls<ESC>[K
+
+INPUT|lclarkfi-intro-625|U |000000000|lclarkfi|intro:mv -t /home/top_secret /var/log/136intro-3.|.jpg /etc/wuer136intro-4.JPG<ESC>[Aret$ sudo mv -t /home/top_secret /usr/share/pixmaps/x<ESC>[15@bzf136INTRO-1.jpg /dev/136intro-2jjaj.JPEG<ESC>[A /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG<ESC>[K<ESC>[Atro:/home/top_secret$ sudo mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg<ESC>[A:/home/top_secret$ cd ../<ESC>[K
+
+INPUT|lclarkfi-intro-626|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-627|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-628|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-629|U |000000000|lclarkfi|intro:mv answers.txt /home/top_secret|
+INPUT|lclarkfi-intro-630|U |000000000|lclarkfi|intro:mv answers.txt /home/top_secret|
+INPUT|lclarkfi-intro-631|U |1537940450|lclarkfi|intro:ls[4Pls[3@lssudo mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg
+INPUT|lclarkfi-intro-632|U |000000000|lclarkfi|intro:mv -t /home/top_secet ./.hidden/asdf136Intrclarkfi@intro:/home/top_secret$ sudo mv -t /home/top_sect ./.hidden/asdf136Introclarkfi@intro:/home/top_secret$ sudo mv -t /home/top_secrt ./.hidden/asdf136Introlarkfi@intro:/home/top_secret$ sudo mv -t /home/top_secret ./.hidden/asdf136Intrlarkfi@intro:/home/top_secret$ sudo mv -t /home/top_secre|
+
+mv: cannot stat './.hidden/asdf136Intro-5kqlw.jpeg': No such file or directory
+INPUT|lclarkfi-intro-633|A0 A2 A1 A3 A4 |000000000|lclarkfi|intro:find / -name "asdf136*"|!TRUNCATED TO 500L! find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied
+find: '/proc/2/task/2/fd': Permission denied
+find: '/proc/2/task/2/fdinfo': Permission denied
+find: '/proc/2/task/2/n
+INPUT|lclarkfi-intro-634|A0 A2 A1 A4 A3 |1537940746|lclarkfi|intro:find / -name \"asdf136*\" | 2 > /dev /null|bash: /dev: Is a directory
+find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied
+find: '/proc/2/task/2/fd': Permission denied
+find: '/proc/2/task/2/fdinfo': Permission denied
+find: '/proc/
+INPUT|lclarkfi-intro-635|A2 A0 A4 A3 A1 |000000000|lclarkfi|intro:find / -name \"asdf136*\\" | 2 > /dev/null|!TRUNCATED TO 500L! find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+2: command not found
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied
+find: '/proc/2/task/2/fd': Permission denied
+find: '/proc/2/task/2/fdinfo': Permission denied<NL
+INPUT|lclarkfi-intro-636|A2 A0 A4 A3 A1 |000000000|lclarkfi|intro:find / -name \"*Intro\*\" | grep -i \"jpeg\"|!TRUNCATED TO 500L! find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied
+find: '/proc/2/task/2/fd': Permission denied
+find: '/proc/2/task/2/fdinfo': Permission denied
+find: '/proc/2/task/2/n
+INPUT|lclarkfi-intro-637|A0 A2 A1 A4 A3 |000000000|lclarkfi|intro:find / -name \"*In./*\" | grep  -i \"jpeg\"|%!TRUNCATED TO 500L! find: warning: Unix filenames usually don't contain slashes (though pathnames do).  That means that '-name './*'' will probably evaluate to false all the time on this system.  You might find the '-wholename' test more useful%% or perhaps '-samefile'.  Alternatively%% if you are using GNU grep%% you could use 'find ... -print0 | grep -FzZ './*''.
+find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission deni
+INPUT|lclarkfi-intro-638|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-639|U |1537940767|lclarkfi|intro:ls|deter  top_secret
+INPUT|lclarkfi-intro-640|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-641|U |1537940771|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-642|U |000000000|lclarkfi|intro:cd ./|
+INPUT|lclarkfi-intro-643|U |1537940783|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-644|A0 A2 A1 A4 A3 |000000000|lclarkfi|intro:find \/ -name \"*/hidden*\" | grep -i \"jpeg\" | 2 > /dev /null|%!TRUNCATED TO 500L! bash: /dev: Is a directory
+find: warning: Unix filenames usually don't contain slashes (though pathnames do).  That means that '-name '*/hidden*'' will probably evaluate to false all the time on this system.  You might find the '-wholename' test more useful%% or perhaps '-samefile'.  Alternatively%% if you are using GNU grep%% you could use 'find ... -print0 | grep -FzZ '*/hidden*''.
+find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find
+INPUT|lclarkfi-intro-645|A0 A2 A1 A4 A3 |000000000|lclarkfi|intro:find / -name \"*/hidden*\" ||%!TRUNCATED TO 500L! find: warning: Unix filenames usually don't contain slashes (though pathnames do).  That means that '-name '*/hidden*'' will probably evaluate to false all the time on this system.  You might find the '-wholename' test more useful%% or perhaps '-samefile'.  Alternatively%% if you are using GNU grep%% you could use 'find ... -print0 | grep -FzZ '*/hidden*''.
+find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Per
+INPUT|lclarkfi-intro-646|A1 A4 A3 A0 A2 |000000000|lclarkfi|intro:find / -name \"*/hidden*\" | grep -i \"jpeg\" | 2 > /dev /null|
+INPUT|lclarkfi-intro-647|A4 A3 A1 A2 A0 |1537940981|lclarkfi|intro:ls[3P[4Pfind / -name "[4@asdf136*" [K2 > /dev /null|
+INPUT|lclarkfi-intro-648|U |000000000|lclarkfi|intro:mv -t /home/top_secret asdf136Intro-5kqlw.jpeg5kqlw.jpeg|
+INPUT|lclarkfi-intro-649|U |1537941088|lclarkfi|intro:lssudo mv -t /home/top_secret /var/log/136intro-3.jpg /etc/wuer13|36intro-4.JPG[Ao:/$ sudo mv -t /[4Pvar/log/136intro-3.jpg /etc/wuer136intro-4.JPG
+
+INPUT|lclarkfi-intro-650|U |000000000|lclarkfi|intro:mv -t /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG|
+INPUT|lclarkfi-intro-651|U |000000000|lclarkfi|intro:mv -t /home/top_secret /usr/share/pixmaps/xbzf136INTRO-1.j|jpg /dev/136intro-2jjaj.JPEG<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>ls<ESC>[K
+
+INPUT|lclarkfi-intro-652|U |000000000|lclarkfi|intro:touch answers.txtt|
+INPUT|lclarkfi-intro-653|U |000000000|lclarkfi|intro:mkdir top_secret|
+INPUT|lclarkfi-intro-654|U |000000000|lclarkfi|intro:file ata-SAMSUNG_CD-ROM_SN-124|
+INPUT|lclarkfi-intro-655|U |1537941096|lclarkfi|intro:lslsls[4P[4P[4Psudo touch diskfree.txt|
+INPUT|lclarkfi-intro-656|U |000000000|lclarkfi|intro:mv -t /home/top_secret /var/log/136intro-3.jpg /etc/wuer13|36intro-4.JPG<ESC>[Ao:/$ sudo mv -t /home/top_secret /usr/share/pixmaps/xbzf136INTRO-1.j<ESC>[15@pg /dev/136intro-2jjaj.JPEG<ESC>[A /<ESC>[4Pvar/log/136intro-3.jpg /etc/wuer136intro-4.JPG
+
+INPUT|lclarkfi-intro-657|U |000000000|lclarkfi|intro:mv -t /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG|
+INPUT|lclarkfi-intro-658|U |1537940299|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-659|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-660|U |1537941490|lclarkfi|intro:lssudo mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-661|U |1537941637|lclarkfi|intro:lssudo mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-662|U |1537941671|lclarkfi|intro:ls[3Plsls[4Psudo mv answers.txt /home/top_secret|
+INPUT|lclarkfi-intro-663|U |000000000|lclarkfi|intro:mv answers.txt /home/top_secret|
+INPUT|lclarkfi-intro-664|U |000000000|lclarkfi|intro:mkdir top_secret|
+INPUT|lclarkfi-intro-665|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-666|U |000000000|lclarkfi|intro:ssh intro.lclarkfi-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkfi-intro-667|U |000000000|lclarkfi|intro:echo "Descriptions of Images" >>  answers.txt|
+INPUT|lclarkfi-intro-668|U |000000000|lclarkfi|intro:echo "5../.hidden/asdf136Intro-5kqlw.jpeg" >> answers.txt|
+INPUT|lclarkfi-intro-669|U |000000000|lclarkfi|intro:echo "4./etc/wuer136intro-4.JPG" >> answers.txt|
+INPUT|lclarkfi-intro-670|U |000000000|lclarkfi|intro:echo \"3./var/log/136intro-3.jpg\" >> answers.txt|
+INPUT|lclarkfi-intro-671|U |000000000|lclarkfi|intro:echo \"4./etc/wuer136intro-4.JPG\" >> answers.txt|
+INPUT|lclarkfi-intro-672|U |000000000|lclarkfi|intro:echo "5../.hidden/asdf136Intro-5kqlw.jpeg" >> answers.txt|
+INPUT|lclarkfi-intro-673|U |000000000|lclarkfi|intro:echo "5../.hidden/asdf136Intro-5kqlw.jpeg" >> answers.txt|
+INPUT|lclarkfi-intro-674|U |000000000|lclarkfi|intro:echo "4./etc/wuer136intro-4.JPG" >> answers.txt|
+INPUT|lclarkfi-intro-675|U |000000000|lclarkfi|intro:echo \"3./var/log/136intro-3.jpg\" >> answers.txt|
+INPUT|lclarkfi-intro-676|U |000000000|lclarkfi|intro:echo "2./dev/136intro-2jjaj.JPEG" >> answers.txt|
+INPUT|lclarkfi-intro-677|U |000000000|lclarkfi|intro:echo "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" >> answers.txt|
+INPUT|lclarkfi-intro-678|U |000000000|lclarkfi|intro:1./usr/share/pixmaps/xbzf136INTRO-1.jpg >> answers.txt|
+INPUT|lclarkfi-intro-679|U |000000000|lclarkfi|intro:ssh intro.lclarkfi-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkfi-intro-680|U |000000000|lclarkfi|intro:scp lclarkfi@users.isi.deterlab.net:top_secert/xbzf136INTRO-1.j|jpg jamestostado@10.4.36.50:Desktop<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[7@jamess-MacBookPro:Desktop<ESC>[A
+INPUT|lclarkfi-intro-681|U |000000000|lclarkfi|intro:sftp lclarkfi@users.isi.deterlab.net:top_secert/* jamestostado@jamess-MacBookPro:Desktoparkfi@users.isi.deterlab.net|
+INPUT|lclarkfi-intro-682|U |000000000|lclarkfi|intro:sftp lclarkfi@users.isi.deterlab.net|
+INPUT|lclarkfi-intro-683|U |000000000|lclarkfi|intro:scp lclarkfi@users.deterlab.net:top_secert/* jamestostado@james|ss-MacBookPro:Desktop<ESC>[A lclarkfi@users.deterlab:top_secert/* jamestostado@jamess-Ma<ESC>[4PcBookPro:Desktop<ESC>[A ls<ESC>[K
+
+INPUT|lclarkfi-intro-684|U |000000000|lclarkfi|intro:ssh intro.lclarkfi-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkfi-intro-685|U |000000000|lclarkfi|intro:python -m SimpleHTTPServer 8080|
+INPUT|lclarkfi-intro-686|U |000000000|lclarkfi|intro:xdg-open xbzf136INTRO-1.JPG|
+INPUT|lclarkfi-intro-687|U |1537942005|lclarkfi|intro:lscd [6Pssh intro.lclarkfi-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkfi-intro-688|U |000000000|lclarkfi|intro:emacs xbz136INTRO-1.jpg|
+INPUT|lclarkfi-intro-689|U |1537942190|lclarkfi|intro:lscd sudo mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|mv: failed to access '/home/top_secert': No such file or directory
+INPUT|lclarkfi-intro-690|U |1537940351|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-691|A0 A2 A1 A3 A4 |000000000|lclarkfi|intro:find / -name "*/hidden*" | grep -i \"jpeg\" | 2 > /dev /null|
+INPUT|lclarkfi-intro-692|A2 A0 A4 A3 A1 |1537942305|lclarkfi|intro:ls[3P[4Pfind / -name "[4@asdf136*" [K2 > /dev /null|
+INPUT|lclarkfi-intro-693|U |000000000|lclarkfi|intro:mv -t /home/top_secret asdf136Intro-5kqlw.jpeg5kqlw.jpeg|
+INPUT|lclarkfi-intro-694|U |1537943036|lclarkfi|intro:lssudo mv -t /home/top_secret /var/log/136intro-3.jpg /etc/wuer13|36intro-4.JPG[Ao:/$ sudo mv -t /[4Pvar/log/136intro-3.jpg /etc/wuer136intro-4.JPG
+
+INPUT|lclarkfi-intro-695|U |000000000|lclarkfi|intro:mv -t /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG|
+INPUT|lclarkfi-intro-696|U |000000000|lclarkfi|intro:mv -t /home/top_secret /usr/share/pixmaps/xbzf136INTRO-1.j|jpg /dev/136intro-2jjaj.JPEG<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>ls<ESC>[K
+
+INPUT|lclarkfi-intro-697|U |000000000|lclarkfi|intro:touch answers.txtt|
+INPUT|lclarkfi-intro-698|U |000000000|lclarkfi|intro:mkdir top_secret|
+INPUT|lclarkfi-intro-699|U |000000000|lclarkfi|intro:file ata-SAMSUNG_CD-ROM_SN-124|
+INPUT|lclarkfi-intro-700|U |1537943210|lclarkfi|intro:lslsls[4P[4P[4Psudo touch diskfree.txt|
+INPUT|lclarkfi-intro-701|U |000000000|lclarkfi|intro:mv -t /home/top_secret /var/log/136intro-3.jpg /etc/wuer13|36intro-4.JPG<ESC>[Ao:/$ sudo mv -t /home/top_secret /usr/share/pixmaps/xbzf136INTRO-1.j<ESC>[15@pg /dev/136intro-2jjaj.JPEG<ESC>[A /<ESC>[4Pvar/log/136intro-3.jpg /etc/wuer136intro-4.JPG
+
+INPUT|lclarkfi-intro-702|U |000000000|lclarkfi|intro:mv -t /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG|
+INPUT|lclarkfi-intro-703|U |1537940333|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-704|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-705|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-706|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-707|U |000000000|lclarkfi|intro:mv answers.txt /home/top_secret|
+INPUT|lclarkfi-intro-708|U |000000000|lclarkfi|intro:mv answers.txt /home/top_secret|
+INPUT|lclarkfi-intro-709|U |000000000|lclarkfi|intro:mkdir top_secret|
+INPUT|lclarkfi-intro-710|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-711|U |000000000|lclarkfi|intro:ssh intro.lclarkfi-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkfi-intro-712|U |000000000|lclarkfi|intro:echo "Descriptions of Images" >>  answers.txt|
+INPUT|lclarkfi-intro-713|U |000000000|lclarkfi|intro:echo "5../.hidden/asdf136Intro-5kqlw.jpeg" >> answers.txt|
+INPUT|lclarkfi-intro-714|U |000000000|lclarkfi|intro:echo "4./etc/wuer136intro-4.JPG" >> answers.txt|
+INPUT|lclarkfi-intro-715|U |000000000|lclarkfi|intro:echo \"3./var/log/136intro-3.jpg\" >> answers.txt|
+INPUT|lclarkfi-intro-716|U |000000000|lclarkfi|intro:echo "2./dev/136intro-2jjaj.JPEG" >> answers.txt|
+INPUT|lclarkfi-intro-717|U |000000000|lclarkfi|intro:echo "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" >> answers.txt|
+INPUT|lclarkfi-intro-718|U |000000000|lclarkfi|intro:1./usr/share/pixmaps/xbzf136INTRO-1.jpg >> answers.txt|
+INPUT|lclarkfi-intro-719|U |000000000|lclarkfi|intro:ssh intro.lclarkfi-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkfi-intro-720|U |000000000|lclarkfi|intro:scp lclarkfi@users.isi.deterlab.net:top_secert/xbzf136INTRO-1.j|jpg jamestostado@10.4.36.50:Desktop<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[7@jamess-MacBookPro:Desktop<ESC>[A
+INPUT|lclarkfi-intro-721|U |000000000|lclarkfi|intro:sftp lclarkfi@users.isi.deterlab.net:top_secert/* jamestostado@jamess-MacBookPro:Desktoparkfi@users.isi.deterlab.net|
+INPUT|lclarkfi-intro-722|U |000000000|lclarkfi|intro:sftp lclarkfi@users.isi.deterlab.net|
+INPUT|lclarkfi-intro-723|U |000000000|lclarkfi|intro:scp lclarkfi@users.deterlab.net:top_secert/* jamestostado@james|ss-MacBookPro:Desktop<ESC>[A lclarkfi@users.deterlab:top_secert/* jamestostado@jamess-Ma<ESC>[4PcBookPro:Desktop<ESC>[A ls<ESC>[K
+
+INPUT|lclarkfi-intro-724|U |000000000|lclarkfi|intro:ssh intro.lclarkfi-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkfi-intro-725|U |000000000|lclarkfi|intro:python -m SimpleHTTPServer 8080|
+INPUT|lclarkfi-intro-726|U |000000000|lclarkfi|intro:xdg-open xbzf136INTRO-1.JPG|
+INPUT|lclarkfi-intro-727|U |000000000|lclarkfi|intro:ssh intro.lclarkfi-intro21.CS495LC.isi.deterlab.net|
+INPUT|lclarkfi-intro-728|U |000000000|lclarkfi|intro:emacs xbz136INTRO-1.jpg|
+INPUT|lclarkfi-intro-729|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-730|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkfi-intro-731|U |000000000|lclarkfi|intro:cd ./.hidden|
+INPUT|lclarkfi-intro-732|U |000000000|lclarkfi|intro:ls|asdf136Intro-5kqlw.jpeg
+INPUT|lclarkfi-intro-733|U |000000000|lclarkfi|intro:pwd|/.hidden
+INPUT|lclarkfi-intro-734|U |000000000|lclarkfi|intro:mv -t home/top_secret ./.hidden/asdf136Intro-5kqlw|.jpeg
+mv: failed to access 'home/top_secret': No such file or directory
+INPUT|lclarkfi-intro-735|U |000000000|lclarkfi|intro:mv -t home/top_secret ./.hidden/asdf136Intro-5kqlw.|.jpegcd<BS> <BS><BS> <BS><ESC>[Akfi@intro:/.hidden$ pwd<ESC>[K
+
+INPUT|lclarkfi-intro-736|U |000000000|lclarkfi|intro:cd home|bash: cd: home: No such file or directory
+INPUT|lclarkfi-intro-737|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-738|U |000000000|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-739|U |000000000|lclarkfi|intro:cd home|
+INPUT|lclarkfi-intro-740|U |000000000|lclarkfi|intro:ls|deter  top_secret
+INPUT|lclarkfi-intro-741|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.  clarkfi@intro:/home$ sudo mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.j| 
+p <BS>e <BS>f <BS><BS><ESC>[1P <BS>g <BS>
+mv: cannot stat './.hidden/asdf136Intro-5kqlw.jpeg': No such file or directory
+INPUT|lclarkfi-intro-742|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jp|peg <BS><BS><BS>
+INPUT|lclarkfi-intro-743|U |000000000|lclarkfi|intro:mv -t /home/top_secret /.hidden/asdf136Intro-5kqlw.jpeg arkfi@intro:/home$ sudo mv -t /home/top_secret|
+
+INPUT|lclarkfi-intro-744|U |000000000|lclarkfi|intro:ls|deter  top_secret
+INPUT|lclarkfi-intro-745|U |000000000|lclarkfi|intro:cd top_secret|
+INPUT|lclarkfi-intro-746|U |000000000|lclarkfi|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      diskfree.txt
+answers.txt      wuer136intro-4.JPG
+INPUT|lclarkfi-intro-747|U |000000000|lclarkfi|intro:mv -t /home/top_secret /.hidden/asdf136Intr|ro-5kqlw.jpeg <ESC>[A:/home/top_secret$ sudo mv -t /home/top_secret ./.hidden/asdf136Int<ESC>[1@ro-5kqlw.jpeg <ESC>[A/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-748|U |000000000|lclarkfi|intro:mv -t home/top_secret ./.hidden/asdf136Intr|ro-5kqlw.jpeg<ESC>[Ao:/home/top_secret$ pwd<ESC>[K
+
+INPUT|lclarkfi-intro-749|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ <ESC>[23Pfind / -name "*/hidden*"
+
+INPUT|lclarkfi-intro-750|A1 A3 A4 A0 A2 |000000000|lclarkfi|intro:find / -name "*/hidden*" | grep -i \"jpeg\" | 2 >| /dev /null<ESC>[Atro:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-751|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ sudo mv -t /home/top_secret asdf136Intro-5kqlw.jpeg<ESC>[K<ESC>[Arkfi@intro:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-752|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ sudo mv -t /home/top_secer
+
+tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ sudo mv -t /home/top_secre
+
+tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ sudo mv -t /home/top_secret /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG<ESC>[Aret$ sudo mv -t /var/log/136intro-3.jpg /etc/wuer136i<ESC>[17Pntro-4.JPG<ESC>[Atro:/home/top_secret$ sudo mv -t /home/top_secret /usr/share/pixmaps/x<ESC>[32@bzf136INTRO-1.jpg /dev/136intro-2jjaj.JPEG<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>ls<ESC>[K
+
+INPUT|lclarkfi-intro-753|U |000000000|lclarkfi|intro:mv -t /home/top_secret /var/log/136intro-3.|.jpg /etc/wuer136intro-4.JPG<ESC>[Aret$ sudo mv -t /home/top_secret /usr/share/pixmaps/x<ESC>[15@bzf136INTRO-1.jpg /dev/136intro-2jjaj.JPEG<ESC>[A /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG<ESC>[K<ESC>[Atro:/home/top_secret$ sudo mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg<ESC>[A:/home/top_secret$ cd ../<ESC>[K
+
+INPUT|lclarkfi-intro-754|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-755|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-756|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-757|U |000000000|lclarkfi|intro:mv answers.txt /home/top_secret|
+INPUT|lclarkfi-intro-758|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ cat answers.txt<ESC>[K
+
+INPUT|lclarkfi-intro-759|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ cat answers.txt<ESC>[K
+
+INPUT|lclarkfi-intro-760|U |000000000|lclarkfi|intro:ssh intro.lclarkfi-intro21.CS495LC.isi.deterlab.|.net<ESC>[Arkfi@intro:/home/top_secret$ cat answers.txt<ESC>[K
+
+INPUT|lclarkfi-intro-761|U |000000000|lclarkfi|intro:ssh intro.lclarkfi-intro21.CS495LC.isi.deterlab.|.net<ESC>[Arkfi@intro:/home/top_secret$ cat answers.txt<ESC>[K
+
+INPUT|lclarkfi-intro-762|U |000000000|lclarkfi|intro:echo "Descriptions of Images" >>  answers.txt|
+INPUT|lclarkfi-intro-763|U |000000000|lclarkfi|intro:echo "5../.hidden/asdf136Intro-5kqlw.jpeg" >> an|nswers.txt<ESC>[Antro:/home/top_secret$ echo "4./etc/wuer136intro-4.JPG" >> answers.txt 
+INPUT|lclarkfi-intro-764|U |000000000|lclarkfi|intro:echo "3./var/log/136intro-3.jpg|
+INPUT|lclarkfi-intro-765|U |000000000|lclarkfi|intro:echo "2./dev/136intro-2jjaj.JPEG" >> answers.txt|t<ESC>[Aclarkfi@intro:/home/top_secret$ echo answers.txt<ESC>[K
+
+INPUT|lclarkfi-intro-766|U |000000000|lclarkfi|intro:echo "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" >|>> answers.txt<ESC>[A:/home/top_secret$ 1./usr/share/pixmaps/xbzf136INTRO-1.jpg >> answe<ESC>[7Prs.txt<ESC>[Ai@intro:/home/top_secret$ echo "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" ><ESC>[7@> answers.txt
+bash: answers.txt: Permission denied
+INPUT|lclarkfi-intro-767|U |000000000|lclarkfi|intro:echo \"1./usr/share/pixmaps/xbzf136INTRO-1.jpg\" >|>> answers.txt<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfi-intro-768|U |000000000|lclarkfi|intro:secho "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" >>arkfi@intro:/home/top_secret$ suecho "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" larkfi@intro:/home/top_secret$ sudecho "1./usr/share/pixmaps/xbzf136INTRO-1.jpg"larkfi@intro:/home/top_secret$ sudoecho "1./usr/share/pixmaps/xbzf136INTRO-1.jpglarkfi@intro:/home/top_secret$ sudo echo "1./usr/share/pixmaps/xbzf136INTRO-1.jplarkfi@intro:/home/top_secret$ sudo|
+
+bash: answers.txt: Permission denied
+INPUT|lclarkfi-intro-769|U |000000000|lclarkfi|intro:echo \"1./usr/share/pixmaps/xbzf136INTRO-1.j|jpg\" >> answers.txt<ESC>[Ae/top_secret$ echo "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" ><ESC>[5P> answers.txt<ESC>[A:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-770|U |000000000|lclarkfi|intro:mv -t /home/top_secret /.hidden/asdf136Intr|ro-5kqlw.jpeg <ESC>[A:/home/top_secret$ sudo mv -t /home/top_secret ./.hidden/asdf136Int<ESC>[1@ro-5kqlw.jpeg <ESC>[A/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-771|U |000000000|lclarkfi|intro:mv -t home/top_secret ./.hidden/asdf136Intr|ro-5kqlw.jpeg<ESC>[Ao:/home/top_secret$ pwd<ESC>[K
+
+INPUT|lclarkfi-intro-772|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ <ESC>[23Pfind / -name "*/hidden*"
+
+INPUT|lclarkfi-intro-773|A4 A3 A1 A2 A0 |000000000|lclarkfi|intro:find / -name "*/hidden*" | grep -i \"jpeg\" | 2 >| /dev /null<ESC>[Atro:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-774|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ sudo mv -t /home/top_secret asdf136Intro-5kqlw.jpeg<ESC>[K<ESC>[Arkfi@intro:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-775|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ sudo mv -t /home/top_secer
+
+tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ sudo mv -t /home/top_secre
+
+tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ sudo mv -t /home/top_secret /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG<ESC>[Aret$ sudo mv -t /var/log/136intro-3.jpg /etc/wuer136i<ESC>[17Pntro-4.JPG<ESC>[Atro:/home/top_secret$ sudo mv -t /home/top_secret /usr/share/pixmaps/x<ESC>[32@bzf136INTRO-1.jpg /dev/136intro-2jjaj.JPEG<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>ls<ESC>[K
+
+INPUT|lclarkfi-intro-776|U |000000000|lclarkfi|intro:mv -t /home/top_secret /var/log/136intro-3.|.jpg /etc/wuer136intro-4.JPG<ESC>[Aret$ sudo mv -t /home/top_secret /usr/share/pixmaps/x<ESC>[15@bzf136INTRO-1.jpg /dev/136intro-2jjaj.JPEG<ESC>[A /var/log/136intro-3.jpg /etc/wuer136intro-4.JPG<ESC>[K<ESC>[Atro:/home/top_secret$ sudo mv -t /home/top_secret ./.hidden/asdf136Intro-5kqlw.jpeg<ESC>[A:/home/top_secret$ cd ../<ESC>[K
+
+INPUT|lclarkfi-intro-777|U |000000000|lclarkfi|intro:mv -t /home/top_secret ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-778|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-779|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-780|U |000000000|lclarkfi|intro:mv answers.txt /home/top_secret|
+INPUT|lclarkfi-intro-781|U |000000000|lclarkfi|intro:mv -t /home/top_secert ./.hidden/asdf136Int|tro-5kqlw.jpeg<ESC>[A:/home/top_secret$ cat answers.txt<ESC>[K
+
+INPUT|lclarkfi-intro-782|U |000000000|lclarkfi|intro:ssh intro.lclarkfi-intro21.CS495LC.isi.deterlab.|.net<ESC>[Arkfi@intro:/home/top_secret$ cat answers.txt<ESC>[K
+
+INPUT|lclarkfi-intro-783|U |000000000|lclarkfi|intro:echo "Descriptions of Images" >>  answers.txt|
+INPUT|lclarkfi-intro-784|U |000000000|lclarkfi|intro:echo "5../.hidden/asdf136Intro-5kqlw.jpeg" >> an|nswers.txt<ESC>[Antro:/home/top_secret$ echo "4./etc/wuer136intro-4.JPG" >> answers.txt 
+INPUT|lclarkfi-intro-785|U |000000000|lclarkfi|intro:echo "3./var/log/136intro-3.jpg|
+INPUT|lclarkfi-intro-786|U |000000000|lclarkfi|intro:echo "2./dev/136intro-2jjaj.JPEG" >> answers.txt|t<ESC>[Aclarkfi@intro:/home/top_secret$ echo answers.txt<ESC>[K
+
+INPUT|lclarkfi-intro-787|U |000000000|lclarkfi|intro:echo "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" >|>> answers.txt<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfi-intro-788|U |000000000|lclarkfi|intro:echo "1./usr/share/pixmaps/xbzf136INTRO-1.jpg"|
+
+bash: answers.txt: Permission denied
+INPUT|lclarkfi-intro-789|U |000000000|lclarkfi|intro:echo \"1./usr/share/pixmaps/xbzf136INTRO-1.jpg\" >|>> answers.txt<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfi-intro-790|U |000000000|lclarkfi|intro:secho "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" >>arkfi@intro:/home/top_secret$ suecho "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" larkfi@intro:/home/top_secret$ sudecho "1./usr/share/pixmaps/xbzf136INTRO-1.jpg"larkfi@intro:/home/top_secret$ sudoecho "1./usr/share/pixmaps/xbzf136INTRO-1.jpglarkfi@intro:/home/top_secret$ sudo echo "1./usr/share/pixmaps/xbzf136INTRO-1.jplarkfi@intro:/home/top_secret$ sudo|
+
+bash: answers.txt: Permission denied
+INPUT|lclarkfi-intro-791|U |000000000|lclarkfi|intro:echo \"1./usr/share/pixmaps/xbzf136INTRO-1.j|jpg\" >> answers.txt<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[1P<BS>
+bash: answers.txt: Permission denied
+INPUT|lclarkfi-intro-792|U |000000000|lclarkfi|intro:echo \"1./usr/share/pixmaps/xbzf136INTRO-1.j|jpg\" > answers.txt<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS> <ESC>[1@.<BS>.<BS><ESC>[1P<ESC>[1@.<BS><ESC>[1P><ESC>[1@><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfi-intro-793|U |000000000|lclarkfi|intro:ech "1./usr/share/pixmaps/xbzf136INTRO-1.jpclarkfi@intro:/home/top_secret$ sudo ec "1./usr/share/pixmaps/xbzf136INTRO-1.jpgclarkfi@intro:/home/top_secret$ sudo e "1./usr/share/pixmaps/xbzf136INTRO-1.jpg"clarkfi@intro:/home/top_secret$ sudo  "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" clarkfi@intro:/home/top_secret$ sudo c "1./usr/share/pixmaps/xbzf136INTRO-1.jpg" larkfi@intro:/home/top_secret$ sudo ca "1./usr/share/pixmaps/xbzf136INTRO-1.jpg"larkfi@intro:/home/top_secret$ sudo cat "1./usr/share/pixmaps/xbzf136INTRO-1.jpglarkfi@intro:/home/top_secret$ sudo cat|
+
+bash: answers.txt: Permission denied
+INPUT|lclarkfi-intro-794|U |000000000|lclarkfi|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      diskfree.txt
+answers.txt      wuer136intro-4.JPG
+INPUT|lclarkfi-intro-795|U |000000000|lclarkfi|intro:cd home|bash: cd: home: No such file or directory
+INPUT|lclarkfi-intro-796|U |000000000|lclarkfi|intro:cd /home|
+INPUT|lclarkfi-intro-797|U |000000000|lclarkfi|intro:echo \"1.usr/share/pixmaps/xbzf136INTRO-1.jpg\" >> answers.t|xt
+bash: answers.txt: Permission denied
+INPUT|lclarkfi-intro-798|U |000000000|lclarkfi|intro:echo \"1.usr/share/pixmaps/xbzf136INTRO-1.jpg\" >> answers.tx|xt<BS>
+INPUT|lclarkfi-intro-799|U |000000000|lclarkfi|intro:secho "1.usr/share/pixmaps/xbzf136INTRO-1.jpg" >> answers.txtarkfi@intro:/home$ suecho "1.usr/share/pixmaps/xbzf136INTRO-1.jpg" >> answers.tlarkfi@intro:/home$ sudecho "1.usr/share/pixmaps/xbzf136INTRO-1.jpg" >> answers.larkfi@intro:/home$ sudoecho "1.usr/share/pixmaps/xbzf136INTRO-1.jpg" >> answerslarkfi@intro:/home$ sudo echo "1.usr/share/pixmaps/xbzf136INTRO-1.jpg" >> answerlarkfi@intro:/home$ sudo|
+
+bash: answers.txt: Permission denied
+INPUT|lclarkfi-intro-800|U |000000000|lclarkfi|intro:cd /top_scret|bash: cd: /top_scret: No such file or directory
+INPUT|lclarkfi-intro-801|U |000000000|lclarkfi|intro:ls|deter  top_secret
+INPUT|lclarkfi-intro-802|U |000000000|lclarkfi|intro:cd top_scret|bash: cd: top_scret: No such file or directory
+INPUT|lclarkfi-intro-803|U |000000000|lclarkfi|intro:cd top_secret|
+INPUT|lclarkfi-intro-804|U |000000000|lclarkfi|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      diskfree.txt
+answers.txt      wuer136intro-4.JPG
+INPUT|lclarkfi-intro-805|U |000000000|lclarkfi|intro:echo \"\used 1268019456\ available 6007887\" > disk|
+INPUT|lclarkfi-intro-806|U |000000000|lclarkfi|intro:echo "used 1268019456 available 6007887" > disk|
+INPUT|lclarkfi-intro-807|U |000000000|lclarkfi|intro:echo "used 1268019456 available 6007887" > dis|
+INPUT|lclarkfi-intro-808|U |000000000|lclarkfi|intro:echo "used 1268019456 available 6007887" > disk|free.txt
+bash: diskfree.txt: Permission denied
+INPUT|lclarkfi-intro-809|U |000000000|lclarkfi|intro:echo \"used 1268019456 available 6007887\" > diskf|free.txt<BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfi-intro-810|U |000000000|lclarkfi|intro:secho "used 1268019456 available 6007887" > diskflarkfi@intro:/home/top_secret$ suecho "used 1268019456 available 6007887" > disklarkfi@intro:/home/top_secret$ sudecho "used 1268019456 available 6007887" > dislarkfi@intro:/home/top_secret$ sudoecho "used 1268019456 available 6007887" > dilarkfi@intro:/home/top_secret$ sudo echo "used 1268019456 available 6007887" > dlarkfi@intro:/home/top_secret$ sudo|
+
+bash: diskfree.txt: Permission denied
+INPUT|lclarkfi-intro-811|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-812|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-813|U |000000000|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-814|U |000000000|lclarkfi|intro:cd home|
+INPUT|lclarkfi-intro-815|U |1537942171|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|tar (child): lclarkfi-intro.tar.gz: Cannot open: Permission denied
+tar (child): Error is not recoverable: exiting now
+top_secret/
+top_secret/xbzf136INTRO-1.jpg
+INPUT|lclarkfi-intro-816|U |000000000|lclarkfi|intro:ls|deter  top_secret
+INPUT|lclarkfi-intro-817|U |1537942256|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|tar (child): lclarkfi-intro.tar.gz: Cannot open: Permission denied
+tar (child): Error is not recoverable: exiting now
+top_secret/
+top_secret/xbzf136INTRO-1.jpg
+INPUT|lclarkfi-intro-818|U |000000000|lclarkfi|intro:cd top_secret|
+INPUT|lclarkfi-intro-819|U |000000000|lclarkfi|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      diskfree.txt
+answers.txt      wuer136intro-4.JPG
+INPUT|lclarkfi-intro-820|U |1537942328|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|tar: top_secret: Cannot stat: No such file or directory
+tar (child): lclarkfi-intro.tar.gz: Cannot open: Permission denied
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+INPUT|lclarkfi-intro-821|U |000000000|lclarkfi|intro:vzf lclarkfi-intro.tar.gz top_secret|tar: top_secret: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+INPUT|lclarkfi-intro-822|U |000000000|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|tar: top_secret: Cannot stattar (child): lclarkfi-intro.tar.gz: Cannot open: No such file or directory: Permission denied
+tar (child): 
+Error is not recoverable: exiting now
+INPUT|lclarkfi-intro-823|U |1537942340|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|
+INPUT|lclarkfi-intro-824|U |000000000|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|
+INPUT|lclarkfi-intro-825|U |000000000|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|
+INPUT|lclarkfi-intro-826|U |000000000|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|
+INPUT|lclarkfi-intro-827|U |000000000|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|
+INPUT|lclarkfi-intro-828|U |000000000|lclarkfi|intro:tar cvzf lclarkfi-intro.tar.gz top_secret|
+INPUT|lclarkfi-intro-829|U |000000000|lclarkfi|intro:echo "used 1268019456 available 6007887" >| diskfree.txt<ESC>[Ao:/home/top_secret$ echo "used 1268019456 available 6007887" > diskf<ESC>[5Pree.txt<ESC>[A@intro:/home/top_secret$ ls<ESC>[K
+
+INPUT|lclarkfi-intro-830|U |000000000|lclarkfi|intro:echo "used 1268019456 available 6007887" > diskf|free.txt
+bash: diskfree.txt: Permission denied
+INPUT|lclarkfi-intro-831|U |000000000|lclarkfi|intro:echo "used 1268019456 available 6007887" > diskf|free.txt<BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfi-intro-832|U |000000000|lclarkfi|intro:secho "used 1268019456 available 6007887" > diskflarkfi@intro:/home/top_secret$ suecho "used 1268019456 available 6007887" > disklarkfi@intro:/home/top_secret$ sudecho "used 1268019456 available 6007887" > dislarkfi@intro:/home/top_secret$ sudoecho "used 1268019456 available 6007887" > dilarkfi@intro:/home/top_secret$ sudo echo "used 1268019456 available 6007887" > dlarkfi@intro:/home/top_secret$ sudo|
+
+bash: diskfree.txt: Permission denied
+INPUT|lclarkfi-intro-833|U |000000000|lclarkfi|intro:s|s: command not found
+INPUT|lclarkfi-intro-834|U |000000000|lclarkfi|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+136intro-3.jpg      diskfree.txt       xbzf136INTRO-1.jpg
+answers.txt      lclarkfi-intro.tar.gz
+INPUT|lclarkfi-intro-835|U |1537943195|lclarkfi|intro:rm lclarkfi-intro.tar.gz|rm: remove write-protected regular file 'lclarkfi-intro.tar.gz'? yes
+rm: cannot remove 'lclarkfi-intro.tar.gz': Permission denied
+INPUT|lclarkfi-intro-836|U |000000000|lclarkfi|intro:larkfi-intro.tar.gz|
+INPUT|lclarkfi-intro-837|U |000000000|lclarkfi|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      diskfree.txt
+answers.txt      wuer136intro-4.JPG
+INPUT|lclarkfi-intro-838|U |1537943223|lclarkfi|intro:emacs answers.txt|%[?1049h[?12;25h[?1h=[H[2J[24d[K[?1l>[?12l[?25h[?1049l[39;49m
+[?1049h[?12;25h[?1h=[H[2J[23d[?25l[30m[47m-111:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) ---------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[24d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[24;9H[?25l/etc/emacs/site-start.d/50autoconf.el (source)...[H
+[?12l[?25h[?12;25h[24;58H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[24d[?25lLoading /etc/emacs/site-start.d/50autoconf.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                           [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-111:----F1  [39;49m[1m[30m[48;5;250m*scratch*   [0m[39;49m[30m[48;5;250m   All L1     (Lisp Interaction) ----------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[24d[?25lFor information about GNU Emacs and the GNU system%% type C-
+INPUT|lclarkfi-intro-839|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-840|U |000000000|lclarkfi|intro:cd ../|
+INPUT|lclarkfi-intro-841|U |1537943417|lclarkfi|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfi-intro-842|U |000000000|lclarkfi|intro:cd home|
+INPUT|lclarkfi-intro-843|U |1537943421|lclarkfi|intro:ls|deter  top_secret
+INPUT|lclarkfi-intro-844|U |000000000|lclarkfi|intro:cd top_secret|
+INPUT|lclarkfi-intro-845|U |1537943427|lclarkfi|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      diskfree.txt
+answers.txt      wuer136intro-4.JPG
+INPUT|lclarkfi-intro-846|U |000000000|lclarkfi|intro:echo \"used 1268019456 available 6007887\" >| diskfree.txt<ESC>[Ao:/home/top_secret$ echo "used 1268019456 available 6007887" > diskf<ESC>[5Pree.txt<ESC>[A@intro:/home/top_secret$ sudo echo "used 1268019456 available 6007887" > <ESC>[5@diskfree.txt<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfi-intro-847|U |000000000|lclarkfi|intro:echo "used 1268019456 available 6007887"|
+INPUT|lclarkfi-intro-848|U |000000000|lclarkfi|intro:echo "used 1268019456 available 6007887"|
+<ESC>[1@>
+
+bash: diskfree.txt: Permission denied
+INPUT|lclarkfi-intro-849|U |000000000|lclarkfi|intro:echo \"used 1268019456 available 6007887\" >>|> diskfree.txt<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfi-intro-850|A0 A2 A1 A3 A4 |000000000|lclarkfi|intro:sudoecho "used 1268019456 available 6007887" >|
+INPUT|lclarkfi-intro-851|U |000000000|lclarkfi|intro:sudecho "used 1268019456 available 6007887" >> dclarkfi@intro:/home/top_secret$ suecho "used 1268019456 available 6007887" >> diclarkfi@intro:/home/top_secret$ secho "used 1268019456 available 6007887" >> disclarkfi@intro:/home/top_secret$ echo "used 1268019456 available 6007887" >> diskclarkfi@intro:/home/top_secret$|
+
+bash: diskfree.txt: Permission denied
+INPUT|lclarkfi-intro-852|U |000000000|lclarkfi|intro:|

@@ -1,0 +1,806 @@
+User lclarkfb start time 1537570269 end 1537816897
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkfb-intro-0|U |1537570269|lclarkfb|intro:mkdir top_secret|
+INPUT|lclarkfb-intro-1|U |000000000|lclarkfb|:|
+INPUT|lclarkfb-intro-2|U |000000000|lclarkfb|:|
+INPUT|lclarkfb-intro-3|U |1537570272|lclarkfb|intro:ls|top_secret
+INPUT|lclarkfb-intro-4|U |000000000|lclarkfb|intro:cd top secret|bash: cd: top: No such file or directory
+INPUT|lclarkfb-intro-5|U |000000000|lclarkfb|intro:cd top_secret|
+INPUT|lclarkfb-intro-6|U |1537570290|lclarkfb|intro:ls|
+INPUT|lclarkfb-intro-7|U |000000000|lclarkfb|intro:cd|
+INPUT|lclarkfb-intro-8|U |1537570304|lclarkfb|intro:ls*|%No command 'ls*' found%% did you mean:
+ Command 'lsh' from package 'lsh-client' (universe)
+ Command 'lsw' from package 'suckless-tools' (universe)
+ Command 'lsx' from package 'suckless-tools' (universe)
+ Command 'ls' from package 'coreutils' (main)
+ls*: command not found%
+INPUT|lclarkfb-intro-9|U |000000000|lclarkfb|intro:ls *|
+INPUT|lclarkfb-intro-10|U |000000000|lclarkfb|intro:ls|top_secret
+INPUT|lclarkfb-intro-11|U |000000000|lclarkfb|intro:c^|c^: command not found
+INPUT|lclarkfb-intro-12|U |000000000|lclarkfb|intro:q|The program 'q' can be found in the following packages:
+ * python-q-text-as-data
+ * python3-q-text-as-data
+Ask your administrator to install one of them
+INPUT|lclarkfb-intro-13|U |000000000|lclarkfb|intro:C^|C^: command not found
+INPUT|lclarkfb-intro-14|U |000000000|lclarkfb|intro:^C|
+INPUT|lclarkfb-intro-15|U |000000000|lclarkfb|intro:^C|
+INPUT|lclarkfb-intro-16|U |000000000|lclarkfb|intro:^C|
+INPUT|lclarkfb-intro-17|U |1537570760|lclarkfb|intro:ps|  PID TTY          TIME CMD
+ 5682 pts/0    00:00:00 bash
+ 5706 pts/0    00:00:00 bash
+ 5776 pts/0    00:00:00 ps
+INPUT|lclarkfb-intro-18|U |1537632092|lclarkfb|intro:ls|top_secret
+INPUT|lclarkfb-intro-19|U |1537632417|lclarkfb|intro:updatedb|
+INPUT|lclarkfb-intro-20|M4 |000000000|lclarkfb|intro:locate *intro *.jpeg|/.hidden/asdf136Intro-5kqlw.jpeg
+/proj/share/exp/createimage/count.intro
+/proj/share/exp/createimage/logs/alltty.intro
+/var/log/ttylog/alltty.intro
+INPUT|lclarkfb-intro-21|U |000000000|lclarkfb|intro:cd /|
+INPUT|lclarkfb-intro-22|U |000000000|lclarkfb|intro:pwd|/
+INPUT|lclarkfb-intro-23|M4 |000000000|lclarkfb|intro:locate *intro *.jpeg|/.hidden/asdf136Intro-5kqlw.jpeg
+/proj/share/exp/createimage/count.intro
+/proj/share/exp/createimage/logs/alltty.intro
+/var/log/ttylog/alltty.intro
+INPUT|lclarkfb-intro-24|U |1537632798|lclarkfb|intro:open /.hidden/asdf136Intro-5kqlw.jpeg|Couldn't get a file descriptor referring to the console
+INPUT|lclarkfb-intro-25|U |000000000|lclarkfb|intro:qlmanage -p /.hidden/asdf136Intro-5kqlw.jpeg|qlmanage: command not found
+INPUT|lclarkfb-intro-26|U |1537632921|lclarkfb|intro:open -a /.hidden/asdf136Intro-5kqlw.jpeg|%open: invalid option -- 'a'
+Usage: open [OPTIONS] -- command
+
+This utility help you to start a program on a new virtual terminal (VT).
+
+Options:
+  -c%% --console=NUM   use the given VT number;
+  -e%% --exec          execute the command%% without forking;
+  -f%% --force         force opening a VT without checking;
+  -l%% --login         make the command a login shell;
+  -u%% --user          figure out the owner of the current VT;
+  -s%% --switch        switch to the new VT;
+  -w%% --wait          wait for command to complete;
+  -v%% --verbose       print a message for each action;
+  -V%% --version       print program version and exit;
+  -h%% --help          output a brief help message.
+%
+INPUT|lclarkfb-intro-27|U |000000000|lclarkfb|intro:eog -f /.hidden/asdf136Intro-5kqlw.jpeg|The program 'eog' is currently not installed. To run 'eog' please ask your administrator to install the package 'eog'
+INPUT|lclarkfb-intro-28|U |000000000|lclarkfb|intro:eog|The program 'eog' is currently not installed. To run 'eog' please ask your administrator to install the package 'eog'
+INPUT|lclarkfb-intro-29|U |1537633018|lclarkfb|intro:install eog|install: missing destination file operand after 'eog'
+Try 'install --help' for more information.
+INPUT|lclarkfb-intro-30|U |000000000|lclarkfb|intro:pwd|/
+INPUT|lclarkfb-intro-31|A2 A0 A4 A3 A1 |000000000|lclarkfb|intro:find . -name \"*.jpeg\"|!TRUNCATED TO 500L! find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo': Permission denied
+find
+INPUT|lclarkfb-intro-32|A4 A3 A1 A2 A0 |000000000|lclarkfb|intro:find *intro* 2>/dev/null|
+INPUT|lclarkfb-intro-33|M3 M2 M1 |000000000|lclarkfb|intro:find / -name 2>/dev/null|/var/log/ttylog/alltty.intro
+/var/log/ttylog/ttylog.intro.1
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/CS495LC/exp/derek-linuxintro
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.ns
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.png
+/proj/CS495LC/exp/george-introUnix
+/proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.png
+/proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.ns
+/proj/CS495LC/exp/jmache-intro2
+/proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.ns
+/proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.png
+/proj/CS495LC/exp/lclarkai-intro
+/proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.ns
+/proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.png
+/proj/CS495LC/exp/lclarkan-intro
+/proj/CS495LC/exp/lclarkan-intro/tbdata/lclarkan-intro.ns
+/proj/CS49
+INPUT|lclarkfb-intro-34|A2 A0 A4 A3 A1 |000000000|lclarkfb|intro:find / -name *intro* *.jpeg*null|
+INPUT|lclarkfb-intro-35|A0 A2 A1 A4 A3 |000000000|lclarkfb|intro:find / -name *intro* |  peg*  2>/dev/null|find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+INPUT|lclarkfb-intro-36|A2 A0 A4 A3 A1 |000000000|lclarkfb|intro:find / -name *intro*    ".jpeg"  2>/dev/null|
+INPUT|lclarkfb-intro-37|A1 A3 A4 A0 A2 |1537633682|lclarkfb|intro:man find|%[?1049h[?1h=
+FIND(1)                                 General Commands Manual                                FIND(1)[m
+[m
+[1mNAME[0m[m
+       find - search for files in a directory hierarchy[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mfind[0m [-H] [-L] [-P] [-D debugopts] [-Olevel] [starting-point...] [expression][m
+[m
+[1mDESCRIPTION[0m[m
+       This  manual  page  documents  the  GNU  version of [1mfind[0m.  GNU [1mfind[0m searches the directory tree[m
+       rooted at each given starting-point by evaluating the given  expression  from  left  to  right%%[m
+       according  to  the rules of precedence (see section OPERATORS)%% until the outcome is known (the[m
+       left hand side is false for [4mand[24m operations%% true for [4mor[24m)%% at which point [1mfind[0m moves on  to  the[m
+       next file name.  If no starting-point is specified%% `.' is assumed.[m
+[m
+       If  you  are  using  [1mfind[0m in an environment where security is important (
+INPUT|lclarkfb-intro-38|A2 A0 A4 A3 A1 |000000000|lclarkfb|intro:find / -name *intro* "*.jpeg"  2>/dev/null|
+INPUT|lclarkfb-intro-39|A4 A3 A1 A2 A0 |000000000|lclarkfb|intro:find / -nainn*intro* \".jpeg\"  2>/dev/null|
+INPUT|lclarkfb-intro-40|A2 A0 A4 A3 A1 |000000000|lclarkfb|intro:%find / -inname *intro \".jpeg\"  2>/dev/null|<BS><ESC>[1P<ESC>[1@.<ESC>[1@j<ESC>[1@p<ESC>[1@e<ESC>[1@g* \".jpeg\"<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P <ESC>[1P<BS><ESC>[1P<BS>%
+INPUT|lclarkfb-intro-41|A0 A2 A1 A3 A4 |000000000|lclarkfb|intro:find / -name *intro.jpeg* 2>/dev/null|
+INPUT|lclarkfb-intro-42|A0 A2 A1 A4 A3 |000000000|lclarkfb|intro:find / -iname *intro* ".jpeg"  2>/dev/null|
+INPUT|lclarkfb-intro-43|A1 A4 A3 A0 A2 |000000000|lclarkfb|intro:find / -name *intro* ".jpeg"  2>/dev/null|
+INPUT|lclarkfb-intro-44|M3 M2 M1 |000000000|lclarkfb|intro:find / -name *intro* 2>/dev/null/dev/nullull|/var/log/ttylog/alltty.intro
+/var/log/ttylog/ttylog.intro.1
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/CS495LC/exp/derek-linuxintro
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.ns
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.png
+/proj/CS495LC/exp/george-introUnix
+/proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.png
+/proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.ns
+/proj/CS495LC/exp/jmache-intro2
+/proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.ns
+/proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.png
+/proj/CS495LC/exp/lclarkai-intro
+/proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.ns
+/proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.png
+/proj/CS495LC/exp/lclarkan-intro
+/proj/CS495LC/exp/lclarkan-intro/tbdata/lclarkan-intro.ns
+/proj/CS49
+INPUT|lclarkfb-intro-45|M2 |000000000|lclarkfb|intro:find / -name *intro* & *.jpegull|[1] 3292
+find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/ttylog.intro.1
+/var/log/ttylog/cli.intro.csv
+find: '/var/log/unattended-upgrades': Permission denied
+/var/log/136intro-3.jpg
+INPUT|lclarkfb-intro-46|A1 A4 A3 A0 A2 |000000000|lclarkfb|intro:find: '/var/lib/apt/lists/partial': Permission denied|!TRUNCATED TO 500L! find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied
+find: '/proc/2/task/2/fd': Permission denied
+find: '/proc/2/task/2/fdinfo': Permission denied
+find: '/proc/2/task/2/ns': Permission denied
+find: '/proc/2/fd': Permission denied
+find: '/proc/2/map_files': Permission denied
+find: '/proc/2/fdinfo': Permission denied
+find: '/proc/2/ns': Permission denied
+find: '/proc/3/task/3/fd': Permission denied
+find: '/proc/3/task/3/fdinfo': Permission denied
+find: '/proc/3/task/3/ns': Permission denied
+find: '/proc/3/fd': Permission denied
+find: '/proc/3/map_files': Permission denied
+fi
+INPUT|lclarkfb-intro-47|M3 M2 M1 |000000000|lclarkfb|intro:find / -name *intro* 2>/dev/null|/var/log/ttylog/alltty.intro
+/var/log/ttylog/ttylog.intro.1
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/CS495LC/exp/derek-linuxintro
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.ns
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.png
+/proj/CS495LC/exp/george-introUnix
+/proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.png
+/proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.ns
+/proj/CS495LC/exp/jmache-intro2
+/proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.ns
+/proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.png
+/proj/CS495LC/exp/lclarkai-intro
+/proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.ns
+/proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.png
+/proj/CS495LC/exp/lclarkan-intro
+/proj/CS495LC/exp/lclarkan-intro/tbdata/lclarkan-intro.ns
+/proj/CS49
+INPUT|lclarkfb-intro-48|A4 A3 A1 A2 A0 |000000000|lclarkfb|intro:find / -name *intro* | .jpeg  ll|find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+INPUT|lclarkfb-intro-49|M3 M2 M1 |000000000|lclarkfb|intro:find / -name *intro*    jpeg  2>/dev/null|/var/log/ttylog/alltty.intro
+/var/log/ttylog/ttylog.intro.1
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/CS495LC/exp/derek-linuxintro
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.ns
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.png
+/proj/CS495LC/exp/george-introUnix
+/proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.png
+/proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.ns
+/proj/CS495LC/exp/jmache-intro2
+/proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.ns
+/proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.png
+/proj/CS495LC/exp/lclarkai-intro
+/proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.ns
+/proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.png
+/proj/CS495LC/exp/lclarkan-intro
+/proj/CS495LC/exp/lclarkan-intro/tbdata/lclarkan-intro.ns
+/proj/CS49
+INPUT|lclarkfb-intro-50|U |1537634955|lclarkfb|intro:clear|
+INPUT|lclarkfb-intro-51|M3 M2 M1 |000000000|lclarkfb|intro:find / -name *intro*  2>/dev/null|/var/log/ttylog/alltty.intro
+/var/log/ttylog/ttylog.intro.1
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/CS495LC/exp/derek-linuxintro
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.ns
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.png
+/proj/CS495LC/exp/george-introUnix
+/proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.png
+/proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.ns
+/proj/CS495LC/exp/jmache-intro2
+/proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.ns
+/proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.png
+/proj/CS495LC/exp/lclarkai-intro
+/proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.ns
+/proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.png
+/proj/CS495LC/exp/lclarkan-intro
+/proj/CS495LC/exp/lclarkan-intro/tbdata/lclarkan-intro.ns
+/proj/CS49
+INPUT|lclarkfb-intro-52|U |000000000|lclarkfb|intro:mv /dev/136intro-2jjaj.JPEG|mv: cannot remove '/dev/136intro-2jjaj.JPEG': Permission denied
+INPUT|lclarkfb-intro-53|U |000000000|lclarkfb|intro:mv /var/log/136intro-3.jpgG /users/lclarkfb/top_secret|mv: cannot remove '/var/log/136intro-3.jpg': Permission denied
+INPUT|lclarkfb-intro-54|U |000000000|lclarkfb|intro:mv http:///etc/wuer136intro-4.JPG  clarkfb/top_secret|mv: cannot stat 'http:///etc/wuer136intro-4.JPG': No such file or directory
+INPUT|lclarkfb-intro-55|U |000000000|lclarkfb|intro:mv /ttp:///etc/wuer136intro-4.JPG  /users/lclarkfb/top_secret|mv: cannot remove '/etc/wuer136intro-4.JPG': Permission denied
+INPUT|lclarkfb-intro-56|A4 A3 A1 A2 A0 |000000000|lclarkfb|intro:find / -name *.jpeg|!TRUNCATED TO 500L! find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied
+find: '/proc/2/task/2/fd': Permission denied
+find: '/proc/2/task/2/fdinfo': Permission denied
+find: '/proc/2/task/2/n
+INPUT|lclarkfb-intro-57|U |1537635480|lclarkfb|intro:clear|
+INPUT|lclarkfb-intro-58|M4 |000000000|lclarkfb|intro:find / -name *.jpeg 2>dev/null|/.hidden/asdf136Intro-5kqlw.jpeg
+INPUT|lclarkfb-intro-59|A4 A3 A1 A2 A0 |000000000|lclarkfb|intro:find / -name *.jpeg 2>dev/null|
+INPUT|lclarkfb-intro-60|U |000000000|lclarkfb|intro:mv /.hidden/asdf136Intro-5kqlw.jpeglclarkfb/top_secret|mv: cannot remove '/.hidden/asdf136Intro-5kqlw.jpeg': Permission denied
+INPUT|lclarkfb-intro-61|U |000000000|lclarkfb|intro:mv /.hidden/asdf136Intro-5kqlw.jpeg  /users/lclarkfb/top_secret|
+INPUT|lclarkfb-intro-62|M1 |000000000|lclarkfb|intro:find / -name *.JPEG 2>dev/null|/users/lclarkfb/top_secret/136intro-2jjaj.JPEG
+/dev/136intro-2jjaj.JPEG
+INPUT|lclarkfb-intro-63|M4 |000000000|lclarkfb|intro:find / -name *.jpeg 2>dev/null|/users/lclarkfb/top_secret/asdf136Intro-5kqlw.jpeg
+/.hidden/asdf136Intro-5kqlw.jpeg
+INPUT|lclarkfb-intro-64|M3 |000000000|lclarkfb|intro:find / -name *.JPGg 2>dev/null|/users/lclarkfb/top_secret/wuer136intro-4.JPG
+/etc/wuer136intro-4.JPG
+INPUT|lclarkfb-intro-65|M2 M0 |000000000|lclarkfb|intro:find / -name *.jpg 2>dev/null|/var/log/136intro-3.jpg
+/users/lclarkfb/top_secret/136intro-3.jpg
+/usr/share/doc/libsane/umax/sane-umax-text2.jpg
+/usr/share/doc/libsane/umax/sane-umax-standard.jpg
+/usr/share/doc/libsane/umax/sane-umax-text.jpg
+/usr/share/doc/libsane/umax/sane-umax.jpg
+/usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+/usr/share/doc/libsane/umax/sane-umax-text4.jpg
+/usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+/usr/share/doc/libsane/umax/sane-logo.jpg
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|lclarkfb-intro-66|A4 A3 A1 A2 A0 |000000000|lclarkfb|intro:find / -name *.JPEG 2>dev/null|
+INPUT|lclarkfb-intro-67|U |000000000|lclarkfb|intro:mv /usr/share/pixmaps/xbzf136INTRO-1.jpgers/lclarkfb/top_secret|mv: cannot remove '/usr/share/pixmaps/xbzf136INTRO-1.jpg': Permission denied
+INPUT|lclarkfb-intro-68|U |000000000|lclarkfb|intro:mv /usr/share/pixmaps/xbzf136INTRO-1.jpg  /users/lclarkfb/top_secret|
+INPUT|lclarkfb-intro-69|A1 A4 A3 A0 A2 |000000000|lclarkfb|intro:find / -name *.jpg 2>dev/null|
+INPUT|lclarkfb-intro-70|U |000000000|lclarkfb|intro:mv /usr/share/pixmaps/xbzf136INTRO-1.jpg  /users/lclarkfb/top_secret|
+INPUT|lclarkfb-intro-71|U |1537638545|lclarkfb|intro:scp -P 7822 lclarkfb@users.deterlab.net:~/xbzf136INTRO-1.jpg desktop|
+INPUT|lclarkfb-intro-72|U |000000000|lclarkfb|intro:scp -P 7822 lclarkfb@users.deterlab.net:~/xbzf136INTRO-1.jpg desktop|ssh: connect to host users.deterlab.net port 7822: No route to host
+
+INPUT|lclarkfb-intro-73|U |1537638556|lclarkfb|intro:scp -rP 7822 lclarkfb@users.deterlab.net:~/top_secret desktop|ssh: connect to host users.deterlab.net port 7822: No route to host
+
+INPUT|lclarkfb-intro-74|U |000000000|lclarkfb|intro:scp -rP 7822 lclarkfb@users.deterlab.net:~/top_secret desktop|ssh: connect to host users.deterlab.net port 7822: No route to host
+
+INPUT|lclarkfb-intro-75|U |000000000|lclarkfb|intro:scp -rP 7822 lclarkfb@users.deterlab.net:~//|usage: scp [-12346BCpqrv] [-c cipher] [-F ssh_config] [-i identity_file]
+           [-l limit] [-o ssh_option] [-P port] [-S program]
+           [[user@]host1:]file1 ... [[user@]host2:]file2
+INPUT|lclarkfb-intro-76|U |1537639004|lclarkfb|intro:scp -rP 7822 lclarkfb@users.deterlab.net:~/users/lclarkfb/top_secret desktop|ssh: connect to host users.deterlab.net port 7822: No route to host
+
+INPUT|lclarkfb-intro-77|U |1537639050|lclarkfb|intro:man scp|%[?1049h[?1h=
+SCP(1)                            BSD General Commands Manual                           SCP(1)[m
+[m
+[1mNAME[0m[m
+     [1mscp[0m -- secure copy (remote file copy program)[m
+[m
+[1mSYNOPSIS[0m[m
+     [1mscp[0m [[1m-12346BCpqrv[0m] [[1m-c[0m [4mcipher[24m] [[1m-F[0m [4mssh_config[24m] [[1m-i[0m [4midentity_file[24m] [[1m-l[0m [4mlimit[24m][m
+         [[1m-o[0m [4mssh_option[24m] [[1m-P[0m [4mport[24m] [[1m-S[0m [4mprogram[24m] [[[4muser[24m@][4mhost1[24m:][4mfile1[24m [4m...[24m [[[4muser[24m@][4mhost2[24m:][4mfile2[24m[m
+[m
+[1mDESCRIPTION[0m[m
+     [1mscp[0m copies files between hosts on a network.  It uses ssh(1) for data transfer%% and uses[m
+     the same authentication and provides the same security as ssh(1).  [1mscp[0m will ask for pass-[m
+     words or passphrases if they are needed for authentication.[m
+[m
+     File names may contain a user and host specification to indicate that the file is to be[m
+     copied to/from 
+INPUT|lclarkfb-intro-78|U |000000000|lclarkfb|intro:scp -rP 7822 lclarkfb@users.deterlab.net:~/users/lclarkfb/top_secret /Users/mik|itahanets/desktop
+ssh: connect to host users.deterlab.net port 7822: No route to host
+
+INPUT|lclarkfb-intro-79|U |000000000|lclarkfb|intro:Host pc*.isi.deterlab.net|%No command 'Host' found%% did you mean:
+ Command 'host' from package 'knot-host' (universe)
+ Command 'host' from package 'bind9-host' (main)
+ Command 'most' from package 'most' (universe)
+Host: command not found%
+INPUT|lclarkfb-intro-80|U |000000000|lclarkfb|intro:Host *.lclarkfb-intro21.isi.deterlab.net|%No command 'Host' found%% did you mean:
+ Command 'most' from package 'most' (universe)
+ Command 'host' from package 'bind9-host' (main)
+ Command 'host' from package 'knot-host' (universe)
+Host: command not found%
+INPUT|lclarkfb-intro-81|U |000000000|lclarkfb|intro:Host *.lclarkfb-intro21.isi.deterlab.net|Host*.lclarkfb-intro21.isi.deterlab.net: command not found
+INPUT|lclarkfb-intro-82|U |000000000|lclarkfb|intro:pwd|/users/lclarkfb
+INPUT|lclarkfb-intro-83|U |1537639867|lclarkfb|intro:ls|top_secret
+INPUT|lclarkfb-intro-84|U |000000000|lclarkfb|intro:pwd|/users/lclarkfb
+INPUT|lclarkfb-intro-85|U |000000000|lclarkfb|intro:cd desktop|bash: cd: desktop: No such file or directory
+INPUT|lclarkfb-intro-86|U |000000000|lclarkfb|intro:cd top_secret|
+INPUT|lclarkfb-intro-87|U |1537640206|lclarkfb|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkfb-intro-88|U |000000000|lclarkfb|intro:pwd|/users/lclarkfb/top_secret
+INPUT|lclarkfb-intro-89|U |000000000|lclarkfb|intro:pwd|/users/lclarkfb/top_secret
+INPUT|lclarkfb-intro-90|U |000000000|lclarkfb|intro:Host*.lclarkfb-intro21.isi.deterlab.net|
+INPUT|lclarkfb-intro-91|U |000000000|lclarkfb|intro:scp -rP 7822 lclarkfb@users.deterlab.net:~/users/lclarkfb/|/top_secret /Users/mikitahanets/desktop<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>man scp<ESC>[K
+
+INPUT|lclarkfb-intro-92|U |000000000|lclarkfb|intro:scp -rP 7822 lclarkfb@users.deterlab.net:~/users/lclarkfb/|/top_secret desktop<BS><BS><BS><BS><BS><BS><BS><BS><ESC>[K<ESC>[Atro:~/top_secret$ scp -rP 7822 lclarkfb@users.deterlab.net:/top_secret desktop<ESC>[K<ESC>[Aarkfb@intro:~/top_secret$ scp -rP 7822 lclarkfb@users.deterlab.net:~/top_secret desk<ESC>[1@top<ESC>[Arkfb@intro:~/top_secret$ scp -P 7822 lclarkfb@users.deterlab.net:~/xbzf136INTRO-1.j<ESC>[7@pg desktop<ESC>[Atro:~/top_secret$ mv /usr/share/pixmaps/xbzf136INTRO-1.jpg  /users/lclarkfb/top_secret<ESC>[Atro:~/top_secret$ <ESC>[28Pfind / -name *.jpg 2>dev/null
+
+INPUT|lclarkfb-intro-93|U |000000000|lclarkfb|intro:mv /.hidden/asdf136Intro-5kqlw.jpeg  /users/lclarkfb/top_s|secret<ESC>[Afb@intro:~/top_secret$ <ESC>[27Pfind / -name *.JPEG 2>dev/null
+
+INPUT|lclarkfb-intro-94|A0 A2 A1 A4 A3 |000000000|lclarkfb|intro:find / -name *.JPEG 2>dev/null|bash: dev/null: No such file or directory
+INPUT|lclarkfb-intro-95|A1 A4 A3 A0 A2 |000000000|lclarkfb|intro:find / -name *.JPEG 2> ev/null|bash: dev/null: No such file or directory
+INPUT|lclarkfb-intro-96|U |000000000|lclarkfb|intro:cd|
+INPUT|lclarkfb-intro-97|U |000000000|lclarkfb|intro:cd /|
+INPUT|lclarkfb-intro-98|M1 |000000000|lclarkfb|intro:find / -name *.JPEG 2> dev/null|/users/lclarkfb/top_secret/136intro-2jjaj.JPEG
+/dev/136intro-2jjaj.JPEG
+INPUT|lclarkfb-intro-99|M4 |000000000|lclarkfb|intro:find / -name *.jpeg 2> dev/null|/users/lclarkfb/top_secret/asdf136Intro-5kqlw.jpeg
+/.hidden/asdf136Intro-5kqlw.jpeg
+INPUT|lclarkfb-intro-100|M2 M0 |000000000|lclarkfb|intro:find / -name *.jpgg 2> dev/null|/var/log/136intro-3.jpg
+/users/lclarkfb/top_secret/136intro-3.jpg
+/users/lclarkfb/top_secret/xbzf136INTRO-1.jpg
+/usr/share/doc/libsane/umax/sane-umax-text2.jpg
+/usr/share/doc/libsane/umax/sane-umax-standard.jpg
+/usr/share/doc/libsane/umax/sane-umax-text.jpg
+/usr/share/doc/libsane/umax/sane-umax.jpg
+/usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+/usr/share/doc/libsane/umax/sane-umax-text4.jpg
+/usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+/usr/share/doc/libsane/umax/sane-logo.jpg
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|lclarkfb-intro-101|U |000000000|lclarkfb|intro:pwd|/
+INPUT|lclarkfb-intro-102|U |000000000|lclarkfb|intro:cd|
+INPUT|lclarkfb-intro-103|U |000000000|lclarkfb|intro:cd top_secret|
+INPUT|lclarkfb-intro-104|U |1537641835|lclarkfb|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkfb-intro-105|U |1537641849|lclarkfb|intro:cat answers.txt|{\
+tf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\
+ed255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\ x720\ x1440\ x2160\ x2880\ x3600\ x4320\ x5040\ x5760\ x6480\ x7200\ x7920\ x8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 1. Forbidden Planet (/usr/share/pixmaps/xbzf136INTRO-1.jpg) \
+2. Godzilla (/dev/136intro-2jjaj.JPEG) \
+3. It Came From Outer Space (/var/log/136intro-3.jpg)\
+4. The Fly (/etc/wuer136intro-4.JPG) \
+5. 2001: A Space Odyssey (/.hidden/asdf136Intro-5kqlw.jpeg)\
+INPUT|lclarkfb-intro-106|U |000000000|lclarkfb|intro:echo \"1. Forbidden Planet (/usr/share/pixmaps/xbzf136INTR|%O-1.jpg)  2. Godzilla (/dev/136intro-2jjaj.JPEG)  3. It Came From Outer Space (/var/lo 
+g/136intro-3.jpg) 4. The Fly (/etc/wuer136intro-4.JPG)  5. 2001: A Space Odyssey (/.hi 
+dden/asdf136Intro-5kqlw.jpeg) <BS> <BS>\" %%<BS> <BS>> answers2.txt%
+INPUT|lclarkfb-intro-107|U |1537642111|lclarkfb|intro:ls|136intro-2jjaj.JPEG  answers2.txt  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      answers.txt   wuer136intro-4.JPG
+INPUT|lclarkfb-intro-108|U |1537642121|lclarkfb|intro:cat answers2.txt|1. Forbidden Planet (/usr/share/pixmaps/xbzf136INTRO-1.jpg)  2. Godzilla (/dev/136intro-2jjaj.JPEG)  3. It Came From Outer Space (/var/log/136intro-3.jpg) 4. The Fly (/etc/wuer136intro-4.JPG)  5. 2001: A Space Odyssey (/.hidden/asdf136Intro-5kqlw.jpeg)
+INPUT|lclarkfb-intro-109|U |1537642215|lclarkfb|intro:rm answers.txt|
+INPUT|lclarkfb-intro-110|U |1537642234|lclarkfb|intro:mv answers2.txt answers.txt|
+INPUT|lclarkfb-intro-111|U |1537642236|lclarkfb|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkfb-intro-112|U |1537642247|lclarkfb|intro:cat answers.txt|1. Forbidden Planet (/usr/share/pixmaps/xbzf136INTRO-1.jpg)  2. Godzilla (/dev/136intro-2jjaj.JPEG)  3. It Came From Outer Space (/var/log/136intro-3.jpg) 4. The Fly (/etc/wuer136intro-4.JPG)  5. 2001: A Space Odyssey (/.hidden/asdf136Intro-5kqlw.jpeg)
+INPUT|lclarkfb-intro-113|U |000000000|lclarkfb|intro:cd /|
+INPUT|lclarkfb-intro-114|A5 |1537643160|lclarkfb|intro:/proc/cpuinfo|bash: /proc/cpuinfo: Permission denied
+INPUT|lclarkfb-intro-115|A5 |1537643167|lclarkfb|intro:/proc/cpuinfo|sudo: /proc/cpuinfo: command not found
+INPUT|lclarkfb-intro-116|M5 |1537643178|lclarkfb|intro:cat /proc/cpuinfo|%processor : 0
+vendor_id : GenuineIntel
+cpu family : 15
+model  : 4
+model name : Intel(R) Xeon(TM) CPU 3.00GHz
+stepping : 3
+microcode : 0x5
+cpu MHz  : 2992.648
+cache size : 2048 KB
+physical id : 0
+siblings : 2
+core id  : 0
+cpu cores : 1
+apicid  : 0
+initial apicid : 0
+fpu  : yes
+fpu_exception : yes
+cpuid level : 5
+wp  : yes
+flags  : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc pebs bts nopl pni dtes64 monitor ds_cpl cid cx16 xtpr
+bugs  :
+bogomips : 5985.29
+clflush size : 64
+cache_alignment : 128
+address sizes : 36 bits physical%% 48 bits virtual
+power management:
+
+processor : 1
+vendor_id : GenuineIntel
+cpu family : 15
+model  : 4
+model name : Intel(R) Xeon(TM) CPU 3.00GHz
+steppin
+INPUT|lclarkfb-intro-117|U |000000000|lclarkfb|intro:cd|
+INPUT|lclarkfb-intro-118|U |000000000|lclarkfb|intro:cd top_secret|
+INPUT|lclarkfb-intro-119|U |000000000|lclarkfb|intro:ls top_secret|136intro-2jjaj.JPEG  136intro-3.jpg  answers.txt  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkfb-intro-120|U |1537643462|lclarkfb|intro:cat answers.txt|{\
+tf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf200
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\
+ed255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\ x720\ x1440\ x2160\ x2880\ x3600\ x4320\ x5040\ x5760\ x6480\ x7200\ x7920\ x8640\pardirnatural\partightenfactor0
+
+\f0\b\fs24 \cf0 Name
+\b0 : Mikita Hanets \
+
+\b Email
+\b0 : mikitahanets@lclark.edu\
+
+\b Username
+\b0 : lclarkfb\
+\
+
+\b Treasure Hunt: \
+
+\b0 \
+1. Forbidden Planet (/usr/share/pixmaps/xbzf136INTRO-1.jpg) \
+2. Godzilla (/dev/136intro-2jjaj.JPEG) \
+3. It Came From Outer Space (/var/log/136intro-3.jpg)\
+4. The Fly (/etc/wuer136intro-4.JPG) \
+5. 2001: A Space Odyssey (/.hidden/asdf136Intro-5kqlw.jpeg)\
+\
+
+\b Information Hunt: \
+
+\b0 \
+1. /var contains files to which the system writes data during the course of its operation.\
+2. /dev h
+INPUT|lclarkfb-intro-121|U |000000000|lclarkfb|intro:%printf '%%s\%|%' 'First line.' 'Second line.' 'Third line.' >foo.txt<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<ESC>[1@N<ESC>[1@a<ESC>[1@m<ESC>[1@e<ESC>[1@:<ESC>[1@ <ESC>[1@M<ESC>[1@i<ESC>[1@k<ESC>[1@i<ESC>[1@t<ESC>[1@a<ESC>[1@ <ESC>[1@H<ESC>[1@a<ESC>[1@n<ESC>[1@e<ESC>[1@t<ESC>[1@s<ESC>[1@ .' 'Second line<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<ESC>[1@E<ESC>[1@m<ESC>[1@a<ESC>[1@i<ESC>[1@l<ESC>[1@:<ESC>[1@ <ESC>[1@m<ESC>[1@i<ESC>[1@k<ESC>[1@i<ESC>[1@t<ESC>[1@a<ESC>[1@h<ESC>[1@a<ESC>[1@n<ESC>[1@e<ESC>[1@t<ESC>[1@s<ESC>[1@@<ESC>[1@l<ESC>[1@c<ESC>[1@la.' 'Third line.' >foo.txt <ESC>[Aclarkfb@intro:~/top_secret$ printf '%%s
+' 'Name: Mikita Hanets .' 'Email: mikitahanets@lclar.' 
+INPUT|lclarkfb-intro-122|U |000000000|lclarkfb|intro:%printf '%%s%|%' 'Name: Mikita Hanets .' 'Email: mikitahanets@lclark.edu.' 'Third li<BS>.' >foo.t<ESC>[1P<ESC>[Aclarkfb@intro:~/top_secret$ printf '%%s
+' 'Name: Mikita Hanets .' 'Email: mikitahanets@lclark.edu.' 'Third l<BS>.' >foo.tx<ESC>[1Pt<ESC>[Alarkfb@intro:~/top_secret$ printf '%%s
+' 'Name: Mikita Hanets .' 'Email: mikitahanets@lclark.edu.' 'Third <BS>.' >foo.txt<ESC>[K<ESC>[Aclarkfb@intro:~/top_secret$ printf '%%s
+' 'Name: Mikita Hanets .' 'Email: mikitahanets@lclark.edu.' 'Third<BS>.' >foo.txt %
+INPUT|lclarkfb-intro-123|U |000000000|lclarkfb|intro:%printf '%%s%|' 'Name: Mikita Hanets .' 'Email: mikitahanets@lclark.edu.' 'Thir<BS><ESC>[1P
+
+INPUT|lclarkfb-intro-124|U |000000000|lclarkfb|intro:%printf '%%s%|%' 'Name: Mikita Hanets .' 'Email: mikitahanets@lclark.edu.' 'Thi<BS><ESC>[1P<BS><ESC>[1P<BS><ESC>[1P<ESC>[1@U<ESC>[1@s<ESC>[1@er.' >foo.txt <ESC>[Aclarkfb@intro:~/top_secret$ printf '%%s
+' 'Name: Mikita Hanets .' 'Email: mikitahanets@lclark.edu.' 'Usern.' >foo.txt
+t<ESC>[Aclarkfb@intro:~/top_secret$ printf '%%s
+' 'Name: Mikita Hanets .' 'Email: mikitahanets@lclark.edu.' 'Userna.' >foo.txt<ESC>[Alarkfb@intro:~/top_secret$ printf '%%s
+' 'Name: Mikita Hanets .' 'Email: mikitahanets@lclark.edu.' 'Usernam.' >foo.txt<ESC>[Aarkfb@intro:~/top_secret$ printf '%%s
+' 'Name: Mikita Hanets .' 'Email: mikitahanets@lclark.edu.' 'Username.' >foo.<ESC>[1@t<ESC>[Alarkfb@intro:~/top_secret$ printf '%%s
+' 'Name: Mikita Hanets .' 'Email: mikitahanets@lclark.edu.' 'Username:.' >f
+
+<ESC>[1@o<ESC>[Aclarkfb@intro:~/top_secret$ printf '%%s
+' 'Name: Mikita Hanets .' 'Email: mikitahanets@lclark.edu.' 'Username: .' >fo<ESC>[1@o<ESC>[Alarkfb@intro:~/top_secret$ printf '%%s
+' 'Name: Mi
+INPUT|lclarkfb-intro-125|U |000000000|lclarkfb|intro:2. Godzilla (/dev/136intro-2jjaj.JPEG)|bash: syntax error near unexpected token `('
+INPUT|lclarkfb-intro-126|U |000000000|lclarkfb|intro:3. It Came From Outer Space (/var/log/136intro-3.jpg)|bash: syntax error near unexpected token `('
+INPUT|lclarkfb-intro-127|U |000000000|lclarkfb|intro:4. The Fly (/etc/wuer136intro-4.JPG)|bash: syntax error near unexpected token `('
+INPUT|lclarkfb-intro-128|U |1537643452|lclarkfb|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  answers.txt  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkfb-intro-129|U |000000000|lclarkfb|intro:cd top_secret|
+INPUT|lclarkfb-intro-130|U |000000000|lclarkfb|intro:pwd|/users/lclarkfb/top_secret
+INPUT|lclarkfb-intro-131|U |000000000|lclarkfb|intro:top_secret|top_secret: command not found
+INPUT|lclarkfb-intro-132|U |000000000|lclarkfb|intro:cd top_secret|
+INPUT|lclarkfb-intro-133|U |1537640007|lclarkfb|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkfb-intro-134|M6 |1537814065|lclarkfb|intro:df -h|%Filesystem                                         Size  Used Avail Use%% Mounted on
+udev                                               980M   48K  980M   1%% /dev
+tmpfs                                              200M   11M  190M   6%% /run
+/dev/sda1                                           15G  2.8G   12G  20%% /
+tmpfs                                             1000M     0 1000M   0%% /dev/shm
+tmpfs                                              5.0M     0  5.0M   0%% /run/lock
+tmpfs                                             1000M     0 1000M   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkfb   1.9T  1.2T  558G  69%% /users/lclarkfb
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC  2.8T  929G  1.7T  36%% /proj/CS495LC
+tmpfs                                              200M     0  200M   0%% /run/user/18206%
+INPUT|lclarkfb-intro-135|M6 |1537814097|lclarkfb|intro:df -k|%Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 1003432         48    1003384   1%% /dev
+tmpfs                                                 204724      11140     193584   6%% /run
+/dev/sda1                                           15616412    2894176   11922288  20%% /
+tmpfs                                                1023604          0    1023604   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023604          0    1023604   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkfb  2031313280 1284461440  584346752  69%% /users/lclarkfb
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973212032 1763556352  36%% /proj/CS495LC
+tmpfs                                                 204724          0     204724  
+INPUT|lclarkfb-intro-136|U |1537814108|lclarkfb|intro:clear|
+INPUT|lclarkfb-intro-137|M6 |1537814111|lclarkfb|intro:df -h|%Filesystem                                         Size  Used Avail Use%% Mounted on
+udev                                               980M   48K  980M   1%% /dev
+tmpfs                                              200M   11M  190M   6%% /run
+/dev/sda1                                           15G  2.8G   12G  20%% /
+tmpfs                                             1000M     0 1000M   0%% /dev/shm
+tmpfs                                              5.0M     0  5.0M   0%% /run/lock
+tmpfs                                             1000M     0 1000M   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkfb   1.9T  1.2T  558G  69%% /users/lclarkfb
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC  2.8T  929G  1.7T  36%% /proj/CS495LC
+tmpfs                                              200M     0  200M   0%% /run/user/18206%
+INPUT|lclarkfb-intro-138|A6 |1537814164|lclarkfb|intro:df -k > top_secret/diskfree.txt|
+INPUT|lclarkfb-intro-139|U |000000000|lclarkfb|intro:cd top_secret|
+INPUT|lclarkfb-intro-140|U |000000000|lclarkfb|intro:pwd|/users/lclarkfb/top_secret
+INPUT|lclarkfb-intro-141|U |1537814180|lclarkfb|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  answers.txt  asdf136Intro-5kqlw.jpeg  diskfree.txt  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkfb-intro-142|U |1537814192|lclarkfb|intro:cat diskfree.txt|%Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 1003432         48    1003384   1%% /dev
+tmpfs                                                 204724      11140     193584   6%% /run
+/dev/sda1                                           15616412    2894180   11922284  20%% /
+tmpfs                                                1023604          0    1023604   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023604          0    1023604   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkfb  2031313280 1284459392  584348800  69%% /users/lclarkfb
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973212032 1763556224  36%% /proj/CS495LC
+tmpfs                                                 204724          0     204724  
+INPUT|lclarkfb-intro-143|U |000000000|lclarkfb|intro:cd|
+INPUT|lclarkfb-intro-144|U |1537814413|lclarkfb|intro:tar cvzf lclarkfb-intro.tar.gz top_secret|top_secret/
+top_secret/136intro-2jjaj.JPEG
+top_secret/136intro-3.jpg
+top_secret/wuer136intro-4.JPG
+top_secret/asdf136Intro-5kqlw.jpeg
+top_secret/xbzf136INTRO-1.jpg
+top_secret/answers.txt
+top_secret/diskfree.txt
+INPUT|lclarkfb-intro-145|U |1537814429|lclarkfb|intro:ls|lclarkfb-intro.tar.gz  top_secret
+INPUT|lclarkfb-intro-146|U |000000000|lclarkfb|intro:pwd|/users/lclarkfb
+INPUT|lclarkfb-intro-147|A2 A0 A4 A3 A1 |1537815869|lclarkfb|intro:find / -mount name *intro* 2> /dev/null | grep JPEG|
+INPUT|lclarkfb-intro-148|U |000000000|lclarkfb|intro:cd /|
+INPUT|lclarkfb-intro-149|A1 A4 A3 A0 A2 |1537815910|lclarkfb|intro:find / -mount name *intro* 2> /dev/null | grep jpeg|
+INPUT|lclarkfb-intro-150|A1 A4 A3 A0 A2 |1537815925|lclarkfb|intro:find / -mount name *intro* 2>/dev/null | grep jpeg|
+INPUT|lclarkfb-intro-151|U |000000000|lclarkfb|intro:^C|
+INPUT|lclarkfb-intro-152|A1 A4 A3 A0 A2 |1537815953|lclarkfb|intro:find -mount name *intro* 2>/dev/null | grep jpeg|
+INPUT|lclarkfb-intro-153|A1 A3 A4 A0 A2 |1537816009|lclarkfb|intro:find name *intro* 2>/dev/null | grep jpeg|
+INPUT|lclarkfb-intro-154|A4 A3 A1 A2 A0 |1537815882|lclarkfb|intro:find name *intro* 2>/dev/null | grep JPEG|
+INPUT|lclarkfb-intro-155|A0 A2 A1 A4 A3 |1537816028|lclarkfb|intro:find name *intro* 2>/dev/null | grep JPG|
+INPUT|lclarkfb-intro-156|A0 A2 A1 A3 A4 |000000000|lclarkfb|intro:find name *intro* 2>/dev/null|
+INPUT|lclarkfb-intro-157|A0 A2 A1 A4 A3 |1537816081|lclarkfb|intro:find . name *intro* 2>/dev/null | grep jpeg|./var/lib/dpkg/info/libjpeg-turbo8:amd64.symbols
+./var/lib/dpkg/info/libjpeg-turbo8:amd64.triggers
+./var/lib/dpkg/info/libjpeg-turbo8:amd64.md5sums
+./var/lib/dpkg/info/libjpeg8:amd64.md5sums
+./var/lib/dpkg/info/libjpeg-turbo8:amd64.list
+./var/lib/dpkg/info/libjpeg8:amd64.list
+./var/lib/dpkg/info/libjpeg-turbo8:amd64.shlibs
+./users/lclarkfb/top_secret/asdf136Intro-5kqlw.jpeg
+./boot/grub/i386-pc/jpeg.mod
+./share/cygwin/release/jpeg
+./share/cygwin/release/jpeg/libjpeg6b
+./share/cygwin/release/jpeg/libjpeg6b/libjpeg6b-6b-8-src.tar.bz2
+./share/cygwin/release/jpeg/libjpeg6b/setup.hint
+./share/cygwin/release/jpeg/libjpeg6b/libjpeg6b-6b-8.tar.bz2
+./share/cygwin/release/jpeg/libjpeg6b/md5.sum
+./share/cygwin/release/jpeg/setup.hint
+./share/cygwin/release/jpeg/libjpeg-devel
+./share/cygwin/release/jpeg/libjpeg-devel/libjpeg-devel-6b-11.tar.bz2
+./share/cygwin/release/jpeg/libjpeg-devel/setup.hint
+./share/cygwin/release/jpeg/libjpeg-devel/md5.
+INPUT|lclarkfb-intro-158|A2 A0 A4 A3 A1 |000000000|lclarkfb|intro:find . name *intro* 2>/dev/null | grep .peg|./var/lib/dpkg/info/libjpeg-turbo8:amd64.symbols
+./var/lib/dpkg/info/libjpeg-turbo8:amd64.triggers
+./var/lib/dpkg/info/libjpeg-turbo8:amd64.md5sums
+./var/lib/dpkg/info/libjpeg8:amd64.md5sums
+./var/lib/dpkg/info/libjpeg-turbo8:amd64.list
+./var/lib/dpkg/info/libjpeg8:amd64.list
+./var/lib/dpkg/info/libjpeg-turbo8:amd64.shlibs
+./users/lclarkfb/top_secret/asdf136Intro-5kqlw.jpeg
+./boot/grub/i386-pc/jpeg.mod
+./share/cygwin/release/jpeg
+./share/cygwin/release/jpeg/libjpeg6b
+./share/cygwin/release/jpeg/libjpeg6b/libjpeg6b-6b-8-src.tar.bz2
+./share/cygwin/release/jpeg/libjpeg6b/setup.hint
+./share/cygwin/release/jpeg/libjpeg6b/libjpeg6b-6b-8.tar.bz2
+./share/cygwin/release/jpeg/libjpeg6b/md5.sum
+./share/cygwin/release/jpeg/setup.hint
+./share/cygwin/release/jpeg/libjpeg-devel
+./share/cygwin/release/jpeg/libjpeg-devel/libjpeg-devel-6b-11.tar.bz2
+./share/cygwin/release/jpeg/libjpeg-devel/setup.hint
+./share/cygwin/release/jpeg/libjpeg-devel/md5.
+INPUT|lclarkfb-intro-159|M3 M2 |1537816294|lclarkfb|intro:find . name *i[1P[1[1[1[1[1[1P[1[1P[1@[1P[1@.[1@J[1@P[1@G[1@ [1@2ll | grep intro|./var/log/ttylog/ttylog.intro.5
+./var/log/ttylog/alltty.intro
+./var/log/ttylog/ttylog.intro.6
+./var/log/ttylog/cli.intro.csv
+./var/log/136intro-3.jpg
+./users/lclarkfb/top_secret/136intro-2jjaj.JPEG
+./users/lclarkfb/top_secret/136intro-3.jpg
+./users/lclarkfb/top_secret/wuer136intro-4.JPG
+./users/lclarkfb/lclarkfb-intro.tar.gz
+./etc/wuer136intro-4.JPG
+./etc/apparmor.d/abstractions/apparmor_api/introspect
+./proj/intro.createimage.Share
+./proj/intro.createimage.Share/exp
+./proj/intro.createimage.Share/exp/logs
+./proj/intro.createimage.Share/exp/logs/ttylog..0
+./proj/intro.createimage.Share/exp/count.
+./proj/CS495LC/exp/derek-linuxintro
+./proj/CS495LC/exp/derek-linuxintro/archive
+./proj/CS495LC/exp/derek-linuxintro/bin
+./proj/CS495LC/exp/derek-linuxintro/datastore
+./proj/CS495LC/exp/derek-linuxintro/logs
+./proj/CS495LC/exp/derek-linuxintro/logs/event-sched.log.old
+./proj/CS495LC/exp/derek-linuxintro/logs/event-sched.log
+./
+INPUT|lclarkfb-intro-160|M3 M2 |1537816694|lclarkfb|intro:find . name *[1P[1[1P.JPG 2>/dev/null | grep intro|./var/log/ttylog/ttylog.intro.5
+./var/log/ttylog/alltty.intro
+./var/log/ttylog/ttylog.intro.6
+./var/log/ttylog/cli.intro.csv
+./var/log/136intro-3.jpg
+./users/lclarkfb/top_secret/136intro-2jjaj.JPEG
+./users/lclarkfb/top_secret/136intro-3.jpg
+./users/lclarkfb/top_secret/wuer136intro-4.JPG
+./users/lclarkfb/lclarkfb-intro.tar.gz
+./etc/wuer136intro-4.JPG
+./etc/apparmor.d/abstractions/apparmor_api/introspect
+./proj/intro.createimage.Share
+./proj/intro.createimage.Share/exp
+./proj/intro.createimage.Share/exp/logs
+./proj/intro.createimage.Share/exp/logs/ttylog..0
+./proj/intro.createimage.Share/exp/count.
+./proj/CS495LC/exp/derek-linuxintro
+./proj/CS495LC/exp/derek-linuxintro/archive
+./proj/CS495LC/exp/derek-linuxintro/bin
+./proj/CS495LC/exp/derek-linuxintro/datastore
+./proj/CS495LC/exp/derek-linuxintro/logs
+./proj/CS495LC/exp/derek-linuxintro/logs/event-sched.log.old
+./proj/CS495LC/exp/derek-linuxintro/logs/event-sched.log
+./
+INPUT|lclarkfb-intro-161|M3 M2 |1537816739|lclarkfb|intro:find . name[1P.JPG 2>/dev/null | grep intro|./var/log/ttylog/ttylog.intro.5
+./var/log/ttylog/alltty.intro
+./var/log/ttylog/ttylog.intro.6
+./var/log/ttylog/cli.intro.csv
+./var/log/136intro-3.jpg
+./users/lclarkfb/top_secret/136intro-2jjaj.JPEG
+./users/lclarkfb/top_secret/136intro-3.jpg
+./users/lclarkfb/top_secret/wuer136intro-4.JPG
+./users/lclarkfb/lclarkfb-intro.tar.gz
+./etc/wuer136intro-4.JPG
+./etc/apparmor.d/abstractions/apparmor_api/introspect
+./proj/intro.createimage.Share
+./proj/intro.createimage.Share/exp
+./proj/intro.createimage.Share/exp/logs
+./proj/intro.createimage.Share/exp/logs/ttylog..0
+./proj/intro.createimage.Share/exp/count.
+./proj/CS495LC/exp/derek-linuxintro
+./proj/CS495LC/exp/derek-linuxintro/archive
+./proj/CS495LC/exp/derek-linuxintro/bin
+./proj/CS495LC/exp/derek-linuxintro/datastore
+./proj/CS495LC/exp/derek-linuxintro/logs
+./proj/CS495LC/exp/derek-linuxintro/logs/event-sched.log.old
+./proj/CS495LC/exp/derek-linuxintro/logs/event-sched.log
+./
+INPUT|lclarkfb-intro-162|M3 M2 |000000000|lclarkfb|intro:find . nam"*.JPG"2>/dev/null | grep intro|!TRUNCATED TO 500L! ./var/log/ttylog/ttylog.intro.5
+./var/log/ttylog/alltty.intro
+./var/log/ttylog/ttylog.intro.6
+./var/log/ttylog/cli.intro.csv
+./var/log/136intro-3.jpg
+./users/lclarkfb/top_secret/136intro-2jjaj.JPEG
+./users/lclarkfb/top_secret/136intro-3.jpg
+./users/lclarkfb/top_secret/wuer136intro-4.JPG
+./users/lclarkfb/lclarkfb-intro.tar.gz
+./etc/wuer136intro-4.JPG
+./etc/apparmor.d/abstractions/apparmor_api/introspect
+./proj/intro.createimage.Share
+./proj/intro.createimage.Share/exp
+./proj/intro.createimage.Share/exp/logs
+./proj/intro.createimage.Share/exp/logs/ttylog..0
+./proj/intro.createimage.Share/exp/count.
+./proj/CS495LC/exp/derek-linuxintro
+./proj/CS495LC/exp/derek-linuxintro/archive
+./proj/CS495LC/exp/derek-linuxintro/bin
+./proj/CS495LC/exp/derek-linuxintro/datastore
+./proj/CS495LC/exp/derek-linuxintro/logs
+./proj/CS495LC/exp/derek-linuxintro/logs/event-sched.log.old
+./proj/CS495LC/exp/derek-linuxintro/logs/e
+INPUT|lclarkfb-intro-163|U |1537816897|lclarkfb|intro:clear|
+INPUT|lclarkfb-intro-164|A1 A4 A3 A0 A2 |000000000|lclarkfb|intro:find . name "*.JPG" 2>/dev/null | grep "*intro*"|^C
+INPUT|lclarkfb-intro-165|A1 A3 A4 A0 A2 |000000000|lclarkfb|intro:find  -mount"*.JPG" 2>/dev/null | grep "*intro*"|
+INPUT|lclarkfb-intro-166|A0 A2 A1 A4 A3 |000000000|lclarkfb|intro:find . name "*.JPG" 2>/dev/null|.
+./.login_conf
+./.cshrc
+./.login
+./.mail_aliases
+./.mailrc
+./.profile
+./.rhosts
+./.shrc
+./.ssl
+./.ssl/emulab.pem
+./.ssh
+./.ssh/id_rsa
+./.ssh/id_rsa.pub
+./.ssh/known_hosts
+./.ssh/id_emulab.pub
+./.ssh/authorized_keys
+./.ssh/external_keys
+./.forward
+./.bash_history
+./.cache
+./.cache/motd.legal-displayed
+./top_secret
+./top_secret/136intro-2jjaj.JPEG
+./top_secret/136intro-3.jpg
+./top_secret/wuer136intro-4.JPG
+./top_secret/asdf136Intro-5kqlw.jpeg
+./top_secret/xbzf136INTRO-1.jpg
+./top_secret/answers.txt
+./top_secret/diskfree.txt
+./lclarkfb-intro.tar.gz
+INPUT|lclarkfb-intro-167|U |000000000|lclarkfb|intro:cd /.|
+INPUT|lclarkfb-intro-168|A4 A3 A1 A2 A0 |000000000|lclarkfb|intro:find . name "*.JPG" 2>/dev/null | grep \"*intro*\"|^Z
+[1]+  Stopped                 find . <E2><EURO><93>name "*.JPG" 2> /dev/null | grep "*intro*"
+INPUT|lclarkfb-intro-169|A1 A3 A4 A0 A2 |000000000|lclarkfb|intro:find ~ \"*JPG\"|/users/lclarkfb
+/users/lclarkfb/.login_conf
+/users/lclarkfb/.cshrc
+/users/lclarkfb/.login
+/users/lclarkfb/.mail_aliases
+/users/lclarkfb/.mailrc
+/users/lclarkfb/.profile
+/users/lclarkfb/.rhosts
+/users/lclarkfb/.shrc
+/users/lclarkfb/.ssl
+/users/lclarkfb/.ssl/emulab.pem
+/users/lclarkfb/.ssh
+/users/lclarkfb/.ssh/id_rsa
+/users/lclarkfb/.ssh/id_rsa.pub
+/users/lclarkfb/.ssh/known_hosts
+/users/lclarkfb/.ssh/id_emulab.pub
+/users/lclarkfb/.ssh/authorized_keys
+/users/lclarkfb/.ssh/external_keys
+/users/lclarkfb/.forward
+/users/lclarkfb/.bash_history
+/users/lclarkfb/.cache
+/users/lclarkfb/.cache/motd.legal-displayed
+/users/lclarkfb/top_secret
+/users/lclarkfb/top_secret/136intro-2jjaj.JPEG
+/users/lclarkfb/top_secret/136intro-3.jpg
+/users/lclarkfb/top_secret/wuer136intro-4.JPG
+/users/lclarkfb/top_secret/asdf136Intro-5kqlw.jpeg
+/users/lclarkfb/top_secret/xbzf136INTRO-1.jpg
+/users/lclarkfb/top_secret/answers.txt
+/use
+INPUT|lclarkfb-intro-170|A2 A0 A4 A3 A1 |000000000|lclarkfb|intro:find ~ \ -name \"*J.JPG\"|/users/lclarkfb/top_secret/wuer136intro-4.JPG
+INPUT|lclarkfb-intro-171|A2 A0 A4 A3 A1 |000000000|lclarkfb|intro:find ~ -name \"*.JPPEG"|/users/lclarkfb/top_secret/136intro-2jjaj.JPEG
+INPUT|lclarkfb-intro-172|A0 A2 A1 A3 A4 |000000000|lclarkfb|intro:find ~ -name \"*.JPEG\" | grep \"*intro*\"|
+INPUT|lclarkfb-intro-173|A0 A2 A1 A4 A3 |000000000|lclarkfb|intro:find ~ -name \"*.JPEG\" | grep \"*i*intro*|
+INPUT|lclarkfb-intro-174|A2 A0 A4 A3 A1 |000000000|lclarkfb|intro:find ~ -name \"*.JPEG\" | grep *intro|/users/lclarkfb/top_secret/136intro-2jjaj.JPEG

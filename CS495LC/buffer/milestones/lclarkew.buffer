@@ -1,0 +1,55 @@
+User lclarkew start time 1543435716 end 1543436109
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkew-buffer-0|U |000000000|lclarkew|:|
+INPUT|lclarkew-buffer-1|U |000000000|lclarkew|:|
+INPUT|lclarkew-buffer-2|U |000000000|lclarkew|server:cd /usr/src/fhttpd.|bash: cd: /usr/src/fhttpd.: No such file or directory
+INPUT|lclarkew-buffer-3|U |1543435716|lclarkew|server:ls|answers.txt  lclarkew-intro21.tar.gz  top_secret
+INPUT|lclarkew-buffer-4|U |000000000|lclarkew|server:cd /usr/src/fhttpd|
+INPUT|lclarkew-buffer-5|U |1543435733|lclarkew|server:ls|frobnick  index.html  Makefile webserver  webserver.c
+INPUT|lclarkew-buffer-6|U |1543435758|lclarkew|server:make|make: Nothing to be done for 'project'.
+INPUT|lclarkew-buffer-7|A0 |1543435946|lclarkew|server:./webserver 8080|
+^C
+INPUT|lclarkew-buffer-8|A0 |1543435892|lclarkew|server:./webserver 8080|GET / HTTP/1.1
+ls
+^C
+INPUT|lclarkew-buffer-9|U |1543436090|lclarkew|server:ls|frobnick  index.html  Makefile webserver  webserver.c
+INPUT|lclarkew-buffer-10|M1 |1543436109|lclarkew|server:emacs webserver.c|%=>
+=-111:----F1  *scratch*      All L1     (Fundamental) ---------------------------
+Loading 00debian-vars...done
+/etc/emacs/site-start.d/50autoconf.el (source)...
+done
+Loading /etc/emacs/site-start.d/50autoconf.el (source)...doneFile Edit Options Buffers Tools Lisp-Interaction Help                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-111:----F1  *scratch*      All L1     (Lisp Interaction) ----------------------
+For information about GNU Emacs and the GNU system%% type C-h C-a.
+Note: file is write protected
+Note: file is write protectedFile Edit Options Buffers Tools C Help                                          
+
+// webserver.c                                                                  
+
+// FrobozzCo Official Webserver                                                 
+
+// Barbazzo Fernap barbazzo@gue.com                                             
+
+// Gustar Woom

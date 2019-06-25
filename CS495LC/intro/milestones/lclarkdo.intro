@@ -1,0 +1,883 @@
+User lclarkdo start time 1537806924 end 1537916525
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkdo-intro-0|U |000000000|lclarkdo|:|
+INPUT|lclarkdo-intro-1|U |000000000|lclarkdo|intro:cd top_secret/|
+INPUT|lclarkdo-intro-2|U |000000000|lclarkdo|:|
+INPUT|lclarkdo-intro-3|U |1537895656|lclarkdo|intro:ls|136intro-2jjaj.JPEG  answers.txt   wuer136intro-4.JPG
+136intro-3.jpg      answers.txt~
+INPUT|lclarkdo-intro-4|U |1537895731|lclarkdo|intro:su|%]0;root@intro: /users/lclarkdo/top_secretroot@intro:/users/lclarkdo/top_secret# cd /
+]0;root@intro: /root@intro:/# [Kls
+[0m[01;34mbin[0m   [01;34mgroups[0m          [01;34mlib[0m         [01;34mmedia[0m  [01;34mproj[0m  [01;34mshare[0m  [30;42mtmp[0m    [01;36mvmlinuz[0m
+[01;34mboot[0m  [01;34mhome[0m            [01;34mlib64[0m       [01;34mmnt[0m    [01;34mroot[0m  [01;34msnap[0m   [01;34musers[0m  [01;36mvmlinuz.old[0m
+[01;34mdev[0m   [01;36minitrd.img[0m      [01;34mlocal[0m       [01;34mopt[0m    [01;34mrun[0m   [01;34msrv[0m    [01;34musr[0m
+[01;34metc[0m   [01;36minitrd.img.old[0m  [01;34mlost+found[0m  [01;34mproc[0m   [01;34msbin[0m  [01;34msys[0m    [01;34mvar[0m
+]0;root@intro: /root@intro:/# find \"[1@-[1@n[1@a[1@m[1@e[1@ 
+./.hidden/asdf136Intro-5kqlw.jpeg
+]0;root@intro: /root@intro:/# [Kls
+[0m[01;34mbin[0m   [01;34mgroups[0m          [01;34mlib[0m         [01;34mmedia[0m  [01;34mproj[0m  [01;34mshare[0m  [30;42mtmp[0m    [01;36mvmlinuz[0m
+[01;3
+INPUT|lclarkdo-intro-5|U |1537895724|lclarkdo|intro:cat top_secret/answers.txt|./dev/136intro-2jjaj.JPEG --- first JPEG file
+./var/log/136intro-3.jpg --- second JPEG file
+./etc/wuer136intro-4.JPG --- third JPEG file
+INPUT|lclarkdo-intro-6|U |1537895783|lclarkdo|intro:emacs answers.txt|%[?1049h[?12;25h[?1h=[H[2J[24d[K[?1l>[?12l[?25h[?1049l[39;49m
+[?1049h[?12;25h[?1h=[H[2J[23d[?25l[30m[47m-111:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) ---------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[24d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[24;9H[?25l/etc/emacs/site-start.d/50autoconf.el (source)...[H
+[?12l[?25h[?12;25h[24;58H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[24d[?25lLoading /etc/emacs/site-start.d/50autoconf.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                           [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-111:----F1  [39;49m[1m[30m[48;5;250m*scratch*   [0m[39;49m[30m[48;5;250m   All L1     (Lisp Interaction) ----------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[24d[?25lFor information about GNU Emacs and the GNU system%% type C-
+INPUT|lclarkdo-intro-7|U |1537895714|lclarkdo|intro:ls|top_secret
+INPUT|lclarkdo-intro-8|U |000000000|lclarkdo|intro:cd top_secret/|
+INPUT|lclarkdo-intro-9|U |1537895803|lclarkdo|intro:ls|136intro-2jjaj.JPEG  answers.txt   wuer136intro-4.JPG
+136intro-3.jpg      answers.txt~
+INPUT|lclarkdo-intro-10|U |1537895813|lclarkdo|intro:emacs answers.txt|%[?1049h[?12;25h[?1h=[H[2J[24d[K[?1l>[?12l[?25h[?1049l[39;49m
+[?1049h[?12;25h[?1h=[H[2J[23d[?25l[30m[47m-111:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) ---------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[24d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[24;9H[?25l/etc/emacs/site-start.d/50autoconf.el (source)...[H
+[?12l[?25h[?12;25h[24;58H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[24d[?25lLoading /etc/emacs/site-start.d/50autoconf.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                           [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-111:----F1  [39;49m[1m[30m[48;5;250m*scratch*   [0m[39;49m[30m[48;5;250m   All L1     (Lisp Interaction) ----------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[24d[?25lFor information about GNU Emacs and the GNU system%% type C-
+INPUT|lclarkdo-intro-11|U |1537895903|lclarkdo|intro:cat answers.txt|./dev/136intro-2jjaj.JPEG --- first JPEG file
+./var/log/136intro-3.jpg --- second JPEG file
+./etc/wuer136intro-4.JPG --- third JPEG file
+./.hidden/asdf136Intro-5kqlw.jpeg --- fourth JPEG file
+INPUT|lclarkdo-intro-12|U |000000000|lclarkdo|intro:cd ..|
+INPUT|lclarkdo-intro-13|U |1537895808|lclarkdo|intro:ls|top_secret
+INPUT|lclarkdo-intro-14|U |000000000|lclarkdo|intro:cd top_secret/|
+INPUT|lclarkdo-intro-15|U |1537895909|lclarkdo|intro:ls|136intro-2jjaj.JPEG  answers.txt   asdf136Intro-5kqlw.jpeg
+136intro-3.jpg      answers.txt~  wuer136intro-4.JPG
+INPUT|lclarkdo-intro-16|U |1537895911|lclarkdo|intro:ls|136intro-2jjaj.JPEG  answers.txt   asdf136Intro-5kqlw.jpeg
+136intro-3.jpg      answers.txt~  wuer136intro-4.JPG
+INPUT|lclarkdo-intro-17|A4 A3 A1 A2 A0 |1537896560|lclarkdo|intro:find -fstype JPEG|
+INPUT|lclarkdo-intro-18|U |1537896550|lclarkdo|intro:ls|136intro-2jjaj.JPEG  answers.txt   asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      answers.txt~  wuer136intro-4.JPG
+INPUT|lclarkdo-intro-19|U |1537896819|lclarkdo|intro:emacs answers.txt|%[?1049h[?12;25h[?1h=[H[2J[24d[K[?1l>[?12l[?25h[?1049l[39;49m
+[?1049h[?12;25h[?1h=[H[2J[23d[?25l[30m[47m-111:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) ---------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[24d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[24;9H[?25l/etc/emacs/site-start.d/50autoconf.el (source)...[H
+[?12l[?25h[?12;25h[24;58H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[24d[?25lLoading /etc/emacs/site-start.d/50autoconf.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                           [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-111:----F1  [39;49m[1m[30m[48;5;250m*scratch*   [0m[39;49m[30m[48;5;250m   All L1     (Lisp Interaction) ----------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[24d[?25lFor information about GNU Emacs and the GNU system%% type C-
+INPUT|lclarkdo-intro-20|U |000000000|lclarkdo|intro:cd top_secret/|
+INPUT|lclarkdo-intro-21|U |1537907036|lclarkdo|intro:ls|136intro-2jjaj.JPEG  answers.txt   asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      answers.txt~  wuer136intro-4.JPG
+INPUT|lclarkdo-intro-22|U |1537907062|lclarkdo|intro:emacs answers.txt|%[?1049h[?12;25h[?1h=[H[2J[46d[K[?1l>[?12l[?25h[?1049l[39;49m
+[?1049h[?12;25h[?1h=[H[2J[45d[?25l[30m[47m-111:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) ---------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[46d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[46;9H[?25l/etc/emacs/site-start.d/50autoconf.el (source)...[H
+[?12l[?25h[?12;25h[46;58H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[46d[?25lLoading /etc/emacs/site-start.d/50autoconf.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                           [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-111:----F1  [39;49m[1m[30m[48;5;250m*scratch*   [0m[39;49m[30m[48;5;250m   All L1     (Lisp Intera
+INPUT|lclarkdo-intro-23|U |000000000|lclarkdo|intro:cd top_secret/|
+INPUT|lclarkdo-intro-24|U |1537914450|lclarkdo|intro:ls|136intro-2jjaj.JPEG  answers.txt   asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      answers.txt~  wuer136intro-4.JPG
+INPUT|lclarkdo-intro-25|U |1537914458|lclarkdo|intro:emacs answers.txt|%[?1049h[?12;25h[?1h=[H[2J[68d[K[?1l>[?12l[?25h[?1049l[39;49m
+[?1049h[?12;25h[?1h=[H[2J[67d[?25l[30m[47m-111:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) ---------------------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[68d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[68;9H[?25l/etc/emacs/site-start.d/50autoconf.el (source)...[H
+[?12l[?25h[?12;25h[68;58H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[68d[?25lLoading /etc/emacs/site-start.d/50autoconf.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                                             [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K<NL
+INPUT|lclarkdo-intro-26|M6 |1537914669|lclarkdo|intro:df|%Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 1003424         48    1003376   1%% /dev
+tmpfs                                                 204720      16232     188488   8%% /run
+/dev/sda1                                           15616412    2895844   11920620  20%% /
+tmpfs                                                1023600          0    1023600   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023600          0    1023600   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkdo  2031313280 1269635712  599172480  68%% /users/lclarkdo
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973265792 1763502464  36%% /proj/CS495LC
+tmpfs                                                 204720          0     204720  
+INPUT|lclarkdo-intro-27|A6 |1537914694|lclarkdo|intro:df > diskfree.txt|
+INPUT|lclarkdo-intro-28|U |1537914453|lclarkdo|intro:ls|136intro-2jjaj.JPEG  answers.txt   asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+136intro-3.jpg      answers.txt~  diskfree.txt      xbzf136INTRO-1.jpg
+INPUT|lclarkdo-intro-29|U |1537914697|lclarkdo|intro:cat diskfree.txt|%Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 1003424         48    1003376   1%% /dev
+tmpfs                                                 204720      16232     188488   8%% /run
+/dev/sda1                                           15616412    2895716   11920748  20%% /
+tmpfs                                                1023600          0    1023600   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023600          0    1023600   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkdo  2031313280 1272435072  596373120  69%% /users/lclarkdo
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973265792 1763502464  36%% /proj/CS495LC
+tmpfs                                                 204720          0     204720  
+INPUT|lclarkdo-intro-30|U |1537914881|lclarkdo|intro:su|%]0;root@intro: /users/lclarkdo/top_secretroot@intro:/users/lclarkdo/top_secret# cd /
+]0;root@intro: /root@intro:/# [Kls 
+[0m[01;34mbin[0m   [01;34metc[0m     [01;36minitrd.img[0m      [01;34mlib64[0m       [01;34mmedia[0m  [01;34mproc[0m  [01;34mrun[0m    [01;34msnap[0m  [30;42mtmp[0m    [01;34mvar[0m
+[01;34mboot[0m  [01;34mgroups[0m  [01;36minitrd.img.old[0m  [01;34mlocal[0m       [01;34mmnt[0m    [01;34mproj[0m  [01;34msbin[0m   [01;34msrv[0m   [01;34musers[0m  [01;36mvmlinuz[0m
+[01;34mdev[0m   [01;34mhome[0m    [01;34mlib[0m             [01;34mlost+found[0m  [01;34mopt[0m    [01;34mroot[0m  [01;34mshare[0m  [01;34msys[0m   [01;34musr[0m    [01;36mvmlinuz.old[0m
+]0;root@intro: /root@intro:/# cd /sys/kernel/debug/usb/devices
+bash: cd: /sys/kernel/debug/usb/devices: Not a directory
+]0;root@intro: /root@intro:/# [Kcd /sys/kernel/debug/usb        
+]0;root@intro: /sys/kernel/debug/usbroot@intro:/sys/kernel/debug/usb# ls
+devices  [0m[01;34mehci[0m  [01;34mohci[0
+INPUT|lclarkdo-intro-31|U |000000000|lclarkdo|intro:exit|exit
+INPUT|lclarkdo-intro-32|U |1537916243|lclarkdo|intro:emacs answers.txt|%[?1049h[?12;25h[?1h=[H[2J[68d[K[?1l>[?12l[?25h[?1049l[39;49m
+[?1049h[?12;25h[?1h=[H[2J[67d[?25l[30m[47m-111:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) ---------------------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[68d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[68;9H[?25l/etc/emacs/site-start.d/50autoconf.el (source)...[H
+[?12l[?25h[?12;25h[68;58H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[68d[?25lLoading /etc/emacs/site-start.d/50autoconf.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                                             [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K<NL
+INPUT|lclarkdo-intro-33|U |000000000|lclarkdo|intro:tar cvzf lclarkdo-intro.tar.gz top_secret|tar: top_secret: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+INPUT|lclarkdo-intro-34|U |000000000|lclarkdo|intro:tar cvzf lclarkdo-intro.tar.gz /op_secret|tar: Removing leading `/' from member names
+tar: /top_secret: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+INPUT|lclarkdo-intro-35|U |1537916480|lclarkdo|intro:tar cvzf lclarkdo-intro.tar.gz /top_secret|
+INPUT|lclarkdo-intro-36|U |000000000|lclarkdo|intro:ls|136intro-2jjaj.JPEG  answers.txt~       lclarkdo-intro.tar.gz
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+answers.txt      diskfree.txt       xbzf136INTRO-1.jpg
+INPUT|lclarkdo-intro-37|U |1537916492|lclarkdo|intro:rm lclarkdo-intro.tar.gz|
+INPUT|lclarkdo-intro-38|U |000000000|lclarkdo|intro:cd ..|
+INPUT|lclarkdo-intro-39|U |000000000|lclarkdo|intro:rm lclarkdo-intro.tar.gz|
+INPUT|lclarkdo-intro-40|U |1537916484|lclarkdo|intro:lstar cvzf lclarkdo-intro.tar.gz /top_secret|tar: Removing leading `/' from member names
+tar: /top_secret: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+INPUT|lclarkdo-intro-41|U |000000000|lclarkdo|intro:tar cvzf lclarkdo-intro.tar.gz /top_secret|top_secret/
+top_secret/answers.txt
+top_secret/136intro-2jjaj.JPEG
+top_secret/136intro-3.jpg
+top_secret/answers.txt~
+top_secret/wuer136intro-4.JPG
+top_secret/xbzf136INTRO-1.jpg
+top_secret/asdf136Intro-5kqlw.jpeg
+top_secret/diskfree.txt
+INPUT|lclarkdo-intro-42|U |1537916513|lclarkdo|intro:ls|lclarkdo-intro.tar.gz  top_secret
+INPUT|lclarkdo-intro-43|U |000000000|lclarkdo|intro:cd top_secret/|
+INPUT|lclarkdo-intro-44|U |1537916518|lclarkdo|intro:ls|136intro-2jjaj.JPEG  answers.txt   asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+136intro-3.jpg      answers.txt~  diskfree.txt      xbzf136INTRO-1.jpg
+INPUT|lclarkdo-intro-45|U |000000000|lclarkdo|intro:cd ..|
+INPUT|lclarkdo-intro-46|U |1537916525|lclarkdo|intro:ls|lclarkdo-intro.tar.gz  top_secret
+INPUT|lclarkdo-intro-47|U |000000000|lclarkdo|intro:exit|exit
+INPUT|lclarkdo-intro-48|U |1537806924|lclarkdo|intro:ls|
+INPUT|lclarkdo-intro-49|U |1537806931|lclarkdo|intro:ls -al|total 60
+drwx------  5 lclarkdo      31  512 Sep 24 09:34 .
+drwxr-xr-x 61 root     root    4096 Sep 24 09:23 ..
+-rw-------  1 lclarkdo      31    5 Sep 21 12:29 .bash_history
+drwx------  2 lclarkdo      31  512 Sep 24 09:34 .cache
+-rw-r--r--  1 lclarkdo      31 1206 Apr 25 13:07 .cshrc
+-rw-r--r--  1 lclarkdo CS495LC   23 Apr 25 13:07 .forward
+-rw-r--r--  1 lclarkdo      31  254 Apr 25 13:07 .login
+-rw-r--r--  1 lclarkdo      31  163 Apr 25 13:07 .login_conf
+-rw-------  1 lclarkdo      31  379 Apr 25 13:07 .mail_aliases
+-rw-r--r--  1 lclarkdo      31  336 Apr 25 13:07 .mailrc
+-rw-r--r--  1 lclarkdo      31  936 Apr 25 13:07 .profile
+-rw-------  1 lclarkdo      31  281 Apr 25 13:07 .rhosts
+-rw-r--r--  1 lclarkdo      31  849 Apr 25 13:07 .shrc
+drwx------  2 lclarkdo      31  512 Sep 24 09:34 .ssh
+drwx------  2 lclarkdo      31  512 Aug 26 14:04 .ssl
+INPUT|lclarkdo-intro-50|U |000000000|lclarkdo|intro:cd|
+INPUT|lclarkdo-intro-51|U |000000000|lclarkdo|intro:pwd|/users/lclarkdo
+INPUT|lclarkdo-intro-52|U |1537806942|lclarkdo|intro:ls|
+INPUT|lclarkdo-intro-53|U |1537806960|lclarkdo|intro:mkdir top_secret|
+INPUT|lclarkdo-intro-54|U |1537806961|lclarkdo|intro:ls|top_secret
+INPUT|lclarkdo-intro-55|A4 A3 A1 A2 A0 |1537806969|lclarkdo|intro:man find|%[?1049h[?1h=
+FIND(1)                     General Commands Manual                    FIND(1)[m
+[m
+[1mNAME[0m[m
+       find - search for files in a directory hierarchy[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mfind[0m  [-H]  [-L]  [-P]  [-D  debugopts]  [-Olevel]  [starting-point...][m
+       [expression][m
+[m
+[1mDESCRIPTION[0m[m
+       This manual page documents the GNU version of [1mfind[0m.  GNU [1mfind[0m  searches[m
+       the  directory  tree  rooted at each given starting-point by evaluating[m
+       the given expression from left to right%%  according  to  the  rules  of[m
+       precedence  (see  section  OPERATORS)%%  until the outcome is known (the[m
+       left hand side is false for [4mand[24m operations%%  true  for  [4mor[24m)%%  at  which[m
+       point  [1mfind[0m  moves  on  to the next file name.  If no starting-point is[m
+       specified%% `.' is assumed.[m
+[m
+       If you are using [1mfind[0m in an environment  where 
+INPUT|lclarkdo-intro-56|A1 A3 A4 A0 A2 |000000000|lclarkdo|intro:find ~ intro|/users/lclarkdo
+/users/lclarkdo/.login_conf
+/users/lclarkdo/.cshrc
+/users/lclarkdo/.login
+/users/lclarkdo/.mail_aliases
+/users/lclarkdo/.mailrc
+/users/lclarkdo/.profile
+/users/lclarkdo/.rhosts
+/users/lclarkdo/.shrc
+/users/lclarkdo/.ssl
+/users/lclarkdo/.ssl/emulab.pem
+/users/lclarkdo/.ssh
+/users/lclarkdo/.ssh/id_rsa
+/users/lclarkdo/.ssh/id_rsa.pub
+/users/lclarkdo/.ssh/known_hosts
+/users/lclarkdo/.ssh/id_emulab.pub
+/users/lclarkdo/.ssh/authorized_keys
+/users/lclarkdo/.ssh/external_keys
+/users/lclarkdo/.forward
+/users/lclarkdo/.bash_history
+/users/lclarkdo/.cache
+/users/lclarkdo/.cache/motd.legal-displayed
+/users/lclarkdo/top_secret
+find: 'intro': No such file or directory
+INPUT|lclarkdo-intro-57|A2 A0 A4 A3 A1 |000000000|lclarkdo|intro:find ~ intro.*|/users/lclarkdo
+/users/lclarkdo/.login_conf
+/users/lclarkdo/.cshrc
+/users/lclarkdo/.login
+/users/lclarkdo/.mail_aliases
+/users/lclarkdo/.mailrc
+/users/lclarkdo/.profile
+/users/lclarkdo/.rhosts
+/users/lclarkdo/.shrc
+/users/lclarkdo/.ssl
+/users/lclarkdo/.ssl/emulab.pem
+/users/lclarkdo/.ssh
+/users/lclarkdo/.ssh/id_rsa
+/users/lclarkdo/.ssh/id_rsa.pub
+/users/lclarkdo/.ssh/known_hosts
+/users/lclarkdo/.ssh/id_emulab.pub
+/users/lclarkdo/.ssh/authorized_keys
+/users/lclarkdo/.ssh/external_keys
+/users/lclarkdo/.forward
+/users/lclarkdo/.bash_history
+/users/lclarkdo/.cache
+/users/lclarkdo/.cache/motd.legal-displayed
+/users/lclarkdo/top_secret
+find: 'intro.*': No such file or directory
+INPUT|lclarkdo-intro-58|U |000000000|lclarkdo|intro:cd ~|
+INPUT|lclarkdo-intro-59|U |000000000|lclarkdo|intro:pwd|/users/lclarkdo
+INPUT|lclarkdo-intro-60|U |000000000|lclarkdo|intro:cd /root|bash: cd: /root: Permission denied
+INPUT|lclarkdo-intro-61|U |1537807131|lclarkdo|intro:su|Password: 
+su: Authentication failure
+INPUT|lclarkdo-intro-62|U |1537807147|lclarkdo|intro:su|%]0;root@intro: /users/lclarkdoroot@intro:/users/lclarkdo# pwd
+/users/lclarkdo
+]0;root@intro: /users/lclarkdoroot@intro:/users/lclarkdo# find . intro.*  
+.
+./.login_conf
+./.cshrc
+./.login
+./.mail_aliases
+./.mailrc
+./.profile
+./.rhosts
+./.shrc
+./.ssl
+./.ssl/emulab.pem
+./.ssh
+./.ssh/id_rsa
+./.ssh/id_rsa.pub
+./.ssh/known_hosts
+./.ssh/id_emulab.pub
+./.ssh/authorized_keys
+./.ssh/external_keys
+./.forward
+./.bash_history
+./.cache
+./.cache/motd.legal-displayed
+./top_secret
+find: 'intro.*': No such file or directory
+]0;root@intro: /users/lclarkdoroot@intro:/users/lclarkdo# find . intro.JPEG
+.
+./.login_conf
+./.cshrc
+./.login
+./.mail_aliases
+./.mailrc
+./.profile
+./.rhosts
+./.shrc
+./.ssl
+./.ssl/emulab.pem
+./.ssh
+./.ssh/id_rsa
+./.ssh/id_rsa.pub
+./.ssh/known_hosts
+./.ssh/id_emulab.pub
+./.ssh/authorized_keys
+./.ssh/external_keys
+./.forward
+./.bash_history
+./.
+INPUT|lclarkdo-intro-63|U |000000000|lclarkdo|intro:exit|exit
+INPUT|lclarkdo-intro-64|U |1537810637|lclarkdo|intro:ls|top_secret
+INPUT|lclarkdo-intro-65|U |000000000|lclarkdo|intro:cd top_secret/|
+INPUT|lclarkdo-intro-66|U |1537810641|lclarkdo|intro:ls|answers.txt
+INPUT|lclarkdo-intro-67|U |1537810644|lclarkdo|intro:cat answers.txt|./dev/136intro-2jjaj.JPEG --- first JPEG file
+INPUT|lclarkdo-intro-68|U |000000000|lclarkdo|intro:cp ./dev/136intro-2jjaj.JPEG ./users/lclarkdo/top_s|ecret/136intro-2jjaj.JPEG
+cp: cannot stat './dev/136intro-2jjaj.JPEG': No such file or directory
+INPUT|lclarkdo-intro-69|U |000000000|lclarkdo|intro:cd ./dev/|bash: cd: ./dev/: No such file or directory
+INPUT|lclarkdo-intro-70|U |1537810743|lclarkdo|intro:su|%]0;root@intro: /users/lclarkdo/top_secretroot@intro:/users/lclarkdo/top_secret# [2Pls[Kcd ./dev/arkdo/top_secret
+bash: cd: ./dev/: No such file or directory
+]0;root@intro: /users/lclarkdo/top_secretroot@intro:/users/lclarkdo/top_secret# pwd
+/users/lclarkdo/top_secret
+]0;root@intro: /users/lclarkdo/top_secretroot@intro:/users/lclarkdo/top_secret# cd ../../..
+]0;root@intro: /root@intro:/# [Kpwd
+/
+]0;root@intro: /root@intro:/# ls
+[0m[01;34mbin[0m   [01;34mgroups[0m          [01;34mlib[0m         [01;34mmedia[0m  [01;34mproj[0m  [01;34mshare[0m  [30;42mtmp[0m    [01;36mvmlinuz[0m
+[01;34mboot[0m  [01;34mhome[0m            [01;34mlib64[0m       [01;34mmnt[0m    [01;34mroot[0m  [01;34msnap[0m   [01;34musers[0m  [01;36mvmlinuz.old[0m
+[01;34mdev[0m   [01;36minitrd.img[0m      [01;34mlocal[0m       [01;34mopt[0m    [01;34mrun[0m   [01;34msrv[0m    [01;34musr[0m
+[01;34metc[0m   [01;36minitrd.img.old[0m  [01;34mlost+found[0m  [01;34mproc[0m   [01;34msbin[0m  [01;3
+INPUT|lclarkdo-intro-71|U |1537814021|lclarkdo|intro:su|%]0;root@intro: /users/lclarkdoroot@intro:/users/lclarkdo# cd ../../..
+]0;root@intro: /root@intro:/# [Kls
+[0m[01;34mbin[0m   [01;34mgroups[0m          [01;34mlib[0m         [01;34mmedia[0m  [01;34mproj[0m        [01;34msbin[0m   [01;34msys[0m    [01;34mvar[0m
+[01;34mboot[0m  [01;34mhome[0m            [01;34mlib64[0m       [01;34mmnt[0m    [01;34mroot[0m        [01;34mshare[0m  [30;42mtmp[0m    [01;36mvmlinuz[0m
+[01;34mdev[0m   [01;36minitrd.img[0m      [01;34mlocal[0m       [01;34mopt[0m    [01;34mrun[0m         [01;34msnap[0m   [01;34musers[0m  [01;36mvmlinuz.old[0m
+[01;34metc[0m   [01;36minitrd.img.old[0m  [01;34mlost+found[0m  [01;34mproc[0m   sample.txt  [01;34msrv[0m    [01;34musr[0m
+]0;root@intro: /root@intro:/# cd ..
+]0;root@intro: /root@intro:/# locate *intro*.*
+/usr/lib/python3/dist-packages/dbus/_expat_introspect_parser.py
+/usr/lib/python3/dist-packages/dbus/__pycache__/_expat_introspect_parser.cpython-35.pyc
+/usr/share/man/man1/intro.1.gz
+/us
+INPUT|lclarkdo-intro-72|U |1537813948|lclarkdo|intro:ls|search.txt  top_secret
+INPUT|lclarkdo-intro-73|U |000000000|lclarkdo|intro:cd ..|
+INPUT|lclarkdo-intro-74|U |1537815129|lclarkdo|intro:ls|abhi  bloznali  gerow     jboman   jjh melkins   scuric   sharead  shareah  shareal  shareap  shareat shareax  sharebb  sharetb
+alefiya  ekline    gknopf    jelena   jross piobair   shareaa  shareae  shareai  shaream  shareaq  shareau shareay  sharebc  sklower
+alwabel  faber    glawler   jgli     kls2 rgoodfel  shareab  shareaf  shareaj  sharean  sharear  shareav shareaz  sharebd  sunshine
+bks  gbartlet  jaipuria  jhickey  lclarkdo schwab   shareac  shareag  shareak  shareao  shareas  shareaw shareba  shareta
+INPUT|lclarkdo-intro-75|U |000000000|lclarkdo|intro:cd ..|
+INPUT|lclarkdo-intro-76|U |1537815133|lclarkdo|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkdo-intro-77|U |000000000|lclarkdo|intro:cd ..|
+INPUT|lclarkdo-intro-78|U |1537815135|lclarkdo|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkdo-intro-79|U |1537815138|lclarkdo|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkdo-intro-80|U |000000000|lclarkdo|intro:cd users|
+INPUT|lclarkdo-intro-81|U |000000000|lclarkdo|intro:cd ..|
+INPUT|lclarkdo-intro-82|U |000000000|lclarkdo|intro:/users/lclarkdo/|.cache/     .ssh/       .ssl/       top_secret/ 
+INPUT|lclarkdo-intro-83|U |1537815284|lclarkdo|intro:/users/lclarkdo/top_secret/search.txt | xargs file | wc|bash: /users/lclarkdo/top_secret/search.txt: No such file or directory
+Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+      0       0       0
+INPUT|lclarkdo-intro-84|U |000000000|lclarkdo|intro:cd|
+INPUT|lclarkdo-intro-85|U |1537815182|lclarkdo|intro:ls|search.txt  top_secret
+INPUT|lclarkdo-intro-86|U |1537815307|lclarkdo|intro:/users/lclarkdo/top_secret[1[1[1[1[1[1P[[1[1[1[1Pe | wc|bash: /users/lclarkdo/search.txt: Permission denied
+Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+      0       0       0
+INPUT|lclarkdo-intro-87|U |1537815307|lclarkdo|intro:[1@s[1@u[1@d[1@o[1@ ch.txt | xargs file | wc|sudo: /users/lclarkdo/search.txt: command not found
+Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+      0       0       0
+INPUT|lclarkdo-intro-88|U |000000000|lclarkdo|intro:pwd|/users/lclarkdo
+INPUT|lclarkdo-intro-89|U |000000000|lclarkdo|intro:cd|
+INPUT|lclarkdo-intro-90|U |1537815295|lclarkdo|intro:ls|search.txt  top_secret
+INPUT|lclarkdo-intro-91|U |000000000|lclarkdo|intro:/users/lclarkdo/search.txt | xargs file | wc|search.txt: command not found
+Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+      0       0       0
+INPUT|lclarkdo-intro-92|U |1537815355|lclarkdo|intro:[1@c[1@a[1@t[1@ gs file | wc|    198    1782   37322
+INPUT|lclarkdo-intro-93|U |1537815324|lclarkdo|intro:cat search.txt | xargs file | [1@g[1@r[1@[1P[1@e[1@p[1@ [1@J[1@P[1@E[1@G[1@ [1@|[1@|      1       9     180
+INPUT|lclarkdo-intro-94|U |1537815355|lclarkdo|intro:cat search.txt | xargs file | grep JPEG|./users/lclarkdo/top_secret/136intro-2jjaj.JPEG:                                          cannot open `./users/lclarkdo/top_secret/136intro-2jjaj.JPEG' (No such file or directory)
+INPUT|lclarkdo-intro-95|U |1537815408|lclarkdo|intro:cat search.txt | xargs file | grep jpg|./var/log/136intro-3.jpg:                                                                 cannot open `./var/log/136intro-3.jpg' (No such file or directory)
+INPUT|lclarkdo-intro-96|U |1537815419|lclarkdo|intro:cat search.txt | xargs file | grep jpg >[1@> top_secret/|136intro-2jjaj.JPEG  answers.txt          
+INPUT|lclarkdo-intro-97|U |1537815425|lclarkdo|intro:cat search.txt | xargs file | grep jpg >> top_secret/|136intro-2jjaj.JPEG  answers.txt          
+INPUT|lclarkdo-intro-98|U |1537815437|lclarkdo|intro:cat search.txt | xargs file | grep jpg >> top_secret|bash: top_secret: Is a directory
+xargs: file: terminated by signal 13
+INPUT|lclarkdo-intro-99|U |1537815574|lclarkdo|intro:cat search.txt | xargs file | grep jpg >> top_secret/answers.txt|bash: top_secret/answers.txt: Permission denied
+xargs: file: terminated by signal 13
+INPUT|lclarkdo-intro-100|U |000000000|lclarkdo|intro:earch.txt | xargs file | grep jpg >> top_secret/answers.txt|bash: top_secret/answers.txt: Permission denied
+xargs: file: terminated by signal 13
+INPUT|lclarkdo-intro-101|U |1537814021|lclarkdo|intro:su|%]0;root@intro: /users/lclarkdoroot@intro:/users/lclarkdo# cat search.txt | xargs file | grep jpg >> top_secret/answers.txt
+]0;root@intro: /users/lclarkdoroot@intro:/users/lclarkdo# [Kls 
+search.txt  [0m[01;34mtop_secret[0m
+]0;root@intro: /users/lclarkdoroot@intro:/users/lclarkdo# cat top_secret/answers.txt 
+./dev/136intro-2jjaj.JPEG --- first JPEG file
+./var/log/136intro-3.jpg:                                                                 cannot open `./var/log/136intro-3.jpg' (No such file or directory)
+]0;root@intro: /users/lclarkdoroot@intro:/users/lclarkdo# emacs top_secret/answers.txt 
+[?1049h[?12;25h[?1h=[H[2J[53d[K[?1l>[?12l[?25h[?1049l[39;49m
+[?1049h[?12;25h[?1h=[H[2J[52d[?25l[30m[47m-111:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) --------------------------------------------------------------------------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[53d[?25lLoading 00debian-vars...done[K[H
+[?12l[
+INPUT|lclarkdo-intro-102|U |000000000|lclarkdo|intro:pwd|/users/lclarkdo
+INPUT|lclarkdo-intro-103|U |000000000|lclarkdo|intro:cd top_secret/|
+INPUT|lclarkdo-intro-104|U |1537815339|lclarkdo|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  answers.txt  answers.txt~
+INPUT|lclarkdo-intro-105|U |1537815840|lclarkdo|intro:cat answers less|cat: answers: No such file or directory
+cat: less: No such file or directory
+INPUT|lclarkdo-intro-106|U |000000000|lclarkdo|intro:cat answers.txts|./dev/136intro-2jjaj.JPEG --- first JPEG file
+./var/log/136intro-3.jpg --- second JPEG file
+./etc/wuer136intro-4.JPG
+cat: less: No such file or directory
+INPUT|lclarkdo-intro-107|U |1537815863|lclarkdo|intro:emacs answers.txt|%[?1049h[?12;25h[?1h=[H[2J[53d[K[?1l>[?12l[?25h[?1049l[39;49m
+[?1049h[?12;25h[?1h=[H[2J[52d[?25l[30m[47m-111:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) --------------------------------------------------------------------------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[53d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[53;9H[?25l/etc/emacs/site-start.d/50autoconf.el (source)...[H
+[?12l[?25h[?12;25h[53;58H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[53d[?25lLoading /etc/emacs/site-start.d/50autoconf.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                                                                                                  [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[
+INPUT|lclarkdo-intro-108|U |1537815885|lclarkdo|intro:emacs answers.txt|%[?1049h[?12;25h[?1h=[H[2J[53d[K[?1l>[?12l[?25h[?1049l[39;49m
+[?1049h[?12;25h[?1h=[H[2J[52d[?25l[30m[47m-111:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) --------------------------------------------------------------------------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[53d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[53;9H[?25l/etc/emacs/site-start.d/50autoconf.el (source)...[H
+[?12l[?25h[?12;25h[53;58H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[53d[?25lLoading /etc/emacs/site-start.d/50autoconf.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                                                                                                  [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[
+INPUT|lclarkdo-intro-109|U |1537815828|lclarkdo|intro:ls - al|ls: cannot access '-': No such file or directory
+ls: cannot access 'al': No such file or directory
+INPUT|lclarkdo-intro-110|U |1537815989|lclarkdo|intro:ls -[1P|total 164
+drwxr-xr-x 2 lclarkdo   31    512 Sep 24 12:03 .
+drwx------ 7 lclarkdo   31    512 Sep 24 12:04 ..
+-rw-r--r-- 1 root     root  45909 Sep 24 09:23 136intro-2jjaj.JPEG
+-rw-r--r-- 1 root     root 101182 Sep 24 09:23 136intro-3.jpg
+-rw-r--r-- 1 root       31    117 Sep 24 12:02 answers.txt
+-rw-r--r-- 1 root       31     92 Sep 24 12:01 answers.txt~
+INPUT|lclarkdo-intro-111|U |1537815624|lclarkdo|intro:emacs answers.txt|%[?1049h[?12;25h[?1h=[H[2J[53d[K[?1l>[?12l[?25h[?1049l[39;49m
+[?1049h[?12;25h[?1h=[H[2J[52d[?25l[30m[47m-111:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) --------------------------------------------------------------------------------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[53d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[53;9H[?25l/etc/emacs/site-start.d/50autoconf.el (source)...[H
+[?12l[?25h[?12;25h[53;58H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[53d[?25lLoading /etc/emacs/site-start.d/50autoconf.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                                                                                                  [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[
+INPUT|lclarkdo-intro-112|U |1537815964|lclarkdo|intro:cat answers.txt|./dev/136intro-2jjaj.JPEG --- first JPEG file
+./var/log/136intro-3.jpg --- second JPEG file
+./etc/wuer136intro-4.JPG --- third JPEG file
+INPUT|lclarkdo-intro-113|U |000000000|lclarkdo|intro:cd ./etc/wuer136intro-4.JPG|bash: cd: ./etc/wuer136intro-4.JPG: No such file or directory
+INPUT|lclarkdo-intro-114|U |000000000|lclarkdo|intro:cd ./etc|bash: cd: ./etc: No such file or directory
+INPUT|lclarkdo-intro-115|U |000000000|lclarkdo|intro:cd /etc|
+INPUT|lclarkdo-intro-116|U |1537816034|lclarkdo|intro:ls|acpi   csh.cshrc  gshadow-   legal    networks     rc5.d      sudoers
+adduser.conf  csh.login  gss    libaudit.conf   newt      rc6.d      sudoers.d
+alternatives  csh.logout  gtk-3.0   libnl-3   nsswitch.conf     rc.local      sysctl.conf
+ansible   dbus-1   hdparm.conf   libpaper.d   ntp.conf     rcS.d      sysctl.d
+apache2   debconf.conf  host.conf   lighttpd   opt      request-key.conf  systemd
+apm   debian_version  hostname   locale.alias   os-release     request-key.d     terminfo
+apparmor  default   hosts    locale.gen   overlayroot.conf    resolvconf      testbed
+apparmor.d  deluser.conf  hosts.allow   localtime   pam.conf     resolv.conf      timezone
+apport   depmod.d  hosts.deny   logcheck   pam.d      rlwrap      
+INPUT|lclarkdo-intro-117|U |1537816010|lclarkdo|intro:mv wuer136intro-4.JPG /users/lclarkdo/top_secret/|mv: cannot remove 'wuer136intro-4.JPG': Permission denied
+INPUT|lclarkdo-intro-118|U |1537816027|lclarkdo|intro:mv wuer136intro-4.JPG /users/lclarkdo/top_secret/|
+INPUT|lclarkdo-intro-119|U |1537816061|lclarkdo|intro:ls[1@s[1@u[1@d[1@o[1@ G /users/lclarkdo/top_secret/|
+INPUT|lclarkdo-intro-120|U |000000000|lclarkdo|intro:cd|
+INPUT|lclarkdo-intro-121|U |000000000|lclarkdo|intro:cd top_secret/|
+INPUT|lclarkdo-intro-122|U |1537816066|lclarkdo|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  answers.txt  answers.txt~ wuer136intro-4.JPG
+INPUT|lclarkdo-intro-123|U |000000000|lclarkdo|intro:cd ./|
+INPUT|lclarkdo-intro-124|U |1537816087|lclarkdo|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  answers.txt  answers.txt~ wuer136intro-4.JPG
+INPUT|lclarkdo-intro-125|U |000000000|lclarkdo|intro:cd .|
+INPUT|lclarkdo-intro-126|U |1537816249|lclarkdo|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  answers.txt  answers.txt~ wuer136intro-4.JPG
+INPUT|lclarkdo-intro-127|U |000000000|lclarkdo|intro:cd ../../..|
+INPUT|lclarkdo-intro-128|U |000000000|lclarkdo|intro:cd|
+INPUT|lclarkdo-intro-129|U |000000000|lclarkdo|intro:cd ~|
+INPUT|lclarkdo-intro-130|U |000000000|lclarkdo|intro:cd ../../..|
+INPUT|lclarkdo-intro-131|U |1537817298|lclarkdo|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkdo-intro-132|U |000000000|lclarkdo|intro:rm /users/lclarkdo/|.bash_history  .cshrc         .forward       .login_conf    .mailrc        .rhosts        .shrc          .ssl/          
+.cache/        .emacs.d/      .login         .mail_aliases  .profile       search.txt     .ssh/          top_secret/    
+INPUT|lclarkdo-intro-133|U |000000000|lclarkdo|intro:rm /users/lclarkdo/top_secret/|136intro-2jjaj.JPEG  136intro-3.jpg       answers.txt          answers.txt~         wuer136intro-4.JPG   
+INPUT|lclarkdo-intro-134|U |1537816128|lclarkdo|intro:rm /users/lclarkdo/search.txt|rm: remove write-protected regular file '/users/lclarkdo/search.txt'? yes
+INPUT|lclarkdo-intro-135|A4 A3 A1 A2 A0 |1537815408|lclarkdo|intro:locate *Intro*.* | xargs file | wc|locate: can not open `/var/lib/mlocate/mlocate.db': Permission denied
+Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+      0       0       0
+INPUT|lclarkdo-intro-136|A2 A0 A4 A3 A1 |1537815615|lclarkdo|intro:locate *Intro*.* | xargs file |[1[1[1[1[1[1[1[1[1[1[1[1[1P|locate: can not open `/var/lib/mlocate/mlocate.db': Permission denied
+      0       0       0
+INPUT|lclarkdo-intro-137|A2 A0 A4 A3 A1 |000000000|lclarkdo|intro:findte *Intro*.* | wc|find: '*Intro*.*': No such file or directory
+      0       0       0
+INPUT|lclarkdo-intro-138|A1 A3 A4 A0 A2 |1537815419|lclarkdo|intro:[2@locate *Intro[1P | wc|locate: can not open `/var/lib/mlocate/mlocate.db': Permission denied
+      0       0       0
+INPUT|lclarkdo-intro-139|A2 A0 A4 A3 A1 |000000000|lclarkdo|intro:locate *Intro** | wc|locate: can not open `/var/lib/mlocate/mlocate.db': Permission denied
+      0       0       0
+INPUT|lclarkdo-intro-140|U |000000000|lclarkdo|intro:pwd|/
+INPUT|lclarkdo-intro-141|U |000000000|lclarkdo|intro:cat /users/lclarkdo/top_secret/|136intro-2jjaj.JPEG  136intro-3.jpg       answers.txt          answers.txt~         wuer136intro-4.JPG   
+INPUT|lclarkdo-intro-142|U |1537816240|lclarkdo|intro:cat /users/lclarkdo/top_secret/answers.txt|./dev/136intro-2jjaj.JPEG --- first JPEG file
+./var/log/136intro-3.jpg --- second JPEG file
+./etc/wuer136intro-4.JPG --- third JPEG file
+INPUT|lclarkdo-intro-143|U |1537817304|lclarkdo|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkdo-intro-144|U |000000000|lclarkdo|intro:cat /users/lclarkdo/top_secret/answers.txt|
+INPUT|lclarkdo-intro-145|A4 A3 A1 A2 A0 |000000000|lclarkdo|intro:locate *.jpg*.* | wc|locate: can not open `/var/lib/mlocate/mlocate.db': Permission denied
+      0       0       0
+INPUT|lclarkdo-intro-146|U |1537816163|lclarkdo|intro:[Ksudo sujpg | wc|%]0;root@intro: /root@intro:/# pwd
+/
+]0;root@intro: /root@intro:/# mv 136intro-3.jpg /users/lclarkdo/top_secret/
+]0;root@intro: /root@intro:/# ex[1P[Klocate *.jpg | wc
+      8       8     381
+]0;root@intro: /root@intro:/# locate *.jpg     
+/usr/share/doc/libsane/umax/sane-logo.jpg
+/usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+/usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+/usr/share/doc/libsane/umax/sane-umax-standard.jpg
+/usr/share/doc/libsane/umax/sane-umax-text.jpg
+/usr/share/doc/libsane/umax/sane-umax-text2.jpg
+/usr/share/doc/libsane/umax/sane-umax-text4.jpg
+/usr/share/doc/libsane/umax/sane-umax.jpg
+]0;root@intro: /root@intro:/# locate *.jpg[[1[1[1P[1@J[1@P[1@G
+      0       0       0
+]0;root@intro: /root@intro:/# locate *.JP[1@Ewc
+      0       0       0
+]0;root@intro: /root@intro:/# locate *.JPE[1[1[1[1P[1@j[1@p[1@e[1@g
+      0       0       0
+]0;root@intro: /root@intro:/# [Klocate | grep JPG | wc
+locate: no
+INPUT|lclarkdo-intro-147|U |000000000|lclarkdo|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkdo-intro-148|U |000000000|lclarkdo|intro:cd|
+INPUT|lclarkdo-intro-149|U |000000000|lclarkdo|intro:ls|top_secret
+INPUT|lclarkdo-intro-150|A4 A3 A1 A2 A0 |1537817314|lclarkdo|intro:find *.* | xargs grep JPEG|find: '*.*': No such file or directory
+INPUT|lclarkdo-intro-151|A2 A0 A4 A3 A1 |1537817324|lclarkdo|intro:find [1@"*.*[1@" grep JPEG|find: '*.*': No such file or directory
+INPUT|lclarkdo-intro-152|A1 A3 A4 A0 A2 |000000000|lclarkdo|intro:find \"'.*\' | xargs grep JPEG|find: '*.*': No such file or directory
+INPUT|lclarkdo-intro-153|A4 A3 A1 A2 A0 |1537817346|lclarkdo|intro:man find|%[?1049h[?1h=
+FIND(1)                                                       General Commands Manual                                                       FIND(1)[m
+[m
+[1mNAME[0m[m
+       find - search for files in a directory hierarchy[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mfind[0m [-H] [-L] [-P] [-D debugopts] [-Olevel] [starting-point...] [expression][m
+[m
+[1mDESCRIPTION[0m[m
+       This  manual page documents the GNU version of [1mfind[0m.  GNU [1mfind[0m searches the directory tree rooted at each given starting-point by evaluating[m
+       the given expression from left to right%% according to the rules of precedence (see section OPERATORS)%% until the outcome is known (the  left[m
+       hand side is false for [4mand[24m operations%% true for [4mor[24m)%% at which point [1mfind[0m moves on to the next file name.  If no starting-point is specified%%[m
+       `.' is assumed.[m
+[m
+       If you are using [1mfind[0m in an environment where securit
+INPUT|lclarkdo-intro-154|U |1537816174|lclarkdo|intro:last | grep Sep |wc|     13     134     949

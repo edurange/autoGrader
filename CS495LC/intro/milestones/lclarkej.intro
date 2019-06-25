@@ -1,0 +1,829 @@
+User lclarkej start time 1538355772 end 1538360907
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkej-intro-0|U |000000000|lclarkej|:|
+INPUT|lclarkej-intro-1|U |000000000|lclarkej|:|
+INPUT|lclarkej-intro-2|U |000000000|lclarkej|intro:pwd|/users/lclarkej
+INPUT|lclarkej-intro-3|U |1538355967|lclarkej|intro:mkdir top_secret|
+INPUT|lclarkej-intro-4|U |1538355772|lclarkej|intro:ls|top_secret
+INPUT|lclarkej-intro-5|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-6|U |1538355969|lclarkej|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkej  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkej-intro-7|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-8|U |1538355976|lclarkej|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkej-intro-9|U |000000000|lclarkej|intro:cd /users/lclarkej|
+INPUT|lclarkej-intro-10|U |1538355993|lclarkej|intro:ls|top_secret
+INPUT|lclarkej-intro-11|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-12|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-13|A4 A3 A1 A2 A0 |000000000|lclarkej|intro:find -name \"*intro*.jpeg\"|!TRUNCATED TO 500L! find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo': Permission denied
+find
+INPUT|lclarkej-intro-14|U |1538356021|lclarkej|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkej-intro-15|U |000000000|lclarkej|intro:cd media|
+INPUT|lclarkej-intro-16|U |1538356124|lclarkej|intro:ls|cdrom  floppy  floppy0
+INPUT|lclarkej-intro-17|U |000000000|lclarkej|intro:cd proj|bash: cd: proj: No such file or directory
+INPUT|lclarkej-intro-18|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-19|U |000000000|lclarkej|intro:cd users/lclarkej|
+INPUT|lclarkej-intro-20|U |1538356130|lclarkej|intro:ls|top_secret
+INPUT|lclarkej-intro-21|A0 A2 A1 A3 A4 |000000000|lclarkej|intro:find -name "*intro*.jpeg"|
+INPUT|lclarkej-intro-22|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-23|U |1538356157|lclarkej|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkej  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkej-intro-24|A0 A2 A1 A3 A4 |000000000|lclarkej|intro:find -name "*intro*.jpeg"|
+INPUT|lclarkej-intro-25|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-26|U |1538356179|lclarkej|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkej-intro-27|U |000000000|lclarkej|intro:cd local|
+INPUT|lclarkej-intro-28|U |1538356196|lclarkej|intro:ls|logs
+INPUT|lclarkej-intro-29|U |000000000|lclarkej|intro:cd logs|
+INPUT|lclarkej-intro-30|U |1538356202|lclarkej|intro:ls|intro_startcmd.err     intro_startcmd.out     intro_startcmd.status
+intro_startcmd.err.10  intro_startcmd.out.10  intro_startcmd.status.10
+INPUT|lclarkej-intro-31|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-32|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-33|U |1538356209|lclarkej|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkej-intro-34|U |000000000|lclarkej|intro:cd initrd.img|bash: cd: initrd.img: Not a directory
+INPUT|lclarkej-intro-35|A1 A4 A3 A0 A2 |000000000|lclarkej|intro:find - n me \"*.jpeg\"|!TRUNCATED TO 500L! find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo': Permission denied
+find
+INPUT|lclarkej-intro-36|U |000000000|lclarkej|intro:mv ./.hidden/asdf136Intro-5kqlw.jpeg /users/lclarkej/top_secret|t/
+mv: cannot remove './.hidden/asdf136Intro-5kqlw.jpeg': Permission denied
+INPUT|lclarkej-intro-37|U |000000000|lclarkej|intro:mv ./.hidden/asdf136Intro-5kqlw.jpeg /users/lclarkej/top_secret|t/<BS>
+INPUT|lclarkej-intro-38|U |000000000|lclarkej|intro:m ./.hidden/asdf136Intro-5kqlw.jpeg /users/lclarkej/top_secret/clarkej@intro:/$  ./.hidden/asdf136Intro-5kqlw.jpeg /users/lclarkej/top_secret/|
+INPUT|lclarkej-intro-39|U |000000000|lclarkej|intro:c ./.hidden/asdf136Intro-5kqlw.jpeg /users/lclarkej/top_secret/|/<ESC>[Aclarkej@intro:/$ cp ./.hidden/asdf136Intro-5kqlw.jpeg /users/lclarkej/top_secret/<ESC>[Alarkej@intro:/$ cp
+
+
+INPUT|lclarkej-intro-40|U |000000000|lclarkej|intro:cd users/lclarkej/top_secret/|
+INPUT|lclarkej-intro-41|U |1538356218|lclarkej|intro:ls|asdf136Intro-5kqlw.jpeg
+INPUT|lclarkej-intro-42|U |1538356464|lclarkej|intro:scp asdf136Intro-5kqlw.jpeg|usage: scp [-12346BCpqrv] [-c cipher] [-F ssh_config] [-i identity_file]
+           [-l limit] [-o ssh_option] [-P port] [-S program]
+           [[user@]host1:]file1 ... [[user@]host2:]file2
+INPUT|lclarkej-intro-43|U |1538356480|lclarkej|intro:cat asdf136Intro-5kqlw.jpeg|%JFIFddDuckyAdobed<VT><VT><VT><NP><VT><NP><NP>
+#%%'%%#//33//@@@@@@@@@@@@@@@&&0##0+.'''.+550055@@?@@@@@@@@@@@%%"
+!1AQa"q2B#Rbr3sTC$4SUc5D!1AQaq"2BR#r<NP>?
+WGLT_muK;'Pf\%%p:H<3`SZf)lwp(<NP>mXjWun\KmX@HK<VT>)kI/\W"d*-6Hkf'{tzol_OE2xQ*k<NP>%%
+r5aMg&<K(RUY5xG|hU\#h 5#Xv7w.D)Et?Ly{Spu#LRO
+S-oNr:AaQn<NP>Um` %%bP
+E\`AT5"K[$Y6"v%%B%%{GPn?&zM<NP>( _S{+gXr*)/%%E7xoUay +Gok y0lG:}W{DBmV%%Q5&4*YjIUSXKhV6RsMATa}s'<NP>F!-f%%=2=K)-jbV<xt9[14}?>@!r"+);v.F==IVH"^vsJ%%BhMTFRXT}E0fh u`=F;<VT>Gh`EbP<NP><NP>8cn]V?y7
+ma/oYv_$H Tozmmkg*Lo-oO2 y[la!&tu3aq-{lbxA[Z$:.LD ki^A1FCk9q6+9rVP>M@Jz@dFK_p`E^dLb$e1tW'Yf\8X>le7;7.NXtkm]Z8+v
+A:P9y4j5)*OIX!?vUli%%@JSZe0TFXd-8RskHNw{vOK<NP>Y{uV=cC8!o<<NP>!7U7GbLLLMQt-3q}= dp~5^:%%`
+LA2<NP>e<Q
+vwp|C7N&CpX?WGDe=w7U&$5RluV?5L@.E@_xV/~UG<VT>pGC0]F?HG1UVV8%%-uV_aUCfY'Ox*RHLd+*j S
+T`(okvT%%dRY$9~c'U-w^rGz|Rp"<NP>? +l)R[a\mdog#^otU$8T%%\|$9$cX}t9Qb?}Zf
+Dc$]< n=qSmnl[z:vM%%rqUac&kV6FX?T;jh+|8aJZ\7o_]x#L@d[k:H!g/+ i%%sQTU[?Qyj1
+INPUT|lclarkej-intro-44|U |1538356449|lclarkej|intro:ls|asdf136Intro-5kqlw.jpeg
+INPUT|lclarkej-intro-45|U |000000000|lclarkej|intro:xdg-open asdf136Intro-5kqlw.jpeg|The program 'xdg-open' is currently not installed. To run 'xdg-open' please ask your administrator to install the package 'xdg-utils'
+INPUT|lclarkej-intro-46|U |1538356487|lclarkej|intro:ls|asdf136Intro-5kqlw.jpeg
+INPUT|lclarkej-intro-47|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-48|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-49|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-50|U |1538356778|lclarkej|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkej-intro-51|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-52|U |1538356792|lclarkej|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkej-intro-53|U |000000000|lclarkej|intro:xdg-open asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkej-intro-54|U |1538356796|lclarkej|intro:lsxdg-open asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkej-intro-55|U |1538357595|lclarkej|intro:lsxdg-open asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkej-intro-56|U |1538357614|lclarkej|intro:lscat asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkej-intro-57|U |000000000|lclarkej|intro:scp asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkej-intro-58|U |1538357885|lclarkej|intro:lscd users/lclarkej/top_secret/|
+INPUT|lclarkej-intro-59|U |000000000|lclarkej|intro:cp ./.hidden/asdf136Intro-5kqlw.jpeg /users/lclarkej/top_secret|t/<ESC>[Alarkej@intro:/$ mv
+
+t/<ESC>[Alarkej@intro:/$ cp
+
+t/<ESC>[Alarkej@intro:/$ mv
+
+t/<ESC>[Alarkej@intro:/$ find -name "*.jpeg"<ESC>[K
+
+INPUT|lclarkej-intro-60|M2 |000000000|lclarkej|intro:find -name "*.jpeg"|!TRUNCATED TO 500L! find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+./var/log/136intro-3.jpg
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo
+INPUT|lclarkej-intro-61|A2 A0 A4 A3 A1 |000000000|lclarkej|intro:find -name \"*.jppeg\"|!TRUNCATED TO 500L! find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo': Permission denied
+find
+INPUT|lclarkej-intro-62|A4 A3 A1 A2 A0 |000000000|lclarkej|intro:find -name \"intro\"|!TRUNCATED TO 500L! find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo': Permission denied
+find
+INPUT|lclarkej-intro-63|A4 A3 A1 A2 A0 |000000000|lclarkej|intro:find -name \"i*ntro*"|!TRUNCATED TO 500L! find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo': Permission denied
+find
+INPUT|lclarkej-intro-64|A0 A2 A1 A3 A4 |000000000|lclarkej|intro:find -name \"*IINTRO\"|!TRUNCATED TO 500L! find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo': Permission denied
+find
+INPUT|lclarkej-intro-65|U |000000000|lclarkej|intro:cp .usr/share/pixmaps/xbzf136INTRO-1.jpg users/lclarkej/topsec|ret
+cp: cannot stat '.usr/share/pixmaps/xbzf136INTRO-1.jpg': No such file or directory
+INPUT|lclarkej-intro-66|U |000000000|lclarkej|intro:cp .usr/share/pixmaps/xbzf136INTRO-1.jpg users/lclarkej/topsecr|ret<BS><BS>
+INPUT|lclarkej-intro-67|U |000000000|lclarkej|intro:cp .usr/share/pixmaps/xbzf136INTRO-1.jpg users/lclarkej/topse|
+ret<BS><BS>
+INPUT|lclarkej-intro-68|U |000000000|lclarkej|intro:cp ./usr/share/pixmaps/xbzf136INTRO-1.jpg users/lclarkej/topsecrlarkej@intro:/$ cp ./|
+
+INPUT|lclarkej-intro-69|M2 |000000000|lclarkej|intro:find -iname \"*intro*\"|!TRUNCATED TO 500L! find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+./var/log/ttylog/ttylog.intro.0
+./var/log/ttylog/alltty.intro
+./var/log/ttylog/cli.intro.csv
+find: './var/log/unattended-upgrades': Permission denied
+./var/log/136intro-3.jpg
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns
+INPUT|lclarkej-intro-70|A2 A0 A4 A3 A1 |000000000|lclarkej|intro:find -iname \"*intro*\"|
+INPUT|lclarkej-intro-71|M2 |000000000|lclarkej|intro:find -iname \"*intro**.j*"|!TRUNCATED TO 500L! find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+./var/log/136intro-3.jpg
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo
+INPUT|lclarkej-intro-72|U |1538357475|lclarkej|intro:cp ./var/log/136intro-3.jpg|cp: missing destination file operand after './var/log/136intro-3.jpg'
+Try 'cp --help' for more information.
+INPUT|lclarkej-intro-73|U |1538357490|lclarkej|intro:cp ./var/log/136intro-3.jpg users/lclarkej/topsecret|
+INPUT|lclarkej-intro-74|U |1538357519|lclarkej|intro:cp ./dev/136intro-2jjaj.JPEG users/lclarkej/topsecret|
+INPUT|lclarkej-intro-75|U |000000000|lclarkej|intro:cd users/lclarkej/topsecret|bash: cd: users/lclarkej/topsecret: Not a directory
+INPUT|lclarkej-intro-76|U |000000000|lclarkej|intro:cd /users/lclarkej/topsecret|bash: cd: /users/lclarkej/topsecret: Not a directory
+INPUT|lclarkej-intro-77|U |000000000|lclarkej|intro:cd users/lclarkej/|
+INPUT|lclarkej-intro-78|U |1538358085|lclarkej|intro:ls|topsecret  top_secret
+INPUT|lclarkej-intro-79|U |000000000|lclarkej|intro:cd top_secret/|
+INPUT|lclarkej-intro-80|U |1538358091|lclarkej|intro:ls|asdf136Intro-5kqlw.jpeg
+INPUT|lclarkej-intro-81|U |000000000|lclarkej|intro:cp ./dev/136intro-2jjaj.JPEG users/lclarkej/top_sec|ret
+cp: cannot stat './dev/136intro-2jjaj.JPEG': No such file or directory
+INPUT|lclarkej-intro-82|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-83|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-84|U |1538357674|lclarkej|intro:cp ./dev/136intro-2jjaj.JPEG users/lclarkej/top_secret|
+INPUT|lclarkej-intro-85|U |1538358108|lclarkej|intro:lscp ./dev/136intro-2jjaj.JPEG users/lclarkej/top_secret|cp: cannot stat './dev/136intro-2jjaj.JPEG': No such file or directory
+INPUT|lclarkej-intro-86|U |1538357686|lclarkej|intro:cp ./dev/136intro-2jjaj.JPEG users/lclarkej/top_secret|
+INPUT|lclarkej-intro-87|U |000000000|lclarkej|intro:cp ./dev/136intro-2jjaj.JPEG users/lclarkej/top_secret|
+INPUT|lclarkej-intro-88|U |1538358263|lclarkej|intro:lslscd [1Pusers/lclarkej/topsecret|
+INPUT|lclarkej-intro-89|U |000000000|lclarkej|intro:cp ./dev/136intro-2jjaj.JPEG users/lclarkej/topsecret|
+INPUT|lclarkej-intro-90|U |000000000|lclarkej|intro:cp ./var/log/136intro-3.jpg users/lclarkej/topsecret|
+INPUT|lclarkej-intro-91|U |000000000|lclarkej|intro:cp ./var/log/136intro-3.jpg users/lclarkej/top_ecret|cp: cannot stat './var/log/136intro-3.jpg': No such file or directory
+INPUT|lclarkej-intro-92|U |1538357712|lclarkej|intro:cp ./var/log/136intro-3.jpg users/lclarkej/top_secret|
+INPUT|lclarkej-intro-93|U |000000000|lclarkej|intro:cp ./dev/136intro-2jjaj.JPEG users/lclarkej/top_secret|
+INPUT|lclarkej-intro-94|U |000000000|lclarkej|intro:cp ./dev/136intro-2jjaj.JPEG users/lclarkej/top_secret|
+INPUT|lclarkej-intro-95|U |000000000|lclarkej|intro:cd users/lclarkej/topsecrett|
+INPUT|lclarkej-intro-96|U |000000000|lclarkej|intro:cp ./dev/136intro-2jjaj.JPEG users/lclarkej/topsecret|
+INPUT|lclarkej-intro-97|U |000000000|lclarkej|intro:cp ./var/log/136intro-3.jpg users/lclarkej/topsecret|
+INPUT|lclarkej-intro-98|A1 A3 A4 A0 A2 |000000000|lclarkej|intro:find -iname "*intro*.j*"|./lclarkej/top_secret/asdf136Intro-5kqlw.jpeg
+INPUT|lclarkej-intro-99|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-100|M2 |000000000|lclarkej|intro:find -iname "*intro*.j*"|!TRUNCATED TO 500L! find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+./var/log/136intro-3.jpg
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo
+INPUT|lclarkej-intro-101|U |1538357761|lclarkej|intro:cp ./dev/136intro-2jjaj.JPEG users/lclarkej/top_secret/|
+INPUT|lclarkej-intro-102|U |1538357793|lclarkej|intro:cp ./etc/wuer136intro-4.JPG users/lclarkej/top_secret/|
+INPUT|lclarkej-intro-103|U |1538357850|lclarkej|intro:cp ./var/log/136intro-3.jpg users/lclarkej/top_secret/|
+INPUT|lclarkej-intro-104|U |000000000|lclarkej|intro:cd /users/lclarkej/top_secret/|
+INPUT|lclarkej-intro-105|U |000000000|lclarkej|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkej-intro-106|U |000000000|lclarkej|intro:cd ..sers/lclarkej/top_secret/|
+INPUT|lclarkej-intro-107|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-108|A1 A4 A3 A0 A2 |000000000|lclarkej|intro:find -name \"*INTRO*\"|
+INPUT|lclarkej-intro-109|A4 A3 A1 A2 A0 |000000000|lclarkej|intro:find -name \"*INTRO*\"|
+INPUT|lclarkej-intro-110|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-111|A1 A4 A3 A0 A2 |000000000|lclarkej|intro:find -name "*INTRO*"|!TRUNCATED TO 500L! find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo': Permission denied
+find
+INPUT|lclarkej-intro-112|U |000000000|lclarkej|intro:cp ./usr/share//pixmaps/xbzf136INTRO-1.jpg users/lclarkej/top_|secret/
+INPUT|lclarkej-intro-113|U |000000000|lclarkej|intro:cd users/lclarkej|
+INPUT|lclarkej-intro-114|U |000000000|lclarkej|intro:ls|topsecret  top_secret
+INPUT|lclarkej-intro-115|U |1538358090|lclarkej|intro:rm topsecret|
+INPUT|lclarkej-intro-116|U |000000000|lclarkej|intro:ls|top_secret
+INPUT|lclarkej-intro-117|U |000000000|lclarkej|intro:cd top_secret/|
+INPUT|lclarkej-intro-118|U |000000000|lclarkej|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkej-intro-119|U |1538358220|lclarkej|intro:emacs answers.txt|%[?1049h[?12;25h[?1h=[H[2J[24d[K[?1l>[?12l[?25h[?1049l[39;49m
+[?1049h[?12;25h[?1h=[H[2J[23d[?25l[30m[47m-111:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) ---------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[24d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[24;9H[?25l/etc/emacs/site-start.d/50autoconf.el (source)...[H
+[?12l[?25h[?12;25h[24;58H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[24d[?25lLoading /etc/emacs/site-start.d/50autoconf.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                           [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-111:----F1  [39;49m[1m[30m[48;5;250m*scratch*   [0m[39;49m[30m[48;5;250m   All L1     (Lisp Interaction) ----------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[24d[?25lFor information about GNU Emacs and the GNU system%% type C-
+INPUT|lclarkej-intro-120|U |000000000|lclarkej|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkej-intro-121|U |000000000|lclarkej|intro:cp ./usr/share//pixmaps/xbzf136INTRO-1.jpg users/lcl|larkej/top_secret/<ESC>[Aop_secret$ <ESC>[31Pfind -name "*INTRO*"
+
+INPUT|lclarkej-intro-122|U |000000000|lclarkej|intro:cp ./usr/share//pixmaps/xbzf136INTRO-1.jpg users/lcl|larkej/top_secret/<ESC>[Aop_secret$ <ESC>[31Pfind -name "*INTRO*"
+
+INPUT|lclarkej-intro-123|U |000000000|lclarkej|intro:cp ./var/log/136intro-3.jpg users/lclarkej/top_secre|et/<ESC>[Aarkej@intro:~/top_secret$ cp ./etc/wuer136intro-4.JPG
+
+et/<ESC>[Aarkej@intro:~/top_secret$ cp ./dev/136intro-2jjaj.JPEG users/lclarkej/top_secr<ESC>[1@et/<ESC>[Arkej@intro:~/top_secret$ <ESC>[27Pfind -iname "*intro*.j*"
+
+INPUT|lclarkej-intro-124|U |000000000|lclarkej|intro:cp ./dev/136intro-2jjaj.JPEG users/lclarkej/top_secr|ret/<ESC>[Arkej@intro:~/top_secret$ cp ./etc/wuer136intro-4.JPG users/lclarkej/top_secre<ESC>[1Pt/<ESC>[Aarkej@intro:~/top_secret$ cp ./var/log/136intro-3.jpg
+
+et/<ESC>[Aarkej@intro:~/top_secret$ c<ESC>[21Pd /users/lclarkej/top_secret/
+
+INPUT|lclarkej-intro-125|U |000000000|lclarkej|intro:cp ./usr/share//pixmaps/xbzf136INTRO-1.jpg users/lcl|larkej/top_secret/<ESC>[Aop_secret$ cd users/lclarkej<ESC>[K
+
+INPUT|lclarkej-intro-126|A1 A4 A3 A0 A2 |000000000|lclarkej|intro:find \"-name \"xt|./asdf136Intro-5kqlw.jpeg
+INPUT|lclarkej-intro-127|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-128|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-129|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-130|A2 A0 A4 A3 A1 |000000000|lclarkej|intro:find -name "*.jpeg"|!TRUNCATED TO 500L! find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo': Permission denied
+find
+INPUT|lclarkej-intro-131|U |000000000|lclarkej|intro:cd users/lclarkej/top_secret/|
+INPUT|lclarkej-intro-132|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-133|U |1538358623|lclarkej|intro:scp top_secret/ lclarkej@users.deterlab.net|cp: omitting directory 'top_secret/'
+INPUT|lclarkej-intro-134|U |000000000|lclarkej|intro:scp top_secret/ lclarkej@users.deterlab.net|usage: scp [-12346BCpqrv] [-c cipher] [-F ssh_config] [-i identity_file]
+           [-l limit] [-o ssh_option] [-P port] [-S program]
+           [[user@]host1:]file1 ... [[user@]host2:]file2
+INPUT|lclarkej-intro-135|U |1538358667|lclarkej|intro:ssh lclarkej@users.deterlab.net|^Z
+[2]+  Stopped                 ssh lclarkej@users.deterlab.net
+INPUT|lclarkej-intro-136|U |000000000|lclarkej|intro:cd top_secret/|
+INPUT|lclarkej-intro-137|U |1538359807|lclarkej|intro:emacs answers.txt|%[?1049h[?12;25h[?1h=[H[2J[24d[K[?1l>[?12l[?25h[?1049l[39;49m
+[?1049h[?12;25h[?1h=[H[2J[23d[?25l[30m[47m-111:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) ---------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[24d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[24;9H[?25l/etc/emacs/site-start.d/50autoconf.el (source)...[H
+[?12l[?25h[?12;25h[24;58H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[24d[?25lLoading /etc/emacs/site-start.d/50autoconf.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                           [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-111:----F1  [39;49m[1m[30m[48;5;250m*scratch*   [0m[39;49m[30m[48;5;250m   All L1     (Lisp Interaction) ----------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[24d[?25lFor information about GNU Emacs and the GNU system%% type C-
+INPUT|lclarkej-intro-138|U |1538360219|lclarkej|intro:emacs answers.txt|%[?1049h[?12;25h[?1h=[H[2J[24d[K[?1l>[?12l[?25h[?1049l[39;49m
+[?1049h[?12;25h[?1h=[H[2J[23d[?25l[30m[47m-111:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) ---------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[24d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[24;9H[?25l/etc/emacs/site-start.d/50autoconf.el (source)...[H
+[?12l[?25h[?12;25h[24;58H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[24d[?25lLoading /etc/emacs/site-start.d/50autoconf.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                           [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-111:----F1  [39;49m[1m[30m[48;5;250m*scratch*   [0m[39;49m[30m[48;5;250m   All L1     (Lisp Interaction) ----------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[24d[?25lFor information about GNU Emacs and the GNU system%% type C-
+INPUT|lclarkej-intro-139|M6 |1538360264|lclarkej|intro:df|%Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 1003424         48    1003376   1%% /dev
+tmpfs                                                 204720      13672     191048   7%% /run
+/dev/sda1                                           15616412    2896852   11919612  20%% /
+tmpfs                                                1023600          0    1023600   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023600          0    1023600   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkej  2031313280 1318209664  550598528  71%% /users/lclarkej
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973285248 1763483008  36%% /proj/CS495LC
+tmpfs                                                 204720          0     204720  
+INPUT|lclarkej-intro-140|U |1538360337|lclarkej|intro:man df|%[?1049h[?1h=
+DF(1)                            User Commands                           DF(1)[m
+[m
+[1mNAME[0m[m
+       df - report file system disk space usage[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mdf[0m [[4mOPTION[24m]... [[4mFILE[24m]...[m
+[m
+[1mDESCRIPTION[0m[m
+       This  manual  page  documents  the  GNU version of [1mdf[0m.  [1mdf[0m displays the[m
+       amount of disk space available on the file system containing each  file[m
+       name  argument.   If  no file name is given%% the space available on all[m
+       currently mounted file systems is shown.  Disk space  is  shown  in  1K[m
+       blocks  by  default%% unless the environment variable POSIXLY_CORRECT is[m
+       set%% in which case 512-byte blocks are used.[m
+[m
+       If an argument is the absolute file name of a disk device node contain-[m
+       ing  a  mounted  file system%% [1mdf[0m shows the space available on that file[m
+       system rather than on the file s
+INPUT|lclarkej-intro-141|M6 |1538360372|lclarkej|intro:df -l|%Filesystem     1K-blocks    Used Available Use%% Mounted on
+udev             1003424      48   1003376   1%% /dev
+tmpfs             204720   13672    191048   7%% /run
+/dev/sda1       15616412 2897056  11919408  20%% /
+tmpfs            1023600       0   1023600   0%% /dev/shm
+tmpfs               5120       0      5120   0%% /run/lock
+tmpfs            1023600       0   1023600   0%% /sys/fs/cgroup
+tmpfs             204720       0    204720   0%% /run/user/17984%
+INPUT|lclarkej-intro-142|U |1538360461|lclarkej|intro:emacs diskfree.txt|%[?1049h[?12;25h[?1h=[H[2J[24d[K[?1l>[?12l[?25h[?1049l[39;49m
+[?1049h[?12;25h[?1h=[H[2J[23d[?25l[30m[47m-111:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) ---------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[24d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[24;9H[?25l/etc/emacs/site-start.d/50autoconf.el (source)...[H
+[?12l[?25h[?12;25h[24;58H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[24d[?25lLoading /etc/emacs/site-start.d/50autoconf.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                           [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-111:----F1  [39;49m[1m[30m[48;5;250m*scratch*   [0m[39;49m[30m[48;5;250m   All L1     (Lisp Interaction) ----------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[24d[?25lFor information about GNU Emacs and the GNU system%% type C-
+INPUT|lclarkej-intro-143|U |1538359800|lclarkej|intro:lshw -class disk|%WARNING: you should run this program as super-user.
+
+
+DMI
+
+   
+SMP
+
+   
+PA-RISC
+
+       
+device-tree
+
+           
+SPD
+
+   
+memory
+
+      
+/proc/cpuinfo
+
+             
+CPUID
+
+     
+PCI (sysfs)
+
+           
+ISA PnP
+
+       
+PCMCIA
+
+      
+PCMCIA
+
+      
+kernel device tree (sysfs)
+
+                          
+USB
+
+   
+IDE
+
+   
+SCSI
+
+    
+Network interfaces
+
+                  
+Framebuffer devices
+
+                   
+Display
+
+       
+CPUFreq
+
+       
+ABI
+
+   
+
+WARNING: output may be incomplete or inaccurate%% you should run this program as super-user.%
+INPUT|lclarkej-intro-144|U |000000000|lclarkej|intro:hwinfo --disk|The program 'hwinfo' is currently not installed. To run 'hwinfo' please ask your administrator to install the package 'hwinfo'
+INPUT|lclarkej-intro-145|U |1538360534|lclarkej|intro:lshw -class disk|%WARNING: you should run this program as super-user.
+
+
+DMI
+
+   
+SMP
+
+   
+PA-RISC
+
+       
+device-tree
+
+           
+SPD
+
+   
+memory
+
+      
+/proc/cpuinfo
+
+             
+CPUID
+
+     
+PCI (sysfs)
+
+           
+ISA PnP
+
+       
+PCMCIA
+
+      
+PCMCIA
+
+      
+kernel device tree (sysfs)
+
+                          
+USB
+
+   
+IDE
+
+   
+SCSI
+
+    
+Network interfaces
+
+                  
+Framebuffer devices
+
+                   
+Display
+
+       
+CPUFreq
+
+       
+ABI
+
+   
+
+WARNING: output may be incomplete or inaccurate%% you should run this program as super-user.%
+INPUT|lclarkej-intro-146|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-147|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-148|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-149|A5 |000000000|lclarkej|intro:find name \"*vendor_id*\"|find: 'name': No such file or directory
+find: '*vendor_id*': No such file or directory
+INPUT|lclarkej-intro-150|A5 |000000000|lclarkej|intro:find na-e \"*vendor_id*\"|!TRUNCATED TO 500L! find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo': Permission denied
+find
+INPUT|lclarkej-intro-151|A5 |000000000|lclarkej|intro:figrepname \"*vendor_id*\"|grep: invalid max count
+INPUT|lclarkej-intro-152|U |000000000|lclarkej|intro:grep -napattern ndor_id*\"|grep: invalid option -- 'p'
+Usage: grep [OPTION]... PATTERN [FILE]...
+Try 'grep --help' for more information.
+INPUT|lclarkej-intro-153|A5 |000000000|lclarkej|intro:grep -pattern \"*vendor_id*\"|^Z
+[1]+  Stopped                 grep \"*vendor_id*\"
+INPUT|lclarkej-intro-154|U |000000000|lclarkej|intro:cd users/lclarkej/top_secret/|
+INPUT|lclarkej-intro-155|U |1538360696|lclarkej|intro:ls|136intro-2jjaj.JPEG  answers.txt   asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+136intro-3.jpg      answers.txt~  diskfree.txt      xbzf136INTRO-1.jpg
+INPUT|lclarkej-intro-156|U |1538360706|lclarkej|intro:emacs answers.txt|%[?1049h[?12;25h[?1h=[H[2J[24d[K[?1l>[?12l[?25h[?1049l[39;49m
+[?1049h[?12;25h[?1h=[H[2J[23d[?25l[30m[47m-111:----F1  [39;49m[1m[30m[47m*scratch*   [0m[39;49m[30m[47m   All L1     (Fundamental) ---------------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[24d[?25lLoading 00debian-vars...done[K[H
+[?12l[?25h[?12;25h[24;9H[?25l/etc/emacs/site-start.d/50autoconf.el (source)...[H
+[?12l[?25h[?12;25h[24;58H[?25ldone[H
+[?12l[?25h[?12;25h[>0c[24d[?25lLoading /etc/emacs/site-start.d/50autoconf.el (source)...done[K[H[7mFile Edit Options Buffers Tools Lisp-Interaction Help                           [0m[39;49m[27m
+[A
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[30m[48;5;250m-111:----F1  [39;49m[1m[30m[48;5;250m*scratch*   [0m[39;49m[30m[48;5;250m   All L1     (Lisp Interaction) ----------------------[39;49m
+[A[2d[?12l[?25h[?12;25h[24d[?25lFor information about GNU Emacs and the GNU system%% type C-
+INPUT|lclarkej-intro-157|U |000000000|lclarkej|intro:cd ..|
+INPUT|lclarkej-intro-158|U |1538360826|lclarkej|intro:tar cvzf top_secret.tar.gz top_secret/|top_secret/
+top_secret/asdf136Intro-5kqlw.jpeg
+top_secret/136intro-2jjaj.JPEG
+top_secret/wuer136intro-4.JPG
+top_secret/136intro-3.jpg
+top_secret/xbzf136INTRO-1.jpg
+top_secret/answers.txt
+top_secret/diskfree.txt
+top_secret/answers.txt~
+INPUT|lclarkej-intro-159|U |1538360830|lclarkej|intro:ls|top_secret  top_secret.tar.gz
+INPUT|lclarkej-intro-160|U |000000000|lclarkej|intro:tar cvzf top_secret.tar.gz top_secret/|
+INPUT|lclarkej-intro-161|U |000000000|lclarkej|intro:cd users/lclarkej/top_secret/|
+INPUT|lclarkej-intro-162|A5 |000000000|lclarkej|intro:grep -name "*vendor_id*"d*"|
+INPUT|lclarkej-intro-163|A5 |000000000|lclarkej|intro:find -nname "*vendor_id*""|
+INPUT|lclarkej-intro-164|U |000000000|lclarkej|intro:scp top_secret/ local|
+INPUT|lclarkej-intro-165|U |000000000|lclarkej|intro:scp top_secret/ local|
+INPUT|lclarkej-intro-166|U |000000000|lclarkej|intro:display 136intro-2jjaj.JPEG|
+INPUT|lclarkej-intro-167|U |000000000|lclarkej|intro:scp top_secret/ student@maclabcs3|
+INPUT|lclarkej-intro-168|U |000000000|lclarkej|intro:ssh lclarkej@users.deterlab.net|
+INPUT|lclarkej-intro-169|U |000000000|lclarkej|intro:scp top_secret/ lclarkej@users.deterlab.net|
+INPUT|lclarkej-intro-170|U |000000000|lclarkej|intro:cd users/lclarkej/top_secret/|
+INPUT|lclarkej-intro-171|U |000000000|lclarkej|intro:cd users/lclarkej/top_secret/|
+INPUT|lclarkej-intro-172|U |000000000|lclarkej|intro:scp top_secret.tar.gzkej@users.deterlab.net|
+INPUT|lclarkej-intro-173|U |1538360907|lclarkej|intro:ssh lclark.ej@users.deterlab.net|^Z
+[2]+  Stopped                 ssh lclark.ej@users.deterlab.net

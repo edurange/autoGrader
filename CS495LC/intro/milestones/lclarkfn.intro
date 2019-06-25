@@ -1,0 +1,1098 @@
+User lclarkfn start time 1537919620 end 1537926953
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkfn-intro-0|U |000000000|lclarkfn|:|
+INPUT|lclarkfn-intro-1|U |000000000|lclarkfn|intro:cd top_secret/|
+INPUT|lclarkfn-intro-2|U |000000000|lclarkfn|:|
+INPUT|lclarkfn-intro-3|U |1537919620|lclarkfn|intro:ls|136intro-2jjaj.JPEG  answers.txt
+INPUT|lclarkfn-intro-4|U |1537919631|lclarkfn|intro:clear|
+INPUT|lclarkfn-intro-5|U |000000000|lclarkfn|intro:cd .|
+INPUT|lclarkfn-intro-6|U |000000000|lclarkfn|intro:cd ..|
+INPUT|lclarkfn-intro-7|U |000000000|lclarkfn|intro:cd ..|
+INPUT|lclarkfn-intro-8|U |1537919627|lclarkfn|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfn  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfn-intro-9|U |000000000|lclarkfn|intro:cd sunshine/|
+INPUT|lclarkfn-intro-10|U |1537919656|lclarkfn|intro:ls|
+INPUT|lclarkfn-intro-11|U |1537919671|lclarkfn|intro:ls -la|total 8
+drwxrwx---  2 root root 4096 Jul 20  2017 .
+drwxr-xr-x 61 root root 4096 Sep 25 16:49 ..
+INPUT|lclarkfn-intro-12|U |1537919675|lclarkfn|intro:clear|
+INPUT|lclarkfn-intro-13|U |000000000|lclarkfn|intro:cd ..|
+INPUT|lclarkfn-intro-14|U |1537919678|lclarkfn|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfn  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfn-intro-15|A0 A2 A1 A3 A4 |000000000|lclarkfn|intro:find ./ *i*n*t*r*o*.JPEG 2> /dev/null|./
+./shareav
+./shareao
+./sharebc
+./shareak
+./sharebd
+./shareaw
+./bloznali
+./shareag
+./melkins
+./jross
+./shareaf
+./ekline
+./shareac
+./shareaa
+./shareah
+./faber
+./faber/.forward
+./shareai
+./shareab
+./sharebb
+./gerow
+./kls2
+./abhi
+./shareae
+./shaream
+./sharead
+./jjh
+./shareba
+./sklower
+./sklower/.forward
+./schwab
+./sharear
+./glawler
+./gbartlet
+./lclarkfn
+./lclarkfn/.login_conf
+./lclarkfn/.cshrc
+./lclarkfn/.login
+./lclarkfn/.mail_aliases
+./lclarkfn/.mailrc
+./lclarkfn/.profile
+./lclarkfn/.rhosts
+./lclarkfn/.shrc
+./lclarkfn/.ssl
+./lclarkfn/.ssl/emulab.pem
+./lclarkfn/.ssh
+./lclarkfn/.ssh/id_rsa
+./lclarkfn/.ssh/id_rsa.pub
+./lclarkfn/.ssh/known_hosts
+./lclarkfn/.ssh/id_emulab.pub
+./lclarkfn/.ssh/authorized_keys
+./lclarkfn/.ssh/external_keys
+./lclarkfn/.forward
+./lclarkfn/.bash_history
+./lclarkfn/.cache
+./lclarkfn/.cache/motd.lega
+INPUT|lclarkfn-intro-16|A1 A3 A4 A0 A2 |000000000|lclarkfn|intro:find ./ -name *r*o*.JPEG 2> /dev/null|./lclarkfn/top_secret/136intro-2jjaj.JPEG
+INPUT|lclarkfn-intro-17|A1 A3 A4 A0 A2 |000000000|lclarkfn|intro:find ./ -name *i*n*t*r*o*.JPEG 2> /dev/null|./lclarkfn/top_secret/136intro-2jjaj.JPEG
+INPUT|lclarkfn-intro-18|U |1537919812|lclarkfn|intro:clear|
+INPUT|lclarkfn-intro-19|A0 A2 A1 A3 A4 |1537919928|lclarkfn|intro:find . -name *i*n*t*r*o*.JPEG 2> /dev/null|./lclarkfn/top_secret/136intro-2jjaj.JPEG
+INPUT|lclarkfn-intro-20|U |1537919903|lclarkfn|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfn  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfn-intro-21|A4 A3 A1 A2 A0 |1537919976|lclarkfn|intro:find . -name *i*n*t*r*o*.JPE[1[1[1[1[1Pull|./lclarkfn/top_secret/136intro-2jjaj.JPEG
+INPUT|lclarkfn-intro-22|A2 A0 A4 A3 A1 |000000000|lclarkfn|intro:find . -name *i*n*t*r*o*.jpg/dev/null|
+INPUT|lclarkfn-intro-23|A0 A2 A1 A3 A4 |000000000|lclarkfn|intro:find . -name *i*n*t*r*o*.jpg 2> /dev/null|./lclarkfn/top_secret/136intro-2jjaj.JPEG
+INPUT|lclarkfn-intro-24|U |1537919998|lclarkfn|intro:ls -alR|.:
+total 244
+drwxr-xr-x 61 root     root 4096 Sep 25 16:49 .
+drwxr-xr-x 29 root     root 4096 Sep 25 16:49 ..
+drwxrwx---  2 root     root 4096 Jul 20  2017 abhi
+drwxrwx---  2 root     root 4096 Jul 20  2017 alefiya
+drwxrwx---  2 root     root 4096 Jul 20  2017 alwabel
+drwxrwx---  2 root     root 4096 Jul 20  2017 bks
+drwxrwx---  2 root     root 4096 Jul 20  2017 bloznali
+drwxrwx---  2 root     root 4096 Jul 20  2017 ekline
+drwxr-xr-x  2 root     root 4096 Jun  5 11:22 faber
+drwxrwx---  2 root     root 4096 Jul 20  2017 gbartlet
+drwxrwx---  2 root     root 4096 Jul 20  2017 gerow
+drwxrwx---  2 root     root 4096 Jul 20  2017 gknopf
+drwxrwx---  2 root     root 4096 Jul 20  2017 glawler
+drwxrwx---  2 root     root 4096 Jul 20  2017 jaipuria
+drwxrwx---  2 root     root 4096 Jul 20  2017 jboman
+drwxrwx---  2 root     root 4096 Jul 20  2017 jelena
+drwxrwx---  2 root     root 4096 Jul 20  2017 jgli
+drwxrwx---  2 root     root 4096 Jul 2
+INPUT|lclarkfn-intro-25|U |1537920024|lclarkfn|intro:ls -alR | less|[?1049h[?1h=
+.:
+total 244
+drwxr-xr-x 61 root     root 4096 Sep 25 16:49 .
+drwxr-xr-x 29 root     root 4096 Sep 25 16:49 ..
+drwxrwx---  2 root     root 4096 Jul 20  2017 abhi
+drwxrwx---  2 root     root 4096 Jul 20  2017 alefiya
+drwxrwx---  2 root     root 4096 Jul 20  2017 alwabel
+drwxrwx---  2 root     root 4096 Jul 20  2017 bks
+drwxrwx---  2 root     root 4096 Jul 20  2017 bloznali
+drwxrwx---  2 root     root 4096 Jul 20  2017 ekline
+drwxr-xr-x  2 root     root 4096 Jun  5 11:22 faber
+drwxrwx---  2 root     root 4096 Jul 20  2017 gbartlet
+drwxrwx---  2 root     root 4096 Jul 20  2017 gerow
+drwxrwx---  2 root     root 4096 Jul 20  2017 gknopf
+drwxrwx---  2 root     root 4096 Jul 20  2017 glawler
+drwxrwx---  2 root     root 4096 Jul 20  2017 jaipuria
+drwxrwx---  2 root     root 4096 Jul 20  2017 jboman
+drwxrwx---  2 root     root 4096 Jul 20  2017 jelena
+drwxrwx---  2 root     root 4096 Jul 20  2017 jgli
+drwxrwx---  2 root    
+INPUT|lclarkfn-intro-26|U |1537920098|lclarkfn|intro:clear|
+INPUT|lclarkfn-intro-27|A0 A2 A1 A4 A3 |000000000|lclarkfn|intro:find . -name *intro* 2> /dev/null|./lclarkfn/top_secret/136intro-2jjaj.JPEG
+INPUT|lclarkfn-intro-28|A2 A0 A4 A3 A1 |000000000|lclarkfn|intro:find . -name *Intro* 2> /dev/null|
+INPUT|lclarkfn-intro-29|A1 A3 A4 A0 A2 |000000000|lclarkfn|intro:find . -name *intr0* 2> /dev/null|
+INPUT|lclarkfn-intro-30|A4 A3 A1 A2 A0 |000000000|lclarkfn|intro:find . -name *intro* 2> /dev/null|
+INPUT|lclarkfn-intro-31|U |1537921259|lclarkfn|intro:cl[9Pls -alR | less|[?1049h[?1h=
+.:
+total 244
+drwxr-xr-x 61 root     root 4096 Sep 25 16:49 .
+drwxr-xr-x 29 root     root 4096 Sep 25 16:49 ..
+drwxrwx---  2 root     root 4096 Jul 20  2017 abhi
+drwxrwx---  2 root     root 4096 Jul 20  2017 alefiya
+drwxrwx---  2 root     root 4096 Jul 20  2017 alwabel
+drwxrwx---  2 root     root 4096 Jul 20  2017 bks
+drwxrwx---  2 root     root 4096 Jul 20  2017 bloznali
+drwxrwx---  2 root     root 4096 Jul 20  2017 ekline
+drwxr-xr-x  2 root     root 4096 Jun  5 11:22 faber
+drwxrwx---  2 root     root 4096 Jul 20  2017 gbartlet
+drwxrwx---  2 root     root 4096 Jul 20  2017 gerow
+drwxrwx---  2 root     root 4096 Jul 20  2017 gknopf
+drwxrwx---  2 root     root 4096 Jul 20  2017 glawler
+drwxrwx---  2 root     root 4096 Jul 20  2017 jaipuria
+drwxrwx---  2 root     root 4096 Jul 20  2017 jboman
+drwxrwx---  2 root     root 4096 Jul 20  2017 jelena
+drwxrwx---  2 root     root 4096 Jul 20  2017 jgli
+drwxrwx---  2 root    
+INPUT|lclarkfn-intro-32|U |000000000|lclarkfn|intro:lr -r|lr: command not found
+INPUT|lclarkfn-intro-33|U |1537921304|lclarkfn|intro:ls -r|sunshine  shareba  shareat  shaream  shareaf  schwab jjh   gknopf    alwabel
+sklower   shareaz  shareas  shareal  shareae  rgoodfel jhickey   gerow     alefiya
+sharetb   shareay  sharear  shareak  sharead  piobair jgli   gbartlet  abhi
+shareta   shareax  shareaq  shareaj  shareac  melkins jelena   faber
+sharebd   shareaw  shareap  shareai  shareab  lclarkfn jboman   ekline
+sharebc   shareav  shareao  shareah  shareaa  kls2 jaipuria  bloznali
+sharebb   shareau  sharean  shareag  scuric   jross glawler   bks
+INPUT|lclarkfn-intro-34|M3 M2 |1537921324|lclarkfn|intro:find / 2>/dev/null|%/
+/sbin
+/sbin/blockdev
+/sbin/rarp
+/sbin/lvscan
+/sbin/installkernel
+/sbin/insmod
+/sbin/pam_tally2
+/sbin/iscsi_discovery
+/sbin/kbdrate
+/sbin/shadowconfig
+/sbin/cfdisk
+/sbin/e2undo
+/sbin/pam_extrausers_chkpwd
+/sbin/capsh
+/sbin/fsck.cramfs
+/sbin/mii-tool
+/sbin/mkfs.ext4
+/sbin/vconfig
+/sbin/mkfs.ntfs
+/sbin/mdadm
+/sbin/veritysetup
+/sbin/iscsi-iname
+/sbin/request-key
+/sbin/mkfs.msdos
+/sbin/sfdisk
+/sbin/ntfslabel
+/sbin/xfs_repair
+/sbin/fatlabel
+/sbin/fsck.fat
+/sbin/pvcreate
+/sbin/fsck.vfat
+/sbin/fsck
+/sbin/dumpe2fs
+/sbin/mount.ntfs-3g
+/sbin/pvremove
+/sbin/tipc
+/sbin/mkfs.xfs
+/sbin/depmod
+/sbin/vgcfgbackup
+/sbin/cryptsetup-reencrypt
+/sbin/lvmchange
+/sbin/findfs
+/sbin/lvremove
+/sbin/dosfsck
+/sbin/mkfs.cramfs
+/sbin/lsmod
+/sbin/fsck.ext4dev
+/sbin/mount.fuse
+/sbin/vgchange
+/sbin/ntfsresize
+/sbin/vgdisplay
+/sbin/ifdown
+/sbin/iscsiadm
+/sbin
+INPUT|lclarkfn-intro-35|M2 M0 |000000000|lclarkfn|intro:find / -name *.jpg|/var/log/136intro-3.jpg
+/usr/share/doc/libsane/umax/sane-umax-text2.jpg
+/usr/share/doc/libsane/umax/sane-umax-standard.jpg
+/usr/share/doc/libsane/umax/sane-umax-text.jpg
+/usr/share/doc/libsane/umax/sane-umax.jpg
+/usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+/usr/share/doc/libsane/umax/sane-umax-text4.jpg
+/usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+/usr/share/doc/libsane/umax/sane-logo.jpg
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|lclarkfn-intro-36|A2 A0 A4 A3 A1 |000000000|lclarkfn|intro:find / -name *.jpg  2>/dev/null | xargs cp -t|
+INPUT|lclarkfn-intro-37|A2 A0 A4 A3 A1 |000000000|lclarkfn|intro:find / -name *.jpg  2>/dev/null ||
+INPUT|lclarkfn-intro-38|U |000000000|lclarkfn|intro:pwd|/users
+INPUT|lclarkfn-intro-39|U |1537919673|lclarkfn|intro:ls -la|total 244
+drwxr-xr-x 61 root     root 4096 Sep 25 16:49 .
+drwxr-xr-x 29 root     root 4096 Sep 25 16:49 ..
+drwxrwx---  2 root     root 4096 Jul 20  2017 abhi
+drwxrwx---  2 root     root 4096 Jul 20  2017 alefiya
+drwxrwx---  2 root     root 4096 Jul 20  2017 alwabel
+drwxrwx---  2 root     root 4096 Jul 20  2017 bks
+drwxrwx---  2 root     root 4096 Jul 20  2017 bloznali
+drwxrwx---  2 root     root 4096 Jul 20  2017 ekline
+drwxr-xr-x  2 root     root 4096 Jun  5 11:22 faber
+drwxrwx---  2 root     root 4096 Jul 20  2017 gbartlet
+drwxrwx---  2 root     root 4096 Jul 20  2017 gerow
+drwxrwx---  2 root     root 4096 Jul 20  2017 gknopf
+drwxrwx---  2 root     root 4096 Jul 20  2017 glawler
+drwxrwx---  2 root     root 4096 Jul 20  2017 jaipuria
+drwxrwx---  2 root     root 4096 Jul 20  2017 jboman
+drwxrwx---  2 root     root 4096 Jul 20  2017 jelena
+drwxrwx---  2 root     root 4096 Jul 20  2017 jgli
+drwxrwx---  2 root     root 4096 Jul 20  201
+INPUT|lclarkfn-intro-40|U |000000000|lclarkfn|intro:cd lclarkfn/|
+INPUT|lclarkfn-intro-41|U |1537921739|lclarkfn|intro:ls|top_secret
+INPUT|lclarkfn-intro-42|U |000000000|lclarkfn|intro:cd top_secret/|
+INPUT|lclarkfn-intro-43|U |1537921744|lclarkfn|intro:ls|136intro-2jjaj.JPEG  answers.txt
+INPUT|lclarkfn-intro-44|U |000000000|lclarkfn|intro:cd ../..|
+INPUT|lclarkfn-intro-45|U |1537921749|lclarkfn|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfn  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfn-intro-46|A0 A2 A1 A3 A4 |1537921774|lclarkfn|intro:lsls[6P[3Pfind / -name *.jpg  2>/dev/null | cp -t /lclarkfn/top_secret|cp: failed to access '/lclarkfn/top_secret': No such file or directory
+INPUT|lclarkfn-intro-47|U |000000000|lclarkfn|intro:cd /lclarkfn|bash: cd: /lclarkfn: No such file or directory
+INPUT|lclarkfn-intro-48|U |1537921976|lclarkfn|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfn  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfn-intro-49|U |000000000|lclarkfn|intro:cd lclarkfn/top_secret|
+INPUT|lclarkfn-intro-50|U |000000000|lclarkfn|intro:cd ..|
+INPUT|lclarkfn-intro-51|U |000000000|lclarkfn|intro:cd ..|
+INPUT|lclarkfn-intro-52|U |000000000|lclarkfn|intro:cd lclarkfn/top_secret|
+INPUT|lclarkfn-intro-53|U |000000000|lclarkfn|intro:cd ..|
+INPUT|lclarkfn-intro-54|U |000000000|lclarkfn|intro:cd ..|
+INPUT|lclarkfn-intro-55|A4 A3 A1 A2 A0 |1537921855|lclarkfn|intro:cdlsfind / -name *.jpg  2>/dev/null | cp -t /lclarkfn/top_secret|cp: failed to access '/lclarkfn/top_secret': No such file or directory
+INPUT|lclarkfn-intro-56|M0 |1537923949|lclarkfn|intro:find / -name *.jpg  2>/dev/null | cp -[1[1P[1@x[1@a[1@r[1@g[1@s[1@ cp /lclarkfn/top_secr|et
+cp: target '/usr/share/pixmaps/xbzf136INTRO-1.jpg' is not a directory
+INPUT|lclarkfn-intro-57|U |1537921926|lclarkfn|intro:clear|
+INPUT|lclarkfn-intro-58|A0 A2 A1 A4 A3 |000000000|lclarkfn|intro:find / -name *.jpg  2>/dev/null | xargs cp /lclarkfn/top_secre|et<ESC>[Alarkfn@intro:/users$ find / -name *.jpg  2>/dev/null | <ESC>[1Pcp -t /lclarkfn/top_secret
+
+INPUT|lclarkfn-intro-59|A0 A2 A1 A4 A3 |000000000|lclarkfn|intro:find / -name *.jpg  2>/dev/null | cp -t /lclarkfn/top_secret|
+INPUT|lclarkfn-intro-60|A2 A0 A4 A3 A1 |000000000|lclarkfn|intro:find / -name *.jpg  2>/dev/null | xargs cp /lclarkfn/top_secre|et<ESC>[Alarkfn@intro:/users$ find / -name *.jpg  2>/dev/null | <ESC>[1Pcp -t /lclarkfn/top_secret
+
+INPUT|lclarkfn-intro-61|M2 M0 |000000000|lclarkfn|intro:find / -name *.jpg  2>/dev/null|/var/log/136intro-3.jpg
+/usr/share/doc/libsane/umax/sane-umax-text2.jpg
+/usr/share/doc/libsane/umax/sane-umax-standard.jpg
+/usr/share/doc/libsane/umax/sane-umax-text.jpg
+/usr/share/doc/libsane/umax/sane-umax.jpg
+/usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+/usr/share/doc/libsane/umax/sane-umax-text4.jpg
+/usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+/usr/share/doc/libsane/umax/sane-logo.jpg
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|lclarkfn-intro-62|A0 A2 A1 A3 A4 |000000000|lclarkfn|intro:find / -name *.jpg  2>/dev/null|
+INPUT|lclarkfn-intro-63|M0 |000000000|lclarkfn|intro:find / -name *.jpg  2>/dev/null | xargs cp /lclarkfn/top_secre|et
+cp: target '/usr/share/pixmaps/xbzf136INTRO-1.jpg' is not a directory
+INPUT|lclarkfn-intro-64|U |000000000|lclarkfn|intro:cd /lclarkfn/top_secret|bash: cd: /lclarkfn/top_secret: No such file or directory
+INPUT|lclarkfn-intro-65|U |1537921980|lclarkfn|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfn  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfn-intro-66|U |000000000|lclarkfn|intro:cd lclarkfn/top_secret/|
+INPUT|lclarkfn-intro-67|U |1537922013|lclarkfn|intro:ls|136intro-2jjaj.JPEG  answers.txt
+INPUT|lclarkfn-intro-68|U |000000000|lclarkfn|intro:cd ../..|
+INPUT|lclarkfn-intro-69|U |1537922020|lclarkfn|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfn  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfn-intro-70|U |1537921982|lclarkfn|intro:clear|
+INPUT|lclarkfn-intro-71|U |000000000|lclarkfn|intro:cd ls/..|bash: cd: ls: No such file or directory
+INPUT|lclarkfn-intro-72|U |1537922028|lclarkfn|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfn  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfn-intro-73|U |000000000|lclarkfn|intro:cd ..|
+INPUT|lclarkfn-intro-74|U |000000000|lclarkfn|intro:cd ..|
+INPUT|lclarkfn-intro-75|U |1537922037|lclarkfn|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfn-intro-76|U |000000000|lclarkfn|intro:cd us|bash: cd: us: No such file or directory
+INPUT|lclarkfn-intro-77|U |000000000|lclarkfn|intro:cd users/|
+INPUT|lclarkfn-intro-78|U |1537922049|lclarkfn|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfn  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfn-intro-79|U |000000000|lclarkfn|intro:cd ..|
+INPUT|lclarkfn-intro-80|U |000000000|lclarkfn|intro:cd usr/|
+INPUT|lclarkfn-intro-81|U |1537922058|lclarkfn|intro:ls|bin  games  include  lib  local  sbin  share  src  testbed
+INPUT|lclarkfn-intro-82|U |000000000|lclarkfn|intro:cd share/doc/|
+INPUT|lclarkfn-intro-83|U |1537922476|lclarkfn|intro:ls|accountsservice     libmodule-build-perl
+acl      libmodule-cpanfile-perl
+acpid      libmodule-implementation-perl
+adduser      libmodule-metadata-perl
+adwaita-icon-theme    libmodule-runtime-perl
+ansible      libmodule-signature-perl
+apparmor     libmoo-perl
+apport      libmoox-handlesvia-perl
+apport-symptoms     libmount1
+apt      libmpc3
+apt-transport-https    libmpdec2
+apt-utils     libmpfr4
+at      libmpx0
+at-spi2-core     libmro-compat-perl
+augeas-lenses     libmspack0
+augeas-tools     libmultidimensional-perl
+autoconf     libnamespace-autoclean-perl
+automake     libnamespace-clean-perl
+autotools-dev     libncurses5
+base-files     libncursesw5
+base-passwd     libnetfilter-conntrack3
+bash      libnettle6<NL
+INPUT|lclarkfn-intro-84|U |000000000|lclarkfn|intro:cd libsane/|
+INPUT|lclarkfn-intro-85|U |1537922481|lclarkfn|intro:ls|AUTHORS.gz  leo  niash    sane.ps.gz
+backend-writing.txt.gz matsushita plustek    sceptre
+canon   mustek  PROBLEMS   supported.html
+changelog.Debian.gz mustek_usb PROJECTS   teco
+copyright  mustek_usb2 README.Debian.gz  TROUBLESHOOTING.Debian
+gt68xx   NEWS.Debian.gz README.gz   u12
+html   NEWS.gz  README.linux.gz   umax
+INPUT|lclarkfn-intro-86|U |1537921735|lclarkfn|intro:ls -la|total 428
+drwxr-xr-x  16 root root   4096 Jun  9  2017 .
+drwxr-xr-x 783 root root  32768 Aug 22 16:19 ..
+-rw-r--r--   1 root root   3846 Mar 30  2017 AUTHORS.gz
+-rw-r--r--   1 root root   8368 Mar 30  2017 backend-writing.txt.gz
+drwxr-xr-x   2 root root   4096 Jun  9  2017 canon
+-rw-r--r--   1 root root   2379 Mar 30  2017 changelog.Debian.gz
+-rw-r--r--   1 root root  54501 Oct 13  2014 copyright
+drwxr-xr-x   2 root root   4096 Jun  9  2017 gt68xx
+drwxr-xr-x   2 root root   4096 Jun  9  2017 html
+drwxr-xr-x   2 root root   4096 Jun  9  2017 leo
+drwxr-xr-x   2 root root   4096 Jun  9  2017 matsushita
+drwxr-xr-x   2 root root   4096 Mar 30  2017 mustek
+drwxr-xr-x   2 root root   4096 Jun  9  2017 mustek_usb
+drwxr-xr-x   2 root root   4096 Jun  9  2017 mustek_usb2
+-rw-r--r--   1 root root    471 Apr 30  2015 NEWS.Debian.gz
+-rw-r--r--   1 root root  16275 Mar 30  2017 NEWS.gz
+drwxr-xr-x   2 root root   4096 Jun  9  2017 niash
+drwxr-xr-x
+INPUT|lclarkfn-intro-87|U |000000000|lclarkfn|intro:cd /umax/|bash: cd: /umax/: No such file or directory
+INPUT|lclarkfn-intro-88|U |000000000|lclarkfn|intro:clearare/doc/|
+INPUT|lclarkfn-intro-89|U |1537922062|lclarkfn|intro:ls -la|total 428
+drwxr-xr-x  16 root root   4096 Jun  9  2017 .
+drwxr-xr-x 783 root root  32768 Aug 22 16:19 ..
+-rw-r--r--   1 root root   3846 Mar 30  2017 AUTHORS.gz
+-rw-r--r--   1 root root   8368 Mar 30  2017 backend-writing.txt.gz
+drwxr-xr-x   2 root root   4096 Jun  9  2017 canon
+-rw-r--r--   1 root root   2379 Mar 30  2017 changelog.Debian.gz
+-rw-r--r--   1 root root  54501 Oct 13  2014 copyright
+drwxr-xr-x   2 root root   4096 Jun  9  2017 gt68xx
+drwxr-xr-x   2 root root   4096 Jun  9  2017 html
+drwxr-xr-x   2 root root   4096 Jun  9  2017 leo
+drwxr-xr-x   2 root root   4096 Jun  9  2017 matsushita
+drwxr-xr-x   2 root root   4096 Mar 30  2017 mustek
+drwxr-xr-x   2 root root   4096 Jun  9  2017 mustek_usb
+drwxr-xr-x   2 root root   4096 Jun  9  2017 mustek_usb2
+-rw-r--r--   1 root root    471 Apr 30  2015 NEWS.Debian.gz
+-rw-r--r--   1 root root  16275 Mar 30  2017 NEWS.gz
+drwxr-xr-x   2 root root   4096 Jun  9  2017 niash
+drwxr-xr-x
+INPUT|lclarkfn-intro-90|U |000000000|lclarkfn|intro:cd umax/|
+INPUT|lclarkfn-intro-91|U |1537922106|lclarkfn|intro:ls -la|total 244
+drwxr-xr-x  2 root root  4096 Jun  9  2017 .
+drwxr-xr-x 16 root root  4096 Jun  9  2017 ..
+-rw-r--r--  1 root root   613 Mar 30  2017 negative-types.txt
+-rw-r--r--  1 root root  6908 Mar 30  2017 sane-logo.jpg
+-rw-r--r--  1 root root 16348 Mar 30  2017 sane-umax-advanced.jpg
+-rw-r--r--  1 root root  3996 Mar 30  2017 sane-umax-advanced-options-doc.html
+-rw-r--r--  1 root root  8239 Mar 30  2017 sane-umax-astra-doc.html
+-rw-r--r--  1 root root 11825 Mar 30  2017 sane-umax-config-doc.html
+-rw-r--r--  1 root root  2225 Mar 30  2017 sane-umax-doc.html
+-rw-r--r--  1 root root 26069 Mar 30  2017 sane-umax-histogram.jpg
+-rw-r--r--  1 root root 24206 Mar 30  2017 sane-umax.jpg
+-rw-r--r--  1 root root  4733 Mar 30  2017 sane-umax-mirage-doc.html
+-rw-r--r--  1 root root  3002 Mar 30  2017 sane-umax-not-listed-doc.html
+-rw-r--r--  1 root root  4263 Mar 30  2017 sane-umax-others-doc.html
+-rw-r--r--  1 root root  2660 Mar 30  2017 sane-umax-par
+INPUT|lclarkfn-intro-92|U |1537922117|lclarkfn|intro:cat negative-types.txt|%
+Negative ---- highlight ---- ------ shadow ------
+Type  red green blue red green blue
+---------------------------------------------------------------
+standard 66%% 33%% 16%% 7%% 1%% 0%%
+---------------------------------------------------------------
+fuji  64%% 33%% 16%% 7%% 1%% 0%%
+---------------------------------------------------------------
+kodak  54%% 18%% 12%% 9%% 2%% 0%%
+---------------------------------------------------------------
+konica  38%% 21%% 14%% 3%% 0%% 0%%
+---------------------------------------------------------------
+agfa  61%% 24%% 13%% 6%% 2%% 0%%
+---------------------------------------------------------------
+%
+INPUT|lclarkfn-intro-93|U |1537922257|lclarkfn|intro:file sane-logo.jpg|%sane-logo.jpg: JPEG image data%% JFIF standard 1.01%% aspect ratio%% density 1x1%% segment length 16%% comment: \"Made with GIMP\"%% baseline%% precision 8%% 128x150%% frames 3%
+INPUT|lclarkfn-intro-94|U |000000000|lclarkfn|intro:cp sane-logo.jpg ../../../../../../../us|ers/lclarkfn/top_secret
+INPUT|lclarkfn-intro-95|U |000000000|lclarkfn|intro:cd ../../../..|
+INPUT|lclarkfn-intro-96|U |1537922554|lclarkfn|intro:ls|bin  games  include  lib  local  sbin  share  src  testbed
+INPUT|lclarkfn-intro-97|U |000000000|lclarkfn|intro:cd ../..|
+INPUT|lclarkfn-intro-98|U |000000000|lclarkfn|intro:pwd|/
+INPUT|lclarkfn-intro-99|U |1537925392|lclarkfn|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfn-intro-100|U |1537922104|lclarkfn|intro:clear|
+INPUT|lclarkfn-intro-101|U |000000000|lclarkfn|intro:cp sane-logo.jpg ../../../../../../../users/lclarkfn/top_secret|
+INPUT|lclarkfn-intro-102|U |000000000|lclarkfn|intro:cat negative-types.txt|
+INPUT|lclarkfn-intro-103|U |1537925502|lclarkfn|intro:ls[2P[1P[3Plslslscd [3Pcd[3P[3P[3@[3Plscd lclarkfn/top_secret/|
+INPUT|lclarkfn-intro-104|U |1537925504|lclarkfn|intro:lscd /lclarkfn/top_secret|
+INPUT|lclarkfn-intro-105|M2 M0 |000000000|lclarkfn|intro:find / -name *.jpg  2>/dev/null | xargs cp /lclarkfn/top_secret|/var/log/136intro-3.jpg
+/users/lclarkfn/top_secret/sane-logo.jpg
+/usr/share/doc/libsane/umax/sane-umax-text2.jpg
+/usr/share/doc/libsane/umax/sane-umax-standard.jpg
+/usr/share/doc/libsane/umax/sane-umax-text.jpg
+/usr/share/doc/libsane/umax/sane-umax.jpg
+/usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+/usr/share/doc/libsane/umax/sane-umax-text4.jpg
+/usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+/usr/share/doc/libsane/umax/sane-logo.jpg
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|lclarkfn-intro-106|U |1537922539|lclarkfn|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg|cp: missing destination file operand after '/usr/share/pixmaps/xbzf136INTRO-1.jpg'
+Try 'cp --help' for more information.
+INPUT|lclarkfn-intro-107|U |1537922547|lclarkfn|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg /top_secret|cp: cannot create regular file '/top_secret': Permission denied
+INPUT|lclarkfn-intro-108|U |1537922552|lclarkfn|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg /top_secret/|cp: cannot create regular file '/top_secret/': Not a directory
+INPUT|lclarkfn-intro-109|U |1537925507|lclarkfn|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfn-intro-110|U |000000000|lclarkfn|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg /users/lclark/top_secret/ clarkfn@intro:/$ cp /usr/share/pixmaps/xbzf136INTRO-1.jpg /users/lclarke/top_secret/|/<ESC>[Aclarkfn@intro:/$ cp /usr/share/pixmaps/xbzf136INTRO-1.jpg /users/lclarke<BS>/top_secret/ 
+INPUT|lclarkfn-intro-111|U |000000000|lclarkfn|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg /users/lclarkf/top_secret/|/<ESC>[Aclarkfn@intro:/$ cp /usr/share/pixmaps/xbzf136INTRO-1.jpg /users/lclarkfn/top_secret/<ESC>[Alarkfn@intro:/$ cp /usr/share/pixmaps/xbzf136INTRO-1.jpg /users/lclarkfn//top_secret/<ESC>[Aarkfn@intro:/$ cp /usr/share/pixmaps/xbzf136INTRO-1.jpg /users/lclarkfn/top_secret<ESC>[1P/<ESC>[Alarkfn@intro:/$ cp /usr/share/pixmaps/xbzf136INTRO-1.jpg /users/lclarkfn
+
+
+INPUT|lclarkfn-intro-112|U |000000000|lclarkfn|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg /users/lclarkfn/top_secret|t/<ESC>[Alarkfn@intro:/$ ls<ESC>[K
+
+INPUT|lclarkfn-intro-113|U |000000000|lclarkfn|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg /top_secret/|
+INPUT|lclarkfn-intro-114|A1 A3 A4 A0 A2 |000000000|lclarkfn|intro:find / -name *.jpg  2>/dev/null|
+INPUT|lclarkfn-intro-115|M4 |000000000|lclarkfn|intro:find / -name *.jpe  2>/dev/null|/.hidden/asdf136Intro-5kqlw.jpeg
+INPUT|lclarkfn-intro-116|U |1537922655|lclarkfn|intro:cp .hidden/asdf136Intro-5kqlw.jpeg /users/lclarkfn/top_secret/|
+INPUT|lclarkfn-intro-117|U |000000000|lclarkfn|intro:cp .hidden/asdf136Intro-5kqlw.jpeg /users/lclarkfn/top_secret/|
+INPUT|lclarkfn-intro-118|M3 |000000000|lclarkfn|intro:find / -name *.JPGg  2>/dev/null|/etc/wuer136intro-4.JPG
+INPUT|lclarkfn-intro-119|U |1537922723|lclarkfn|intro:cp /etc/wuer136intro-4.JPG /users/lclarkfn/top_secret/|
+INPUT|lclarkfn-intro-120|U |000000000|lclarkfn|intro:cp /etc/wuer136intro-4.JPG /users/lclarkfn/top_secret/|
+INPUT|lclarkfn-intro-121|A4 A3 A1 A2 A0 |000000000|lclarkfn|intro:find / -name *.JPE  2>/dev/null|
+INPUT|lclarkfn-intro-122|A0 A2 A1 A4 A3 |000000000|lclarkfn|intro:find / -name *.jif  2>/dev/null|
+INPUT|lclarkfn-intro-123|A4 A3 A1 A2 A0 |000000000|lclarkfn|intro:find / -name *.jpe  2>/dev/null|
+INPUT|lclarkfn-intro-124|M4 |000000000|lclarkfn|intro:find / -name *Intro*2>/dev/null|/users/lclarkfn/top_secret/asdf136Intro-5kqlw.jpeg
+/proj/CS495LC/exp/Adrian-Intro
+/proj/CS495LC/exp/Adrian-Intro/tbdata/Adrian-Intro.png
+/proj/CS495LC/exp/Adrian-Intro/tbdata/Adrian-Intro.ns
+/proj/CS495LC/exp/Intro-csfirewall
+/proj/CS495LC/exp/Intro-csfirewall/tbdata/Intro-csfirewall.png
+/proj/CS495LC/exp/Intro-csfirewall/tbdata/Intro-csfirewall.ns
+/proj/CS495LC/exp/IntroExperiment
+/proj/CS495LC/exp/IntroExperiment/tbdata/IntroExperiment.ns
+/proj/CS495LC/exp/IntroExperiment/tbdata/IntroExperiment.png
+/proj/CS495LC/exp/lclarkfg-Intro21
+/proj/CS495LC/exp/lclarkfg-Intro21/tbdata/lclarkfg-Intro21.ns
+/proj/CS495LC/exp/lclarkfg-Intro21/tbdata/lclarkfg-Intro21.png
+/proj/CS495LC/exp/lclarkfm-Intro21
+/proj/CS495LC/exp/lclarkfm-Intro21/tbdata/lclarkfm-Intro21.ns
+/proj/CS495LC/exp/lclarkfm-Intro21/tbdata/lclarkfm-Intro21.png
+/proj/CS495LC/exp/lclarkeu-Intro21
+/proj/CS495LC/exp/lclarkeu-Intro21/tbdata/lclarkeu-Intro21.ns
+/proj/CS495LC/exp/lclar
+INPUT|lclarkfn-intro-125|A2 A0 A4 A3 A1 |000000000|lclarkfn|intro:find / -name *iNtro*  2>/dev/null|
+INPUT|lclarkfn-intro-126|U |000000000|lclarkfn|intro:^C|
+INPUT|lclarkfn-intro-127|A4 A3 A1 A2 A0 |000000000|lclarkfn|intro:find / -name *.JPE  2>/dev/nullll|
+INPUT|lclarkfn-intro-128|U |000000000|lclarkfn|intro:cp /etc/wuer136intro-4.JPG /users/lclarkfn/top_secret/|
+INPUT|lclarkfn-intro-129|A0 A2 A1 A3 A4 |000000000|lclarkfn|intro:find / -name *.JPE  2>/dev/null|
+INPUT|lclarkfn-intro-130|U |000000000|lclarkfn|intro:cp /etc/wuer136intro-4.JPG /users/lclarkfn/top_secret/|
+INPUT|lclarkfn-intro-131|A4 A3 A1 A2 A0 |000000000|lclarkfn|intro:find / -name *.JPG  2>/dev/null|
+INPUT|lclarkfn-intro-132|U |000000000|lclarkfn|intro:cp .hidden/asdf136Intro-5kqlw.jpeg /users/lclarkfn/top_secret/|
+INPUT|lclarkfn-intro-133|A2 A0 A4 A3 A1 |000000000|lclarkfn|intro:find / -name *.jpeg  2>/dev/null|
+INPUT|lclarkfn-intro-134|U |000000000|lclarkfn|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg /users/lclarkfn/top_secret|
+INPUT|lclarkfn-intro-135|U |000000000|lclarkfn|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg /users/lclarkfn/top_secre|
+INPUT|lclarkfn-intro-136|U |000000000|lclarkfn|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg /users/lclarkfn/top_secr|
+INPUT|lclarkfn-intro-137|M2 M1 |1537923283|lclarkfn|intro:find / -name 136intro* 2>dev/null|/var/log/136intro-3.jpg
+/users/lclarkfn/top_secret/136intro-2jjaj.JPEG
+/dev/136intro-2jjaj.JPEG
+INPUT|lclarkfn-intro-138|A2 A0 A4 A3 A1 |000000000|lclarkfn|intro:find / -regextype sed -regex \".*/[iI][nN][tT][rR][oO]*\" 2>dev/null|
+INPUT|lclarkfn-intro-139|A1 A3 A4 A0 A2 |000000000|lclarkfn|intro:find / -regextype sed -regex ".*/[iI][nN][tT][rR][oO]*" 2>dev/null|/proj/CS495LC/exp/intro
+/proj/CS495LC/intro
+INPUT|lclarkfn-intro-140|A0 A2 A1 A3 A4 |000000000|lclarkfn|intro:find / -regextype sed -regex ".*/[iI][nN][tT][rR][oO]\*" 2>dev/null|
+INPUT|lclarkfn-intro-141|A2 A0 A4 A3 A1 |000000000|lclarkfn|intro:find / -regextype sed -regex ".*/[iI][nN][tT][rR][oO]*" 2>dev/nulll|
+INPUT|lclarkfn-intro-142|A2 A0 A4 A3 A1 |000000000|lclarkfn|intro:find / -name *intrO*  2>/dev/null|
+INPUT|lclarkfn-intro-143|A1 A3 A4 A0 A2 |000000000|lclarkfn|intro:find / -name *intoo*.j2>/dev/null|
+INPUT|lclarkfn-intro-144|M4 M2 M0 |000000000|lclarkfn|intro:find / -name *.j* 2>/dev/null|/var/log/136intro-3.jpg
+/var/lib/ureadahead/users.jgli.pack
+/var/lib/snapd/state.json
+/users/lclarkfn/top_secret/sane-logo.jpg
+/users/lclarkfn/top_secret/xbzf136INTRO-1.jpg
+/users/lclarkfn/top_secret/asdf136Intro-5kqlw.jpeg
+/etc/alternatives/ex.ja.1.gz
+/etc/alternatives/view.ja.1.gz
+/etc/alternatives/vi.ja.1.gz
+/etc/alternatives/clojure.jar
+/etc/.java
+/etc/java-8-openjdk/psfont.properties.ja
+/.hidden/asdf136Intro-5kqlw.jpeg
+/usr/share/maven-repo/org/ow2/asm/asm-debug-all/4.x/asm-debug-all-4.x.jar
+/usr/share/maven-repo/org/ow2/asm/asm-debug-all/5.0.4/asm-debug-all-5.0.4.jar
+/usr/share/maven-repo/org/ow2/asm/asm-all/4.x/asm-all-4.x.jar
+/usr/share/maven-repo/org/ow2/asm/asm-all/5.0.4/asm-all-5.0.4.jar
+/usr/share/maven-repo/org/ow2/asm/asm-xml/4.x/asm-xml-4.x.jar
+/usr/share/maven-repo/org/ow2/asm/asm-xml/5.0.4/asm-xml-5.0.4.jar
+/usr/share/maven-repo/org/ow2/asm/asm-tree/4.x/asm-tree-4.x.jar
+/usr/share/maven-repo/org/ow2/asm/asm-tr
+INPUT|lclarkfn-intro-145|M2 |000000000|lclarkfn|intro:find / -name *i**  2>/dev/null|/var/log/136intro-3.jpg
+/etc/alternatives/view.ja.1.gz
+/etc/alternatives/vi.ja.1.gz
+/etc/java-8-openjdk/psfont.properties.ja
+/usr/share/maven-repo/org/ow2/asm/asm-util/4.x/asm-util-4.x.jar
+/usr/share/maven-repo/org/ow2/asm/asm-util/5.0.4/asm-util-5.0.4.jar
+/usr/share/maven-repo/org/ow2/asm/asm-analysis/4.x/asm-analysis-4.x.jar
+/usr/share/maven-repo/org/ow2/asm/asm-analysis/5.0.4/asm-analysis-5.0.4.jar
+/usr/share/maven-repo/org/clojure/tools.cli/0.2.4/tools.cli-0.2.4.jar
+/usr/share/maven-repo/org/clojure/tools.cli/debian/tools.cli-debian.jar
+/usr/share/maven-repo/org/clojure/tools.macro/debian/tools.macro-debian.jar
+/usr/share/maven-repo/org/clojure/tools.logging/0.2.3/tools.logging-0.2.3.jar
+/usr/share/maven-repo/org/clojure/tools.logging/debian/tools.logging-debian.jar
+/usr/share/maven-repo/org/codehaus/jsr166-mirror/jsr166y/debian/jsr166y-debian.jar
+/usr/share/maven-repo/org/codehaus/jsr166-mirror/extra166y/debian/extra166y-debian.jar
+/usr
+INPUT|lclarkfn-intro-146|A2 A0 A4 A3 A1 |000000000|lclarkfn|intro:find / -name *i*.jcler>/dev/null|clear
+^C
+INPUT|lclarkfn-intro-147|U |1537922482|lclarkfn|intro:clear|
+INPUT|lclarkfn-intro-148|A1 A4 A3 A0 A2 |000000000|lclarkfn|intro:find / -name *i*.jcler*  2>/dev/null|
+INPUT|lclarkfn-intro-149|A0 A2 A1 A3 A4 |000000000|lclarkfn|intro:find / -regex \".*/[iI][nN][tT][rR][oO]\*\" 2>dev/null|
+INPUT|lclarkfn-intro-150|A1 A4 A3 A0 A2 |000000000|lclarkfn|intro:find / -regex \".*/[iI][nN][tT][rR][oO]\*\" 2>dev/null|/proj/CS495LC/exp/intro
+/proj/CS495LC/intro
+INPUT|lclarkfn-intro-151|A0 A2 A1 A4 A3 |000000000|lclarkfn|intro:find / -regex \".*/[iI][nN][tT][rR][oO]*\*" 2>dev/null|
+INPUT|lclarkfn-intro-152|A0 A2 A1 A3 A4 |000000000|lclarkfn|intro:find / -name *inTro*er*  2>/dev/null|
+INPUT|lclarkfn-intro-153|A0 A2 A1 A3 A4 |000000000|lclarkfn|intro:find / -name *iNtro*  2>/dev/null|
+INPUT|lclarkfn-intro-154|M4 |000000000|lclarkfn|intro:find / -name *Intro*  2>/dev/null|/users/lclarkfn/top_secret/asdf136Intro-5kqlw.jpeg
+/proj/CS495LC/exp/Adrian-Intro
+/proj/CS495LC/exp/Adrian-Intro/tbdata/Adrian-Intro.png
+/proj/CS495LC/exp/Adrian-Intro/tbdata/Adrian-Intro.ns
+/proj/CS495LC/exp/Intro-csfirewall
+/proj/CS495LC/exp/Intro-csfirewall/tbdata/Intro-csfirewall.png
+/proj/CS495LC/exp/Intro-csfirewall/tbdata/Intro-csfirewall.ns
+/proj/CS495LC/exp/IntroExperiment
+/proj/CS495LC/exp/IntroExperiment/tbdata/IntroExperiment.ns
+/proj/CS495LC/exp/IntroExperiment/tbdata/IntroExperiment.png
+/proj/CS495LC/exp/lclarkfg-Intro21
+/proj/CS495LC/exp/lclarkfg-Intro21/tbdata/lclarkfg-Intro21.ns
+/proj/CS495LC/exp/lclarkfg-Intro21/tbdata/lclarkfg-Intro21.png
+/proj/CS495LC/exp/lclarkfm-Intro21
+/proj/CS495LC/exp/lclarkfm-Intro21/tbdata/lclarkfm-Intro21.ns
+/proj/CS495LC/exp/lclarkfm-Intro21/tbdata/lclarkfm-Intro21.png
+/proj/CS495LC/exp/lclarkeu-Intro21
+/proj/CS495LC/exp/lclarkeu-Intro21/tbdata/lclarkeu-Intro21.ns
+/proj/CS495LC/exp/lclar
+INPUT|lclarkfn-intro-155|U |1537924502|lclarkfn|intro:file /proj/CS495LC/exp/Adrian-Intro/tbdata/Adrian-Intro.png|%/proj/CS495LC/exp/Adrian-Intro/tbdata/Adrian-Intro.png: PNG image data%% 160 x 160%% 8-bit colormap%% non-interlaced%
+INPUT|lclarkfn-intro-156|U |000000000|lclarkfn|intro:file /proj/CS495LC/exp/Adrian-Intro/tbdata/Adrian-Intro.png|
+INPUT|lclarkfn-intro-157|A0 A2 A1 A3 A4 |000000000|lclarkfn|intro:find / -name *intrO*  2>/dev/null|
+INPUT|lclarkfn-intro-158|A1 A3 A4 A0 A2 |000000000|lclarkfn|intro:find / -name *intRo*  2>/dev/null|
+INPUT|lclarkfn-intro-159|A2 A0 A4 A3 A1 |000000000|lclarkfn|intro:find / -name *INtro*  2>/dev/null|
+INPUT|lclarkfn-intro-160|A1 A4 A3 A0 A2 |000000000|lclarkfn|intro:find / -name *InTro*  2>/dev/null|
+INPUT|lclarkfn-intro-161|A2 A0 A4 A3 A1 |000000000|lclarkfn|intro:find / -name *IntRo*  2>/dev/null|
+INPUT|lclarkfn-intro-162|A0 A2 A1 A4 A3 |000000000|lclarkfn|intro:find / -name *IntrO*  2>/dev/null|
+INPUT|lclarkfn-intro-163|A2 A0 A4 A3 A1 |000000000|lclarkfn|intro:find / -name *iNtrO*  2>/dev/null|
+INPUT|lclarkfn-intro-164|A4 A3 A1 A2 A0 |000000000|lclarkfn|intro:find / -name *iNtRo*  2>/dev/null|
+INPUT|lclarkfn-intro-165|A1 A4 A3 A0 A2 |000000000|lclarkfn|intro:find / -name *iNTro*  2>/dev/null|
+INPUT|lclarkfn-intro-166|A0 A2 A1 A3 A4 |000000000|lclarkfn|intro:find / -name *inTRo*  2>/dev/null|
+INPUT|lclarkfn-intro-167|A0 A2 A1 A4 A3 |000000000|lclarkfn|intro:find / -name *inTrO*  2>/dev/null|
+INPUT|lclarkfn-intro-168|A4 A3 A1 A2 A0 |000000000|lclarkfn|intro:find / -name *intRO*  2>/dev/null|
+INPUT|lclarkfn-intro-169|A4 A3 A1 A2 A0 |000000000|lclarkfn|intro:find / -name *InTrO*  2>/dev/null|
+INPUT|lclarkfn-intro-170|M4 M3 M2 M1 M0 |000000000|lclarkfn|intro:find / -regex \".*\.\(jpg\|JPG\|jpeg\|JPEG\)\" 2> dev/null|/var/log/136intro-3.jpg
+/users/lclarkfn/top_secret/136intro-2jjaj.JPEG
+/users/lclarkfn/top_secret/sane-logo.jpg
+/users/lclarkfn/top_secret/xbzf136INTRO-1.jpg
+/users/lclarkfn/top_secret/asdf136Intro-5kqlw.jpeg
+/users/lclarkfn/top_secret/wuer136intro-4.JPG
+/etc/wuer136intro-4.JPG
+/.hidden/asdf136Intro-5kqlw.jpeg
+/dev/136intro-2jjaj.JPEG
+/usr/share/doc/libsane/umax/sane-umax-text2.jpg
+/usr/share/doc/libsane/umax/sane-umax-standard.jpg
+/usr/share/doc/libsane/umax/sane-umax-text.jpg
+/usr/share/doc/libsane/umax/sane-umax.jpg
+/usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+/usr/share/doc/libsane/umax/sane-umax-text4.jpg
+/usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+/usr/share/doc/libsane/umax/sane-logo.jpg
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|lclarkfn-intro-171|M3 |000000000|lclarkfn|intro:find / -name *.JPG 2>dev/null|/users/lclarkfn/top_secret/wuer136intro-4.JPG
+/etc/wuer136intro-4.JPG
+INPUT|lclarkfn-intro-172|A1 A3 A4 A0 A2 |000000000|lclarkfn|intro:find / -regex ".*\.\(jpg\|JPG\|jpeg\|JPEG\)" 2> dev/null|
+INPUT|lclarkfn-intro-173|M2 |000000000|lclarkfn|intro:find / -name *ro-3*  dev/null|/var/log/136intro-3.jpg
+/lib/modules/4.4.0-79-generic/kernel/drivers/iio/gyro/hid-sensor-gyro-3d.ko
+/lib/modules/4.4.0-83-generic/kernel/drivers/iio/gyro/hid-sensor-gyro-3d.ko
+/usr/src/linux-headers-4.4.0-83/arch/mips/include/asm/asmmacro-32.h
+/usr/src/linux-headers-4.4.0-79/arch/mips/include/asm/asmmacro-32.h
+INPUT|lclarkfn-intro-174|U |1537925512|lclarkfn|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp    var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   users  vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   usr    vmlinuz.old
+INPUT|lclarkfn-intro-175|U |1537925404|lclarkfn|intro:cp /var/log/136intro-3.jpg users/lclarkfn/top_secret|
+INPUT|lclarkfn-intro-176|U |1537924315|lclarkfn|intro:clear|
+INPUT|lclarkfn-intro-177|U |1537925522|lclarkfn|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp    var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   users  vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   usr    vmlinuz.old
+INPUT|lclarkfn-intro-178|U |000000000|lclarkfn|intro:cd users/|
+INPUT|lclarkfn-intro-179|U |1537925569|lclarkfn|intro:ls|abhi   faber     jboman   kls2      scuric shareaf  shareal  sharear  shareax  sharebd
+alefiya   gbartlet  jelena   lclarkfn  shareaa shareag  shaream  shareas  shareay  shareta
+alwabel   gerow     jgli     melkins   shareab shareah  sharean  shareat  shareaz  sharetb
+bks   gknopf    jhickey  piobair   shareac shareai  shareao  shareau  shareba  sklower
+bloznali  glawler   jjh      rgoodfel  sharead shareaj  shareap  shareav  sharebb  sunshine
+ekline   jaipuria  jross    schwab    shareae shareak  shareaq  shareaw  sharebc
+INPUT|lclarkfn-intro-180|U |000000000|lclarkfn|intro:cd lclarkfn/|
+INPUT|lclarkfn-intro-181|U |1537925805|lclarkfn|intro:ls|top_secret
+INPUT|lclarkfn-intro-182|U |000000000|lclarkfn|intro:cd top_secret/|
+INPUT|lclarkfn-intro-183|U |1537925511|lclarkfn|intro:cat a|cat: a: No such file or directory
+INPUT|lclarkfn-intro-184|U |1537926634|lclarkfn|intro:ls|136intro-2jjaj.JPEG  answers.txt       sane-logo.jpg   xbzf136INTRO-1.jpg
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+INPUT|lclarkfn-intro-185|U |1537925520|lclarkfn|intro:rm sane-logo.jpg|
+INPUT|lclarkfn-intro-186|U |1537926829|lclarkfn|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkfn-intro-187|U |1537925501|lclarkfn|intro:clear|
+INPUT|lclarkfn-intro-188|U |1537922112|lclarkfn|intro:ls -la|total 256
+drwxr-xr-x 2 lclarkfn 31    512 Sep 25 18:32 .
+drwx------ 6 lclarkfn 31    512 Sep 21 21:12 ..
+-rw-r--r-- 1 lclarkfn 31  45909 Sep 21 20:55 136intro-2jjaj.JPEG
+-rw-r--r-- 1 lclarkfn 31 101182 Sep 25 18:30 136intro-3.jpg
+-rw-r--r-- 1 lclarkfn 31    125 Sep 21 20:59 answers.txt
+-rw-r--r-- 1 lclarkfn 31  24495 Sep 25 17:44 asdf136Intro-5kqlw.jpeg
+-rw-r--r-- 1 lclarkfn 31  48645 Sep 25 17:45 wuer136intro-4.JPG
+-rw-r--r-- 1 lclarkfn 31  23932 Sep 25 17:42 xbzf136INTRO-1.jpg
+INPUT|lclarkfn-intro-189|U |1537925546|lclarkfn|intro:cat answers.txt|
+I used the command
+
+find / -name *intro*.JPEG 2> /dev/null
+
+to get the image I did. I've only found the one of them so far.
+INPUT|lclarkfn-intro-190|U |1537925554|lclarkfn|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;45r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[45;1H"answers.txt" 6L%% 125C[>c[2;1HI used the command
+
+find / -name *intro*.JPEG 2> /dev/null
+
+to get the image I did. I've only found the one of them so far.
+[94m~                                                                                                      [8;1H~                                                                                                      [9;1H~                                                                                                      [10;1H~                                                                                                      [11;1H~                                                                                                      [12;1H~                                                                                                      [13;1H~                                                                                     
+INPUT|lclarkfn-intro-191|U |1537925568|lclarkfn|intro:rm answers.txt|
+INPUT|lclarkfn-intro-192|U |1537926909|lclarkfn|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkfn-intro-193|U |1537925577|lclarkfn|intro:touch answers.txt|
+INPUT|lclarkfn-intro-194|U |1537925582|lclarkfn|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;45r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[45;1H"answers.txt" 0L%% 0C[>c[2;1H[94m~                                                                                                      [3;1H~                                                                                                      [4;1H~                                                                                                      [5;1H~                                                                                                      [6;1H~                                                                                                      [7;1H~                                                                                                      [8;1H~                                                                                                      [9;1H~                                                                                                      [10;1H~             
+INPUT|lclarkfn-intro-195|A0 A2 A1 A3 A4 |1537926945|lclarkfn|intro:lsfind / -name 136intro* 2>dev/null|bash: dev/null: No such file or directory
+INPUT|lclarkfn-intro-196|A0 A2 A1 A3 A4 |000000000|lclarkfn|intro:find / -name 136intro* 2>/ev/null|
+INPUT|lclarkfn-intro-197|M1 |000000000|lclarkfn|intro:find / -name *aj.JPEG* 2>/dev/null|/users/lclarkfn/top_secret/136intro-2jjaj.JPEG
+/dev/136intro-2jjaj.JPEG
+INPUT|lclarkfn-intro-198|U |1537925523|lclarkfn|intro:clear|
+INPUT|lclarkfn-intro-199|U |1537926953|lclarkfn|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkfn-intro-200|U |1537925807|lclarkfn|intro:vim answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;45r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[45;1H"answers.txt" 0L%% 0C[>c[27m[23m[m[H[2J[2;1H[94m~                                                                                                      [3;1H~                                                                                                      [4;1H~                                                                                                      [5;1H~                                                                                                      [6;1H~                                                                                                      [7;1H~                                                                                                      [8;1H~                                                                                                      [9;1H~                                                                                                      [10;1
+INPUT|lclarkfn-intro-201|U |1537925911|lclarkfn|intro:vim answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;45r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[45;1H[97m[41mE325: ATTENTION[m
+
+Found a swap file by the name ".answers.txt.swp"
+
+[10Cowned by: lclarkfn   dated: Tue Sep 25 18:38:16 2018
+
+[9Cfile name: ~lclarkfn/top_secret/answers.txt
+
+[10Cmodified: YES
+
+[9Cuser name: lclarkfn   host name: intro.lclarkfn-intro21.cs495lc.isi.dete
+
+[8Cprocess ID: 2913 (still running)
+
+While opening file "answers.txt"
+
+[13Cdated: Tue Sep 25 18:32:57 2018
+
+
+(1) Another program may be editing the same file.  If this is the case%%
+
+    be careful not to end up with two different instances of the same
+
+    file when making changes.  Quit%% or continue with caution.
+
+(2) An edit session for this file crashed.
+
+    If this is the case%% use ":recover" or "vim -r answers.txt"
+
+    to recover the changes (see ":help recovery").
+
+    If you did this already%% delete the swap file ".answer
+INPUT|lclarkfn-intro-202|U |1537926046|lclarkfn|intro:vim answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;45r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[45;1H[97m[41mE325: ATTENTION[m
+
+Found a swap file by the name ".answers.txt.swp"
+
+[10Cowned by: lclarkfn   dated: Tue Sep 25 18:38:16 2018
+
+[9Cfile name: ~lclarkfn/top_secret/answers.txt
+
+[10Cmodified: YES
+
+[9Cuser name: lclarkfn   host name: intro.lclarkfn-intro21.cs495lc.isi.dete
+
+[8Cprocess ID: 2913 (still running)
+
+While opening file "answers.txt"
+
+[13Cdated: Tue Sep 25 18:40:44 2018
+
+      NEWER than swap file!
+
+
+(1) Another program may be editing the same file.  If this is the case%%
+
+    be careful not to end up with two different instances of the same
+
+    file when making changes.  Quit%% or continue with caution.
+
+(2) An edit session for this file crashed.
+
+    If this is the case%% use ":recover" or "vim -r answers.txt"
+
+    to recover the changes (see ":help recovery").
+
+    If you did this alre
+INPUT|lclarkfn-intro-203|U |1537926219|lclarkfn|intro:cat answers.txt|%Poster 1 - Forbidden Planet%% great choice
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+
+Poster 2 - Godzilla
+/dev/136intro-2jjaj.JPEG
+
+Poster 3 - It Came From Outer Space
+/var/log/136intro-3.jpg
+
+Poster 4 - The Fly
+/etc/wuer136intro-4.JPG
+
+Poster 5 - 2001: A Space Oddysey%% can't go wrong with Arthur C. Clarke's finest work
+/.hidden/asdf136Intro-5kqlw.jpeg
+
+
+%
+INPUT|lclarkfn-intro-204|U |1537926223|lclarkfn|intro:vim answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;45r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[45;1H[97m[41mE325: ATTENTION[m
+
+Found a swap file by the name ".answers.txt.swp"
+
+[10Cowned by: lclarkfn   dated: Tue Sep 25 18:38:16 2018
+
+[9Cfile name: ~lclarkfn/top_secret/answers.txt
+
+[10Cmodified: YES
+
+[9Cuser name: lclarkfn   host name: intro.lclarkfn-intro21.cs495lc.isi.dete
+
+[8Cprocess ID: 2913 (still running)
+
+While opening file "answers.txt"
+
+[13Cdated: Tue Sep 25 18:40:44 2018
+
+      NEWER than swap file!
+
+
+(1) Another program may be editing the same file.  If this is the case%%
+
+    be careful not to end up with two different instances of the same
+
+    file when making changes.  Quit%% or continue with caution.
+
+(2) An edit session for this file crashed.
+
+    If this is the case%% use ":recover" or "vim -r answers.txt"
+
+    to recover the changes (see ":help recovery").
+
+    If you did this alre
+INPUT|lclarkfn-intro-205|M6 |1537926373|lclarkfn|intro:df|%Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 1003696         48    1003648   1%% /dev
+tmpfs                                                 204776      13632     191144   7%% /run
+/dev/sda1                                           15616412    2901924   11914540  20%% /
+tmpfs                                                1023868          0    1023868   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023868          0    1023868   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973266688 1763501568  36%% /proj/CS495LC
+users.isi.deterlab.net:/mnt/other/users/lclarkfn  2031313280 1281247872  587560320  69%% /users/lclarkfn
+tmpfs                                                 204776          0     204776  
+INPUT|lclarkfn-intro-206|U |1537925804|lclarkfn|intro:clear|
+INPUT|lclarkfn-intro-207|U |1537926426|lclarkfn|intro:du|264 .
+INPUT|lclarkfn-intro-208|M6 |1537926429|lclarkfn|intro:df|%Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 1003696         48    1003648   1%% /dev
+tmpfs                                                 204776      13632     191144   7%% /run
+/dev/sda1                                           15616412    2901932   11914532  20%% /
+tmpfs                                                1023868          0    1023868   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023868          0    1023868   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973266688 1763501568  36%% /proj/CS495LC
+users.isi.deterlab.net:/mnt/other/users/lclarkfn  2031313280 1281250304  587557888  69%% /users/lclarkfn
+tmpfs                                                 204776          0     204776  
+INPUT|lclarkfn-intro-209|U |1537926409|lclarkfn|intro:clear|
+INPUT|lclarkfn-intro-210|U |1537925525|lclarkfn|intro:ls -la|total 268
+drwxr-xr-x 2 lclarkfn 31    512 Sep 25 18:45 .
+drwx------ 6 lclarkfn 31    512 Sep 25 18:45 ..
+-rw-r--r-- 1 lclarkfn 31  45909 Sep 21 20:55 136intro-2jjaj.JPEG
+-rw-r--r-- 1 lclarkfn 31 101182 Sep 25 18:30 136intro-3.jpg
+-rw-r--r-- 1 lclarkfn 31    353 Sep 25 18:40 answers.txt
+-rw-r--r-- 1 lclarkfn 31  12288 Sep 25 18:38 .answers.txt.swp
+-rw-r--r-- 1 lclarkfn 31  24495 Sep 25 17:44 asdf136Intro-5kqlw.jpeg
+-rw-r--r-- 1 lclarkfn 31  48645 Sep 25 17:45 wuer136intro-4.JPG
+-rw-r--r-- 1 lclarkfn 31  23932 Sep 25 17:42 xbzf136INTRO-1.jpg
+INPUT|lclarkfn-intro-211|A6 |1537926526|lclarkfn|intro:df > diskfree.txt|
+INPUT|lclarkfn-intro-212|U |1537926528|lclarkfn|intro:cat diskfree.txt|%Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 1003696         48    1003648   1%% /dev
+tmpfs                                                 204776      13632     191144   7%% /run
+/dev/sda1                                           15616412    2901936   11914528  20%% /
+tmpfs                                                1023868          0    1023868   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023868          0    1023868   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973266688 1763501568  36%% /proj/CS495LC
+users.isi.deterlab.net:/mnt/other/users/lclarkfn  2031313280 1281265024  587543168  69%% /users/lclarkfn
+tmpfs                                                 204776          0     204776  
+INPUT|lclarkfn-intro-213|U |1537926506|lclarkfn|intro:clear|
+INPUT|lclarkfn-intro-214|M5 |1537926566|lclarkfn|intro:lscpu|%Architecture:          x86_64
+CPU op-mode(s):        32-bit%% 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Thread(s) per core:    2
+Core(s) per socket:    1
+Socket(s):             2
+NUMA node(s):          1
+Vendor ID:             GenuineIntel
+CPU family:            15
+Model:                 4
+Model name:            Intel(R) Xeon(TM) CPU 3.00GHz
+Stepping:              1
+CPU MHz:               2992.615
+BogoMIPS:              5985.47
+L1d cache:             16K
+L2 cache:              1024K
+NUMA node0 CPU(s):     0-3
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc pebs bts nopl pni dtes64 monitor ds_cpl cid cx16 xtpr%
+INPUT|lclarkfn-intro-215|U |1537926530|lclarkfn|intro:clear|
+INPUT|lclarkfn-intro-216|A5 |1537926602|lclarkfn|intro:lscpu > cpu_info.txt|
+INPUT|lclarkfn-intro-217|U |1537926508|lclarkfn|intro:ls -la|total 276
+drwxr-xr-x 2 lclarkfn 31    512 Sep 25 18:50 .
+drwx------ 6 lclarkfn 31    512 Sep 25 18:45 ..
+-rw-r--r-- 1 lclarkfn 31  45909 Sep 21 20:55 136intro-2jjaj.JPEG
+-rw-r--r-- 1 lclarkfn 31 101182 Sep 25 18:30 136intro-3.jpg
+-rw-r--r-- 1 lclarkfn 31    353 Sep 25 18:40 answers.txt
+-rw-r--r-- 1 lclarkfn 31  12288 Sep 25 18:38 .answers.txt.swp
+-rw-r--r-- 1 lclarkfn 31  24495 Sep 25 17:44 asdf136Intro-5kqlw.jpeg
+-rw-r--r-- 1 lclarkfn 31    792 Sep 25 18:50 cpu_info.txt
+-rw-r--r-- 1 lclarkfn 31    983 Sep 25 18:48 diskfree.txt
+-rw-r--r-- 1 lclarkfn 31  48645 Sep 25 17:45 wuer136intro-4.JPG
+-rw-r--r-- 1 lclarkfn 31  23932 Sep 25 17:42 xbzf136INTRO-1.jpg
+INPUT|lclarkfn-intro-218|U |1537926615|lclarkfn|intro:rm answers.txt.swp|rm: cannot remove 'answers.txt.swp': No such file or directory
+INPUT|lclarkfn-intro-219|U |000000000|lclarkfn|intro:rm .nswers.txt.swp|
+INPUT|lclarkfn-intro-220|U |1537926594|lclarkfn|intro:clear|
+INPUT|lclarkfn-intro-221|U |1537926604|lclarkfn|intro:ls -la|total 276
+drwxr-xr-x 2 lclarkfn 31    512 Sep 25 18:50 .
+drwx------ 6 lclarkfn 31    512 Sep 25 18:45 ..
+-rw-r--r-- 1 lclarkfn 31  45909 Sep 21 20:55 136intro-2jjaj.JPEG
+-rw-r--r-- 1 lclarkfn 31 101182 Sep 25 18:30 136intro-3.jpg
+-rw-r--r-- 1 lclarkfn 31    353 Sep 25 18:40 answers.txt
+-rw-r--r-- 1 lclarkfn 31  24495 Sep 25 17:44 asdf136Intro-5kqlw.jpeg
+-rw-r--r-- 1 lclarkfn 31    792 Sep 25 18:50 cpu_info.txt
+-rw-r--r-- 1 lclarkfn 31    983 Sep 25 18:48 diskfree.txt
+-rw-r--r-- 1 lclarkfn 31  12288 Sep 25 18:38 .nfs000000000cd94f0800000001
+-rw-r--r-- 1 lclarkfn 31  48645 Sep 25 17:45 wuer136intro-4.JPG
+-rw-r--r-- 1 lclarkfn 31  23932 Sep 25 17:42 xbzf136INTRO-1.jpg
+INPUT|lclarkfn-intro-222|U |1537926631|lclarkfn|intro:rm .nfs000000000cd94f0800000001|rm: cannot remove '.nfs000000000cd94f0800000001': Device or resource busy
+INPUT|lclarkfn-intro-223|U |1537926623|lclarkfn|intro:clear|
+INPUT|lclarkfn-intro-224|U |000000000|lclarkfn|intro:ls|136intro-2jjaj.JPEG  answers.txt       cpu_info.txt  wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  diskfree.txt  xbzf136INTRO-1.jpg
+INPUT|lclarkfn-intro-225|U |1537926625|lclarkfn|intro:ls -la|total 276
+drwxr-xr-x 2 lclarkfn 31    512 Sep 25 18:50 .
+drwx------ 6 lclarkfn 31    512 Sep 25 18:45 ..
+-rw-r--r-- 1 lclarkfn 31  45909 Sep 21 20:55 136intro-2jjaj.JPEG
+-rw-r--r-- 1 lclarkfn 31 101182 Sep 25 18:30 136intro-3.jpg
+-rw-r--r-- 1 lclarkfn 31    353 Sep 25 18:40 answers.txt
+-rw-r--r-- 1 lclarkfn 31  24495 Sep 25 17:44 asdf136Intro-5kqlw.jpeg
+-rw-r--r-- 1 lclarkfn 31    792 Sep 25 18:50 cpu_info.txt
+-rw-r--r-- 1 lclarkfn 31    983 Sep 25 18:48 diskfree.txt
+-rw-r--r-- 1 lclarkfn 31  12288 Sep 25 18:38 .nfs000000000cd94f0800000001
+-rw-r--r-- 1 lclarkfn 31  48645 Sep 25 17:45 wuer136intro-4.JPG
+-rw-r--r-- 1 lclarkfn 31  23932 Sep 25 17:42 xbzf136INTRO-1.jpg
+INPUT|lclarkfn-intro-226|U |1537926633|lclarkfn|intro:clear|
+INPUT|lclarkfn-intro-227|U |1537926641|lclarkfn|intro:ls -l|total 256
+-rw-r--r-- 1 lclarkfn 31  45909 Sep 21 20:55 136intro-2jjaj.JPEG
+-rw-r--r-- 1 lclarkfn 31 101182 Sep 25 18:30 136intro-3.jpg
+-rw-r--r-- 1 lclarkfn 31    353 Sep 25 18:40 answers.txt
+-rw-r--r-- 1 lclarkfn 31  24495 Sep 25 17:44 asdf136Intro-5kqlw.jpeg
+-rw-r--r-- 1 lclarkfn 31    792 Sep 25 18:50 cpu_info.txt
+-rw-r--r-- 1 lclarkfn 31    983 Sep 25 18:48 diskfree.txt
+-rw-r--r-- 1 lclarkfn 31  48645 Sep 25 17:45 wuer136intro-4.JPG
+-rw-r--r-- 1 lclarkfn 31  23932 Sep 25 17:42 xbzf136INTRO-1.jpg
+INPUT|lclarkfn-intro-228|M5 |1537926699|lclarkfn|intro:cat cpu_info.txt|%Architecture:          x86_64
+CPU op-mode(s):        32-bit%% 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Thread(s) per core:    2
+Core(s) per socket:    1
+Socket(s):             2
+NUMA node(s):          1
+Vendor ID:             GenuineIntel
+CPU family:            15
+Model:                 4
+Model name:            Intel(R) Xeon(TM) CPU 3.00GHz
+Stepping:              1
+CPU MHz:               2992.615
+BogoMIPS:              5985.47
+L1d cache:             16K
+L2 cache:              1024K
+NUMA node0 CPU(s):     0-3
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc pebs bts nopl pni dtes64 monitor ds_cpl cid cx16 xtpr%
+INPUT|lclarkfn-intro-229|U |1537926639|lclarkfn|intro:clear|
+INPUT|lclarkfn-intro-230|U |1537926713|lclarkfn|intro:ls -l|total 256
+-rw-r--r-- 1 lclarkfn 31  45909 Sep 21 20:55 136intro-2jjaj.JPEG
+-rw-r--r-- 1 lclarkfn 31 101182 Sep 25 18:30 136intro-3.jpg
+-rw-r--r-- 1 lclarkfn 31    353 Sep 25 18:40 answers.txt
+-rw-r--r-- 1 lclarkfn 31  24495 Sep 25 17:44 asdf136Intro-5kqlw.jpeg
+-rw-r--r-- 1 lclarkfn 31    792 Sep 25 18:50 cpu_info.txt
+-rw-r--r-- 1 lclarkfn 31    983 Sep 25 18:48 diskfree.txt
+-rw-r--r-- 1 lclarkfn 31  48645 Sep 25 17:45 wuer136intro-4.JPG
+-rw-r--r-- 1 lclarkfn 31  23932 Sep 25 17:42 xbzf136INTRO-1.jpg
+INPUT|lclarkfn-intro-231|U |1537926775|lclarkfn|intro:vim answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;25r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[25;1H"answers.txt" 17L%% 353C[>c[1;1HPoster 1 - Forbidden Planet%% great choice
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+
+Poster 2 - Godzilla
+/dev/136intro-2jjaj.JPEG
+
+Poster 3 - It Came From Outer Space
+/var/log/136intro-3.jpg
+
+Poster 4 - The Fly
+/etc/wuer136intro-4.JPG
+
+Poster 5 - 2001: A Space Oddysey%% can't go wrong with Arthur C. Clarke's finest work
+/.hidden/asdf136Intro-5kqlw.jpeg[18;1H[94m~                                                                                                          [19;1H~                                                                                                          [20;1H~                                                                                                          [21;1H~                                                                                                          [22;1H~                           
+INPUT|lclarkfn-intro-232|U |1537926818|lclarkfn|intro:cat answers.txt|%Poster 1 - Forbidden Planet%% great choice
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+
+Poster 2 - Godzilla
+/dev/136intro-2jjaj.JPEG
+
+Poster 3 - It Came From Outer Space
+/var/log/136intro-3.jpg
+
+Poster 4 - The Fly
+/etc/wuer136intro-4.JPG
+
+Poster 5 - 2001: A Space Oddysey%% can't go wrong with Arthur C. Clarke's finest work
+/.hidden/asdf136Intro-5kqlw.jpeg
+
+
+%
+INPUT|lclarkfn-intro-233|U |1537926828|lclarkfn|intro:rm answers.txt|
+INPUT|lclarkfn-intro-234|U |000000000|lclarkfn|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  diskfree.txt   xbzf136INTRO-1.jpg
+136intro-3.jpg      cpu_info.txt       wuer136intro-4.JPG
+INPUT|lclarkfn-intro-235|U |1537926711|lclarkfn|intro:clear|
+INPUT|lclarkfn-intro-236|U |1537926832|lclarkfn|intro:ls -l|total 252
+-rw-r--r-- 1 lclarkfn 31  45909 Sep 21 20:55 136intro-2jjaj.JPEG
+-rw-r--r-- 1 lclarkfn 31 101182 Sep 25 18:30 136intro-3.jpg
+-rw-r--r-- 1 lclarkfn 31  24495 Sep 25 17:44 asdf136Intro-5kqlw.jpeg
+-rw-r--r-- 1 lclarkfn 31    792 Sep 25 18:50 cpu_info.txt
+-rw-r--r-- 1 lclarkfn 31    983 Sep 25 18:48 diskfree.txt
+-rw-r--r-- 1 lclarkfn 31  48645 Sep 25 17:45 wuer136intro-4.JPG
+-rw-r--r-- 1 lclarkfn 31  23932 Sep 25 17:42 xbzf136INTRO-1.jpg
+INPUT|lclarkfn-intro-237|U |1537926838|lclarkfn|intro:touch answers.txt|
+INPUT|lclarkfn-intro-238|U |1537926840|lclarkfn|intro:vim answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;25r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[25;1H"answers.txt" 0L%% 0C[>c[2;1H[94m~                                                                                                          [3;1H~                                                                                                          [4;1H~                                                                                                          [5;1H~                                                                                                          [6;1H~                                                                                                          [7;1H~                                                                                                          [8;1H~                                                                                                          [9;1H~                                                                                              
+INPUT|lclarkfn-intro-239|U |1537926868|lclarkfn|intro:cat answers.txt|%me: Tristan Saldanha%% tristansaldanha@lclark.edu%% user lclarkfn
+
+Poster 1 - Forbidden Planet
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+
+Poster 2 - Godzilla
+/dev/136intro-2jjaj.JPEG
+
+Poster 3 - It Came From Outer Space
+/var/log/136intro-3.jpg
+
+Poster 4 - The Fly
+/etc/wuer136intro-4.JPG
+
+Poster 5 - 2001: A Space Oddysey
+/.hidden/asdf136Intro-5kqlw.jpeg
+
+/var/ holds files that are modified during the operating system's running
+
+/dev/ holds files that represent devices
+
+CPU Vendor ID: GenuineIntel
+Disk Data: in diskfree.txt
+
+%
+INPUT|lclarkfn-intro-240|U |000000000|lclarkfn|intro:cd ..|
+INPUT|lclarkfn-intro-241|U |000000000|lclarkfn|intro:ls|top_secret
+INPUT|lclarkfn-intro-242|U |1537926940|lclarkfn|intro:tar cvzf yamama.tar.gz top_secret|top_secret/
+top_secret/136intro-2jjaj.JPEG
+top_secret/answers.txt
+top_secret/diskfree.txt
+top_secret/xbzf136INTRO-1.jpg
+top_secret/asdf136Intro-5kqlw.jpeg
+top_secret/wuer136intro-4.JPG
+top_secret/136intro-3.jpg
+top_secret/cpu_info.txt
+top_secret/.nfs000000000cd94f0800000001
+INPUT|lclarkfn-intro-243|U |1537926830|lclarkfn|intro:clear|
+INPUT|lclarkfn-intro-244|U |1537926636|lclarkfn|intro:ls -la|total 300
+drwx------  6 lclarkfn      31    512 Sep 25 18:55 .
+drwxr-xr-x 61 root     root      4096 Sep 25 16:49 ..
+-rw-------  1 lclarkfn      31   2215 Sep 21 21:12 .bash_history
+drwx------  2 lclarkfn      31    512 Sep 21 20:22 .cache
+-rw-r--r--  1 lclarkfn      31   1206 Sep 17 01:05 .cshrc
+-rw-r--r--  1 lclarkfn CS495LC     27 Sep 17 01:05 .forward
+-rw-r--r--  1 lclarkfn      31    254 Sep 17 01:05 .login
+-rw-r--r--  1 lclarkfn      31    163 Sep 17 01:05 .login_conf
+-rw-------  1 lclarkfn      31    379 Sep 17 01:05 .mail_aliases
+-rw-r--r--  1 lclarkfn      31    336 Sep 17 01:05 .mailrc
+-rw-r--r--  1 lclarkfn      31    936 Sep 17 01:05 .profile
+-rw-------  1 lclarkfn      31    281 Sep 17 01:05 .rhosts
+-rw-r--r--  1 lclarkfn      31    849 Sep 17 01:05 .shrc
+drwx------  2 lclarkfn      31    512 Sep 21 20:22 .ssh
+drwx------  2 lclarkfn      31    512 Sep 17 01:05 .ssl
+drwxr-xr-x  2 lclarkfn      31    512 Sep 25 18:54 top_secret
+INPUT|lclarkfn-intro-245|U |1537926941|lclarkfn|intro:clear|
+INPUT|lclarkfn-intro-246|U |000000000|lclarkfn|intro:ls|top_secret  yamama.tar.gz
+INPUT|lclarkfn-intro-247|U |1537926944|lclarkfn|intro:clear|
+INPUT|lclarkfn-intro-248|U |000000000|lclarkfn|intro:ls|top_secret  yamama.tar.gz

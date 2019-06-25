@@ -1,0 +1,219 @@
+User jmache start time 1537300532 end 1537516899
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|jmache-intro-0|U |1537300532|jmache|intro:ls|clean      dump.pcap   jmache-permissions-1393410001.tar.gz snort.conf
+clean2      firewall.sh  logs     solution
+cleanlog.pl  hi.txt   logsspring18    top_secret
+clean-logs   hwf.sh   nohup.out
+d1.pcap      intro_jens   pulllogs.pl
+dump2.pcap   jelena   snoopylogs
+INPUT|jmache-intro-1|U |000000000|jmache|:|
+INPUT|jmache-intro-2|U |000000000|jmache|:|
+INPUT|jmache-intro-3|A1 A3 A4 A0 A2 |1537300542|jmache|intro:man find|%[?1049h[?1h=
+FIND(1)                     General Commands Manual                    FIND(1)[m
+[m
+[1mNAME[0m[m
+       find - search for files in a directory hierarchy[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mfind[0m  [-H]  [-L]  [-P]  [-D  debugopts]  [-Olevel]  [starting-point...][m
+       [expression][m
+[m
+[1mDESCRIPTION[0m[m
+       This manual page documents the GNU version of [1mfind[0m.  GNU [1mfind[0m  searches[m
+       the  directory  tree  rooted at each given starting-point by evaluating[m
+       the given expression from left to right%%  according  to  the  rules  of[m
+       precedence  (see  section  OPERATORS)%%  until the outcome is known (the[m
+       left hand side is false for [4mand[24m operations%%  true  for  [4mor[24m)%%  at  which[m
+       point  [1mfind[0m  moves  on  to the next file name.  If no starting-point is[m
+       specified%% `.' is assumed.[m
+[m
+       If you are using [1mfind[0m in an environment  where 
+INPUT|jmache-intro-4|A4 A3 A1 A2 A0 |1537300655|jmache|intro:find intro|find: 'intro': No such file or directory
+INPUT|jmache-intro-5|A2 A0 A4 A3 A1 |000000000|jmache|intro:find *intro*|intro_jens
+INPUT|jmache-intro-6|A4 A3 A1 A2 A0 |000000000|jmache|intro:find -ame o*|./intro_jens
+INPUT|jmache-intro-7|A1 A4 A3 A0 A2 |000000000|jmache|intro:find -name "*intro*\"|./top_secret/136intro-2jjaj.JPEG
+./top_secret/136intro-3.jpg
+./top_secret/wuer136intro-4.JPG
+./intro_jens
+./snoopylogs/introlc.snoopy.log
+./snoopylogs/roger-intro.snoopy.log
+./logs/introlc.snoopy.intro.log
+./logs/ErikDoheTreasure.snoopy.intro.log
+./logs/CaihusTreasure.snoopy.intro.log
+./logs/AJBerle-Unix.snoopy.intro.log
+./logs/jelenalc.snoopy.intro.log
+./logs/ptrouerbach-unix.snoopy.intro.log
+./logs/rbhatia-firstlab.snoopy.intro.log
+./logs/VictoriaTreasure.snoopy.intro.log
+./logs/jschaefer-treasure.snoopy.intro.log
+./logs/lclarkco-exp.snoopy.intro.log
+./logs/lclarkcp-treasure.snoopy.intro.log
+./logs/LionelTreasure.snoopy.intro.log
+./logs/BZuckerFirstThing.snoopy.intro.log
+./logs/jens-unix-fall-17.snoopy.intro.log
+./logs/raya-unix.snoopy.intro.log
+./logs/jaimiet-unix-fall.snoopy.intro.log
+./logs/oswald-treasure.snoopy.intro.log
+./logs/kenny-unix.snoopy.intro.log
+./logs/KennyDETERUnix.snoopy.intro.log
+./logs/roge
+INPUT|jmache-intro-8|M2 |000000000|jmache|intro:find -n/ e \"*intro*\"|!TRUNCATED TO 500L! find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+/var/log/ttylog/ttylog.intro.0
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/cli.intro.csv
+find: '/var/log/unattended-upgrades': Permission denied
+/var/log/136intro-3.jpg
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied<
+INPUT|jmache-intro-9|M3 M2 M1 |000000000|jmache|intro:find / -name \"*intro*\" 2> /dev/null|/var/log/ttylog/ttylog.intro.0
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/users/jmache/top_secret/136intro-2jjaj.JPEG
+/users/jmache/top_secret/136intro-3.jpg
+/users/jmache/top_secret/wuer136intro-4.JPG
+/users/jmache/intro_jens
+/users/jmache/snoopylogs/introlc.snoopy.log
+/users/jmache/snoopylogs/roger-intro.snoopy.log
+/users/jmache/logs/introlc.snoopy.intro.log
+/users/jmache/logs/ErikDoheTreasure.snoopy.intro.log
+/users/jmache/logs/CaihusTreasure.snoopy.intro.log
+/users/jmache/logs/AJBerle-Unix.snoopy.intro.log
+/users/jmache/logs/jelenalc.snoopy.intro.log
+/users/jmache/logs/ptrouerbach-unix.snoopy.intro.log
+/users/jmache/logs/rbhatia-firstlab.snoopy.intro.log
+/users/jmache/logs/VictoriaTreasure.snoopy.intro.log
+/users/jmache/logs/jschaefer-treasure.snoopy.intro.log
+/users/jmache/logs/lclarkco-exp.snoopy.intro.log
+/users/jmache/logs/lclarkcp-treasure.snoopy.intro.log
+/users/jmache/logs
+INPUT|jmache-intro-10|M4 M3 M2 M1 M0 |000000000|jmache|intro:find / -naie \"*intro*\" 2> /dev/null|/var/log/ttylog/ttylog.intro.0
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/users/jmache/top_secret/asdf136Intro-5kqlw.jpeg
+/users/jmache/top_secret/136intro-2jjaj.JPEG
+/users/jmache/top_secret/136intro-3.jpg
+/users/jmache/top_secret/wuer136intro-4.JPG
+/users/jmache/top_secret/xbzf136INTRO-1.jpg
+/users/jmache/intro_jens
+/users/jmache/snoopylogs/introlc.snoopy.log
+/users/jmache/snoopylogs/roger-intro.snoopy.log
+/users/jmache/logs/introlc.snoopy.intro.log
+/users/jmache/logs/ErikDoheTreasure.snoopy.intro.log
+/users/jmache/logs/CaihusTreasure.snoopy.intro.log
+/users/jmache/logs/AJBerle-Unix.snoopy.intro.log
+/users/jmache/logs/jelenalc.snoopy.intro.log
+/users/jmache/logs/ptrouerbach-unix.snoopy.intro.log
+/users/jmache/logs/rbhatia-firstlab.snoopy.intro.log
+/users/jmache/logs/VictoriaTreasure.snoopy.intro.log
+/users/jmache/logs/jschaefer-treasure.snoopy.intro.log
+/users/jmache/logs/lclarkco-
+INPUT|jmache-intro-11|M4 M3 M2 M1 M0 |000000000|jmache|intro:find / -iname \"*i136o*\" 2> /dev/null|/var/log/136intro-3.jpg
+/users/jmache/top_secret/asdf136Intro-5kqlw.jpeg
+/users/jmache/top_secret/136intro-2jjaj.JPEG
+/users/jmache/top_secret/136intro-3.jpg
+/users/jmache/top_secret/wuer136intro-4.JPG
+/users/jmache/top_secret/xbzf136INTRO-1.jpg
+/etc/wuer136intro-4.JPG
+/.hidden/asdf136Intro-5kqlw.jpeg
+/dev/136intro-2jjaj.JPEG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|jmache-intro-12|M3 M2 M1 |000000000|jmache|intro:find / -iname \"*136intro*\" 2> /dev/null|/var/log/136intro-3.jpg
+/users/jmache/top_secret/136intro-2jjaj.JPEG
+/users/jmache/top_secret/136intro-3.jpg
+/users/jmache/top_secret/wuer136intro-4.JPG
+/etc/wuer136intro-4.JPG
+/dev/136intro-2jjaj.JPEG
+INPUT|jmache-intro-13|M3 M2 M1 |000000000|jmache|intro:find / -name "*intro*" 2> /dev/null|/var/log/ttylog/alltty.intro
+/var/log/ttylog/ttylog.intro.1
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/users/lclarkai/top_secret/136intro-2jjaj.JPEG
+/users/lclarkai/top_secret/136intro-3.jpg
+/users/lclarkai/top_secret/wuer136intro-4.JPG
+/users/lclarkcq/Topsecret/136intro-3.jpg
+/users/lclarkcq/Topsecret/wuer136intro-4.JPG
+/users/lclarkcq/Topsecret/136intro-2jjaj.JPEG
+/users/lclarkaa/top_secret/136intro-3.jpg
+/users/lclarkda/top_secret/136intro-3.jpg
+/users/lclarkda/top_secret/wuer136intro-4.JPG
+/users/lclarkda/top_secret/136intro-2jjaj.JPEG
+/users/lclarkda/lclarkda-intro.tar.gz
+/users/lclarkta/top_secret/136intro-3.jpg
+/users/lclarkta/top_secret/wuer136intro-4.JPG
+/users/lclarkta/top_secret/136intro-2jjaj.JPEG
+/users/lclarkta/lclarkta-intro.tar.gz
+/users/lclarkbb/Desktop/top_secret/136intro-2jjaj.JPEG
+/users/lclarkbb/Desktop/top_secret/136intro-3.jpg
+/users/lclarkbb/Desktop/top_secret/wuer136intro-4.JPG
+/users
+INPUT|jmache-intro-14|M2 |000000000|jmache|intro:find / -name \"*intro*\.jp*g/dev/null|/var/log/136intro-3.jpg
+/users/lclarkai/top_secret/136intro-3.jpg
+/users/lclarkcq/Topsecret/136intro-3.jpg
+/users/lclarkaa/top_secret/136intro-3.jpg
+/users/lclarkda/top_secret/136intro-3.jpg
+/users/lclarkta/top_secret/136intro-3.jpg
+/users/lclarkbb/Desktop/top_secret/136intro-3.jpg
+/users/lclarkbb/Desktop/136intro-3.jpg
+/users/lclarkbb/Documents/136intro-3.jpg
+/users/lclarkbb/top_secret/136intro-3.jpg
+/users/lclarkbh/top_secret/136intro-3.jpg
+/users/lclarkcn/top_secret/136intro-3.jpg
+/users/lclarkcn/top_secret/log/136intro-3.jpg
+/users/jmache/top_secret/136intro-3.jpg
+/users/lclarkbn/top_secret/136intro-3.jpg
+/users/lclarkbe/top_secret/136intro-3.jpg
+/users/lclarkbr/THISISFULLOFSECRETS/136intro-3.jpg
+/users/lclarkcd/top_secret/136intro-3.jpg
+/users/lclarkbq/top_secret/136intro-3.jpg
+/users/lclarkay/top_secret/136intro-3.jpg
+/users/lclarkbc/top_secret/136intro-3.jpg
+/users/lclarkdg/top_secret/136intro-3.jpg
+/users/lclarkc
+INPUT|jmache-intro-15|U |1537516899|jmache|intro:apt-get install -y snoopy|%
+Reading package lists... 0%%
+
+Reading package lists... 100%%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%%
+
+Building dependency tree... 0%%
+
+Building dependency tree... 50%%
+
+Building dependency tree... 50%%
+
+Building dependency tree       
+
+
+Reading state information... 0%%
+
+Reading state information... 0%%
+
+Reading state information... Done
+
+The following packages were automatically installed and are no longer required:
+  libalgorithm-c3-perl libb-hooks-endofscope-perl libb-hooks-op-check-perl
+  libbareword-filehandles-perl libclass-c3-perl libclass-c3-xs-perl
+  libclass-method-modifiers-perl libclass-xsaccessor-perl libcpan-changes-perl
+  libcpan-distnameinfo-perl libcpan-meta-check-perl libcpan-meta-perl
+  libcpan-meta-requirements-perl libcpan-meta-yaml-perl libdata-optlist-perl
+  libdata-perl-perl libdata-section-perl libdevel-caller-perl
+  libdevel-globaldestructi

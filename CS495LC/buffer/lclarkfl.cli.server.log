@@ -1,0 +1,33 @@
+CMBEGIN,Nov 28 12:09:06,/users/lclarkfl,sudo ./webserver 0000,sudo: ./webserver: command not found,sudo ./webserver 0000
+CMBEGIN,Nov 28 12:09:41,/users/lclarkfl,ssh server.lclarkfl.CS495LC.isi.deterlab.net,Warning: Permanently added the RSA host key for IP address '192.168.1.6' to the list of known hosts.<NL>,ssh server.lclarkfl.CS495LC.isi.deterlab.net
+CMBEGIN,,,sudo ./webserver 8080,sudo: ./webserver: command not found,
+CMBEGIN,,,wget http://localhost:8080,--2018-11-28 12:10:50--  http://localhost:8080/<NL>Resolving localhost (localhost)... 127.0.0.1<NL>Connecting to localhost (localhost)|127.0.0.1|:8080... failed: Connection refused.,
+CMBEGIN,,,wget http://localhost:0000,--2018-11-28 12:12:51--  http://localhost:0/<NL>Resolving localhost (localhost)... 127.0.0.1<NL>Connecting to localhost (localhost)|127.0.0.1|:0... failed: Connection refused.,
+CMBEGIN,,,wget http://localhost:8080,,
+CMBEGIN,,,sudo ./webserver 8080,,
+CMBEGIN,,,sudo ./webserver 8080,sudo: ./webserver: command not found,
+CMBEGIN,,,l,l: command not found,
+CMBEGIN,,,ls,answers.txt  lclarkfl-intro.tar.gz,
+CMBEGIN,,,cd ../,,
+CMBEGIN,,,ls,aashraya  ekline    jaipuria  jross<HT>schwab<HT> shareae  shareak  shareaq  shareaw  sharebc  sklower<NL>abhi<HT>  faber     jboman    kls2<HT>scuric<HT> shareaf  shareal  sharear  shareax  sharebd  sunshine<NL>alefiya   gbartlet  jelena    lclarkfl<HT>shareaa  shareag  shaream  shareas  shareay  shareta<NL>alwabel   gerow     jgli      melkins<HT>shareab  shareah  sharean  shareat  shareaz  sharetb<NL>bks<HT>  gknopf    jhickey   piobair<HT>shareac  shareai  shareao  shareau  shareba  sharetc<NL>bloznali  glawler   jjh       rgoodfel<HT>sharead  shareaj  shareap  shareav  sharebb  sharetd,
+CMBEGIN,,,cd~,%No command 'cd~' found%% did you mean:<NL> Command 'cdo' from package 'cdo' (universe)<NL> Command 'cdb' from package 'tinycdb' (main)<NL> Command 'cdw' from package 'cdw' (universe)<NL> Command 'cd5' from package 'cd5' (universe)<NL> Command 'cdv' from package 'codeville' (universe)<NL> Command 'cdp' from package 'irpas' (multiverse)<NL> Command 'cde' from package 'cde' (universe)<NL> Command 'cdi' from package 'cdo' (universe)<NL>cd~: command not found%,
+CMBEGIN,,,cd ~,,
+CMBEGIN,,,cd /usr/src/fhttpd,,
+CMBEGIN,,,ls,frobnick  index.html  Makefile<HT>webserver  webserver.c,
+CMBEGIN,,,sudo ./webserver 8080,GET / HTTP/1.1<NL><NL>User-Agent: Wget/1.17.1 (linux-gnu)<NL><NL>Accept: */*<NL><NL>Accept-Encoding: identity<NL><NL>Host: localhost:8080<NL><NL>Connection: Keep-Alive<NL><NL><NL>GET /123456789 HTTP/1.1<NL><NL>User-Agent: Wget/1.17.1 (linux-gnu)<NL><NL>Accept: */*<NL><NL>Accept-Encoding: identity<NL><NL>Host: localhost:8080<NL><NL>Connection: Keep-Alive<NL><NL><NL>ls,
+CMBEGIN,Nov 28 12:10:50,/users/lclarkfl,wget http://localhost:8080,--2018-11-28 12:10:50--  http://localhost:8080/<NL>Resolving localhost (localhost)... 127.0.0.1<NL>Connecting to localhost (localhost)|127.0.0.1|:8080... failed: Connection refused.,wget http://localhost:8080
+CMBEGIN,Nov 28 12:12:51,/users/lclarkfl,wget http://localhost:0000,--2018-11-28 12:12:51--  http://localhost:0/<NL>Resolving localhost (localhost)... 127.0.0.1<NL>Connecting to localhost (localhost)|127.0.0.1|:0... failed: Connection refused.,wget http://localhost:0000
+CMBEGIN,,,wget http://localhost:8080,,
+CMBEGIN,Nov 28 12:13:01,/users/lclarkfl,sudo ./webserver 8080,,sudo ./webserver 8080
+CMBEGIN,Nov 28 12:13:50,/usr/src/fhttpd,sudo ./webserver 8080,sudo: ./webserver: command not found,sudo ./webserver 8080
+CMBEGIN,,,l,l: command not found,
+CMBEGIN,,,ls,answers.txt  lclarkfl-intro.tar.gz,
+CMBEGIN,,,cd ../,,
+CMBEGIN,,,ls,aashraya  ekline    jaipuria  jross<HT>schwab<HT> shareae  shareak  shareaq  shareaw  sharebc  sklower<NL>abhi<HT>  faber     jboman    kls2<HT>scuric<HT> shareaf  shareal  sharear  shareax  sharebd  sunshine<NL>alefiya   gbartlet  jelena    lclarkfl<HT>shareaa  shareag  shaream  shareas  shareay  shareta<NL>alwabel   gerow     jgli      melkins<HT>shareab  shareah  sharean  shareat  shareaz  sharetb<NL>bks<HT>  gknopf    jhickey   piobair<HT>shareac  shareai  shareao  shareau  shareba  sharetc<NL>bloznali  glawler   jjh       rgoodfel<HT>sharead  shareaj  shareap  shareav  sharebb  sharetd,
+CMBEGIN,,,cd~,%No command 'cd~' found%% did you mean:<NL> Command 'cdo' from package 'cdo' (universe)<NL> Command 'cdb' from package 'tinycdb' (main)<NL> Command 'cdw' from package 'cdw' (universe)<NL> Command 'cd5' from package 'cd5' (universe)<NL> Command 'cdv' from package 'codeville' (universe)<NL> Command 'cdp' from package 'irpas' (multiverse)<NL> Command 'cde' from package 'cde' (universe)<NL> Command 'cdi' from package 'cdo' (universe)<NL>cd~: command not found%,
+CMBEGIN,,,cd ~,,
+CMBEGIN,,,cd /usr/src/fhttpd,,
+CMBEGIN,,,ls,frobnick  index.html  Makefile<HT>webserver  webserver.c,
+CMBEGIN,,,sudo ./webserver 8080,GET / HTTP/1.1<NL><NL>User-Agent: Wget/1.17.1 (linux-gnu)<NL><NL>Accept: */*<NL><NL>Accept-Encoding: identity<NL><NL>Host: localhost:8080<NL><NL>Connection: Keep-Alive<NL><NL><NL>GET /123456789 HTTP/1.1<NL><NL>User-Agent: Wget/1.17.1 (linux-gnu)<NL><NL>Accept: */*<NL><NL>Accept-Encoding: identity<NL><NL>Host: localhost:8080<NL><NL>Connection: Keep-Alive<NL><NL><NL>ls,
+CMBEGIN,Nov 28 12:22:35,/users/lclarkfl,wget http://localhost:8080/123456789,%--2018-11-28 12:22:35--  http://localhost:8080/123456789<NL>Resolving localhost (localhost)... 127.0.0.1<NL>Connecting to localhost (localhost)|127.0.0.1|:8080... connected.<NL>HTTP request sent%% awaiting response... 404 Not Found<NL>2018-11-28 12:22:35 ERROR 404: Not Found.<NL>%,wget http://localhost:8080/123456789
+CMBEGIN,Nov 28 12:23:24,/users/lclarkfl,gdb./webserver,bash: gdb./webserver: No such file or directory,gdb./webserver

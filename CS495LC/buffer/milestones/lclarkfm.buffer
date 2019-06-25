@@ -1,0 +1,285 @@
+User lclarkfm start time 1543435829 end 1543445462
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkfm-buffer-0|U |1543435829|lclarkfm|server:make|make: *** No targets specified and no makefile found.  Stop.
+INPUT|lclarkfm-buffer-1|U |000000000|lclarkfm|:|
+INPUT|lclarkfm-buffer-2|U |000000000|lclarkfm|:|
+INPUT|lclarkfm-buffer-3|U |000000000|lclarkfm|server:cd /usr/src/fhttpd|
+INPUT|lclarkfm-buffer-4|U |1543435859|lclarkfm|server:make|make: Nothing to be done for 'project'.
+INPUT|lclarkfm-buffer-5|A0 |1543435865|lclarkfm|server:./webserver 8080|^[[A^[[B^[[B^C
+INPUT|lclarkfm-buffer-6|A0 |1543436005|lclarkfm|server:./webserver 8080|telnet localhost 8080
+^C
+INPUT|lclarkfm-buffer-7|A0 |1543436621|lclarkfm|server:./webserver 8080|
+INPUT|lclarkfm-buffer-8|U |000000000|lclarkfm|server:cd /usr/src/fhttpd|
+INPUT|lclarkfm-buffer-9|U |1543443946|lclarkfm|server:make|make: Nothing to be done for 'project'.
+INPUT|lclarkfm-buffer-10|M0 |1543443959|lclarkfm|server:./webserver 8080|%<C3><BF><C3><ACUTE><C3><BF><C3><BD>^]
+
+<C3><BF><C3><ACUTE><C3><BF><C3><BD><C3><BF><C3><ACUTE><C3><BF><C3><BD><C3><BF><C3><ACUTE><C3><BF><C3><BD><C3><BF><C3><ACUTE><C3><BF><C3><BD>
+
+
+
+<C3><BF><C3><ACUTE><C3><BF><C3><BD>
+
+
+GET / HTTP/1.1
+
+User-Agent: Wget/1.17.1 (linux-gnu)
+
+Accept: */*
+
+Accept-Encoding: identity
+
+Host: localhost:8080
+
+Connection: Keep-Alive
+
+
+GET /alex.html HTTP/1.1
+
+User-Agent: Wget/1.17.1 (linux-gnu)
+
+Accept: */*
+
+Accept-Encoding: identity
+
+Host: localhost:8080
+
+Connection: Keep-Alive
+
+
+GET /1234567890 HTTP/1.1
+
+User-Agent: Wget/1.17.1 (linux-gnu)
+
+Accept: */*
+
+Accept-Encoding: identity
+
+Host: localhost:8080
+
+Connection: Keep-Alive
+
+
+GET /12345678901234567890%%16 HTTP/1.1
+
+User-Agent: Wget/1.17.1 (linux-gnu)
+
+Accept: */*
+
+Accept-Encoding: identity
+
+Host: localhost:8080
+
+Connection: Keep-Alive
+
+INPUT|lclarkfm-buffer-11|A0 |1543444891|lclarkfm|server:./webserver 8080|bind: Address already in use
+INPUT|lclarkfm-buffer-12|M0 |1543444899|lclarkfm|server:./webserver 8081|GET /123456789012345678901234567890aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012
+INPUT|lclarkfm-buffer-13|M0 |1543444953|lclarkfm|server:gdb ./webserver|%GNU gdb (Ubuntu 7.11.1-0ubuntu1~16.04) 7.11.1
+Copyright (C) 2016 Free Software Foundation%% Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY%% to the extent permitted by law.  Type \"show copying\"
+and \"show warranty\" for details.
+This GDB was configured as \"x86_64-linux-gnu\".
+Type \"show configuration\" for configuration details.
+For bug reporting instructions%% please see:
+<http://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+<http://www.gnu.org/software/gdb/documentation/>.
+For help%% type \"help\".
+Type \"apropos word\" to search for commands related to \"word\"...
+Reading symbols from ./webserver...done.
+(gdb) run 8080
+Starting program: /usr/src/fhttpd/webserver 8080
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library \"/lib/x
+INPUT|lclarkfm-buffer-14|M1 |1543445044|lclarkfm|server:emacs webserver.c|%=>
+=-111:----F1  *scratch*      All L1     (Fundamental) ---------------------------
+Loading 00debian-vars...done
+/etc/emacs/site-start.d/50autoconf.el (source)...
+done
+Loading /etc/emacs/site-start.d/50autoconf.el (source)...doneFile Edit Options Buffers Tools Lisp-Interaction Help                           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-111:----F1  *scratch*      All L1     (Lisp Interaction) ----------------------
+For information about GNU Emacs and the GNU system%% type C-h C-a.
+Note: file is write protected
+Note: file is write protectedFile Edit Options Buffers Tools C Help                                          
+
+// webserver.c                                                                  
+
+// FrobozzCo Official Webserver                                                 
+
+// Barbazzo Fernap barbazzo@gue.com                                             
+
+// Gustar Woom
+INPUT|lclarkfm-buffer-15|U |000000000|lclarkfm|server:sudo|%<ESC>[?1049h<ESC>[?12;25h<ESC>[?1h<ESC>=<ESC>[H<ESC>[2J<ESC>[24d<ESC>[K<ESC>[?1l<ESC>><ESC>[?12l<ESC>[?25h<ESC>[?1049l<ESC>[39;49m
+<ESC>[?1049h<ESC>[?12;25h<ESC>[?1h<ESC>=<ESC>[H<ESC>[2J<ESC>[23d<ESC>[?25l<ESC>[7m-111:----F1  <ESC>[0m<ESC>[39;49m<ESC>[27m<ESC>[7m<ESC>[1m*scratch*   <ESC>[0m<ESC>[39;49m<ESC>[27m<ESC>[7m   All L1     (Fundamental) ---------------------------<ESC>[0m<ESC>[39;49m<ESC>[27m
+<ESC>[A<ESC>[2d<ESC>[?12l<ESC>[?25h<ESC>[?12;25h<ESC>[24d<ESC>[?25lLoading 00debian-vars...done<ESC>[K<ESC>[H
+<ESC>[?12l<ESC>[?25h<ESC>[?12;25h<ESC>[24;9H<ESC>[?25l/etc/emacs/site-start.d/50autoconf.el (source)...<ESC>[H
+<ESC>[?12l<ESC>[?25h<ESC>[?12;25h<ESC>[24;58H<ESC>[?25ldone<ESC>[H
+<ESC>[?12l<ESC>[?25h<ESC>[?12;25h<ESC>[>0c<ESC>[24d<ESC>[?25lLoading /etc/emacs/site-start.d/50autoconf.el (source)...done<ESC>[K<ESC>[H<ESC>[7mFile Edit Options Buffers Tools Lisp-Interaction Help                           <ESC>[0m<ESC>[39;49m<ESC>[27m
+<ESC>[A
+<ESC>[K
+<ESC>[K
+<
+INPUT|lclarkfm-buffer-16|U |1543445217|lclarkfm|server:make|%gcc -D_FORTIFY_SOURCE=0 -frecord-gcc-switches -fno-stack-protector -z execstack -g -o webserver -D_TS_ERRNO webserver.c -lnsl -lresolv -lpthread
+webserver.c: In function 'send_response':
+webserver.c:281:9: warning: implicit declaration of function 'strptime' [-Wimplicit-function-declaration]
+    if (!strptime(imstime%% "%%a%% %%d %%b %%Y %%H:%%M:%%S GMT"%% &tm)
+         ^%
+INPUT|lclarkfm-buffer-17|A0 |1543445225|lclarkfm|server:./webserver 8080|GET /123456789012345678901234567890aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012
+INPUT|lclarkfm-buffer-18|U |000000000|lclarkfm|server:telnet server.lclarkfm1128.CS495LC.isi.deterlab|.net 8080
+Trying 192.168.1.114...
+Connected to pc114.isi.deterlab.net.
+Escape character is '^]'.
+^C^]
+^Cq^C^C^C
+^[^[[3~
+^C
+INPUT|lclarkfm-buffer-19|U |1543444726|lclarkfm|server:wget http://localhost:8080/alex.html|%--2018-11-28 14:38:46--  http://localhost:8080/alex.html
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... connected.
+HTTP request sent%% awaiting response... 404 Not Found
+2018-11-28 14:38:46 ERROR 404: Not Found.
+%
+INPUT|lclarkfm-buffer-20|U |1543444737|lclarkfm|server:wget http://localhost:8080/1234567890|%--2018-11-28 14:38:57--  http://localhost:8080/1234567890
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... connected.
+HTTP request sent%% awaiting response... 404 Not Found
+2018-11-28 14:38:57 ERROR 404: Not Found.
+%
+INPUT|lclarkfm-buffer-21|U |000000000|lclarkfm|server:wget http://localhost:8080/1234567890^C|
+INPUT|lclarkfm-buffer-22|U |000000000|lclarkfm|server:wget http://localhost:8080/12345678901234567890^V|%--2018-11-28 14:39:35--  http://localhost:8080/12345678901234567890%%16
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... connected.
+HTTP request sent%% awaiting response... 404 Not Found
+2018-11-28 14:39:35 ERROR 404: Not Found.
+%
+INPUT|lclarkfm-buffer-23|U |000000000|lclarkfm|server:wget http://localhost:8080/123456789012345678901234567890aaaa|%aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+The name is too long%% 329 chars total.
+Trying to shorten...
+New name is 123456789012345678901234567890aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.
+--2018-11-28 14:40:30--  http://localhost:8080/123456789012345678901234567890aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+INPUT|lclarkfm-buffer-24|U |000000000|lclarkfm|server:wget http://localhost:8080/123456789012345678901234567890aaaaa|%aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbb 
+bbbbbbbbb12345678901234567890123456789012345678901234567890123456789012345678901 
+23456789012345678901234567890123456789012345678901234567890123456789012345678901 
+23456789012345678901234567890123456789012345678901234567890123456789012345678901 
+23456789012345678901234567890123456789012345678901234567890123456789012345678901 
+23456789012345678901234567890123456789012345678901234567890123456789012345678901 
+23456789012345678901234567890123456789012345678901234567890123456789012345678901 
+23456789012345678901234567890
+The name is too long%% 863 chars total.
+Trying to shorten...
+New name is 123456789012345678901234567890aaaaaaa
+INPUT|lclarkfm-buffer-25|U |000000000|lclarkfm|server:wget http://localhost:8080/123456789012345678901234567890aaaaa|%aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbb123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+23456789012345678901234567890123456789012345678901234567890123456789012345678901 
+2345678901234567890123456789012345678901234567890123456789012345
+INPUT|lclarkfm-buffer-26|U |000000000|lclarkfm|server:wget http://localhost:8080/123456789012345678901234567890aaaaa|aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbb123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+23456789012345678901234567890123456789012345678901234567890123456
+INPUT|lclarkfm-buffer-27|U |000000000|lclarkfm|server:wget http://localhost:808/123456789012345678901234567890a|%
+
+
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab
+
+bbbbbbbb1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123<ESC>[1P<ESC>[A<ESC>[A<ESC>[A<ESC>[A<ESC>[A<ESC>[A<ESC>[A<ESC>[A<ESC>[A<ESC>[A<ESC>[A<ESC>[A<ESC>[A<ESC>[A<ESC>[Aclarkf
+INPUT|lclarkfm-buffer-28|U |000000000|lclarkfm|server:wget http://localhost:8081/123456789012345678901234567890aaaaa|%aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbb123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+2345678901234567890123456789012345678901234567890123456789012345
+INPUT|lclarkfm-buffer-29|U |000000000|lclarkfm|server:wget http://localhost:8080/123456789012345678901234567890aaaaa|%aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbb123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+2345678901234567890123456789012345678901234567890123456789012345
+INPUT|lclarkfm-buffer-30|U |000000000|lclarkfm|server:wget http://localhost:8080/123456789012345678901234567890aaaaa|%aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbb123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+2345678901234567890123456789012345678901234567890123456789012345
+INPUT|lclarkfm-buffer-31|U |000000000|lclarkfm|server:wget http://localhost:8080/123456789012345678901234567890aaaaa|aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbb123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+234567890123456789012345678901234567890123456789012345678901234567890123456789012
+23456789012345678901234567890123456789012345678901234567890123456
+INPUT|lclarkfm-buffer-32|U |1543445257|lclarkfm|server:wget http://localhost:8080/12345678901234567|%--2018-11-28 14:47:37--  http://localhost:8080/12345678901234567
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... connected.
+HTTP request sent%% awaiting response... 404 Not Found
+2018-11-28 14:47:37 ERROR 404: Not Found.
+%
+INPUT|lclarkfm-buffer-33|U |1543445462|lclarkfm|server:curl|curl: try 'curl --help' or 'curl --manual' for more information

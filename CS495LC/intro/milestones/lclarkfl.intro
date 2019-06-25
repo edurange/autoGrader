@@ -1,0 +1,1020 @@
+User lclarkfl start time 1537814711 end 1537989923
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkfl-intro-0|U |000000000|lclarkfl|:|
+INPUT|lclarkfl-intro-1|U |000000000|lclarkfl|intro:cd top_secret|
+INPUT|lclarkfl-intro-2|U |000000000|lclarkfl|:|
+INPUT|lclarkfl-intro-3|U |1537989322|lclarkfl|intro:ls|1234567890-intro.tar.gz  answers.txt.save   lclarkfl-intro.tar.gz
+136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+136intro-3.jpg   diskfree.txt    xbzf136INTRO-1.jpg
+answers.txt   diskfree.txt.save
+INPUT|lclarkfl-intro-4|U |1537989349|lclarkfl|intro:nano answers.txt.save|[?1049h[1;24r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[22;33H(B[0;7m[ Reading File ]
+[3d(B[m[22;32H(B[0;7m[ Read 12 lines
+[15d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3            File: answers.txt.save                              [3;1H(B[mInformation Hunt
+[4d1. The /var directory contains system data that is open to variation (var=varia$[5;1H2. The /dev directory contains specific device files.
+[6d3. See "diskfree.txt" /users/lclarkfl/top_secret/diskfree.txt/
+[7d4. Vendor ID:
+[9dPersonal Info:
+[10dRyan Crim
+[11dryancrim@lclark.edu
+[12ddeter username: lclarkfl
+[23d(B[0;7m^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos
+[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line
+[3d[4d[5d[6d[7d4. Vendor ID:[1;71H(B[0;7mModified[7;14H(B[mg    
+[22d[K[7;15 Genuin
+INPUT|lclarkfl-intro-5|U |1537989516|lclarkfl|intro:rm diskfree.txt|
+INPUT|lclarkfl-intro-6|U |1537989332|lclarkfl|intro:ls|1234567890-intro.tar.gz  answers.txt.save   wuer136intro-4.JPG
+136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg   diskfree.txt.save
+answers.txt   lclarkfl-intro.tar.gz
+INPUT|lclarkfl-intro-7|U |1537989535|lclarkfl|intro:rm diskfree.txt|rm: cannot remove 'diskfree.txt': No such file or directory
+INPUT|lclarkfl-intro-8|U |1537989521|lclarkfl|intro:ls|1234567890-intro.tar.gz  answers.txt.save   wuer136intro-4.JPG
+136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg   diskfree.txt.save
+answers.txt   lclarkfl-intro.tar.gz
+INPUT|lclarkfl-intro-9|U |1537989562|lclarkfl|intro:rm answers.txt|
+INPUT|lclarkfl-intro-10|U |1537989536|lclarkfl|intro:ls|1234567890-intro.tar.gz  answers.txt.save   lclarkfl-intro.tar.gz
+136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+136intro-3.jpg   diskfree.txt.save   xbzf136INTRO-1.jpg
+INPUT|lclarkfl-intro-11|U |1537989574|lclarkfl|intro:rm 1234567890-intro.tar.gz|
+INPUT|lclarkfl-intro-12|U |1537989563|lclarkfl|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+136intro-3.jpg      diskfree.txt.save       xbzf136INTRO-1.jpg
+answers.txt.save     lclarkfl-intro.tar.gz
+INPUT|lclarkfl-intro-13|U |000000000|lclarkfl|intro:cd lclarkfl-intro.tar.gz|bash: cd: lclarkfl-intro.tar.gz: Not a directory
+INPUT|lclarkfl-intro-14|U |1537989709|lclarkfl|intro:nano diskfree.txt.save|%[?1049h[1;24r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[22;33H(B[0;7m[ Reading File ]
+[3d(B[m[22;32H(B[0;7m[ Read 10 lines
+[13d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3           File: diskfree.txt.save                              [3;1H(B[mFilesystem[3;20H1K-blocks[36GUsed[46GAvail Capacity  Mounted on
+[4d/dev/gpt/root[21G16233660     539932   14395036     4%%    /
+[5ddevfs[5;28H1[5;39H1[5;50H0   100%%    /dev
+[6d/dev/gpt/var[6;21H64995324   24981516   34814184    42%%    /var
+[7d/dev/gpt/usr[7;21H64995324   12643132   47152568    21%%    /usr
+[8d/dev/gpt/other    2031313164 1274148264  594659848    68%%    /mnt/other
+[9d/dev/gpt/projects 2974748052  973269768 1763498440    36%%    /mnt/projects
+[10d/dev/gpt/share     507823184  235201800  231995532    50%%    /mnt/share
+[11d/dev/md0[11;22H1015324     383788     550312    41%%    /tmp
+[12dprocfs[12;28H4[12;39H4[12;50H0   100%%    /proc
+[23d(B[0;7m^G(B[m Get Help  (B[0;7m^O(B[m Writ
+INPUT|lclarkfl-intro-15|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-16|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-17|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-18|U |000000000|lclarkfl|intro:pwd|/
+INPUT|lclarkfl-intro-19|U |1537989575|lclarkfl|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfl-intro-20|U |000000000|lclarkfl|intro:cd users|
+INPUT|lclarkfl-intro-21|U |000000000|lclarkfl|intro:cd lclarkfl|
+INPUT|lclarkfl-intro-22|U |1537989768|lclarkfl|intro:ls|answers.txt  lclarkfl-intro.tar.gz  top_secret
+INPUT|lclarkfl-intro-23|U |1537989813|lclarkfl|intro:mv top_secret/ /lclarkfl-intro.tar.gz/|
+INPUT|lclarkfl-intro-24|U |1537989776|lclarkfl|intro:ls|answers.txt  lclarkfl-intro.tar.gz
+INPUT|lclarkfl-intro-25|U |000000000|lclarkfl|intro:cd lclarkfl-intro.tar.gz|bash: cd: lclarkfl-intro.tar.gz: Not a directory
+INPUT|lclarkfl-intro-26|U |1537989872|lclarkfl|intro:cat lclarkfl-intro.tar.gz|%wTT.JAdP  c$<VT>H &HN
+-  HPHs 9ghr&64{{};5ZU_Z@nVV %%(x)/ s~}-<VT>>OHHXn1l_uQ?sAa_P_H@V?2w=2<VT><VT>t`a/_FHu]{<O_x 16z
+&!|sww..>m }#
+RrrJt31Rq<`y{xx$$TTTu5bC6_sCr =2Ms./c3dK[)Fo] QRQsp
+
+ WPTRVc`haiemckg!$4cxD\de%%+kk]olnm ONQX`sOd&<VT>xL#VXW{
+f@u;lpH@/;(x&R<M%%LpXbr.wIt?u@^^^1:
+oJy/B9
+i8nc
+>4Z6%%J6|7<VT>Ft@<NP>%%
+(WDp;Mho!1Ih-
+
+`Ngwww~qe0Xon;b}>:?7\8ABYAD_?O<NP>'nKXd{oF2"-oTPe<NP><;>#P
+ T
+2b%%mRq}W(cW[0I(|HFR-bvi}?5|7f)QF[3/MYs&=JF+i\If0"<NP>
+IoX%%'@7yxOHrP%%qQ<NP>n{8<NP>@1|#bfML72o+0H?o.*N!Zo|@`VN
+?DS:_os-Ao^7+2#(!VOF;<BbSX @ZR'!KlFTKa"mwP.m6uLjSx_E(j7<VT>H5kwz<NP>#y<NP>/E;**55Sk*&cRs.*"&Ox6_%%'%%y<^kcOsgJoX DD>(uR0l^=%%6@I >W18pM#Eb)PKw"<NP>4
+a!A7dl'a"Wk|B$t5q pIEk<mN%%6&npu|{fok@4Ix.63p=^d]npwhx6+MsN
+(VE67!Ce-c C+C
+0Oye!V?K?wm$;24Ciww[Ezv~UsCpiDZe|Y/cXQ-gK@>Xp[r+"<VT>O@F:<VT>jjS||<NP>:
+tqEQ9h}<J $\<NP>8okAvPoivr%%DM6CP:4.iY8D4l0eAr.EOo?]rp 8G@CDH_T
+9q+amPMT-Tf
+w<?
+~ayrB5N]-rM_]-OMLb|}B?8<VT>RM~
+@
+INPUT|lclarkfl-intro-27|U |000000000|lclarkfl|intro:1;2c1;2c1;2c1;2c^C|
+INPUT|lclarkfl-intro-28|U |1537989815|lclarkfl|intro:ls|answers.txt  lclarkfl-intro.tar.gz
+INPUT|lclarkfl-intro-29|U |1537989923|lclarkfl|intro:cp lclarkfl-intro.tar.gz /users/lclarkfl/|cp: 'lclarkfl-intro.tar.gz' and '/users/lclarkfl/lclarkfl-intro.tar.gz' are the same file
+INPUT|lclarkfl-intro-30|U |000000000|lclarkfl|intro:logout|bash: logout: not login shell: use `exit'
+INPUT|lclarkfl-intro-31|U |000000000|lclarkfl|intro:exit|exit
+INPUT|lclarkfl-intro-32|U |1537814711|lclarkfl|intro:ls|
+INPUT|lclarkfl-intro-33|A0 A2 A1 A4 A3 |000000000|lclarkfl|intro:find . -name \"*.jpeg\"|
+INPUT|lclarkfl-intro-34|U |000000000|lclarkfl|intro:pwd|/users/lclarkfl
+INPUT|lclarkfl-intro-35|U |000000000|lclarkfl|intro:cd /root|bash: cd: /root: Permission denied
+INPUT|lclarkfl-intro-36|U |1537814990|lclarkfl|intro:cd /root|sudo: cd: command not found
+INPUT|lclarkfl-intro-37|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-38|U |1537815004|lclarkfl|intro:../|bash: ../: Is a directory
+INPUT|lclarkfl-intro-39|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-40|U |1537814723|lclarkfl|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfl-intro-41|A2 A0 A4 A3 A1 |000000000|lclarkfl|intro:find . -name "*.jpeg"|
+INPUT|lclarkfl-intro-42|A1 A3 A4 A0 A2 |1537815013|lclarkfl|intro:lsfind . -name "*.jpeg"|find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo': Permission denied
+find: './proc/2/task/2/n
+INPUT|lclarkfl-intro-43|U |000000000|lclarkfl|intro:fisudo -name \"*.jpeg\"|^C
+INPUT|lclarkfl-intro-44|M3 M2 |000000000|lclarkfl|intro:find / -iname *intro*.jp*g 2>&-|/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+^C
+INPUT|lclarkfl-intro-45|A4 A3 A1 A2 A0 |000000000|lclarkfl|intro:find / -iname *intro*1jp*g 2>&-|^C
+INPUT|lclarkfl-intro-46|M3 M2 |000000000|lclarkfl|intro:find / -iname *intro*1.jp*g 2>&-|/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+^C
+INPUT|lclarkfl-intro-47|A4 A3 A1 A2 A0 |000000000|lclarkfl|intro:find / -iname *intro*1.jp*g 2>&- /dev/null|
+INPUT|lclarkfl-intro-48|A2 A0 A4 A3 A1 |000000000|lclarkfl|intro:find / -iname *intro*1.jp*g 2>&- /dev/null|
+INPUT|lclarkfl-intro-49|A1 A4 A3 A0 A2 |1537815419|lclarkfl|intro:find / -iname *intro*1.jp*g 2> /dev/null | wc|^C  
+INPUT|lclarkfl-intro-50|U |1537815441|lclarkfl|intro:updatedb|
+INPUT|lclarkfl-intro-51|M3 M2 M0 |000000000|lclarkfl|intro:locate -i *.jpg|/etc/wuer136intro-4.JPG
+/usr/share/doc/libsane/umax/sane-logo.jpg
+/usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+/usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+/usr/share/doc/libsane/umax/sane-umax-standard.jpg
+/usr/share/doc/libsane/umax/sane-umax-text.jpg
+/usr/share/doc/libsane/umax/sane-umax-text2.jpg
+/usr/share/doc/libsane/umax/sane-umax-text4.jpg
+/usr/share/doc/libsane/umax/sane-umax.jpg
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+/var/log/136intro-3.jpg
+INPUT|lclarkfl-intro-52|A2 A0 A4 A3 A1 |000000000|lclarkfl|intro:find / -iname *intro*1.jp*g 2> /dev/null | wc|
+INPUT|lclarkfl-intro-53|U |1537815501|lclarkfl|intro:updatedb[K|
+INPUT|lclarkfl-intro-54|A4 A3 A1 A2 A0 |000000000|lclarkfl|intro:find / -iname *intro*1.jp*g 2> /dev/null | wc|
+INPUT|lclarkfl-intro-55|M4 |000000000|lclarkfl|intro:locate -i *jpeg|/.hidden/asdf136Intro-5kqlw.jpeg
+/usr/src/linux-headers-4.4.0-79/drivers/media/platform/s5p-jpeg
+/usr/src/linux-headers-4.4.0-83/drivers/media/platform/s5p-jpeg
+INPUT|lclarkfl-intro-56|M3 M2 |000000000|lclarkfl|intro:find / -iname *intro* 2>&-|/var/log/ttylog/ttylog.intro.0
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/CS495LC/exp/Adrian-Intro
+/proj/CS495LC/exp/Adrian-Intro/tbdata/Adrian-Intro.png
+/proj/CS495LC/exp/Adrian-Intro/tbdata/Adrian-Intro.ns
+/proj/CS495LC/exp/Intro-csfirewall
+/proj/CS495LC/exp/Intro-csfirewall/tbdata/Intro-csfirewall.png
+/proj/CS495LC/exp/Intro-csfirewall/tbdata/Intro-csfirewall.ns
+/proj/CS495LC/exp/IntroExperiment
+/proj/CS495LC/exp/IntroExperiment/tbdata/IntroExperiment.ns
+/proj/CS495LC/exp/IntroExperiment/tbdata/IntroExperiment.png
+/proj/CS495LC/exp/derek-linuxintro
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.ns
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.png
+/proj/CS495LC/exp/george-introUnix
+/proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.png
+/pr
+INPUT|lclarkfl-intro-57|A1 A4 A3 A0 A2 |000000000|lclarkfl|intro:find / -iname *intro* 2>&-|
+INPUT|lclarkfl-intro-58|M4 M3 M2 M1 M0 |000000000|lclarkfl|intro:find / -iname *intro*.jp*g 2>&-- /dev/null wc|/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/share/safer/conf/cloned_web_data/https/amazon/g-ecx.images-amazon.com/images/G/01/kindle/merch/2014/campaign/KB/Bueller-Roto3-NoIntro-300x120._V337018340_.jpg
+/.hidden/asdf136Intro-5kqlw.jpeg
+/dev/136intro-2jjaj.JPEG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|lclarkfl-intro-59|U |1537816596|lclarkfl|intro:man mv|%[?1049h[?1h=
+MV(1)                                                                           User Commands                                                                          MV(1)[m
+[m
+[1mNAME[0m[m
+       mv - move (rename) files[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mmv[0m [[4mOPTION[24m]... [[4m-T[24m] [4mSOURCE[24m [4mDEST[24m[m
+       [1mmv[0m [[4mOPTION[24m]... [4mSOURCE[24m... [4mDIRECTORY[24m[m
+       [1mmv[0m [[4mOPTION[24m]... [4m-t[24m [4mDIRECTORY[24m [4mSOURCE[24m...[m
+[m
+[1mDESCRIPTION[0m[m
+       Rename SOURCE to DEST%% or move SOURCE(s) to DIRECTORY.[m
+[m
+       Mandatory arguments to long options are mandatory for short options too.[m
+[m
+       [1m--backup[0m[=[4mCONTROL[24m][m
+              make a backup of each existing destination file[m
+[m
+       [1m-b[0m     like [1m--backup[0m but does not accept an argument[m
+[m
+       [1m-f[0m%% [1m--force[0m[m
+              do not prompt before overwriting[m
+[
+INPUT|lclarkfl-intro-60|U |1537817140|lclarkfl|intro:mkdir top_secret|
+INPUT|lclarkfl-intro-61|U |1537819218|lclarkfl|intro:mv /var/log/136intro-3.jpg /top_|
+INPUT|lclarkfl-intro-62|U |000000000|lclarkfl|intro:mkdir top_secret/|
+INPUT|lclarkfl-intro-63|U |000000000|lclarkfl|intro:mkdir top_secret/|
+INPUT|lclarkfl-intro-64|U |1537817184|lclarkfl|intro:mv /var/log/136intro-3.jpg /top_secret/|mv: cannot move '/var/log/136intro-3.jpg' to '/top_secret/136intro-3.jpg': Permission denied
+INPUT|lclarkfl-intro-65|U |1537817216|lclarkfl|intro:mv /etc/wuer136intro-4.JPG /top_secret/|mv: cannot move '/etc/wuer136intro-4.JPG' to '/top_secret/wuer136intro-4.JPG': Permission denied
+INPUT|lclarkfl-intro-66|U |1537817253|lclarkfl|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp        users  var      vmlinuz.old
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  top_secret  usr    vmlinuz
+INPUT|lclarkfl-intro-67|U |1537817600|lclarkfl|intro:mv /etc/wuer136intro-4.JPG /top_secret/|
+INPUT|lclarkfl-intro-68|U |1537817401|lclarkfl|intro:mv /dev/136intro-2jjaj.JPEG /top_secret|
+INPUT|lclarkfl-intro-69|U |1537817404|lclarkfl|intro:mv /dev/136intro-2jjaj.JPEG /top_secret/|mv: cannot stat '/dev/136intro-2jjaj.JPEG': No such file or directory
+INPUT|lclarkfl-intro-70|U |1537817448|lclarkfl|intro:mv /dev/136intro-2jjaj.JPEG /top_secret/|mv: cannot stat '/dev/136intro-2jjaj.JPEG': No such file or directory
+INPUT|lclarkfl-intro-71|U |000000000|lclarkfl|intro:cd /top_secret/|
+INPUT|lclarkfl-intro-72|U |1537817489|lclarkfl|intro:ls|136intro-2jjaj.JPEG
+INPUT|lclarkfl-intro-73|U |1537817600|lclarkfl|intro:mv /etc/wuer136intro-4.JPG /top_secret/|
+INPUT|lclarkfl-intro-74|U |1537817604|lclarkfl|intro:ls|136intro-2jjaj.JPEG  wuer136intro-4.JPG
+INPUT|lclarkfl-intro-75|U |1537817754|lclarkfl|intro:mv /var/log/136intro-3.jpg /top_secret?|
+INPUT|lclarkfl-intro-76|U |1537817760|lclarkfl|intro:mv /var/log/136intro-3.jpg /top_secret/|mv: cannot stat '/var/log/136intro-3.jpg': No such file or directory
+INPUT|lclarkfl-intro-77|U |1537817763|lclarkfl|intro:ls|136intro-2jjaj.JPEG  wuer136intro-4.JPG
+INPUT|lclarkfl-intro-78|U |1537817784|lclarkfl|intro:mv /var/log/136intro-3.jpg /top_secret/|mv: cannot stat '/var/log/136intro-3.jpg': No such file or directory
+INPUT|lclarkfl-intro-79|U |1537818193|lclarkfl|intro:mv /var/log/136intro-3.jpg /top_secret/|
+INPUT|lclarkfl-intro-80|U |1537817790|lclarkfl|intro:ls[K|136intro-2jjaj.JPEG  wuer136intro-4.JPG
+INPUT|lclarkfl-intro-81|U |1537817906|lclarkfl|intro:mv /.hidden/asdf136Intro-5kqlw.jpeg /top_secret/|
+INPUT|lclarkfl-intro-82|U |1537817908|lclarkfl|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+INPUT|lclarkfl-intro-83|U |1537818150|lclarkfl|intro:mv /usr/share/pixmaps/xbzf136INTRO-1.jpg /top_secret/|
+INPUT|lclarkfl-intro-84|U |1537818152|lclarkfl|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkfl-intro-85|U |1537818875|lclarkfl|intro:mv /var/log/136intro-3.jpg /top_secret?|mv: cannot stat '/var/log/136intro-3.jpg': No such file or directory
+INPUT|lclarkfl-intro-86|U |1537818340|lclarkfl|intro:mv /var/log/136intro-3.jpg /top_secret/|mv: cannot stat '/var/log/136intro-3.jpg': No such file or directory
+INPUT|lclarkfl-intro-87|U |1537818199|lclarkfl|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkfl-intro-88|U |1537818880|lclarkfl|intro:mv /var/log/136intro-3.jpg /top_secret/|mv: cannot stat '/var/log/136intro-3.jpg': No such file or directory
+INPUT|lclarkfl-intro-89|U |1537819218|lclarkfl|intro:mv /var/log/136intro-3.jpg /top_secret/|
+INPUT|lclarkfl-intro-90|U |1537818345|lclarkfl|intro:ls[K|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkfl-intro-91|U |1537818440|lclarkfl|intro:../ root|bash: ../: Is a directory
+INPUT|lclarkfl-intro-92|U |000000000|lclarkfl|intro:cd ../root|bash: cd: ../root: Permission denied
+INPUT|lclarkfl-intro-93|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-94|U |1537818469|lclarkfl|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp        top_secret?  usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  top_secret  users     var  vmlinuz.old
+INPUT|lclarkfl-intro-95|U |000000000|lclarkfl|intro:cd /var/log/136intro-3.jpg|bash: cd: /var/log/136intro-3.jpg: No such file or directory
+INPUT|lclarkfl-intro-96|A1 A3 A4 A0 A2 |000000000|lclarkfl|intro:find / -iname *intro*.jp*g 2>&-|^C
+INPUT|lclarkfl-intro-97|A2 A0 A4 A3 A1 |000000000|lclarkfl|intro:find / -iname *intro*.jp*g 2>&-|^C
+INPUT|lclarkfl-intro-98|U |1537819928|lclarkfl|intro:mv /var/log/136intro-3.jpg /top_secret?|mv: cannot stat '/var/log/136intro-3.jpg': No such file or directory
+INPUT|lclarkfl-intro-99|U |1537819229|lclarkfl|intro:mv /var/log/136intro-3.jpg /top_secret/|mv: cannot stat '/var/log/136intro-3.jpg': No such file or directory
+INPUT|lclarkfl-intro-100|U |000000000|lclarkfl|intro:cd top_secret|
+INPUT|lclarkfl-intro-101|U |1537818893|lclarkfl|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkfl-intro-102|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-103|M3 M2 M0 |000000000|lclarkfl|intro:locate -i *.jpg|/etc/wuer136intro-4.JPG
+/usr/share/doc/libsane/umax/sane-logo.jpg
+/usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+/usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+/usr/share/doc/libsane/umax/sane-umax-standard.jpg
+/usr/share/doc/libsane/umax/sane-umax-text.jpg
+/usr/share/doc/libsane/umax/sane-umax-text2.jpg
+/usr/share/doc/libsane/umax/sane-umax-text4.jpg
+/usr/share/doc/libsane/umax/sane-umax.jpg
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+/var/log/136intro-3.jpg
+INPUT|lclarkfl-intro-104|U |1537818953|lclarkfl|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp   users vmlinuz
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   top_secret  usr vmlinuz.old
+dev   home    lib       lost+found  opt  root  share  sys   top_secret?  var
+INPUT|lclarkfl-intro-105|U |1537818977|lclarkfl|intro:cp /var/log/136intro-3.jpg|cp: missing destination file operand after '/var/log/136intro-3.jpg'
+Try 'cp --help' for more information.
+INPUT|lclarkfl-intro-106|A2 A0 A4 A3 A1 |1537818989|lclarkfl|intro:locate /var/log/136intro-3.jpg|locate: can not open `/var/lib/mlocate/mlocate.db': Permission denied
+INPUT|lclarkfl-intro-107|M2 |1537819020|lclarkfl|intro:find /var/log/136intro-3.jpg|find: '/var/log/136intro-3.jpg': No such file or directory
+INPUT|lclarkfl-intro-108|M2 |1537819029|lclarkfl|intro:find /var/log/136intro-3.jpg|find: '/var/log/136intro-3.jpg': No such file or directory
+INPUT|lclarkfl-intro-109|U |000000000|lclarkfl|intro:cd log|bash: cd: log: No such file or directory
+INPUT|lclarkfl-intro-110|U |000000000|lclarkfl|intro:cd var|
+INPUT|lclarkfl-intro-111|U |1537819081|lclarkfl|intro:ls|backups  cache crash  emulab  lib  local  lock  log  mail  opt  run  snap  spool  tmp
+INPUT|lclarkfl-intro-112|U |000000000|lclarkfl|intro:cd log|
+INPUT|lclarkfl-intro-113|U |1537819095|lclarkfl|intro:ls|alternatives.log  bootstrap.log  dmesg      faillog      installer lxd   syslog   unattended-upgrades
+apt    btmp   dpkg.log    fontconfig.log  kern.log ntpstats  tiplogs  wtmp
+auth.log   dist-upgrade  emulab.log  fsck      lastlog quagga   ttylog
+INPUT|lclarkfl-intro-114|M3 M2 M0 |000000000|lclarkfl|intro:locate -i *.jpg|/etc/wuer136intro-4.JPG
+/usr/share/doc/libsane/umax/sane-logo.jpg
+/usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+/usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+/usr/share/doc/libsane/umax/sane-umax-standard.jpg
+/usr/share/doc/libsane/umax/sane-umax-text.jpg
+/usr/share/doc/libsane/umax/sane-umax-text2.jpg
+/usr/share/doc/libsane/umax/sane-umax-text4.jpg
+/usr/share/doc/libsane/umax/sane-umax.jpg
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+/var/log/136intro-3.jpg
+INPUT|lclarkfl-intro-115|U |000000000|lclarkfl|intro:echo /var/log/136intro-3.jpg|/var/log/136intro-3.jpg
+INPUT|lclarkfl-intro-116|U |1537820049|lclarkfl|intro:mv /var/log/136intro-3.jpg|mv: missing destination file operand after '/var/log/136intro-3.jpg'
+Try 'mv --help' for more information.
+INPUT|lclarkfl-intro-117|U |1537819937|lclarkfl|intro:mv /var/log/136intro-3.jpg /top_secret/|mv: cannot stat '/var/log/136intro-3.jpg': No such file or directory
+INPUT|lclarkfl-intro-118|U |1537819238|lclarkfl|intro:ls|alternatives.log  bootstrap.log  dmesg      faillog      installer lxd   syslog   unattended-upgrades
+apt    btmp   dpkg.log    fontconfig.log  kern.log ntpstats  tiplogs  wtmp
+auth.log   dist-upgrade  emulab.log  fsck      lastlog quagga   ttylog
+INPUT|lclarkfl-intro-119|U |000000000|lclarkfl|intro:cd bootstrap.log|bash: cd: bootstrap.log: Not a directory
+INPUT|lclarkfl-intro-120|U |1537819255|lclarkfl|intro:ls|alternatives.log  bootstrap.log  dmesg      faillog      installer lxd   syslog   unattended-upgrades
+apt    btmp   dpkg.log    fontconfig.log  kern.log ntpstats  tiplogs  wtmp
+auth.log   dist-upgrade  emulab.log  fsck      lastlog quagga   ttylog
+INPUT|lclarkfl-intro-121|U |000000000|lclarkfl|intro:cd ernatives.log|bash: cd: alternatives.log: Not a directory
+INPUT|lclarkfl-intro-122|A4 A3 A1 A2 A0 |1537819301|lclarkfl|intro:locate /var/log/136intro-3.jpg|locate: can not open `/var/lib/mlocate/mlocate.db': Permission denied
+INPUT|lclarkfl-intro-123|U |1537819309|lclarkfl|intro:man mv|%[?1049h[?1h=
+MV(1)                                                          User Commands                                                         MV(1)[m
+[m
+[1mNAME[0m[m
+       mv - move (rename) files[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mmv[0m [[4mOPTION[24m]... [[4m-T[24m] [4mSOURCE[24m [4mDEST[24m[m
+       [1mmv[0m [[4mOPTION[24m]... [4mSOURCE[24m... [4mDIRECTORY[24m[m
+       [1mmv[0m [[4mOPTION[24m]... [4m-t[24m [4mDIRECTORY[24m [4mSOURCE[24m...[m
+[m
+[1mDESCRIPTION[0m[m
+       Rename SOURCE to DEST%% or move SOURCE(s) to DIRECTORY.[m
+[m
+       Mandatory arguments to long options are mandatory for short options too.[m
+[m
+       [1m--backup[0m[=[4mCONTROL[24m][m
+              make a backup of each existing destination file[m
+[m
+       [1m-b[0m     like [1m--backup[0m but does not accept an argument[m
+[m
+       [1m-f[0m%% [1m--force[0m[m
+              do not prompt before overwriting[m
+[m
+       [1m-i[0m%% [1m--intera
+INPUT|lclarkfl-intro-124|U |1537819508|lclarkfl|intro:file /var/log/136intro-3.jpg|/var/log/136intro-3.jpg: cannot open `/var/log/136intro-3.jpg' (No such file or directory)
+INPUT|lclarkfl-intro-125|U |000000000|lclarkfl|intro:dos2unix /var/log/136intro-3.jpg|The program 'dos2unix' is currently not installed. To run 'dos2unix' please ask your administrator to install the package 'dos2unix'
+INPUT|lclarkfl-intro-126|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-127|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-128|U |1537819560|lclarkfl|intro:cd../|bash: cd../: No such file or directory
+INPUT|lclarkfl-intro-129|U |000000000|lclarkfl|intro:dos2unix /var/log/136intro-3.jpg|
+INPUT|lclarkfl-intro-130|U |000000000|lclarkfl|intro:file /var/log/136intro-3.jpg|
+INPUT|lclarkfl-intro-131|A4 A3 A1 A2 A0 |000000000|lclarkfl|intro:locate /var/log/136intro-3.jpg|
+INPUT|lclarkfl-intro-132|U |000000000|lclarkfl|intro:mv /var/log/136intro-3.jpg /top_secret/|
+INPUT|lclarkfl-intro-133|U |000000000|lclarkfl|intro:echo /var/log/136intro-3.jpg|
+INPUT|lclarkfl-intro-134|A0 A2 A1 A4 A3 |000000000|lclarkfl|intro:locate -i *.jpg|
+INPUT|lclarkfl-intro-135|U |000000000|lclarkfl|intro:echo /var/log/136intro-3.jpg|/var/log/136intro-3.jpg
+INPUT|lclarkfl-intro-136|U |000000000|lclarkfl|intro:echo /var/log/136intro-3.jpg|/var/log/136intro-3.jpg
+INPUT|lclarkfl-intro-137|U |000000000|lclarkfl|intro:echo /var/log/136intro-3.jpg|
+INPUT|lclarkfl-intro-138|U |000000000|lclarkfl|intro:dos2unix /var/log/136intro-3.jpg|
+INPUT|lclarkfl-intro-139|U |000000000|lclarkfl|intro:file /var/log/136intro-3.jpg|
+INPUT|lclarkfl-intro-140|A1 A3 A4 A0 A2 |000000000|lclarkfl|intro:locate /var/log/136intro-3.jpg|
+INPUT|lclarkfl-intro-141|U |000000000|lclarkfl|intro:mv /var/log/136intro-3.jpg /top_secret/|
+INPUT|lclarkfl-intro-142|U |000000000|lclarkfl|intro:echo /var/log/136intro-3.jpg|
+INPUT|lclarkfl-intro-143|A1 A4 A3 A0 A2 |000000000|lclarkfl|intro:locate -i *.jpg|
+INPUT|lclarkfl-intro-144|A0 A2 A1 A4 A3 |1537820033|lclarkfl|intro:ls[4P[27@sudo find /var/log/136intro-3.jpg|
+INPUT|lclarkfl-intro-145|A1 A4 A3 A0 A2 |000000000|lclarkfl|intro:find /var/log/136intro-3.jpg|
+INPUT|lclarkfl-intro-146|A4 A3 A1 A2 A0 |000000000|lclarkfl|intro:locate /var/log/136intro-3.jpg|
+INPUT|lclarkfl-intro-147|U |000000000|lclarkfl|intro:cp /var/log/136intro-3.jpg|
+INPUT|lclarkfl-intro-148|A0 A2 A1 A4 A3 |1537820057|lclarkfl|intro:lssudo locate -i *.jpg|/etc/wuer136intro-4.JPG
+/usr/share/doc/libsane/umax/sane-logo.jpg
+/usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+/usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+/usr/share/doc/libsane/umax/sane-umax-standard.jpg
+/usr/share/doc/libsane/umax/sane-umax-text.jpg
+/usr/share/doc/libsane/umax/sane-umax-text2.jpg
+/usr/share/doc/libsane/umax/sane-umax-text4.jpg
+/usr/share/doc/libsane/umax/sane-umax.jpg
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+/var/log/136intro-3.jpg
+INPUT|lclarkfl-intro-149|U |1537819761|lclarkfl|intro:mv -i /var/log/136intro-3.jpg|mv: missing destination file operand after '/var/log/136intro-3.jpg'
+Try 'mv --help' for more information.
+INPUT|lclarkfl-intro-150|U |1537819772|lclarkfl|intro:mv -i /var/log/136intro-3.jpg /top_secret/|mv: cannot stat '/var/log/136intro-3.jpg': No such file or directory
+INPUT|lclarkfl-intro-151|U |000000000|lclarkfl|intro:cmd|%No command 'cmd' found%% but there are 17 similar ones
+cmd: command not found%
+INPUT|lclarkfl-intro-152|U |000000000|lclarkfl|intro:cp ~/var/log/136intro-3.jpg|cp: missing destination file operand after '/users/lclarkfl/var/log/136intro-3.jpg'
+Try 'cp --help' for more information.
+INPUT|lclarkfl-intro-153|U |000000000|lclarkfl|intro:cp ~/var/log/136intro-3.jpg ~/top_secret|cp: cannot stat '/users/lclarkfl/var/log/136intro-3.jpg': No such file or directory
+INPUT|lclarkfl-intro-154|U |000000000|lclarkfl|intro:cp ~/var/log/136intro-3.jpg ~/top_secret|
+INPUT|lclarkfl-intro-155|U |000000000|lclarkfl|intro:mv /var/log/136intro-3.jpg|mv: missing destination file operand after '/var/log/136intro-3.jpg'
+Try 'mv --help' for more information.
+INPUT|lclarkfl-intro-156|U |1537820055|lclarkfl|intro:mv /var/log/136intro-3.jpg /top_secret|mv: cannot stat '/var/log/136intro-3.jpg': No such file or directory
+INPUT|lclarkfl-intro-157|U |000000000|lclarkfl|intro:cd top_secret|
+INPUT|lclarkfl-intro-158|U |1537820064|lclarkfl|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkfl-intro-159|U |000000000|lclarkfl|intro:mv /var/log/136intro-3.jpg|mv: missing destination file operand after '/var/log/136intro-3.jpg'
+Try 'mv --help' for more information.
+INPUT|lclarkfl-intro-160|U |1537820062|lclarkfl|intro:mv /var/log/136intro-3.jpg /top_secret|mv: cannot stat '/var/log/136intro-3.jpg': No such file or directory
+INPUT|lclarkfl-intro-161|U |1537820191|lclarkfl|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkfl-intro-162|U |000000000|lclarkfl|intro:mv /var/log/136intro-3.jpg /top_secret|mv: cannot stat '/var/log/136intro-3.jpg': No such file or directory
+INPUT|lclarkfl-intro-163|U |1537820212|lclarkfl|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkfl-intro-164|U |1537820189|lclarkfl|intro:mv /var/log/136intro-3.jpg /top_secret/|mv: cannot stat '/var/log/136intro-3.jpg': No such file or directory
+INPUT|lclarkfl-intro-165|U |000000000|lclarkfl|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkfl-intro-166|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-167|U |000000000|lclarkfl|intro:mv /var/log/136intro-3.jpg /top_secret/|mv: cannot stat '/var/log/136intro-3.jpg': No such file or directory
+INPUT|lclarkfl-intro-168|U |000000000|lclarkfl|intro:cd top_secret|
+INPUT|lclarkfl-intro-169|U |000000000|lclarkfl|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkfl-intro-170|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-171|U |1537921835|lclarkfl|intro:ls|abhi  bloznali  gerow     jboman   jjh melkins   scuric   sharead  shareah  shareal  shareap  shareat shareax  sharebb  sharetb
+alefiya  ekline    gknopf    jelena   jross piobair   shareaa  shareae  shareai  shaream  shareaq  shareau shareay  sharebc  sklower
+alwabel  faber    glawler   jgli     kls2 rgoodfel  shareab  shareaf  shareaj  sharean  sharear  shareav shareaz  sharebd  sunshine
+bks  gbartlet  jaipuria  jhickey  lclarkfl schwab   shareac  shareag  shareak  shareao  shareas  shareaw shareba  shareta
+INPUT|lclarkfl-intro-172|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-173|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-174|U |1537921840|lclarkfl|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkfl-intro-175|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-176|U |1537921861|lclarkfl|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkfl-intro-177|U |1537921889|lclarkfl|intro:ssh intro.Ryan.CS495LC.isi.deterlab.net|Warning: Permanently added the RSA host key for IP address '192.168.1.184' to the list of known hosts.
+
+INPUT|lclarkfl-intro-178|U |1537921872|lclarkfl|intro:ls|
+INPUT|lclarkfl-intro-179|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-180|U |000000000|lclarkfl|intro:ls|abhi  bloznali  gerow     jboman   jjh melkins   scuric   sharead  shareah  shareal  shareap  shareat shareax  sharebb  sharetb
+alefiya  ekline    gknopf    jelena   jross piobair   shareaa  shareae  shareai  shaream  shareaq  shareau shareay  sharebc  sklower
+alwabel  faber    glawler   jgli     kls2 rgoodfel  shareab  shareaf  shareaj  sharean  sharear  shareav shareaz  sharebd  sunshine
+bks  gbartlet  jaipuria  jhickey  lclarkfl schwab   shareac  shareag  shareak  shareao  shareas  shareaw shareba  shareta
+INPUT|lclarkfl-intro-181|U |000000000|lclarkfl|intro:cd lclarkfl|
+INPUT|lclarkfl-intro-182|U |000000000|lclarkfl|intro:ls|
+INPUT|lclarkfl-intro-183|U |000000000|lclarkfl|intro:cd top_secret/|bash: cd: top_secret/: No such file or directory
+INPUT|lclarkfl-intro-184|U |000000000|lclarkfl|intro:cd `|> c<BS> <BS>c<BS> <BS><BEL>^C
+INPUT|lclarkfl-intro-185|U |000000000|lclarkfl|intro:cd ~|
+INPUT|lclarkfl-intro-186|U |000000000|lclarkfl|intro:ls|
+INPUT|lclarkfl-intro-187|U |000000000|lclarkfl|intro:pwd|/users/lclarkfl
+INPUT|lclarkfl-intro-188|U |000000000|lclarkfl|intro:cd /|
+INPUT|lclarkfl-intro-189|A0 A2 A1 A4 A3 |000000000|lclarkfl|intro:find -name \"top_secret\"|^C
+INPUT|lclarkfl-intro-190|M4 M3 M2 M1 M0 |000000000|lclarkfl|intro:find / -iname *intro*.jp*g 2>&-|/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/.hidden/asdf136Intro-5kqlw.jpeg
+/dev/136intro-2jjaj.JPEG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|lclarkfl-intro-191|U |000000000|lclarkfl|intro:mkdir top_secret|mkdir: cannot create directory 'top_secret': Permission denied
+INPUT|lclarkfl-intro-192|U |000000000|lclarkfl|intro:mkdir top_secret|
+INPUT|lclarkfl-intro-193|U |000000000|lclarkfl|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp        users  var      vmlinuz.old
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  top_secret  usr    vmlinuz
+INPUT|lclarkfl-intro-194|U |000000000|lclarkfl|intro:pwd|/
+INPUT|lclarkfl-intro-195|U |000000000|lclarkfl|intro:cd users/lclarkfl/|
+INPUT|lclarkfl-intro-196|U |000000000|lclarkfl|intro:mkdir top_secret|
+INPUT|lclarkfl-intro-197|U |000000000|lclarkfl|intro:ls|top_secret
+INPUT|lclarkfl-intro-198|U |000000000|lclarkfl|intro:mkdir top_secret|
+INPUT|lclarkfl-intro-199|U |000000000|lclarkfl|intro:mkdir top_secret|
+INPUT|lclarkfl-intro-200|U |000000000|lclarkfl|intro:sucd ../|
+INPUT|lclarkfl-intro-201|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-202|U |000000000|lclarkfl|intro:mkdir top_secret|
+INPUT|lclarkfl-intro-203|U |000000000|lclarkfl|intro:mkdir top_secret|
+INPUT|lclarkfl-intro-204|A0 A2 A1 A4 A3 |000000000|lclarkfl|intro:find -name \"top_secret\"|
+INPUT|lclarkfl-intro-205|A2 A0 A4 A3 A1 |000000000|lclarkfl|intro:find / -iname *intro*.jp*g 2>&-|
+INPUT|lclarkfl-intro-206|U |000000000|lclarkfl|intro:ssh intro.Ryan.CS495LC.isi.deterlab.net|
+INPUT|lclarkfl-intro-207|A2 A0 A4 A3 A1 |000000000|lclarkfl|intro:find / -iname *intro*.jp*g 2>&- > ~/top_secret/answers.txt|
+INPUT|lclarkfl-intro-208|U |000000000|lclarkfl|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp        users  var      vmlinuz.old
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  top_secret  usr    vmlinuz
+INPUT|lclarkfl-intro-209|U |000000000|lclarkfl|intro:cd top_secret|
+INPUT|lclarkfl-intro-210|U |000000000|lclarkfl|intro:ls|
+INPUT|lclarkfl-intro-211|U |000000000|lclarkfl|intro:cd /|
+INPUT|lclarkfl-intro-212|U |000000000|lclarkfl|intro:cd users/lclarkfl/top_secret/|
+INPUT|lclarkfl-intro-213|U |000000000|lclarkfl|intro:ls|
+INPUT|lclarkfl-intro-214|U |000000000|lclarkfl|intro:pwd|/users/lclarkfl/top_secret
+INPUT|lclarkfl-intro-215|U |000000000|lclarkfl|intro:cd /sers/lclarkfl/top_secret/|
+INPUT|lclarkfl-intro-216|U |000000000|lclarkfl|intro:cd users/lclarkfl/top_secret/|
+INPUT|lclarkfl-intro-217|A2 A0 A4 A3 A1 |000000000|lclarkfl|intro:find / -iname *intro*.jp*g 2>&- > /users/lclarkfl/top_secret/answers.txt|
+INPUT|lclarkfl-intro-218|U |000000000|lclarkfl|intro:cd users/lclarkfl/top_secret/|
+INPUT|lclarkfl-intro-219|U |000000000|lclarkfl|intro:ls|
+INPUT|lclarkfl-intro-220|U |000000000|lclarkfl|intro:cd /|
+INPUT|lclarkfl-intro-221|U |000000000|lclarkfl|intro:cd users/lclarkfl/top_secret/|
+INPUT|lclarkfl-intro-222|M3 M2 |000000000|lclarkfl|intro:find / -iname *intro*.jp*g 2>&-|/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+^C
+INPUT|lclarkfl-intro-223|A1 A4 A3 A0 A2 |000000000|lclarkfl|intro:find / -iname *intro*.jp*g 2>&- >|
+INPUT|lclarkfl-intro-224|U |000000000|lclarkfl|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp        users  var      vmlinuz.old
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  top_secret  usr    vmlinuz
+INPUT|lclarkfl-intro-225|U |000000000|lclarkfl|intro:cd top_secret/|
+INPUT|lclarkfl-intro-226|U |000000000|lclarkfl|intro:ls|
+INPUT|lclarkfl-intro-227|U |000000000|lclarkfl|intro:cd /|
+INPUT|lclarkfl-intro-228|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-229|U |1537921893|lclarkfl|intro:ls|abhi  bloznali  gerow     jboman   jjh melkins   scuric   sharead  shareah  shareal  shareap  shareat shareax  sharebb  sharetb
+alefiya  ekline    gknopf    jelena   jross piobair   shareaa  shareae  shareai  shaream  shareaq  shareau shareay  sharebc  sklower
+alwabel  faber    glawler   jgli     kls2 rgoodfel  shareab  shareaf  shareaj  sharean  sharear  shareav shareaz  sharebd  sunshine
+bks  gbartlet  jaipuria  jhickey  lclarkfl schwab   shareac  shareag  shareak  shareao  shareas  shareaw shareba  shareta
+INPUT|lclarkfl-intro-230|U |000000000|lclarkfl|intro:cd lclarkfl|
+INPUT|lclarkfl-intro-231|U |1537921898|lclarkfl|intro:ls|
+INPUT|lclarkfl-intro-232|U |000000000|lclarkfl|intro:cd top_secret/|bash: cd: top_secret/: No such file or directory
+INPUT|lclarkfl-intro-233|U |000000000|lclarkfl|intro:cd `|> c<BS> <BS>c<BS> <BS><BEL>^C
+INPUT|lclarkfl-intro-234|U |000000000|lclarkfl|intro:cd ~|
+INPUT|lclarkfl-intro-235|U |1537921975|lclarkfl|intro:ls|
+INPUT|lclarkfl-intro-236|U |000000000|lclarkfl|intro:pwd|/users/lclarkfl
+INPUT|lclarkfl-intro-237|U |000000000|lclarkfl|intro:cd /|
+INPUT|lclarkfl-intro-238|A2 A0 A4 A3 A1 |000000000|lclarkfl|intro:find -name \"top_secret\"|^C
+INPUT|lclarkfl-intro-239|M4 M3 M2 M1 M0 |000000000|lclarkfl|intro:find / -iname *intro*.jp*g 2>&-|/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/.hidden/asdf136Intro-5kqlw.jpeg
+/dev/136intro-2jjaj.JPEG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|lclarkfl-intro-240|U |000000000|lclarkfl|intro:mkdir top_secret|mkdir: cannot create directory 'top_secret': Permission denied
+INPUT|lclarkfl-intro-241|U |1537922230|lclarkfl|intro:mkdir top_secret|
+INPUT|lclarkfl-intro-242|U |1537921999|lclarkfl|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp        users  var      vmlinuz.old
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  top_secret  usr    vmlinuz
+INPUT|lclarkfl-intro-243|U |000000000|lclarkfl|intro:pwd|/
+INPUT|lclarkfl-intro-244|U |000000000|lclarkfl|intro:cd users/lclarkfl/|
+INPUT|lclarkfl-intro-245|U |1537922265|lclarkfl|intro:mkdir top_secret|
+INPUT|lclarkfl-intro-246|U |1537922234|lclarkfl|intro:ls|top_secret
+INPUT|lclarkfl-intro-247|U |000000000|lclarkfl|intro:mkdir top_secret|
+INPUT|lclarkfl-intro-248|U |000000000|lclarkfl|intro:mkdir top_secret|
+INPUT|lclarkfl-intro-249|U |000000000|lclarkfl|intro:sucd ../|
+INPUT|lclarkfl-intro-250|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-251|U |000000000|lclarkfl|intro:mkdir top_secret|
+INPUT|lclarkfl-intro-252|U |000000000|lclarkfl|intro:mkdir top_secret|
+INPUT|lclarkfl-intro-253|A1 A4 A3 A0 A2 |000000000|lclarkfl|intro:find -name \"top_secret\"|
+INPUT|lclarkfl-intro-254|A1 A4 A3 A0 A2 |000000000|lclarkfl|intro:find / -iname *intro*.jp*g 2>&-|
+INPUT|lclarkfl-intro-255|U |000000000|lclarkfl|intro:ssh intro.Ryan.CS495LC.isi.deterlab.net|
+INPUT|lclarkfl-intro-256|A1 A3 A4 A0 A2 |000000000|lclarkfl|intro:find / -iname *intro*.jp*g 2>&- > ~/top_secret/answers.txt|
+INPUT|lclarkfl-intro-257|U |1537922268|lclarkfl|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp        users  var      vmlinuz.old
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  top_secret  usr    vmlinuz
+INPUT|lclarkfl-intro-258|U |000000000|lclarkfl|intro:cd top_secret|
+INPUT|lclarkfl-intro-259|U |1537922324|lclarkfl|intro:ls|
+INPUT|lclarkfl-intro-260|U |000000000|lclarkfl|intro:cd /|
+INPUT|lclarkfl-intro-261|U |000000000|lclarkfl|intro:cd users/lclarkfl/top_secret/|
+INPUT|lclarkfl-intro-262|U |1537922329|lclarkfl|intro:ls|
+INPUT|lclarkfl-intro-263|U |000000000|lclarkfl|intro:pwd|/users/lclarkfl/top_secret
+INPUT|lclarkfl-intro-264|U |000000000|lclarkfl|intro:cd /sers/lclarkfl/top_secret/|
+INPUT|lclarkfl-intro-265|U |000000000|lclarkfl|intro:cd users/lclarkfl/top_secret/|
+INPUT|lclarkfl-intro-266|A1 A3 A4 A0 A2 |000000000|lclarkfl|intro:find / -iname *intro*.jp*g 2>&- > /users/lclarkfl/top_secret/answers.txt|
+INPUT|lclarkfl-intro-267|U |000000000|lclarkfl|intro:cd users/lclarkfl/top_secret/|
+INPUT|lclarkfl-intro-268|U |1537922347|lclarkfl|intro:ls|
+INPUT|lclarkfl-intro-269|U |000000000|lclarkfl|intro:cd /|
+INPUT|lclarkfl-intro-270|U |000000000|lclarkfl|intro:cd users/lclarkfl/top_secret/|
+INPUT|lclarkfl-intro-271|M3 M2 |000000000|lclarkfl|intro:find / -iname *intro*.jp*g 2>&-|/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+^C
+INPUT|lclarkfl-intro-272|A1 A3 A4 A0 A2 |000000000|lclarkfl|intro:find / -iname *intro*.jp*g 2>&- >|
+INPUT|lclarkfl-intro-273|U |000000000|lclarkfl|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp        users  var      vmlinuz.old
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  top_secret  usr    vmlinuz
+INPUT|lclarkfl-intro-274|U |000000000|lclarkfl|intro:cd top_secret/|
+INPUT|lclarkfl-intro-275|U |1537922439|lclarkfl|intro:ls|
+INPUT|lclarkfl-intro-276|U |000000000|lclarkfl|intro:cd /|
+INPUT|lclarkfl-intro-277|U |000000000|lclarkfl|intro:cd top_secret|
+INPUT|lclarkfl-intro-278|U |1537923017|lclarkfl|intro:ls|
+INPUT|lclarkfl-intro-279|A1 A3 A4 A0 A2 |000000000|lclarkfl|intro:%find / -iname *intro*.jp*g 2>%&-%|/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/.hidden/asdf136Intro-5kqlw.jpeg
+/dev/136intro-2jjaj.JPEG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|lclarkfl-intro-280|U |000000000|lclarkfl|intro:mv /var/log/136intro-3.jpg /top_|
+INPUT|lclarkfl-intro-281|A4 A3 A1 A2 A0 |000000000|lclarkfl|intro:find / -iname *intro*.jp*g 2>&-|
+INPUT|lclarkfl-intro-282|U |1537923279|lclarkfl|intro:mv /var/log/136intro-3.jpg /top_secret/|mv: cannot move '/var/log/136intro-3.jpg' to '/top_secret/': Not a directory
+INPUT|lclarkfl-intro-283|U |1537923301|lclarkfl|intro:mv /etc/wuer136intro-4.JPG /top_secret/|mv: cannot move '/etc/wuer136intro-4.JPG' to '/top_secret/': Not a directory
+INPUT|lclarkfl-intro-284|U |1537923028|lclarkfl|intro:ls|
+INPUT|lclarkfl-intro-285|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-286|U |1537923303|lclarkfl|intro:ls|top_secret
+INPUT|lclarkfl-intro-287|U |1537923408|lclarkfl|intro:mv /etc/wuer136intro-4.JPG /top_secret/|mv: cannot move '/etc/wuer136intro-4.JPG' to '/top_secret/': Not a directory
+INPUT|lclarkfl-intro-288|U |000000000|lclarkfl|intro:cd top_secret|
+INPUT|lclarkfl-intro-289|U |1537923309|lclarkfl|intro:ls|
+INPUT|lclarkfl-intro-290|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-291|U |000000000|lclarkfl|intro:pwd|/users/lclarkfl
+INPUT|lclarkfl-intro-292|U |000000000|lclarkfl|intro:mv /etc/wuer136intro-4.JPG /top_secret/|
+INPUT|lclarkfl-intro-293|U |1537923422|lclarkfl|intro:lscd /|
+INPUT|lclarkfl-intro-294|U |000000000|lclarkfl|intro:pwd|/
+INPUT|lclarkfl-intro-295|U |000000000|lclarkfl|intro:mv /etc/wuer136intro-4.JPG /top_secret/|
+INPUT|lclarkfl-intro-296|U |1537923521|lclarkfl|intro:ls[4Psudo mv /etc/wuer136intro-4.JPG /top_secret/|
+INPUT|lclarkfl-intro-297|U |000000000|lclarkfl|intro:mv /var/log/136intro-3.jpg /top_secret/|
+INPUT|lclarkfl-intro-298|A4 A3 A1 A2 A0 |000000000|lclarkfl|intro:find / -iname *intro*.jp*g 2>&-|
+INPUT|lclarkfl-intro-299|U |1537923534|lclarkfl|intro:lslsssh intro.Ryan.CS495LC.isi.deterlab.net|
+INPUT|lclarkfl-intro-300|A2 A0 A4 A3 A1 |1537923768|lclarkfl|intro:lslsfind / -iname *intro*.jp*g 2>&- > users/lclarkfl/top_secret/an|sers.txt
+INPUT|lclarkfl-intro-301|U |000000000|lclarkfl|intro:cd top_secret|bash: cd: top_secret: No such file or directory
+INPUT|lclarkfl-intro-302|U |1537924232|lclarkfl|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfl-intro-303|U |000000000|lclarkfl|intro:cd users/lclarkfl/top_secret/|
+INPUT|lclarkfl-intro-304|U |1537924241|lclarkfl|intro:ls|
+INPUT|lclarkfl-intro-305|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-306|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-307|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-308|U |000000000|lclarkfl|intro:pwd|/
+INPUT|lclarkfl-intro-309|U |1537923683|lclarkfl|intro:mv /var/log/136intro-3.jpg /users/lclarkfl/top_secret/|
+INPUT|lclarkfl-intro-310|U |000000000|lclarkfl|intro:cd users|
+INPUT|lclarkfl-intro-311|U |000000000|lclarkfl|intro:cd lclarkfl|
+INPUT|lclarkfl-intro-312|U |000000000|lclarkfl|intro:cd top_secret|
+INPUT|lclarkfl-intro-313|U |1537924260|lclarkfl|intro:ls|136intro-3.jpg
+INPUT|lclarkfl-intro-314|U |000000000|lclarkfl|intro:mv /etc/wuer136intro-4.JPG /u|
+INPUT|lclarkfl-intro-315|U |1537924266|lclarkfl|intro:lssudo mv /etc/wuer136intro-4.JPG /users/lclarkfl/top|_secret/
+INPUT|lclarkfl-intro-316|U |000000000|lclarkfl|intro:ls|136intro-3.jpg wuer136intro-4.JPG
+INPUT|lclarkfl-intro-317|U |000000000|lclarkfl|intro:mv /.hidden/asdf136Intro-5kqlw.jpeg /users/lal|
+INPUT|lclarkfl-intro-318|U |000000000|lclarkfl|intro:mv /.hidden/asdf136Intro-5kqlw.jpeg /users/lal|
+INPUT|lclarkfl-intro-319|U |000000000|lclarkfl|intro:mv /.hidden/asdf136Intro-5kqlw.jpeg /users/la|
+INPUT|lclarkfl-intro-320|U |000000000|lclarkfl|intro:mv /.hidden/asdf136Intro-5kqlw.jpeg /users/lcl|arkfl/top_secret/
+INPUT|lclarkfl-intro-321|U |000000000|lclarkfl|intro:mv /dev/136intro-2jjaj.JPEG /users/lclarkfl/to|p_secret/
+INPUT|lclarkfl-intro-322|U |000000000|lclarkfl|intro:mv /usr/share/pixmaps/xbzf136INTRO-1.jpg /usre|
+INPUT|lclarkfl-intro-323|U |000000000|lclarkfl|intro:mv /usr/share/pixmaps/xbzf136INTRO-1.jpg /usr|
+INPUT|lclarkfl-intro-324|U |000000000|lclarkfl|intro:mv /usr/share/pixmaps/xbzf136INTRO-1.jpg /user|s/top_secret/
+mv: cannot move '/usr/share/pixmaps/xbzf136INTRO-1.jpg' to '/users/top_secret/': Not a directory
+INPUT|lclarkfl-intro-325|U |000000000|lclarkfl|intro:mv /usr/share/pixmaps/xbzf136INTRO-1.jpg /users|s/top_secret/<BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS>lclarkfl/top_secret/
+INPUT|lclarkfl-intro-326|U |000000000|lclarkfl|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkfl-intro-327|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-328|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-329|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-330|U |000000000|lclarkfl|intro:pwd|/
+INPUT|lclarkfl-intro-331|U |000000000|lclarkfl|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfl-intro-332|U |000000000|lclarkfl|intro:cd users|
+INPUT|lclarkfl-intro-333|U |000000000|lclarkfl|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfl  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfl-intro-334|U |000000000|lclarkfl|intro:cd lclarkfl|
+INPUT|lclarkfl-intro-335|U |000000000|lclarkfl|intro:ls|top_secret
+INPUT|lclarkfl-intro-336|U |000000000|lclarkfl|intro:cd top_secret|
+INPUT|lclarkfl-intro-337|U |000000000|lclarkfl|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkfl-intro-338|U |000000000|lclarkfl|intro:mv /usr/share/pixmaps/xbzf136INTRO-1.jpg /users/top_secret/p_secret/|
+INPUT|lclarkfl-intro-339|U |000000000|lclarkfl|intro:mv /dev/136intro-2jjaj.JPEG /users/lclarkfl/top_secret/|
+INPUT|lclarkfl-intro-340|U |000000000|lclarkfl|intro:mv /.hidden/asdf136Intro-5kqlw.jpeg /users/lclarkfl/top_secret/|
+INPUT|lclarkfl-intro-341|U |000000000|lclarkfl|intro:mv /etc/wuer136intro-4.JPG /users/lclarkfl/top_secret/|
+INPUT|lclarkfl-intro-342|U |000000000|lclarkfl|intro:mv /var/log/136intro-3.jpg /users/lclarkfl/top_secret/|
+INPUT|lclarkfl-intro-343|A0 A2 A1 A4 A3 |000000000|lclarkfl|intro:find / -iname *intro*.jp*g 2>&- > users/lclarkfl/top_secret/ansers.txt|
+INPUT|lclarkfl-intro-344|A4 A3 A1 A2 A0 |000000000|lclarkfl|intro:find / -iname *intro*.jp*g 2>&-|/users/lclarkfl/top_secret/136intro-3.jpg
+INPUT|lclarkfl-intro-345|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-346|U |000000000|lclarkfl|intro:pwd|/
+INPUT|lclarkfl-intro-347|U |1537943040|lclarkfl|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfl-intro-348|U |000000000|lclarkfl|intro:cd users|
+INPUT|lclarkfl-intro-349|U |1537943047|lclarkfl|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfl  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfl-intro-350|U |000000000|lclarkfl|intro:cd lclarkfl|
+INPUT|lclarkfl-intro-351|U |1537943054|lclarkfl|intro:ls|top_secret
+INPUT|lclarkfl-intro-352|U |000000000|lclarkfl|intro:cd top_secret|
+INPUT|lclarkfl-intro-353|U |1537943061|lclarkfl|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkfl-intro-354|U |000000000|lclarkfl|intro:> answers.txt|bash: answers.txt: Permission denied
+INPUT|lclarkfl-intro-355|U |1537944184|lclarkfl|intro:cat > answers.txt|bash: answers.txt: Permission denied
+INPUT|lclarkfl-intro-356|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-357|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-358|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-359|U |000000000|lclarkfl|intro:pwd|/
+INPUT|lclarkfl-intro-360|U |1537944166|lclarkfl|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkfl-intro-361|U |000000000|lclarkfl|intro:cd users|
+INPUT|lclarkfl-intro-362|U |1537944171|lclarkfl|intro:ls|abhi   ekline    glawler   jhickey melkins   shareaa  shareaf  shareak  shareap  shareau  shareaz shareta
+alefiya   faber     jaipuria  jjh piobair   shareab  shareag  shareal  shareaq  shareav  shareba sharetb
+alwabel   gbartlet  jboman    jross rgoodfel  shareac  shareah  shaream  sharear  shareaw  sharebb sklower
+bks   gerow     jelena    kls2 schwab   sharead  shareai  sharean  shareas  shareax  sharebc sunshine
+bloznali  gknopf    jgli      lclarkfl scuric   shareae  shareaj  shareao  shareat  shareay  sharebd
+INPUT|lclarkfl-intro-363|U |000000000|lclarkfl|intro:cd lclarkfl|
+INPUT|lclarkfl-intro-364|U |1537944177|lclarkfl|intro:ls|top_secret
+INPUT|lclarkfl-intro-365|U |000000000|lclarkfl|intro:cat > answers.txt|^C
+INPUT|lclarkfl-intro-366|U |1537944204|lclarkfl|intro:ls|answers.txt  top_secret
+INPUT|lclarkfl-intro-367|U |1537944223|lclarkfl|intro:mv answers.txt /top_secret/|mv: cannot create regular file '/top_secret/': Not a directory
+INPUT|lclarkfl-intro-368|U |000000000|lclarkfl|intro:cd top_secret|
+INPUT|lclarkfl-intro-369|U |1537944241|lclarkfl|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkfl-intro-370|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-371|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-372|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-373|U |1537944254|lclarkfl|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkfl-intro-374|U |000000000|lclarkfl|intro:cd users|
+INPUT|lclarkfl-intro-375|U |1537944259|lclarkfl|intro:ls|abhi   ekline    glawler   jhickey melkins   shareaa  shareaf  shareak  shareap  shareau  shareaz shareta
+alefiya   faber     jaipuria  jjh piobair   shareab  shareag  shareal  shareaq  shareav  shareba sharetb
+alwabel   gbartlet  jboman    jross rgoodfel  shareac  shareah  shaream  sharear  shareaw  sharebb sklower
+bks   gerow     jelena    kls2 schwab   sharead  shareai  sharean  shareas  shareax  sharebc sunshine
+bloznali  gknopf    jgli      lclarkfl scuric   shareae  shareaj  shareao  shareat  shareay  sharebd
+INPUT|lclarkfl-intro-376|U |000000000|lclarkfl|intro:cd lclarkfl|
+INPUT|lclarkfl-intro-377|U |1537944270|lclarkfl|intro:ls|answers.txt  top_secret
+INPUT|lclarkfl-intro-378|U |000000000|lclarkfl|intro:cd top_secret|
+INPUT|lclarkfl-intro-379|U |1537944353|lclarkfl|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkfl-intro-380|U |000000000|lclarkfl|intro:cat > answers.txt|bash: answers.txt: Permission denied
+INPUT|lclarkfl-intro-381|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-382|U |000000000|lclarkfl|intro:pwd|/
+INPUT|lclarkfl-intro-383|U |1537973749|lclarkfl|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfl-intro-384|U |000000000|lclarkfl|intro:cd users|
+INPUT|lclarkfl-intro-385|U |000000000|lclarkfl|intro:cd laclarkfl|bash: cd: laclarkfl: No such file or directory
+INPUT|lclarkfl-intro-386|U |000000000|lclarkfl|intro:cd lclarkfl|
+INPUT|lclarkfl-intro-387|U |1537973762|lclarkfl|intro:ls|answers.txt  top_secret
+INPUT|lclarkfl-intro-388|U |000000000|lclarkfl|intro:cd top_secret|
+INPUT|lclarkfl-intro-389|U |1537973804|lclarkfl|intro:mv answers.txt /users/lclarkfl/top_secret/|mv: cannot stat 'answers.txt': No such file or directory
+INPUT|lclarkfl-intro-390|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-391|U |1537973811|lclarkfl|intro:ls|answers.txt  top_secret
+INPUT|lclarkfl-intro-392|U |000000000|lclarkfl|intro:cd answers.txt|bash: cd: answers.txt: Not a directory
+INPUT|lclarkfl-intro-393|U |000000000|lclarkfl|intro:cd top_secret|
+INPUT|lclarkfl-intro-394|U |1537973856|lclarkfl|intro:cat > answers.txt|
+INPUT|lclarkfl-intro-395|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-396|U |000000000|lclarkfl|intro:pwd|/
+INPUT|lclarkfl-intro-397|U |1537974049|lclarkfl|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfl-intro-398|U |000000000|lclarkfl|intro:cd users|
+INPUT|lclarkfl-intro-399|U |1537974054|lclarkfl|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfl  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfl-intro-400|U |000000000|lclarkfl|intro:cd lclarkfl|
+INPUT|lclarkfl-intro-401|U |1537974063|lclarkfl|intro:ls|answers.txt  top_secret
+INPUT|lclarkfl-intro-402|U |000000000|lclarkfl|intro:cd top_secret|
+INPUT|lclarkfl-intro-403|U |1537974070|lclarkfl|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkfl-intro-404|U |000000000|lclarkfl|intro:cd answers.txt|bash: cd: answers.txt: Not a directory
+INPUT|lclarkfl-intro-405|U |000000000|lclarkfl|intro:answers.txt|answers.txt: command not found
+INPUT|lclarkfl-intro-406|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-407|U |1537974101|lclarkfl|intro:ls|answers.txt  top_secret
+INPUT|lclarkfl-intro-408|U |000000000|lclarkfl|intro:cd top_secret|
+INPUT|lclarkfl-intro-409|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-410|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-411|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-412|A0 A2 A1 A3 A4 |000000000|lclarkfl|intro:find / -iname *intro.jp*g 2>&-|
+INPUT|lclarkfl-intro-413|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-414|U |000000000|lclarkfl|intro:pwd|/
+INPUT|lclarkfl-intro-415|A1 A3 A4 A0 A2 |000000000|lclarkfl|intro:find / -iname *intro.jp*g 2>&-|^C
+INPUT|lclarkfl-intro-416|U |000000000|lclarkfl|intro:cd users|
+INPUT|lclarkfl-intro-417|A1 A3 A4 A0 A2 |000000000|lclarkfl|intro:find / -iname *intro.jp*g 2>&-|
+INPUT|lclarkfl-intro-418|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-419|U |000000000|lclarkfl|intro:cd users|
+INPUT|lclarkfl-intro-420|U |000000000|lclarkfl|intro:cd lclarkfl|
+INPUT|lclarkfl-intro-421|U |000000000|lclarkfl|intro:cd top_secret|
+INPUT|lclarkfl-intro-422|U |1537974464|lclarkfl|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkfl-intro-423|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-424|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-425|U |000000000|lclarkfl|intro:pwd|/users
+INPUT|lclarkfl-intro-426|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-427|U |000000000|lclarkfl|intro:pwd|/
+INPUT|lclarkfl-intro-428|U |000000000|lclarkfl|intro:DIR 136intro-2jjaj.JPEG|DIR: command not found
+INPUT|lclarkfl-intro-429|U |000000000|lclarkfl|intro:DNS 136intro-2jjaj.JPEG|DNS: command not found
+INPUT|lclarkfl-intro-430|A0 A2 A1 A3 A4 |1537974532|lclarkfl|intro:find 136intro-2jjaj.JPEG|find: '136intro-2jjaj.JPEG': No such file or directory
+INPUT|lclarkfl-intro-431|A4 A3 A1 A2 A0 |1537974538|lclarkfl|intro:find /136intro-2jjaj.JPEG|find: '/136intro-2jjaj.JPEG': No such file or directory
+INPUT|lclarkfl-intro-432|U |1537974554|lclarkfl|intro:scp 136intro-2jjaj.JPEG|usage: scp [-12346BCpqrv] [-c cipher] [-F ssh_config] [-i identity_file]
+           [-l limit] [-o ssh_option] [-P port] [-S program]
+           [[user@]host1:]file1 ... [[user@]host2:]file2
+INPUT|lclarkfl-intro-433|U |1537974596|lclarkfl|intro:scp 136intro-2jjaj.JPEG users.deterlab.net|cp: cannot stat '136intro-2jjaj.JPEG': No such file or directory
+INPUT|lclarkfl-intro-434|U |1537974616|lclarkfl|intro:scp 136intro-2jjaj.JPEG|usage: scp [-12346BCpqrv] [-c cipher] [-F ssh_config] [-i identity_file]
+           [-l limit] [-o ssh_option] [-P port] [-S program]
+           [[user@]host1:]file1 ... [[user@]host2:]file2
+INPUT|lclarkfl-intro-435|U |1537974712|lclarkfl|intro:scp 136intro-2jjaj.JPEG /users.deterlab.net/|cp: cannot stat '136intro-2jjaj.JPEG': No such file or directory
+INPUT|lclarkfl-intro-436|U |000000000|lclarkfl|intro:pwd|/
+INPUT|lclarkfl-intro-437|U |000000000|lclarkfl|intro:scp intro.Ryan.CS495LC.isi.deterlab.net: /remote/intro.Ryan|
+INPUT|lclarkfl-intro-438|U |000000000|lclarkfl|intro:scp intro.Ryan.CS495LC.isi.deterlab.net: /remote/intro.Ryan|
+INPUT|lclarkfl-intro-439|U |000000000|lclarkfl|intro:scp intro.Ryan.CS495LC.isi.deterlab.net: /remote/intro.Rya|
+INPUT|lclarkfl-intro-440|U |000000000|lclarkfl|intro:scp intro.Ryan.CS495LC.isi.deterlab.net: /remote/136intro-2|jjaj.JPEG <BS> <BS>/local/dir/
+Warning: Permanently added the RSA host key for IP address '192.168.1.90' to the list of known hosts.
+
+scp: .: not a regular file
+INPUT|lclarkfl-intro-441|U |000000000|lclarkfl|intro:scp intro.Ryan.CS495LC.isi.deterlab.net: /remote/136intro-2j|jjaj.JPEG/local/dir/<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+INPUT|lclarkfl-intro-442|U |000000000|lclarkfl|intro:scp intro.Ryan.CS495LC.isi.deterlab.net /remote/136intro-2jjclarkfl@intro:/$ scp intro.Ryan.CS495LC.isi.deterlab.net|
+
+cp: cannot stat 'intro.Ryan.CS495LC.isi.deterlab.net': No such file or directory
+INPUT|lclarkfl-intro-443|U |000000000|lclarkfl|intro:scp intro.Ryan.CS495LC.isi.deterlab.net /remote/136intro-2jj|jaj.JPEG/local/dir/<ESC>[Acp intro.Ryan.CS495LC.isi.deterlab.net: /remote/136intro-2j<ESC>[1@jaj.JPEG/local/dir/
+scp: .: not a regular file
+INPUT|lclarkfl-intro-444|U |000000000|lclarkfl|intro:pscp.exe intro.Ryan.CS495LC.isi.deterlab.net:/remote/dir/|
+INPUT|lclarkfl-intro-445|U |000000000|lclarkfl|intro:pscp.exe intro.Ryan.CS495LC.isi.deterlab.net:/remote/dir/136intro-2jja|j.JPEG d:|<BS> <BS>\
+> dowl<BS> <BS>nloads
+pscp.exe: command not found
+INPUT|lclarkfl-intro-446|U |1537975353|lclarkfl|intro:man pscp.exe|No manual entry for pscp.exe
+INPUT|lclarkfl-intro-447|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-448|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-449|U |000000000|lclarkfl|intro:pwd|/
+INPUT|lclarkfl-intro-450|U |1537977343|lclarkfl|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp    var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   users  vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   usr    vmlinuz.old
+INPUT|lclarkfl-intro-451|U |000000000|lclarkfl|intro:cd var|
+INPUT|lclarkfl-intro-452|U |1537977346|lclarkfl|intro:ls|backups  cache crash  emulab  lib  local  lock  log  mail  opt  run  snap  spool  tmp
+INPUT|lclarkfl-intro-453|U |1537977442|lclarkfl|intro:cd../|bash: cd../: No such file or directory
+INPUT|lclarkfl-intro-454|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-455|U |1537977446|lclarkfl|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp    var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   users  vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   usr    vmlinuz.old
+INPUT|lclarkfl-intro-456|U |000000000|lclarkfl|intro:cd dev|
+INPUT|lclarkfl-intro-457|U |1537977451|lclarkfl|intro:ls|136intro-2jjaj.JPEG  loop1   snapshot  tty33  tty63      ttyS6
+autofs       loop2   snd    tty34  tty7      ttyS7
+block       loop3   stderr    tty35  tty8      ttyS8
+bsg       loop4   stdin    tty36  tty9      ttyS9
+btrfs-control      loop5   stdout    tty37  ttyprintk  uhid
+bus       loop6   tty    tty38  ttyS0      uinput
+char       loop7   tty0    tty39  ttyS1      urandom
+console       loop-control  tty1    tty4   ttyS10     userio
+core       mapper   tty10    tty40  ttyS11     vcs
+cpu       mcelog   tty11    tty41  ttyS12     vcs1
+cpu_dma_latency      mem   tty12    tty42  ttyS13     vcs2
+cuse       memory_bandwidth  tty13    tty43  ttyS14     vcs3
+disk       mqueue   tty14    tty44  ttyS15     vcs4
+dri       net   tty15    tty45  ttyS16     vcs5
+ecrypt
+INPUT|lclarkfl-intro-458|U |1537976955|lclarkfl|intro:ls|answers.txt  top_secret
+INPUT|lclarkfl-intro-459|U |000000000|lclarkfl|intro:cd top_secret|
+INPUT|lclarkfl-intro-460|U |1537976963|lclarkfl|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkfl-intro-461|U |000000000|lclarkfl|intro:cd answers.txt|bash: cd: answers.txt: Not a directory
+INPUT|lclarkfl-intro-462|U |000000000|lclarkfl|intro:answers.txt|answers.txt: command not found
+INPUT|lclarkfl-intro-463|U |000000000|lclarkfl|intro:i ansers.txt|The program 'i' is currently not installed. To run 'i' please ask your administrator to install the package 'iprint'
+INPUT|lclarkfl-intro-464|U |1537977282|lclarkfl|intro:getit answers.txt|sudo: getit: command not found
+INPUT|lclarkfl-intro-465|U |1537977300|lclarkfl|intro:nano answers.txt|%[?1049h[1;26r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[24;33H(B[0;7m[ Reading File ]
+[3d(B[m[24;39H(B[0;7m 0 lines
+[3d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3             File: answers.txt                                  [25;1H^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos
+[26d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line
+[3d[1;71H(B[0;7mModified[3;2H(B[[KInformation Hunt
+[24d[K[3;17H
+[4d1. backups%% cache%% crash%% emulab%% lib%% local%% lock%% log%% mail%% opt%% run%% snap%%
+$snap%%[K spool%% tmp 
+1. backups%% cache%% crash%% emulab%% lib%% local%% lock%% log%% mail%% opt%% run%% snap%% $[3;17H
+[4d1. backups%% cache%% crash%% emulab%% lib%% local%% lock%% log%% mail%% opt%% run%% snap%%
+$snap%% spool%% tmp[K[8Gspool%% tmp (goes in the /var directory)<N
+INPUT|lclarkfl-intro-466|U |000000000|lclarkfl|intro:ssh intro.Ryan.CS495LC.isi.deterlab.net|
+INPUT|lclarkfl-intro-467|U |000000000|lclarkfl|intro:mv answers.txt /users/lclarkfl/top_secret/|
+INPUT|lclarkfl-intro-468|U |000000000|lclarkfl|intro:ssh intro.Ryan.CS495LC.isi.deterlab.net|
+INPUT|lclarkfl-intro-469|U |000000000|lclarkfl|intro:intro.Ryan.CS495LC.isi.deterlab.net|
+INPUT|lclarkfl-intro-470|U |000000000|lclarkfl|intro:pscp.exe intro.Ryan.CS495LC.isi.deterlab.net:/remote/dir/136intro-2jjaj.JPEG d:downloads|
+INPUT|lclarkfl-intro-471|U |000000000|lclarkfl|intro:scp intro.Ryan.CS495LC.isi.deterlab.net: /remote/136intro-2jjaj.JPEG/local/dir/|
+INPUT|lclarkfl-intro-472|U |000000000|lclarkfl|intro:scp 136intro-2jjaj.JPEG users.deterlab.nett/|
+INPUT|lclarkfl-intro-473|A1 A4 A3 A0 A2 |000000000|lclarkfl|intro:find 136intro-2jjaj.JPEGG|
+INPUT|lclarkfl-intro-474|U |000000000|lclarkfl|intro:DNS 136intro-2jjaj.JPEG|
+INPUT|lclarkfl-intro-475|U |000000000|lclarkfl|intro:DIR 136intro-2jjaj.JPEG|
+INPUT|lclarkfl-intro-476|U |000000000|lclarkfl|intro:DIR 136intro-2jjaj.JPEG|
+INPUT|lclarkfl-intro-477|A2 A0 A4 A3 A1 |000000000|lclarkfl|intro:find / -iname *intro.jp*g 2>&-|
+INPUT|lclarkfl-intro-478|A2 A0 A4 A3 A1 |000000000|lclarkfl|intro:find / -iname *intro.jp*g 2>&-|
+INPUT|lclarkfl-intro-479|A0 A2 A1 A3 A4 |000000000|lclarkfl|intro:find / -iname *intro.jp*g 2>&-|
+INPUT|lclarkfl-intro-480|U |000000000|lclarkfl|intro:ssh intro.Ryan.CS495LC.isi.deterlab.net|
+INPUT|lclarkfl-intro-481|U |000000000|lclarkfl|intro:mv answers.txt /top_secret/|
+INPUT|lclarkfl-intro-482|U |1537978324|lclarkfl|intro:lslsls[6@ls[4Plslsls[6@lsssh intro.Ryan.CS495LC.isi.deterlab.net|
+INPUT|lclarkfl-intro-483|A1 A3 A4 A0 A2 |000000000|lclarkfl|intro:find / -iname *intro*.jp*g 2>&-|
+INPUT|lclarkfl-intro-484|U |1537981121|lclarkfl|intro:lslsls[6@ls[4Psudo mv /usr/share/pixmaps/xbzf136INTRO-1.jpg /users/[9Ptop_secret/ecret/|
+INPUT|lclarkfl-intro-485|U |000000000|lclarkfl|intro:mv /dev/136intro-2jjaj.JPEG /users/lclarkfl/top_secret/|
+INPUT|lclarkfl-intro-486|U |000000000|lclarkfl|intro:mv /.hidden/asdf136Intro-5kqlw.jpeg /users/lclarkfl/top_secret/|
+INPUT|lclarkfl-intro-487|U |1537981290|lclarkfl|intro:lssudo mv /etc/wuer136intro-4.JPG /users/lclarkfl/top_secret/|
+INPUT|lclarkfl-intro-488|U |000000000|lclarkfl|intro:mv /var/log/136intro-3.jpg /users/lclarkfl/top_secret/|
+INPUT|lclarkfl-intro-489|U |000000000|lclarkfl|intro:cd users/lclarkfl/top_secret/|
+INPUT|lclarkfl-intro-490|A1 A4 A3 A0 A2 |000000000|lclarkfl|intro:find / -iname *intro*.jp*g 2>&- > users/lclarkfl/top_secret/ansers.txt|
+INPUT|lclarkfl-intro-491|U |000000000|lclarkfl|intro:pwd|/users/lclarkfl
+INPUT|lclarkfl-intro-492|U |000000000|lclarkfl|intro:cd top_secret|
+INPUT|lclarkfl-intro-493|U |000000000|lclarkfl|intro:ls|136intro-2jjaj.JPEG  answers.txt       asdf136Intro-5kqlw.jpeg xbzf136INTRO-1.jpg
+136intro-3.jpg      answers.txt.save  wuer136intro-4.JPG
+INPUT|lclarkfl-intro-494|U |1537978334|lclarkfl|intro:nano answers.txt|%[?1049h[1;26r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[39;49m(B[m[H[2J[24d(B[0;7mFile answers.txt is being edited (by root with nano 2.5.3%% PID 3221); continue?                                    [25;1H Y(B[m Yes
+[26d(B[0;7m N(B[m No[26;17H(B[0;7m^C(B[m Cancel[24;80H[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3                           New Buffer                                                              [24;1H(B[m[K[25d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7m^Y(B[m Prev Page
+[26d(B[0;7m^X(B[m Exit[26;18H(B[0;7mR(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Uncut Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7m^V(B[m Next Page
+[3d[1;106H(B[0;7mModified
+[3d(B[m[K[K[K[K[4d[A[?25l[24;49H(B[0;7m[ Unknown Command ]
+[3d(B[m[?12l[?25hexit
+[4d[A[K^^^^^^^^^^^^^^^
+K[24d(B[0;7mSave modified buffer (ANSWERING "No" WILL DESTROY CH
+INPUT|lclarkfl-intro-495|U |1537978439|lclarkfl|intro:nano answers.txt|%[?1049h[1;26r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[39;49m(B[m[H[2J[24d(B[0;7mFile answers.txt is being edited (by root with nano 2.5.3%% PID 3221); continue?                                    [25;1H Y(B[m Yes
+[26d(B[0;7m N(B[m No[26;17H(B[0;7m^C(B[m Cancel[24;80H[?25l[24;49H[1K (B[0;7m[ Reading File ](B[m[K
+[3d[24;56H(B[0;7m 0 lines
+[3d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3                         File: answers.txt                                                         [25;1H^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7m^Y(B[m Prev Page
+[26d(B[0;7m^X(B[m Exit[26;18H(B[0;7mR(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Uncut Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7m^V(B[m Next Page
+[3d[24d[J[26;115H[26;1H[?1049l%
+INPUT|lclarkfl-intro-496|U |000000000|lclarkfl|intro:ls|136intro-2jjaj.JPEG  answers.txt       asdf136Intro-5kqlw.jpeg xbzf136INTRO-1.jpg
+136intro-3.jpg      answers.txt.save  wuer136intro-4.JPG
+INPUT|lclarkfl-intro-497|U |1537978459|lclarkfl|intro:nano answers.txt.save|[?1049h[1;26r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[24;50H(B[0;7m[ Reading File ]
+[3d(B[m[24;56H(B[0;7m 12 lines ]
+[15d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3                       File: answers.txt.save                                                      [3;1H(B[mInformation Hunt
+[4d1. The /var directory contains system data that is open to variation (var=variable).
+[5d2. The /dev directory contains specific device files.
+[6d3. See "diskfree.txt" /users/lclarkfl/top_secret/diskfree.txt/
+[7d4. Vendor ID:
+[9dPersonal Info:
+[10dRyan Crim
+[11dryancrim@lclark.edu
+[12ddeter username: lclarkfl
+[25d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7m^Y(B[m Prev Page
+[26d(B[0;7m^X(B[m Exit[26;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Uncut Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line
+INPUT|lclarkfl-intro-498|U |000000000|lclarkfl|intro:ls|136intro-2jjaj.JPEG  answers.txt       asdf136Intro-5kqlw.jpeg xbzf136INTRO-1.jpg
+136intro-3.jpg      answers.txt.save  wuer136intro-4.JPG
+INPUT|lclarkfl-intro-499|U |1537980866|lclarkfl|intro:nano answers.txt.save|%[?1049h[1;26r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[24;50H(B[0;7m[ Reading File ]
+[3d(B[m[24;56H(B[0;7m 12 lines ]
+[15d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3                       File: answers.txt.save                                                      [3;1H(B[mInformation Hunt
+[4d1. The /var directory contains system data that is open to variation (var=variable).
+[5d2. The /dev directory contains specific device files.
+[6d3. See "diskfree.txt" /users/lclarkfl/top_secret/diskfree.txt/
+[7d4. Vendor ID:
+[9dPersonal Info:
+[10dRyan Crim
+[11dryancrim@lclark.edu
+[12ddeter username: lclarkfl
+[25d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7m^Y(B[m Prev Page
+[26d(B[0;7m^X(B[m Exit[26;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Uncut Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Lin
+INPUT|lclarkfl-intro-500|U |1537980921|lclarkfl|intro:cat > diskfree.txt|^C
+INPUT|lclarkfl-intro-501|U |000000000|lclarkfl|intro:lss|%No command 'lss' found%% did you mean:
+ Command 'ss' from package 'iproute2' (main)
+ Command 'lsh' from package 'lsh-client' (universe)
+ Command 'lsx' from package 'suckless-tools' (universe)
+ Command 'ass' from package 'irpas' (multiverse)
+ Command 'ls' from package 'coreutils' (main)
+ Command 'lvs' from package 'lvm2' (main)
+ Command 'less' from package 'less' (main)
+ Command 'les' from package 'atm-tools' (universe)
+ Command 'lssu' from package 'nilfs-tools' (universe)
+ Command 'gss' from package 'libgss-dev' (universe)
+ Command 'lsw' from package 'suckless-tools' (universe)
+ Command 'lrs' from package 'lrslib' (universe)
+lss: command not found%
+INPUT|lclarkfl-intro-502|U |000000000|lclarkfl|intro:ls|136intro-2jjaj.JPEG  answers.txt       asdf136Intro-5kqlw.jpeg wuer136intro-4.JPG
+136intro-3.jpg      answers.txt.save  diskfree.txt  xbzf136INTRO-1.jpg
+INPUT|lclarkfl-intro-503|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-504|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-505|A6 |000000000|lclarkfl|intro:df > top_secret/diskfree.txt|bash: top_secret/diskfree.txt: No such file or directory
+INPUT|lclarkfl-intro-506|U |1537981166|lclarkfl|intro:nano diskfree.txt|[?1049h[1;26r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[24;52H(B[0;7m[ New File ]
+[3d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3                         File: diskfree.txt                                                        [25;1H^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7m^Y(B[m Prev Page
+[26d(B[0;7m^X(B[m Exit[26;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Uncut Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7m^V(B[m Next Page
+[3d[24d[J[26;115H[26;1H[?1049l
+INPUT|lclarkfl-intro-507|A6 |000000000|lclarkfl|intro:df > top_secret/diskfree.txt|bash: top_secret/diskfree.txt: No such file or directory
+INPUT|lclarkfl-intro-508|A0 A2 A1 A3 A4 |1537981188|lclarkfl|intro:find /diskfree.txt|find: '/diskfree.txt': No such file or directory
+INPUT|lclarkfl-intro-509|U |000000000|lclarkfl|intro:echo diskree.txt|diskree.txt
+INPUT|lclarkfl-intro-510|U |000000000|lclarkfl|intro:pwd|/users
+INPUT|lclarkfl-intro-511|U |000000000|lclarkfl|intro:cd lclarkfl|
+INPUT|lclarkfl-intro-512|U |000000000|lclarkfl|intro:cd|
+INPUT|lclarkfl-intro-513|U |000000000|lclarkfl|intro:ls|answers.txt  top_secret
+INPUT|lclarkfl-intro-514|U |000000000|lclarkfl|intro:cd top_secret|
+INPUT|lclarkfl-intro-515|U |000000000|lclarkfl|intro:ls|136intro-2jjaj.JPEG  answers.txt       asdf136Intro-5kqlw.jpeg wuer136intro-4.JPG
+136intro-3.jpg      answers.txt.save  diskfree.txt  xbzf136INTRO-1.jpg
+INPUT|lclarkfl-intro-516|U |000000000|lclarkfl|intro:cd diskfree.txt|bash: cd: diskfree.txt: Not a directory
+INPUT|lclarkfl-intro-517|U |1537981245|lclarkfl|intro:nano diskfree.txt|%[?1049h[1;26r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[24;50H(B[0;7m[ Reading File ]
+[3d(B[m[24;56H(B[0;7m 0 lines
+[3d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3                         File: diskfree.txt                                                        [25;1H^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7m^Y(B[m Prev Page
+[26d(B[0;7m^X(B[m Exit[26;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Uncut Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7m^V(B[m Next Page
+[3d[1;106H(B[0;7mModified
+[3d(B[mFilesystem[3;20H1K-blocks[36GUsed[46GAvail Capacity  Mounted on
+[4d/dev/gpt/root[21G16233660     539932   14395036     4%%    /
+[5ddevfs[5;28H1[5;39H1[5;50H0   100%%    /dev
+[6d/dev/gpt/var[6;21H64995324   24981516   34814184    42%%    /var
+[7d/dev/gpt/usr[7;21H64995324   12643132   47152568   
+INPUT|lclarkfl-intro-518|U |000000000|lclarkfl|intro:ls|136intro-2jjaj.JPEG  answers.txt       asdf136Intro-5kqlw.jpeg diskfree.txt.save   xbzf136INTRO-1.jpg
+136intro-3.jpg      answers.txt.save  diskfree.txt  wuer136intro-4.JPG
+INPUT|lclarkfl-intro-519|U |000000000|lclarkfl|intro:cd diskfree.txt.save|bash: cd: diskfree.txt.save: Not a directory
+INPUT|lclarkfl-intro-520|U |1537981309|lclarkfl|intro:nano diskfree.txt.save|%[?1049h[1;26r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[24;50H(B[0;7m[ Reading File ]
+[3d(B[m[24;56H(B[0;7m 10 lines ]
+[13d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3                       File: diskfree.txt.save                                                     [3;1H(B[mFilesystem[3;20H1K-blocks[36GUsed[46GAvail Capacity  Mounted on
+[4d/dev/gpt/root[21G16233660     539932   14395036     4%%    /
+[5ddevfs[5;28H1[5;39H1[5;50H0   100%%    /dev
+[6d/dev/gpt/var[6;21H64995324   24981516   34814184    42%%    /var
+[7d/dev/gpt/usr[7;21H64995324   12643132   47152568    21%%    /usr
+[8d/dev/gpt/other    2031313164 1274148264  594659848    68%%    /mnt/other
+[9d/dev/gpt/projects 2974748052  973269768 1763498440    36%%    /mnt/projects
+[10d/dev/gpt/share     507823184  235201800  231995532    50%%    /mnt/share
+[11d/dev/md0[11;22H1015324     383788     550312    41%%    /tmp
+[12dprocfs[12;28H4[12;39H4[12;50H0   100%%    /proc
+[25d(B[0;7m^G(B
+INPUT|lclarkfl-intro-521|U |000000000|lclarkfl|intro:cd top_secret|
+INPUT|lclarkfl-intro-522|U |1537986574|lclarkfl|intro:ls|136intro-2jjaj.JPEG  answers.txt.save       diskfree.txt.save
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+answers.txt      diskfree.txt       xbzf136INTRO-1.jpg
+INPUT|lclarkfl-intro-523|U |1537986600|lclarkfl|intro:nano answers.txt.save|[?1049h[1;40r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[38;37H(B[0;7m[ Reading File ]
+[3d(B[m[38;36H(B[0;7m[ Read 12 lines
+[15d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3              File: answers.txt.save                                    [3;1H(B[mInformation Hunt
+[4d1. The /var directory contains system data that is open to variation (var=variable).
+[5d2. The /dev directory contains specific device files.
+[6d3. See "diskfree.txt" /users/lclarkfl/top_secret/diskfree.txt/
+[7d4. Vendor ID:
+[9dPersonal Info:
+[10dRyan Crim
+[11dryancrim@lclark.edu
+[12ddeter username: lclarkfl
+[39d(B[0;7m^G(B[m Get Help   (B[0;7m^O(B[m Write Out  (B[0;7m^W(B[m Where Is   (B[0;7m^K(B[m Cut Text   (B[0;7m^J(B[m Justify    (B[0;7m^C(B[m Cur Pos
+[40d(B[0;7m^X(B[m Exit[15G(B[0;7m^R(B[m Read File  (B[0;7m^\(B[m Replace    (B[0;7m^U(B[m Uncut Text (B[0;7m^T(B[m To Spell   (B[0;7m^_(B[m Go To Line
+[3d[4d[5d[6d[7d4. Vendor ID:
+[38d[J[40;88H[40;1H[?1049l
+INPUT|lclarkfl-intro-524|U |1537986628|lclarkfl|intro:nano diskfree.txt.save|%[?1049h[1;40r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[38;37H(B[0;7m[ Reading File ]
+[3d(B[m[38;36H(B[0;7m[ Read 10 lines
+[13d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3              File: diskfree.txt.save                                   [3;1H(B[mFilesystem[3;20H1K-blocks[36GUsed[46GAvail Capacity  Mounted on
+[4d/dev/gpt/root[21G16233660     539932   14395036     4%%    /
+[5ddevfs[5;28H1[5;39H1[5;50H0   100%%    /dev
+[6d/dev/gpt/var[6;21H64995324   24981516   34814184    42%%    /var
+[7d/dev/gpt/usr[7;21H64995324   12643132   47152568    21%%    /usr
+[8d/dev/gpt/other    2031313164 1274148264  594659848    68%%    /mnt/other
+[9d/dev/gpt/projects 2974748052  973269768 1763498440    36%%    /mnt/projects
+[10d/dev/gpt/share     507823184  235201800  231995532    50%%    /mnt/share
+[11d/dev/md0[11;22H1015324     383788     550312    41%%    /tmp
+[12dprocfs[12;28H4[12;39H4[12;50H0   100%%    /proc
+[39d(B[0;7m^G(B[m Get Help   (B[0;7m^O
+INPUT|lclarkfl-intro-525|U |1537986816|lclarkfl|intro:tar cvzf 1234567890-intro.tar.gz top_secret|tar: top_secret: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+INPUT|lclarkfl-intro-526|U |000000000|lclarkfl|intro:tar cvzf lclarkfl90-intro.tar.gz top_secret|tar: top_secret: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+INPUT|lclarkfl-intro-527|U |000000000|lclarkfl|intro:cd..cdcd ../|cd..cdcd: command not found
+INPUT|lclarkfl-intro-528|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-529|U |000000000|lclarkfl|intro:pwd|/users/lclarkfl
+INPUT|lclarkfl-intro-530|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-531|U |000000000|lclarkfl|intro:cd ../|
+INPUT|lclarkfl-intro-532|U |000000000|lclarkfl|intro:pwd|/
+INPUT|lclarkfl-intro-533|U |000000000|lclarkfl|intro:tar cvzf lclarkfl-intro.tar.gz top_secret|
+INPUT|lclarkfl-intro-534|U |000000000|lclarkfl|intro:tar cvzf 1234567890-intro.tar.gz top_secret|
+INPUT|lclarkfl-intro-535|U |000000000|lclarkfl|intro:tar cvzf lclarkfl-intro.tar.gz top_secret|tar: top_secret: Cannot stat: No such file or directory
+tar (child): lclarkfl-intro.tar.gz: Cannot open: Permission denied
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+INPUT|lclarkfl-intro-536|U |1537986829|lclarkfl|intro:tar cvzf lclarkfl-intro.tar.gz top_secret^C|
+INPUT|lclarkfl-intro-537|U |000000000|lclarkfl|intro:pwd|/
+INPUT|lclarkfl-intro-538|U |000000000|lclarkfl|intro:cd ~|
+INPUT|lclarkfl-intro-539|U |000000000|lclarkfl|intro:tar cvzf lclarkfl-intro.tar.gz top_secret|top_secret/
+top_secret/136intro-3.jpg
+top_secret/wuer136intro-4.JPG
+top_secret/asdf136Intro-5kqlw.jpeg
+top_secret/136intro-2jjaj.JPEG
+top_secret/xbzf136INTRO-1.jpg
+top_secret/answers.txt
+top_secret/diskfree.txt
+top_secret/answers.txt.save
+top_secret/diskfree.txt.save
+top_secret/1234567890-intro.tar.gz
+top_secret/lclarkfl-intro.tar.gz
+INPUT|lclarkfl-intro-540|U |1537987298|lclarkfl|intro:sftp top_secret|ssh: Could not resolve hostname top_secret: Name or service not known
+
+Couldn't read packet: Connection reset by peer
+

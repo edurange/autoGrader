@@ -1,0 +1,407 @@
+User lclarkff start time 1537814210 end 1538881516
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkff-intro-0|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-1|U |000000000|lclarkff|:|
+INPUT|lclarkff-intro-2|U |000000000|lclarkff|:|
+INPUT|lclarkff-intro-3|U |1538881365|lclarkff|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkff  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkff-intro-4|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-5|U |1538881372|lclarkff|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkff-intro-6|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-7|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-8|U |1538881374|lclarkff|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkff-intro-9|U |000000000|lclarkff|intro:cd|
+INPUT|lclarkff-intro-10|U |1538881407|lclarkff|intro:ls|a.txt  lclarkff-intro.tar.gz  top_secret
+INPUT|lclarkff-intro-11|U |1538881412|lclarkff|intro:free|              total        used        free      shared  buff/cache   available
+Mem:        4046060       96032     3466424       13664      483604     3701688
+Swap:       4478972           0     4478972
+INPUT|lclarkff-intro-12|M6 |1538881516|lclarkff|intro:df|%Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 2002856         48    2002808   1%% /dev
+tmpfs                                                 404608      13588     391020   4%% /run
+/dev/sda1                                           15616412    2894448   11922016  20%% /
+tmpfs                                                2023028          0    2023028   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                2023028          0    2023028   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  974477696 1762290560  36%% /proj/CS495LC
+users.isi.deterlab.net:/mnt/other/users/lclarkff  2031313280 1300937600  567870592  70%% /users/lclarkff
+tmpfs                                                 404608          0     404608  
+INPUT|lclarkff-intro-13|U |000000000|lclarkff|intro:cd top_secret/|
+INPUT|lclarkff-intro-14|U |1537814210|lclarkff|intro:ls|answers.txt  images
+INPUT|lclarkff-intro-15|U |000000000|lclarkff|intro:cd images/|
+INPUT|lclarkff-intro-16|U |1537814215|lclarkff|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkff-intro-17|U |1537814233|lclarkff|intro:mv 136intro-2jjaj.JPEG top_secret|
+INPUT|lclarkff-intro-18|U |1537814221|lclarkff|intro:ls|136intro-3.jpg   top_secret      xbzf136INTRO-1.jpg
+asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+INPUT|lclarkff-intro-19|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-20|U |1537814234|lclarkff|intro:ls|answers.txt  images
+INPUT|lclarkff-intro-21|U |000000000|lclarkff|intro:cd images/|
+INPUT|lclarkff-intro-22|U |1537814238|lclarkff|intro:ls|136intro-3.jpg   top_secret      xbzf136INTRO-1.jpg
+asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+INPUT|lclarkff-intro-23|U |1537814278|lclarkff|intro:mv top_secret 136intro-2jjaj.JPEG|
+INPUT|lclarkff-intro-24|U |1537814252|lclarkff|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkff-intro-25|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-26|U |1537814279|lclarkff|intro:ls|answers.txt  images
+INPUT|lclarkff-intro-27|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-28|U |1537814287|lclarkff|intro:ls|a.txt  lclarkff-intro.tar.gz  top_secret
+INPUT|lclarkff-intro-29|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-30|U |1537814303|lclarkff|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkff  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkff-intro-31|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-32|U |1537814323|lclarkff|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkff-intro-33|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-34|U |1537814326|lclarkff|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkff-intro-35|M6 |1537814335|lclarkff|intro:df|%Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 1003696         48    1003648   1%% /dev
+tmpfs                                                 204776      11072     193704   6%% /run
+/dev/sda1                                           15616412    2894156   11922308  20%% /
+tmpfs                                                1023868          0    1023868   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023868          0    1023868   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkff  2031313280 1284459392  584348800  69%% /users/lclarkff
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973212544 1763555712  36%% /proj/CS495LC
+tmpfs                                                 204776          0     204776  
+INPUT|lclarkff-intro-36|A6 |1537814538|lclarkff|intro:df >[1@> users/lclarkff/top_secret/answers.txt|
+INPUT|lclarkff-intro-37|U |1537814328|lclarkff|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkff-intro-38|U |000000000|lclarkff|intro:cd users/|
+INPUT|lclarkff-intro-39|U |1537814539|lclarkff|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkff  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkff-intro-40|U |000000000|lclarkff|intro:cd lclarkff/|
+INPUT|lclarkff-intro-41|U |1537814548|lclarkff|intro:ls|a.txt  lclarkff-intro.tar.gz  top_secret
+INPUT|lclarkff-intro-42|U |000000000|lclarkff|intro:cd top_secret/|
+INPUT|lclarkff-intro-43|U |1537814552|lclarkff|intro:ls|answers.txt  images
+INPUT|lclarkff-intro-44|U |1537814559|lclarkff|intro:cat answers.txt|%xbzf136INTRO-1.jpg: Forbidden Planet; 136intro-2jjaj.JPEG: Godzilla; 136intro-3.jpg: IT Came From Outer Space; asdf136Intro-5kqlw.jpeg: 2001 a space odyssey; wuer136intro-4.JPG: The Fly; these all came from the directory /mnt/other/users/tylerdrc/top_secret
+Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 1003696         48    1003648   1%% /dev
+tmpfs                                                 204776      11072     193704   6%% /run
+/dev/sda1                                           15616412    2894172   11922292  20%% /
+tmpfs                                                1023868          0    1023868   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023868          0    1023868   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/use
+INPUT|lclarkff-intro-45|U |000000000|lclarkff|intro:echo xbzf136INTRO-1.jpg: Forbidden Planet; 136intro|%-2jjaj.JPEG: Godzilla; 136intro-3.jpg: IT Came From Outer Space; asdf136Intro-5k 
+qlw.jpeg: 2001 a space odyssey; wuer136intro-4.JPG: The Fly; these all came from 
+ the directory /mnt/other/users/tylerdrc/top_secret
+xbzf136INTRO-1.jpg: Forbidden Planet
+136intro-2jjaj.JPEG:: command not found
+136intro-3.jpg:: command not found
+asdf136Intro-5kqlw.jpeg:: command not found
+wuer136intro-4.JPG:: command not found
+No command 'these' found%% did you mean:
+ Command 'theme' from package 'discount' (universe)
+these: command not found%
+INPUT|lclarkff-intro-46|U |000000000|lclarkff|intro:echo \"xbzf136INTRO-1.jpg: Forbidden Planet; 136intr|o-2jjaj.JPEG: Godzilla; 136intro-3.jpg: IT Came From Outer Space; asdf136Intro-5 
+kqlw.jpeg: 2001 a space odyssey; wuer136intro-4.JPG: The Fly; these all came fro 
+m the directory /mnt/other/users/tylerdrc/top_secret\"
+xbzf136INTRO-1.jpg: Forbidden Planet; 136intro-2jjaj.JPEG: Godzilla; 136intro-3.jpg: IT Came From Outer Space; asdf136Intro-5kqlw.jpeg: 2001 a space odyssey; wuer136intro-4.JPG: The Fly; these all came from the directory /mnt/other/users/tylerdrc/top_secret
+INPUT|lclarkff-intro-47|U |000000000|lclarkff|intro:echo xbzf136INTRO-1.jpg: Forbidden Planet; 136intro|-2jjaj.JPEG: Godzilla; 136intro-3.jpg: IT Came From Outer Space; asdf136Intro-5k 
+qlw.jpeg: 2001 a space odyssey; wuer136intro-4.JPG: The Fly; these all came from 
+ the directory /mnt/other/users/tylerdrc/top_secret<BS> <BS><BS> <BS><ESC>[A<ESC>[A<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>"xbzf136INTRO-1.jpg: Forbidden Planet; 136intro-2jjaj.JPEG: Godzilla; 136intro-3.jpg: IT Came From Outer Space; asdf136Intro-5kqlw.jpeg: 2001 a space odyssey; wuer136intro-4.JPG: The Fly; these all came from the directory /mnt/other/users/tylerdrc/top_secret"<ESC>[A<ESC>[A<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>xbzf136INTRO-1.jpg: Forbidden Planet; 136intro-2jjaj.JPEG: Godzilla; 136intro-3.jpg: IT Came From Outer Space; asdf136Intro-5kqlw.jpeg: 2001 a space odyssey; wuer136intro-4.JPG: The Fly; these all came from <ESC>[2Pthe directory /mnt/other/users/tylerdrc/top_secret<ESC>[A<ESC>[A<ESC>[A<BS><BS><BS><BS><BS><BS><BS><BS><BS><B
+INPUT|lclarkff-intro-48|U |000000000|lclarkff|intro:echo xbzf136INTRO-1.jpg: Forbidden Planet; 136intro-|-2jjaj.JPEG: Godzilla; 136intro-3.jpg: IT Came From Outer Space; asdf136Intro-5kq
+qlw.jpeg: 2001 a space odyssey; wuer136intro-4.JPG: The Fly; these all came from 
+INPUT|lclarkff-intro-49|U |000000000|lclarkff|intro:echo xbzf136INTRO-1.jpg: Forbidden Planet; 136intro-|
+
+<ESC>[K<ESC>[Aqlw.jpeg: 2001 a space odyssey; wuer136intro-4.JPG: The Fly; these all came fro<ESC>[K
+
+INPUT|lclarkff-intro-50|U |000000000|lclarkff|intro:echo xbzf136INTRO-1.jpg: Forbidden Planet; 136intro-|
+<ESC>[K<ESC>[A-2jjaj.JPEG: Godzilla; 136intro-3.jpg: IT Came From Outer Space; asdf136Intro-5<ESC>[K
+
+INPUT|lclarkff-intro-51|U |000000000|lclarkff|intro:echo xbzf136INTRO-1.jpg: Forbidden Planet; 136intro|
+INPUT|lclarkff-intro-52|U |000000000|lclarkff|intro:echo xbzf136INTRO-1.jpg: Forbidden Planet; 136intr|
+INPUT|lclarkff-intro-53|U |000000000|lclarkff|intro:echo \"xbzf136INTRO-1.jpg: Forbidden Planet; 136intr|o-2jjaj.JPEG: Godzilla; 136intro-3.jpg: IT Came From Outer Space; asdf136Intro-5 
+kqlw.jpeg: 2001 a space odyssey; wuer136intro-4.JPG: The Fly; these all came fro 
+m the directory /mnt/other/users/tylerdrc/top_secret\" > uer<BS> <BS><BS> <BS>ser<BEL>s<BEL><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS>answers.txt 
+INPUT|lclarkff-intro-54|U |1537814556|lclarkff|intro:ls|answers.txt  images
+INPUT|lclarkff-intro-55|U |1537814704|lclarkff|intro:cat answers.txt|xbzf136INTRO-1.jpg: Forbidden Planet; 136intro-2jjaj.JPEG: Godzilla; 136intro-3.jpg: IT Came From Outer Space; asdf136Intro-5kqlw.jpeg: 2001 a space odyssey; wuer136intro-4.JPG: The Fly; these all came from the directory /mnt/other/users/tylerdrc/top_secret
+INPUT|lclarkff-intro-56|U |000000000|lclarkff|intro:echo \"/var contains files to which the system write|%s data during the course of its operation%% such as cached data from apps%% variab 
+le data relating to gaes<BS> <BS><BS> <BS>es<BS> <BS><BS> <BS>mes in /usr%% dynamic data libraries and files%% lock files  %
+INPUT|lclarkff-intro-57|U |000000000|lclarkff|intro:echo "/var contains files to which the system writes|%
+
+<ESC>[K<ESC>[Ale data relating to games in /usr%% dynamic data libraries and files%% lock files<ESC>[K
+
+<ESC>[K<ESC>[Ale data relating to games in /usr%% dynamic data libraries and files%% lock files<BS> <BS><BS> <BS>es%% 
+ log files<ESC>[A<ESC>[A<ESC>[Antro:~/top_secret$ cat answers.txt <ESC>[K
+
+<ESC>[K
+
+<ESC>[K
+%
+INPUT|lclarkff-intro-58|U |000000000|lclarkff|intro:echo "/var contains files to which the system writes|%s data during the course of its operation%% such as cached data from apps%% variabl
+le data relating to games in /usr%% dynamic data libraries and files%% lock files%% 
+ log files<BEL><BS><BS><BS><BS><BS><ESC>[A<ESC>[A<ESC>[Akff@intro:~/top_secret$ cat answers.txt <ESC>[K
+
+<ESC>[K
+
+<ESC>[K
+%
+INPUT|lclarkff-intro-59|U |000000000|lclarkff|intro:echo "/var contains files to which the system writes|%s data during the course of its operation%% such as cached data from apps%% variabl
+le data relating to games in /usr%% dynamic data libraries and files%% lock files%% 
+ log files<BEL><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+<ESC>[Ale data relating to games in /usr%% dynamic data libraries and files%% lock files<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>%% dynamic data libraries and files%% lock files%% l<ESC>[1P<ESC>[Ae data relating to games in /us<BS>%% dynamic data libraries and files%% lock files%% lo<ESC>[1P<ESC>[Ae data relating to games in /u<BS>%% dynamic data libraries and files%% lock files%% log<ESC>[1P<ESC>[Ae data relating to games in /<BS>%% dynamic data libraries and files%% lock files%% log <ESC>[1P<ESC>[Ae data relating to games in <BS>%% dynamic data libraries and files%% lock files%% log f<ESC>[1P<ESC>[Ae data relatin
+INPUT|lclarkff-intro-60|U |000000000|lclarkff|intro:echo "/var contains files to which the system writes|%
+
+
+<ESC>[K<ESC>[Aes%% PIDs and other system information valid until the system is rebooted%% and m<ESC>[K
+
+<ESC>[K<ESC>[Aes%% PIDs and other system information valid until the system is rebooted%% and m<BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS>mail <BS> <BS>%%  
+news%% and printer queues<BS><BS><BS><BS><BS>ueues.<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+<ESC>[Aes%% PIDs and other system information valid until the system is rebooted%% mail%%<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>
+<ESC>[Ale data relating to games%% dynamic data libraries and files%% lock files%% log fi<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><B
+INPUT|lclarkff-intro-61|U |1537814701|lclarkff|intro:ls|answers.txt  images
+INPUT|lclarkff-intro-62|U |1537815249|lclarkff|intro:cat answers.txt|%xbzf136INTRO-1.jpg: Forbidden Planet; 136intro-2jjaj.JPEG: Godzilla; 136intro-3.jpg: IT Came From Outer Space; asdf136Intro-5kqlw.jpeg: 2001 a space odyssey; wuer136intro-4.JPG: The Fly; these all came from the directory /mnt/other/users/tylerdrc/top_secret
+/var contains files to which the system writes data during the course of its operation%% and has subdirectories including cache: cached data from apps%% games: variable data relating to games%% lib: dynamic data libraries and files%% lock: lock files%% log: log files%% PIDs and other system information valid until the system is rebooted%% and run: mail%% news%% and printer queues.%
+INPUT|lclarkff-intro-63|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-64|U |1537815247|lclarkff|intro:ls|a.txt  lclarkff-intro.tar.gz  top_secret
+INPUT|lclarkff-intro-65|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-66|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-67|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-68|U |1537816139|lclarkff|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkff-intro-69|A6 |1537816160|lclarkff|intro:df > users/lclarkff/top_secret/diskfree.txt|
+INPUT|lclarkff-intro-70|U |1537816146|lclarkff|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkff-intro-71|U |000000000|lclarkff|intro:cd users/lclarkff/top_secret/|
+INPUT|lclarkff-intro-72|U |1537816161|lclarkff|intro:ls|answers.txt  diskfree.txt  images
+INPUT|lclarkff-intro-73|U |1537816170|lclarkff|intro:cat diskfree.txt|%Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 1003696         48    1003648   1%% /dev
+tmpfs                                                 204776      11072     193704   6%% /run
+/dev/sda1                                           15616412    2894416   11922048  20%% /
+tmpfs                                                1023868          0    1023868   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023868          0    1023868   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkff  2031313280 1284492928  584315392  69%% /users/lclarkff
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973215104 1763553280  36%% /proj/CS495LC
+tmpfs                                                 204776          0     204776  
+INPUT|lclarkff-intro-74|U |000000000|lclarkff|intro:cd|
+INPUT|lclarkff-intro-75|U |1537816167|lclarkff|intro:ls|a.txt  lclarkff-intro.tar.gz  top_secret
+INPUT|lclarkff-intro-76|U |000000000|lclarkff|intro:cd top_secret/|
+INPUT|lclarkff-intro-77|U |1537816173|lclarkff|intro:ls|answers.txt  diskfree.txt  images
+INPUT|lclarkff-intro-78|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-79|M5 |1537816565|lclarkff|intro:cat /proc/cpuinfo|%processor : 0
+vendor_id : GenuineIntel
+cpu family : 15
+model  : 4
+model name : Intel(R) Xeon(TM) CPU 3.00GHz
+stepping : 1
+microcode : 0x9
+cpu MHz  : 2992.606
+cache size : 1024 KB
+physical id : 0
+siblings : 2
+core id  : 0
+cpu cores : 1
+apicid  : 0
+initial apicid : 0
+fpu  : yes
+fpu_exception : yes
+cpuid level : 5
+wp  : yes
+flags  : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc pebs bts nopl pni dtes64 monitor ds_cpl cid cx16 xtpr
+bugs  :
+bogomips : 5985.21
+clflush size : 64
+cache_alignment : 128
+address sizes : 36 bits physical%% 48 bits virtual
+power management:
+
+processor : 1
+vendor_id : GenuineIntel
+cpu family : 15
+model  : 4
+model name : Intel(R) Xeon(TM) CPU 3.00GHz
+steppin
+INPUT|lclarkff-intro-80|U |000000000|lclarkff|intro:cd|
+INPUT|lclarkff-intro-81|U |1537816177|lclarkff|intro:ls|a.txt  lclarkff-intro.tar.gz  top_secret
+INPUT|lclarkff-intro-82|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-83|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-84|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-85|U |000000000|lclarkff|intro:ks|ks: command not found
+INPUT|lclarkff-intro-86|U |1537816683|lclarkff|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkff-intro-87|M5 |000000000|lclarkff|intro:cat /proc/cpuinfo|%processor : 0
+vendor_id : GenuineIntel
+cpu family : 15
+model  : 4
+model name : Intel(R) Xeon(TM) CPU 3.00GHz
+stepping : 1
+microcode : 0x9
+cpu MHz  : 2992.606
+cache size : 1024 KB
+physical id : 0
+siblings : 2
+core id  : 0
+cpu cores : 1
+apicid  : 0
+initial apicid : 0
+fpu  : yes
+fpu_exception : yes
+cpuid level : 5
+wp  : yes
+flags  : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc pebs bts nopl pni dtes64 monitor ds_cpl cid cx16 xtpr
+bugs  :
+bogomips : 5985.21
+clflush size : 64
+cache_alignment : 128
+address sizes : 36 bits physical%% 48 bits virtual
+power management:
+
+processor : 1
+vendor_id : GenuineIntel
+cpu family : 15
+model  : 4
+model name : Intel(R) Xeon(TM) CPU 3.00GHz
+steppin
+INPUT|lclarkff-intro-88|U |000000000|lclarkff|intro:cd users/lclarkff/top_secret/|
+INPUT|lclarkff-intro-89|U |1537816690|lclarkff|intro:ls|answers.txt  diskfree.txt  images
+INPUT|lclarkff-intro-90|U |000000000|lclarkff|intro:echo \"Treasure Hunt:|%> xbzf136INTRO-1.jpg: Forbidden Planet; 136intro-2jjaj.JPEG: Godzilla; 136intro- 
+3.jpg: IT Came From Outer Space; asdf136Intro-5kqlw.jpeg: 2001 a space odyssey;  
+wuer136intro-4.JPG: The Fly; these all came from the directory /mnt/other/users/ 
+tylerdrc/top_secret/*intro*
+> 
+> Information Hunt:
+> 1) /var contains files to which the system writes data during the course of it 
+s operation%% and has subdirectories including cache: cached data from apps%% game 
+s: variable data relating to games%% lib: dynamic data libraries and files%% lock: 
+ lock files%% log: log files%% PIDs and other system information valid until the s 
+ystem is rebooted%% and run: mail%% news%% and printer queues.
+> 2) /dev contains special special device files that control access to periphera 
+l devices%% and its subdirectories each contain special device files relating to  
+a specific type of device.
+> 3) see diskfree.txt
+> 4) vendor ID: GenuineIntel
+> \" > s<BS> <
+INPUT|lclarkff-intro-91|U |1537816709|lclarkff|intro:ls|answers.txt  diskfree.txt  images
+INPUT|lclarkff-intro-92|U |1537816782|lclarkff|intro:ls|answers.txt  diskfree.txt  images
+INPUT|lclarkff-intro-93|U |000000000|lclarkff|intro:echo \"Treasure Hunt:        xbzf136INTRO-1.jpg: For|%bidden Planet; 136intro-2jjaj.JPEG: Godzilla; 136intro-3.jpg: IT Came From Outer 
+ Space; asdf136Intro-5kqlw.jpeg: 2001 a space odyssey; wuer136intro-4.JPG: The F 
+ly; these all came from the directory /mnt/other/users/tylerdrc/top_secret/*intr 
+o*             Information Hunt:  1) /var contains files to which the system wri 
+tes data during the course of its operation%% and has subdirectories including ca 
+che: cached data from apps%% games: variable data relating to games%% lib: dynamic 
+ data libraries and files%% lock: lock files%% log: log files%% PIDs and other syst 
+em information valid until the system is rebooted%% and run: mail%% news%% and prin 
+ter queues.      2) /dev contains special special device files that control acce 
+ss to peripheral devices%% and its subdirectories each contain special device fil 
+es relating to a specific type of device.        3) see diskfree.txt       4) ve 
+ndor ID: GenuineIntel\" > answers.txt %
+INPUT|lclarkff-intro-94|U |1537817027|lclarkff|intro:cat answers.txt|%Treasure Hunt:        xbzf136INTRO-1.jpg: Forbidden Planet; 136intro-2jjaj.JPEG: Godzilla; 136intro-3.jpg: IT Came From Outer Space; asdf136Intro-5kqlw.jpeg: 2001 a space odyssey; wuer136intro-4.JPG: The Fly; these all came from the directory /mnt/other/users/tylerdrc/top_secret/*intro*             Information Hunt:  1) /var contains files to which the system writes data during the course of its operation%% and has subdirectories including cache: cached data from apps%% games: variable data relating to games%% lib: dynamic data libraries and files%% lock: lock files%% log: log files%% PIDs and other system information valid until the system is rebooted%% and run: mail%% news%% and printer queues.      2) /dev contains special special device files that control access to peripheral devices%% and its subdirectories each contain special device files relating to a specific type of device.        3) see diskfree.txt       4) vendor ID: GenuineIntel%
+INPUT|lclarkff-intro-95|U |1537816953|lclarkff|intro:ls|answers.txt  diskfree.txt  images
+INPUT|lclarkff-intro-96|U |000000000|lclarkff|intro:cd|
+INPUT|lclarkff-intro-97|U |1537817032|lclarkff|intro:ls|a.txt  lclarkff-intro.tar.gz  top_secret
+INPUT|lclarkff-intro-98|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-99|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-100|U |1537817427|lclarkff|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkff-intro-101|U |1537817443|lclarkff|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkff-intro-102|U |000000000|lclarkff|intro:cd users/lclarkff/top_secret/|
+INPUT|lclarkff-intro-103|U |1537817618|lclarkff|intro:ls|answers.txt  diskfree.txt  images
+INPUT|lclarkff-intro-104|U |000000000|lclarkff|intro:%echo \"Hanna Lyubinina| alyubinina@lclark.edu
+INPUT|lclarkff-intro-105|U |000000000|lclarkff|intro:%echo \"Hanna Lyubinina| alyubinina@lclark.edu
+INPUT|lclarkff-intro-106|U |1537817628|lclarkff|intro:ls|answers.txt  diskfree.txt  images
+INPUT|lclarkff-intro-107|U |1537817682|lclarkff|intro:cat answers.txt|%Hanna Lyubinina%% alyubinina@lclark.edu%% lclarkff%% Treasure Hunt:        xbzf136INTRO-1.jpg: Forbidden Planet; 136intro-2jjaj.JPEG: Godzilla; 136intro-3.jpg: IT Came From Outer Space; asdf136Intro-5kqlw.jpeg: 2001 a space odyssey; wuer136intro-4.JPG: The Fly; these all came from the directory /mnt/other/users/tylerdrc/top_secret/*intro*             Information Hunt:  1) /var contains files to which the system writes data during the course of its operation%% and has subdirectories including cache: cached data from apps%% games: variable data relating to games%% lib: dynamic data libraries and files%% lock: lock files%% log: log files%% PIDs and other system information valid until the system is rebooted%% and run: mail%% news%% and printer queues.      2) /dev contains special special device files that control access to peripheral devices%% and its subdirectories each contain special device files relating to a specific type of device.        3) see diskfree.txt       4) vendor ID: Ge
+INPUT|lclarkff-intro-108|U |1537817719|lclarkff|intro:tar cvzf lclarkff-intro.tar.gz top_secret|tar: top_secret: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+INPUT|lclarkff-intro-109|U |1537817679|lclarkff|intro:ls|answers.txt  diskfree.txt  images  lclarkff-intro.tar.gz
+INPUT|lclarkff-intro-110|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-111|U |1537817725|lclarkff|intro:ls|a.txt  lclarkff-intro.tar.gz  top_secret
+INPUT|lclarkff-intro-112|U |000000000|lclarkff|intro:cd lclarkff-intro.tar.gz|bash: cd: lclarkff-intro.tar.gz: Not a directory
+INPUT|lclarkff-intro-113|U |1537817731|lclarkff|intro:ls|a.txt  lclarkff-intro.tar.gz  top_secret
+INPUT|lclarkff-intro-114|U |000000000|lclarkff|intro:cd lclarkff-intro.tar.gz|
+INPUT|lclarkff-intro-115|U |1537817736|lclarkff|intro:ls[3Ptar cvzf lclarkff-intro.tar.gz top_secret|top_secret/
+top_secret/answers.txt
+top_secret/images/
+top_secret/images/136intro-2jjaj.JPEG
+top_secret/images/136intro-3.jpg
+top_secret/images/asdf136Intro-5kqlw.jpeg
+top_secret/images/wuer136intro-4.JPG
+top_secret/images/xbzf136INTRO-1.jpg
+top_secret/diskfree.txt
+top_secret/lclarkff-intro.tar.gz
+INPUT|lclarkff-intro-116|U |1537817746|lclarkff|intro:ls|a.txt  lclarkff-intro.tar.gz  top_secret
+INPUT|lclarkff-intro-117|U |000000000|lclarkff|intro:exit|exit
+INPUT|lclarkff-intro-118|U |000000000|lclarkff|intro:cd lclarkff-intro.tar.gz|bash: cd: lclarkff-intro.tar.gz: Not a directory
+INPUT|lclarkff-intro-119|U |000000000|lclarkff|intro:cd top_secret/|
+INPUT|lclarkff-intro-120|U |1537984939|lclarkff|intro:ls|answers.txt  diskfree.txt  images  lclarkff-intro.tar.gz
+INPUT|lclarkff-intro-121|U |000000000|lclarkff|intro:cd..|cd..: command not found
+INPUT|lclarkff-intro-122|U |1537984946|lclarkff|intro:ls|answers.txt  diskfree.txt  images  lclarkff-intro.tar.gz
+INPUT|lclarkff-intro-123|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-124|U |1537984954|lclarkff|intro:ls|a.txt  lclarkff-intro.tar.gz  top_secret
+INPUT|lclarkff-intro-125|U |000000000|lclarkff|intro:cd top_secret/|
+INPUT|lclarkff-intro-126|U |1537984958|lclarkff|intro:ls|answers.txt  diskfree.txt  images  lclarkff-intro.tar.gz
+INPUT|lclarkff-intro-127|U |1537984995|lclarkff|intro:rm lclarkff-intro.tar.gz|
+INPUT|lclarkff-intro-128|U |1537984972|lclarkff|intro:ls|answers.txt  diskfree.txt  images
+INPUT|lclarkff-intro-129|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-130|U |1537984996|lclarkff|intro:ls|a.txt  lclarkff-intro.tar.gz  top_secret
+INPUT|lclarkff-intro-131|U |1537985012|lclarkff|intro:cat ans|cat: ans: No such file or directory
+INPUT|lclarkff-intro-132|U |1537984999|lclarkff|intro:ls top_secret/|answers.txt  diskfree.txt  images
+INPUT|lclarkff-intro-133|U |1537985018|lclarkff|intro:ls|a.txt  lclarkff-intro.tar.gz  top_secret
+INPUT|lclarkff-intro-134|U |000000000|lclarkff|intro:cd top_secret/|
+INPUT|lclarkff-intro-135|U |1537985024|lclarkff|intro:ls|answers.txt  diskfree.txt  images
+INPUT|lclarkff-intro-136|U |1537985026|lclarkff|intro:cat answers.txt|%Hanna Lyubinina%% alyubinina@lclark.edu%% lclarkff%% Treasure Hunt:        xbzf136INTRO-1.jpg: Forbidden Planet; 136intro-2jjaj.JPEG: Godzilla; 136intro-3.jpg: IT Came From Outer Space; asdf136Intro-5kqlw.jpeg: 2001 a space odyssey; wuer136intro-4.JPG: The Fly; these all came from the directory /mnt/other/users/tylerdrc/top_secret/*intro*             Information Hunt:  1) /var contains files to which the system writes data during the course of its operation%% and has subdirectories including cache: cached data from apps%% games: variable data relating to games%% lib: dynamic data libraries and files%% lock: lock files%% log: log files%% PIDs and other system information valid until the system is rebooted%% and run: mail%% news%% and printer queues.      2) /dev contains special special device files that control access to peripheral devices%% and its subdirectories each contain special device files relating to a specific type of device.        3) see diskfree.txt       4) vendor ID: Ge
+INPUT|lclarkff-intro-137|U |000000000|lclarkff|intro:cd ..|
+INPUT|lclarkff-intro-138|U |1537985031|lclarkff|intro:ls|a.txt  lclarkff-intro.tar.gz  top_secret
+INPUT|lclarkff-intro-139|U |1537985051|lclarkff|intro:rm lclarkff-intro.tar.gz|
+INPUT|lclarkff-intro-140|U |1537985052|lclarkff|intro:ls|a.txt  top_secret
+INPUT|lclarkff-intro-141|U |1537985067|lclarkff|intro:tar cvzf lclarkff-intro.tar.gz top_secret/|top_secret/
+top_secret/answers.txt
+top_secret/images/
+top_secret/images/136intro-2jjaj.JPEG
+top_secret/images/136intro-3.jpg
+top_secret/images/asdf136Intro-5kqlw.jpeg
+top_secret/images/wuer136intro-4.JPG
+top_secret/images/xbzf136INTRO-1.jpg
+top_secret/diskfree.txt
+INPUT|lclarkff-intro-142|U |1537985070|lclarkff|intro:ls|a.txt  lclarkff-intro.tar.gz  top_secret
+INPUT|lclarkff-intro-143|U |000000000|lclarkff|intro:quit|%No command 'quit' found%% did you mean:
+ Command 'quilt' from package 'quilt' (universe)
+ Command 'luit' from package 'x11-utils' (main)
+ Command 'quiz' from package 'bsdgames' (universe)
+ Command 'quot' from package 'quota' (main)
+ Command 'qgit' from package 'qgit' (universe)
+quit: command not found%
+INPUT|lclarkff-intro-144|U |000000000|lclarkff|intro:exit|exit

@@ -1,0 +1,21 @@
+User lclarkfe start time 1543435426 end 1543435734
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkfe-buffer-0|U |000000000|lclarkfe|:|
+INPUT|lclarkfe-buffer-1|U |000000000|lclarkfe|:|
+INPUT|lclarkfe-buffer-2|U |000000000|lclarkfe|server:cd ../|
+INPUT|lclarkfe-buffer-3|U |1543435426|lclarkfe|server:ls|aashraya  gbartlet  jhickey   schwab   shareag shareao  shareaw  shareta
+abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sharetc
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sharetd
+bks   jaipuria  lclarkfe  shareac  shareak shareas  shareba  sklower
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb  sunshine
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+INPUT|lclarkfe-buffer-4|U |000000000|lclarkfe|server:cd lclarkfe|
+INPUT|lclarkfe-buffer-5|U |1543435439|lclarkfe|server:ls|lclarkfe-intro.tar.gz  top_secret
+INPUT|lclarkfe-buffer-6|U |000000000|lclarkfe|server:cd /usr/src/fhttpd|
+INPUT|lclarkfe-buffer-7|U |1543435464|lclarkfe|server:ls|frobnick  index.html  Makefile webserver  webserver.c
+INPUT|lclarkfe-buffer-8|U |1543435713|lclarkfe|server:make|make: Nothing to be done for 'project'.
+INPUT|lclarkfe-buffer-9|A0 |1543435734|lclarkfe|server:./webserver 4545|GET /
+
+

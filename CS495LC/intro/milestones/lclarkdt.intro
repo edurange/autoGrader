@@ -1,0 +1,1072 @@
+User lclarkdt start time 1537815409 end 1537987435
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkdt-intro-0|U |1537815409|lclarkdt|intro:mkdir top_secret|mkdir: cannot create directory 'top_secret': File exists
+INPUT|lclarkdt-intro-1|U |000000000|lclarkdt|:|
+INPUT|lclarkdt-intro-2|U |000000000|lclarkdt|:|
+INPUT|lclarkdt-intro-3|U |1537815411|lclarkdt|intro:ls|top_secret
+INPUT|lclarkdt-intro-4|A0 A2 A1 A3 A4 |1537815446|lclarkdt|intro:find | xargs file $1 | grep JPEG|
+INPUT|lclarkdt-intro-5|A4 A3 A1 A2 A0 |1537815480|lclarkdt|intro:find | xargs file $1|%.:                             directory
+./.login_conf:                 ASCII text
+./.cshrc:                      ASCII text
+./.login:                      ASCII text
+./.mail_aliases:               ASCII text
+./.mailrc:                     ASCII text
+./.profile:                    ASCII text
+./.rhosts:                     ASCII text
+./.shrc:                       ASCII text
+./.ssl:                        directory
+./.ssl/emulab.pem:             ASCII text
+./.ssh:                        directory
+./.ssh/id_rsa:                 PEM RSA private key
+./.ssh/id_rsa.pub:             OpenSSH RSA public key
+./.ssh/known_hosts:            ASCII text
+./.ssh/id_emulab.pub:          OpenSSH RSA public key
+./.ssh/authorized_keys:        ASCII text%% with very long lines
+./.ssh/external_keys:          ASCII text
+./.forward:                    ASCII text
+./.bash_history:               ASCII text
+./top_secret:                  directory
+./
+INPUT|lclarkdt-intro-6|A1 A3 A4 A0 A2 |000000000|lclarkdt|intro:ffind / -mount -name \"*intro*\" 2> /dev/null|/var/log/ttylog/ttylog.intro.0
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/share/exp/createimage/logs/cli.intro.csv.1535412403
+/proj/share/exp/createimage/logs/ttylog.intro.0
+/proj/share/exp/createimage/logs/alltty.intro
+/proj/share/exp/createimage/logs/cli.intro.csv
+/proj/share/exp/createimage/count.intro
+/local/logs/intro_startcmd.err
+/local/logs/intro_startcmd.err.10
+/local/logs/intro_startcmd.out.10
+/local/logs/intro_startcmd.out
+/local/logs/intro_startcmd.status.10
+/local/logs/intro_startcmd.status
+/usr/share/man/man4/intro.4.gz
+/usr/share/man/man2/intro.2.gz
+/usr/share/man/man1/intro.1.gz
+/usr/share/man/man5/intro.5.gz
+/usr/share/man/man8/intro.8.gz
+/usr/share/man/man6/intro.6.gz
+/usr/share/man/man3/intro.3.gz
+/usr/share/man/man7/intro.7.gz
+/usr/share/vi
+INPUT|lclarkdt-intro-7|U |000000000|lclarkdt|intro:mv /var/log/136intro-3.jpg top_secret|
+INPUT|lclarkdt-intro-8|A0 A2 A1 A4 A3 |1537816278|lclarkdt|intro:find / -mount -name \"*intro*\" 2> /dev/null|
+INPUT|lclarkdt-intro-9|M3 M2 |1537815694|lclarkdt|intro:find [21P| / -mount -name "*intro*" 2> /dev/null |xargs file $1 | gr|%ep JPEG
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkdt-intro-10|U |000000000|lclarkdt|intro:cp /etc/wuer136intro-4.JPG: top_secret|cp: cannot stat '/etc/wuer136intro-4.JPG:': No such file or directory
+INPUT|lclarkdt-intro-11|U |000000000|lclarkdt|intro:cp /etc/wuer136intro-4.JPG: top_secret|
+INPUT|lclarkdt-intro-12|U |1537815743|lclarkdt|intro:ls|top_secret
+INPUT|lclarkdt-intro-13|U |000000000|lclarkdt|intro:cd top_secret|
+INPUT|lclarkdt-intro-14|U |1537815749|lclarkdt|intro:ls|wuer136intro-4.JPG
+INPUT|lclarkdt-intro-15|U |000000000|lclarkdt|intro:cp /etc/wuer136intro-4.JPG: top_secret|
+INPUT|lclarkdt-intro-16|M3 |1537815828|lclarkdt|intro:find / -mount -name \"*intro*\" 2> /dev/null |xargs file $1 | grep| JPEG[Akdt@intro:~/top_secret$ [26Pcp /etc/wuer136intro-4.JPG: top_secret
+
+INPUT|lclarkdt-intro-17|U |1537815799|lclarkdt|intro:../|bash: ../: Is a directory
+INPUT|lclarkdt-intro-18|U |000000000|lclarkdt|intro:cd ../|
+INPUT|lclarkdt-intro-19|U |000000000|lclarkdt|intro:cp /etc/wuer136intro-4.JPG: top_secret|
+INPUT|lclarkdt-intro-20|M3 M2 |1537816146|lclarkdt|intro:find / -mount -name \"*intro*\" 2> /dev/null |xargs file $[1P[1@2p JPEG|%/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkdt-intro-21|U |1537815742|lclarkdt|intro:cp /etc/wuer136intro-4.JPG top_secret|
+INPUT|lclarkdt-intro-22|U |1537815863|lclarkdt|intro:cp /etc/wuer136intro-4.JPG top_secret|
+INPUT|lclarkdt-intro-23|A2 A0 A4 A3 A1 |1537815694|lclarkdt|intro:find / -mount -name \"*intro*\" 2> /dev/null |xargs file $2 | grep JPEG|
+INPUT|lclarkdt-intro-24|U |000000000|lclarkdt|intro:cp /var/log/136intro-3.jpg top_secret|
+INPUT|lclarkdt-intro-25|A2 A0 A4 A3 A1 |000000000|lclarkdt|intro:find / -mount -name "*intro*" 2> /dev/null|
+INPUT|lclarkdt-intro-26|U |000000000|lclarkdt|intro:cp /var/log/136intro-3.jpg top_secret|
+INPUT|lclarkdt-intro-27|A2 A0 A4 A3 A1 |1537815828|lclarkdt|intro:find / -mount -n[1[1[1[1[1[1P[1-name \"*intro*\" [1P[1@1> /dev/null | grep JPEG|find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied
+find: '/proc/2/task/2/fd': Permission denied
+find: '/proc/2/task/2/fdinfo': Permission denied
+find: '/proc/2/task/2/ns': Permission denie
+INPUT|lclarkdt-intro-28|U |1537816050|lclarkdt|intro:[1@s[1@u[1@d[1@o[1@ *" 1> /dev/null | grep JPEG|^C
+INPUT|lclarkdt-intro-29|A4 A3 A1 A2 A0 |1537816071|lclarkdt|intro:find / -name \"*intro*\" 1> /dev/null | grep JPEG|^C
+INPUT|lclarkdt-intro-30|A0 A2 A1 A3 A4 |1537816080|lclarkdt|intro:find / -name \"*intro*\" 1> /dev/null | grep JPEG|
+INPUT|lclarkdt-intro-31|A0 A2 A1 A3 A4 |1537816146|lclarkdt|intro:[5Pfind / -name "*intro*" 1> /dev/null | grep JPEG|
+INPUT|lclarkdt-intro-32|U |000000000|lclarkdt|intro:cp /var/log/136intro-3.jpg top_secret|
+INPUT|lclarkdt-intro-33|A2 A0 A4 A3 A1 |000000000|lclarkdt|intro:find / -name \"*intro*\" 1> /dev/null | grep JPEG|
+INPUT|lclarkdt-intro-34|U |000000000|lclarkdt|intro:cp /var/log/136intro-3.jpg top_secret|
+INPUT|lclarkdt-intro-35|U |000000000|lclarkdt|intro:cp /etc/wuer136intro-4.JPG top_secret|
+INPUT|lclarkdt-intro-36|U |000000000|lclarkdt|intro:fisudo -mount -name \"*intro*\" 2> /dev/null |xargs file $2 | grep JPEG|%/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "<E0><FB><FC>\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkdt-intro-37|A0 A2 A1 A4 A3 |000000000|lclarkdt|intro:find \"*intro*\"|find: '*intro*': No such file or directory
+INPUT|lclarkdt-intro-38|A4 A3 A1 A2 A0 |000000000|lclarkdt|intro:find|.
+./.login_conf
+./.cshrc
+./.login
+./.mail_aliases
+./.mailrc
+./.profile
+./.rhosts
+./.shrc
+./.ssl
+./.ssl/emulab.pem
+./.ssh
+./.ssh/id_rsa
+./.ssh/id_rsa.pub
+./.ssh/known_hosts
+./.ssh/id_emulab.pub
+./.ssh/authorized_keys
+./.ssh/external_keys
+./.forward
+./.bash_history
+./top_secret
+./top_secret/wuer136intro-4.JPG
+./top_secret/136intro-3.jpg
+./.cache
+./.cache/motd.legal-displayed
+INPUT|lclarkdt-intro-39|A4 A3 A1 A2 A0 |000000000|lclarkdt|intro:find | xargs file $1|%.:                               directory
+./.login_conf:                   ASCII text
+./.cshrc:                        ASCII text
+./.login:                        ASCII text
+./.mail_aliases:                 ASCII text
+./.mailrc:                       ASCII text
+./.profile:                      ASCII text
+./.rhosts:                       ASCII text
+./.shrc:                         ASCII text
+./.ssl:                          directory
+./.ssl/emulab.pem:               ASCII text
+./.ssh:                          directory
+./.ssh/id_rsa:                   PEM RSA private key
+./.ssh/id_rsa.pub:               OpenSSH RSA public key
+./.ssh/known_hosts:              ASCII text
+./.ssh/id_emulab.pub:            OpenSSH RSA public key
+./.ssh/authorized_keys:          ASCII text%% with very long lines
+./.ssh/external_keys:            ASCII text
+./.forward:                      ASCII text
+./.bash_history:                 ASCII text
+./top_
+INPUT|lclarkdt-intro-40|A2 A0 A4 A3 A1 |000000000|lclarkdt|intro:fisudo find / -mount -name "*intro*" 2> /dev/null |xargs file  2 | grep JPEG|
+INPUT|lclarkdt-intro-41|A4 A3 A1 A2 A0 |000000000|lclarkdt|intro:find /-iname \"*.jpg\*\"|find: '/-iname': No such file or directory
+find: '*.jpg*': No such file or directory
+INPUT|lclarkdt-intro-42|A2 A0 A4 A3 A1 |1537817028|lclarkdt|intro:man find|%[?1049h[?1h=
+FIND(1)                                                       General Commands Manual                                                       FIND(1)[m
+[m
+[1mNAME[0m[m
+       find - search for files in a directory hierarchy[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mfind[0m [-H] [-L] [-P] [-D debugopts] [-Olevel] [starting-point...] [expression][m
+[m
+[1mDESCRIPTION[0m[m
+       This  manual page documents the GNU version of [1mfind[0m.  GNU [1mfind[0m searches the directory tree rooted at each given starting-point by evaluating[m
+       the given expression from left to right%% according to the rules of precedence (see section OPERATORS)%% until the outcome is known (the  left[m
+       hand side is false for [4mand[24m operations%% true for [4mor[24m)%% at which point [1mfind[0m moves on to the next file name.  If no starting-point is specified%%[m
+       `.' is assumed.[m
+[m
+       If you are using [1mfind[0m in an environment where securit
+INPUT|lclarkdt-intro-43|U |000000000|lclarkdt|intro:cd top_secret|
+INPUT|lclarkdt-intro-44|U |1537842235|lclarkdt|intro:ls|136intro-3.jpg wuer136intro-4.JPG
+INPUT|lclarkdt-intro-45|U |1537842316|lclarkdt|intro:cat 136intro-3.jpg|%JFIFHH$$$ $$$ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ZZ 
+
+
+" ( #$&&&)%%)%%%%"%%  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+<VT>}!1AQa"q#BR$3br 
+%%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxy 
+<VT>w!1AQaq"B #3Rbr
+$4%%&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz<NP>?((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((`/]>.H?<3/9}P~V?OxGP?8JM1|<NP>qmCQ?_R<NP>m<
+ORc1F~co?}H:QUs1Xo?G1F~) ?-0[a0r(acco?#~V2?qHaacmXa_c{?}@s01F~c{?}Gh-0[a3
+Wacco??~3<VT>.[a8(??-0(>f>\8(?co AN_??&~?_RRs01F~co(F~a1Hf;#c_(F~c_(F~O)]c?6?}L@3<VT>.@0@0=}(acc_(F~c_(F~}((c>\9a9aL
+@V>\9asj?0=)<NP>t?&~Q=)s0s%%?s#0 Ph
+m?m{
+9X{Q?a9vGV??K<NP>qmC0Occo(F~co(F~-Oco(F~`>a9auh9???"#u|8|OMo+*'[8|__O{aPT]QEB
+(
+(
+(
+(
+(
+(
+(>?[q_NmPH+/< }%%}9qzL#qP\Oy-m7:+2/SP "#~}P_H'gOw<VT>3YH<_F?&E_Q4
+4pGqNsJ?%%J$h?%%/'G'\ _Gn?&xo&O0<NP>\
+INPUT|lclarkdt-intro-46|U |000000000|lclarkdt|intro:1;2c1;2c|
+INPUT|lclarkdt-intro-47|U |000000000|lclarkdt|intro:man cat|%No command '1man' found%% did you mean:
+ Command 'gman' from package 'gman' (universe)
+ Command 'pman' from package 'pmtools' (universe)
+ Command 'rman' from package 'rman' (universe)
+ Command 'dman' from package 'bikeshed' (universe)
+ Command 'hman' from package 'man2html' (universe)
+ Command 'man' from package 'man-db' (main)
+ Command 'xman' from package 'x11-apps' (main)
+1man: command not found%
+INPUT|lclarkdt-intro-48|U |000000000|lclarkdt|intro:1man cat^C|
+INPUT|lclarkdt-intro-49|U |000000000|lclarkdt|intro:^C|
+INPUT|lclarkdt-intro-50|U |000000000|lclarkdt|intro:^C|
+INPUT|lclarkdt-intro-51|U |000000000|lclarkdt|intro:^C|
+INPUT|lclarkdt-intro-52|U |1537842240|lclarkdt|intro:lsman cat      jpg|%[?1049h[?1h=
+CAT(1)                           User Commands                          CAT(1)[m
+[m
+[1mNAME[0m[m
+       cat - concatenate files and print on the standard output[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mcat[0m [[4mOPTION[24m]... [[4mFILE[24m]...[m
+[m
+[1mDESCRIPTION[0m[m
+       Concatenate FILE(s) to standard output.[m
+[m
+       With no FILE%% or when FILE is -%% read standard input.[m
+[m
+       [1m-A[0m%% [1m--show-all[0m[m
+              equivalent to [1m-vET[0m[m
+[m
+       [1m-b[0m%% [1m--number-nonblank[0m[m
+              number nonempty output lines%% overrides [1m-n[0m[m
+[m
+       [1m-e[0m     equivalent to [1m-vE[0m[m
+[m
+       [1m-E[0m%% [1m--show-ends[0m[m
+              display $ at end of each line[m
+[m
+       [1m-n[0m%% [1m--number[0m[m
+              number all output lines[m
+[m
+       [1m-s[0m%% [1m--squeeze-blank[0m[m
+              suppress repeated empty output lines[m
+[m
+      
+INPUT|lclarkdt-intro-53|U |000000000|lclarkdt|intro:ls|136intro-3.jpg wuer136intro-4.JPG
+INPUT|lclarkdt-intro-54|U |000000000|lclarkdt|intro:ls|136intro-3.jpg wuer136intro-4.JPG
+INPUT|lclarkdt-intro-55|U |000000000|lclarkdt|intro:^C|
+INPUT|lclarkdt-intro-56|U |000000000|lclarkdt|intro:^C|
+INPUT|lclarkdt-intro-57|U |000000000|lclarkdt|intro:^C|
+INPUT|lclarkdt-intro-58|U |000000000|lclarkdt|intro:^C|
+INPUT|lclarkdt-intro-59|U |000000000|lclarkdt|intro:^C|
+INPUT|lclarkdt-intro-60|U |000000000|lclarkdt|intro:^C|
+INPUT|lclarkdt-intro-61|A4 A3 A1 A2 A0 |000000000|lclarkdt|intro:find . -name \"*intro*\"|./top_secret/wuer136intro-4.JPG
+./top_secret/136intro-3.jpg
+INPUT|lclarkdt-intro-62|U |1537843021|lclarkdt|intro:dir /a:h|dir: cannot access '/a:h': No such file or directory
+INPUT|lclarkdt-intro-63|A1 A3 A4 A0 A2 |000000000|lclarkdt|intro:find / -name \"*intro*\" 1> /dev/null|!TRUNCATED TO 500L! find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied
+find: '/proc/2/task/2/fd': Permission denied
+find: '/proc/2/task/2/fdinfo': Permission denied
+find: '/proc/2/task/2/n
+INPUT|lclarkdt-intro-64|M3 M2 |000000000|lclarkdt|intro:find / -mount -name \"*intro\*\" 2> /dev/null|/var/log/ttylog/ttylog.intro.2
+/var/log/ttylog/ttylog.intro.0
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/ttylog.intro.1
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/share/exp/createimage/logs/cli.intro.csv.1535412403
+/proj/share/exp/createimage/logs/ttylog.intro.0
+/proj/share/exp/createimage/logs/alltty.intro
+/proj/share/exp/createimage/logs/cli.intro.csv
+/proj/share/exp/createimage/count.intro
+/local/logs/intro_startcmd.err
+/local/logs/intro_startcmd.err.10
+/local/logs/intro_startcmd.out.10
+/local/logs/intro_startcmd.out
+/local/logs/intro_startcmd.status.10
+/local/logs/intro_startcmd.status
+/usr/share/man/man4/intro.4.gz
+/usr/share/man/man2/intro.2.gz
+/usr/share/man/man1/intro.1.gz
+/usr/share/man/man5/intro.5.gz
+/usr/share/man/man8/intro.8.gz
+/usr/share/man/man6/intro.6.gz
+/usr/share/ma
+INPUT|lclarkdt-intro-65|A4 A3 A1 A2 A0 |000000000|lclarkdt|intro:find / -mount -name \"*intro*\" 1> /dev/null|^C
+INPUT|lclarkdt-intro-66|A4 A3 A1 A2 A0 |000000000|lclarkdt|intro:find / -namount -name "*intro*" 2> /dev/null|
+INPUT|lclarkdt-intro-67|A4 A3 A1 A2 A0 |000000000|lclarkdt|intro:find / -name "*intro*" 1> /dev/null|
+INPUT|lclarkdt-intro-68|M3 M2 |000000000|lclarkdt|intro:find / -mount -name "*intro*" 2> /dev/null|/var/log/ttylog/ttylog.intro.2
+/var/log/ttylog/ttylog.intro.0
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/ttylog.intro.1
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/share/exp/createimage/logs/cli.intro.csv.1535412403
+/proj/share/exp/createimage/logs/ttylog.intro.0
+/proj/share/exp/createimage/logs/alltty.intro
+/proj/share/exp/createimage/logs/cli.intro.csv
+/proj/share/exp/createimage/count.intro
+/local/logs/intro_startcmd.err
+/local/logs/intro_startcmd.err.10
+/local/logs/intro_startcmd.out.10
+/local/logs/intro_startcmd.out
+/local/logs/intro_startcmd.status.10
+/local/logs/intro_startcmd.status
+/usr/share/man/man4/intro.4.gz
+/usr/share/man/man2/intro.2.gz
+/usr/share/man/man1/intro.1.gz
+/usr/share/man/man5/intro.5.gz
+/usr/share/man/man8/intro.8.gz
+/usr/share/man/man6/intro.6.gz
+/usr/share/ma
+INPUT|lclarkdt-intro-69|M2 M0 |000000000|lclarkdt|intro:find / -mount -name \"*i.jpgg\" 2> /dev/null|/var/log/136intro-3.jpg
+/usr/share/doc/libsane/umax/sane-umax-text2.jpg
+/usr/share/doc/libsane/umax/sane-umax-standard.jpg
+/usr/share/doc/libsane/umax/sane-umax-text.jpg
+/usr/share/doc/libsane/umax/sane-umax.jpg
+/usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+/usr/share/doc/libsane/umax/sane-umax-text4.jpg
+/usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+/usr/share/doc/libsane/umax/sane-logo.jpg
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|lclarkdt-intro-70|U |1537843408|lclarkdt|intro:mv /usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|mv: cannot remove '/usr/share/pixmaps/xbzf136INTRO-1.jpg': Permission denied
+INPUT|lclarkdt-intro-71|U |1537843417|lclarkdt|intro:mv /usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkdt-intro-72|U |000000000|lclarkdt|intro:mv /usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkdt-intro-73|U |000000000|lclarkdt|intro:mv /usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkdt-intro-74|M2 |000000000|lclarkdt|intro:find / -mount -name "*intro 2> /dev/null|/var/log/136intro-3.jpg
+INPUT|lclarkdt-intro-75|M3 M2 |000000000|lclarkdt|intro:find / -mount -aname \"*intro*\" 2> /dev/null|/var/log/ttylog/ttylog.intro.2
+/var/log/ttylog/ttylog.intro.0
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/ttylog.intro.1
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/share/exp/createimage/logs/cli.intro.csv.1535412403
+/proj/share/exp/createimage/logs/ttylog.intro.0
+/proj/share/exp/createimage/logs/alltty.intro
+/proj/share/exp/createimage/logs/cli.intro.csv
+/proj/share/exp/createimage/count.intro
+/local/logs/intro_startcmd.err
+/local/logs/intro_startcmd.err.10
+/local/logs/intro_startcmd.out.10
+/local/logs/intro_startcmd.out
+/local/logs/intro_startcmd.status.10
+/local/logs/intro_startcmd.status
+/usr/share/man/man4/intro.4.gz
+/usr/share/man/man2/intro.2.gz
+/usr/share/man/man1/intro.1.gz
+/usr/share/man/man5/intro.5.gz
+/usr/share/man/man8/intro.8.gz
+/usr/share/man/man6/intro.6.gz
+/usr/share/ma
+INPUT|lclarkdt-intro-76|A1 A4 A3 A0 A2 |1537843499|lclarkdt|intro:find / -mount -name \"*intro*\" 2> /dev/null | xargs file $1 | g|
+INPUT|lclarkdt-intro-77|A4 A3 A1 A2 A0 |000000000|lclarkdt|intro:find / -mount -name "*intro*" 2> /dev/null | xargs file $1 | g|
+INPUT|lclarkdt-intro-78|A0 A2 A1 A4 A3 |000000000|lclarkdt|intro:find / -mount -name "*intro*" 2> /dev/null | xargs file $1 ||
+INPUT|lclarkdt-intro-79|M3 M2 |000000000|lclarkdt|intro:find / -mount -name "*intro*" 2> /dev/null | xargs file $1 | g|%rep JPEG
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "<E0><FB><FC>\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkdt-intro-80|U |1537842684|lclarkdt|intro:ls /top_secret|ls: cannot access '/top_secret': No such file or directory
+INPUT|lclarkdt-intro-81|U |1537843608|lclarkdt|intro:ls|top_secret
+INPUT|lclarkdt-intro-82|U |000000000|lclarkdt|intro:cd top_secret|
+INPUT|lclarkdt-intro-83|U |1537843617|lclarkdt|intro:ls|136intro-3.jpg wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkdt-intro-84|U |000000000|lclarkdt|intro:exit|
+INPUT|lclarkdt-intro-85|U |000000000|lclarkdt|intro:cd /home|
+INPUT|lclarkdt-intro-86|U |1537937059|lclarkdt|intro:ls|deter
+INPUT|lclarkdt-intro-87|U |1537937074|lclarkdt|intro:mkdir top_secret|mkdir: cannot create directory 'top_secret': Permission denied
+INPUT|lclarkdt-intro-88|U |1537937082|lclarkdt|intro:mkdir top_secret|
+INPUT|lclarkdt-intro-89|U |1537937067|lclarkdt|intro:ls|deter  top_secret
+INPUT|lclarkdt-intro-90|U |1537937103|lclarkdt|intro:cp /var/log/136intro-3.jpg|cp: missing destination file operand after '/var/log/136intro-3.jpg'
+Try 'cp --help' for more information.
+INPUT|lclarkdt-intro-91|U |1537937113|lclarkdt|intro:cp /var/log/136intro-3.jpg /home/top_secret|cp: cannot create regular file '/home/top_secret/136intro-3.jpg': Permission denied
+INPUT|lclarkdt-intro-92|U |1537937177|lclarkdt|intro:mv /var/log/136intro-3.jpg /home/top_secret/|mv: cannot move '/var/log/136intro-3.jpg' to '/home/top_secret/136intro-3.jpg': Permission denied
+INPUT|lclarkdt-intro-93|U |1537937204|lclarkdt|intro:mv var/log/136intro-3.jpg /home/top_secret/|mv: cannot stat 'var/log/136intro-3.jpg': No such file or directory
+INPUT|lclarkdt-intro-94|U |000000000|lclarkdt|intro:cd -|/users/lclarkdt
+INPUT|lclarkdt-intro-95|A2 A0 A4 A3 A1 |1537937234|lclarkdt|intro:find | xargs file $1 | grep JPEG|%./top_secret/wuer136intro-4.JPG: JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3
+./top_secret/136intro-3.jpg:     JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+./top_secret/xbzf136INTRO-1.jpg: JPEG image data%% JFIF standard 1.02%% aspect ratio%% density 100x100%% segment length 16%% progressive%% precision 8%% 398x308%% frames 3%
+INPUT|lclarkdt-intro-96|U |000000000|lclarkdt|intro:cd /.hidden|
+INPUT|lclarkdt-intro-97|U |1537937083|lclarkdt|intro:ls|asdf136Intro-5kqlw.jpeg
+INPUT|lclarkdt-intro-98|U |1537937256|lclarkdt|intro:mv asdf136Intro-5kqlw.jpeg /home/top_secret/|mv: cannot move 'asdf136Intro-5kqlw.jpeg' to '/home/top_secret/asdf136Intro-5kqlw.jpeg': Permission denied
+INPUT|lclarkdt-intro-99|U |1537937266|lclarkdt|intro:mv asdf136Intro-5kqlw.jpeg /home/top_secret/|
+INPUT|lclarkdt-intro-100|U |1537937247|lclarkdt|intro:ls|
+INPUT|lclarkdt-intro-101|U |000000000|lclarkdt|intro:cd -|/users/lclarkdt
+INPUT|lclarkdt-intro-102|U |000000000|lclarkdt|intro:cd /home|
+INPUT|lclarkdt-intro-103|U |1537937269|lclarkdt|intro:ls|deter  top_secret
+INPUT|lclarkdt-intro-104|U |000000000|lclarkdt|intro:cd deter|
+INPUT|lclarkdt-intro-105|U |1537937280|lclarkdt|intro:ls|
+INPUT|lclarkdt-intro-106|U |000000000|lclarkdt|intro:cd -|/home
+INPUT|lclarkdt-intro-107|U |000000000|lclarkdt|intro:cd -|/home/deter
+INPUT|lclarkdt-intro-108|U |000000000|lclarkdt|intro:cd -|/home
+INPUT|lclarkdt-intro-109|U |000000000|lclarkdt|intro:cd /|
+INPUT|lclarkdt-intro-110|U |000000000|lclarkdt|intro:cd /dev|
+INPUT|lclarkdt-intro-111|U |1537937286|lclarkdt|intro:ls|136intro-2jjaj.JPEG  loop6   tty14 tty5    ttyS26
+autofs       loop7   tty15 tty50    ttyS27
+block       loop-control  tty16 tty51    ttyS28
+bsg       mapper   tty17 tty52    ttyS29
+btrfs-control      mcelog   tty18 tty53    ttyS3
+bus       mem   tty19 tty54    ttyS30
+char       memory_bandwidth  tty2 tty55    ttyS31
+console       mqueue   tty20 tty56    ttyS4
+core       net   tty21 tty57    ttyS5
+cpu       network_latency  tty22 tty58    ttyS6
+cpu_dma_latency      network_throughput  tty23 tty59    ttyS7
+cuse       null   tty24 tty6    ttyS8
+disk       port   tty25 tty60    ttyS9
+dri       ppp   tty26 tty61    uhid
+ecryptfs      psaux   tty27 tty62    uinput
+fb0       ptmx   tty28 tty63    
+INPUT|lclarkdt-intro-112|U |1537937321|lclarkdt|intro:mv 136intro-2jjaj.JPEG /home/top_secret/|mv: cannot create regular file '/home/top_secret/136intro-2jjaj.JPEG': Permission denied
+INPUT|lclarkdt-intro-113|U |1537937331|lclarkdt|intro:mv 136intro-2jjaj.JPEG /home/top_secret|
+INPUT|lclarkdt-intro-114|U |1537937308|lclarkdt|intro:ls|autofs   loop1       snd     tty34  tty7       ttyS7
+block   loop2       stderr  tty35  tty8       ttyS8
+bsg   loop3       stdin   tty36  tty9       ttyS9
+btrfs-control  loop4       stdout  tty37  ttyprintk  uhid
+bus   loop5       tty     tty38  ttyS0      uinput
+char   loop6       tty0    tty39  ttyS1      urandom
+console   loop7       tty1    tty4   ttyS10     userio
+core   loop-control      tty10   tty40  ttyS11     vcs
+cpu   mapper       tty11   tty41  ttyS12     vcs1
+cpu_dma_latency  mcelog       tty12   tty42  ttyS13     vcs2
+cuse   mem       tty13   tty43  ttyS14     vcs3
+disk   memory_bandwidth    tty14   tty44  ttyS15     vcs4
+dri   mqueue       tty15   tty45  ttyS16     vcs5
+ecryptfs  net       tty16   tty46  ttyS17     vcs6
+fb0   network_latency     tty17   tty47  ttyS18     vcs7
+
+INPUT|lclarkdt-intro-115|U |000000000|lclarkdt|intro:cd -|/
+INPUT|lclarkdt-intro-116|U |000000000|lclarkdt|intro:cd /usr|
+INPUT|lclarkdt-intro-117|U |000000000|lclarkdt|intro:cd /share/pixmaps|bash: cd: /share/pixmaps: No such file or directory
+INPUT|lclarkdt-intro-118|U |000000000|lclarkdt|intro:cd /share/pixmaps/|bash: cd: /share/pixmaps/: No such file or directory
+INPUT|lclarkdt-intro-119|U |000000000|lclarkdt|intro:cd share|
+INPUT|lclarkdt-intro-120|U |1537937336|lclarkdt|intro:ls|aclocal        gettext       nmap
+aclocal-1.15       gettext-0.19.7      ntp
+adduser        ghostscript      open-vm-tools
+alsa        git-core       os-prober
+applications       gitweb       package-data-downloads
+apport        glib-2.0       pam
+apps        gnupg       pam-configs
+augeas        groff       pastebin.d
+autoconf       grub       perl
+automake-1.15       grub-gfxpayload-lists  perl5
+avahi        hal       pixmaps
+awk        i18n       pkgconfig
+base-files       i40e-dkms       plymouth
+base-passwd       icons       po-debconf
+bash-completion       ieee-data       polkit-1
+binfmts        ImageMagick-6      poppler
+bug        info       popularity-contest
+build-essential       initramfs-tools      pyshared
+byobu        insserv       python
+
+INPUT|lclarkdt-intro-121|U |000000000|lclarkdt|intro:cd pixmaps|
+INPUT|lclarkdt-intro-122|U |1537937369|lclarkdt|intro:ls|debian-logo.png        pstree32.xpm   python.xpm  xbzf136INTRO-1.jpg
+gvim.svg        python2.7.xpm  vim-16.xpm
+language-selector.png  python3.5.xpm  vim-32.xpm
+pstree16.xpm        python3.xpm    vim-48.xpm
+INPUT|lclarkdt-intro-123|U |1537937395|lclarkdt|intro:mv xbzf136INTRO-1.jpg /home/top_secret/|mv: cannot move 'xbzf136INTRO-1.jpg' to '/home/top_secret/xbzf136INTRO-1.jpg': Permission denied
+INPUT|lclarkdt-intro-124|U |1537937404|lclarkdt|intro:mv xbzf136INTRO-1.jpg /home/top_secret|
+INPUT|lclarkdt-intro-125|U |1537937409|lclarkdt|intro:mv xbzf136INTRO-1.jpg /home/top_secret/|mv: cannot stat 'xbzf136INTRO-1.jpg': No such file or directory
+INPUT|lclarkdt-intro-126|U |000000000|lclarkdt|intro:mv xbzf136INTRO-1.jpg /home/top_secret/|
+INPUT|lclarkdt-intro-127|U |000000000|lclarkdt|intro:mv xbzf136INTRO-1.jpg /home/top_secret/|
+INPUT|lclarkdt-intro-128|U |000000000|lclarkdt|intro:mv xbzf136INTRO-1.jpg /home/top_secret/|
+INPUT|lclarkdt-intro-129|U |1537937377|lclarkdt|intro:lsmv xbzf136INTRO-1.jpg /home/top_secret/|
+INPUT|lclarkdt-intro-130|U |000000000|lclarkdt|intro:mv xbzf136INTRO-1.jpg /home/top_secret/|
+INPUT|lclarkdt-intro-131|U |000000000|lclarkdt|intro:mv xbzf136INTRO-1.jpg /home/top_secret/|
+INPUT|lclarkdt-intro-132|U |1537937448|lclarkdt|intro:lsu|u: command not found
+INPUT|lclarkdt-intro-133|U |1537937461|lclarkdt|intro:ls|debian-logo.png        pstree16.xpm   python3.5.xpm  vim-16.xpm
+gvim.svg        pstree32.xpm   python3.xpm    vim-32.xpm
+language-selector.png  python2.7.xpm  python.xpm     vim-48.xpm
+INPUT|lclarkdt-intro-134|U |000000000|lclarkdt|intro:cd /home|
+INPUT|lclarkdt-intro-135|U |1537937466|lclarkdt|intro:ls|deter  top_secret
+INPUT|lclarkdt-intro-136|U |000000000|lclarkdt|intro:cd top_secret|
+INPUT|lclarkdt-intro-137|U |1537937490|lclarkdt|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkdt-intro-138|U |000000000|lclarkdt|intro:cd /|
+INPUT|lclarkdt-intro-139|U |1537937523|lclarkdt|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkdt-intro-140|U |000000000|lclarkdt|intro:cd top_secret|bash: cd: top_secret: No such file or directory
+INPUT|lclarkdt-intro-141|U |000000000|lclarkdt|intro:cd /|
+INPUT|lclarkdt-intro-142|U |000000000|lclarkdt|intro:cd top_secret|bash: cd: top_secret: No such file or directory
+INPUT|lclarkdt-intro-143|U |000000000|lclarkdt|intro:cd /home|
+INPUT|lclarkdt-intro-144|U |1537937529|lclarkdt|intro:ls|deter  top_secret
+INPUT|lclarkdt-intro-145|U |000000000|lclarkdt|intro:cd top_secret|
+INPUT|lclarkdt-intro-146|U |1537937542|lclarkdt|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkdt-intro-147|U |000000000|lclarkdt|intro:cd /var|
+INPUT|lclarkdt-intro-148|U |000000000|lclarkdt|intro:cd /log|bash: cd: /log: No such file or directory
+INPUT|lclarkdt-intro-149|U |1537937548|lclarkdt|intro:ls|backups  crash  lib lock  mail  run   spool
+cache  emulab  local log   opt   snap  tmp
+INPUT|lclarkdt-intro-150|U |000000000|lclarkdt|intro:cd log|
+INPUT|lclarkdt-intro-151|U |1537937591|lclarkdt|intro:ls|136intro-3.jpg   btmp  faillog  lastlog   tiplogs
+alternatives.log  dist-upgrade fontconfig.log lxd   ttylog
+apt    dmesg  fsck  ntpstats  unattended-upgrades
+auth.log   dpkg.log installer quagga   wtmp
+bootstrap.log   emulab.log kern.log syslog
+INPUT|lclarkdt-intro-152|U |1537937560|lclarkdt|intro:mv 136intro-3.jpg /home/top_secret/|mv: cannot move '136intro-3.jpg' to '/home/top_secret/136intro-3.jpg': Permission denied
+INPUT|lclarkdt-intro-153|U |1537937571|lclarkdt|intro:mv 136intro-3.jpg /home/top_secret/|
+INPUT|lclarkdt-intro-154|U |000000000|lclarkdt|intro:cd etc|bash: cd: etc: No such file or directory
+INPUT|lclarkdt-intro-155|U |000000000|lclarkdt|intro:cd /home|
+INPUT|lclarkdt-intro-156|U |000000000|lclarkdt|intro:cd etc|bash: cd: etc: No such file or directory
+INPUT|lclarkdt-intro-157|U |000000000|lclarkdt|intro:cd /etc|
+INPUT|lclarkdt-intro-158|U |1537937624|lclarkdt|intro:ls|acpi   idmapd.conf   profile
+adduser.conf  ImageMagick-6   profile.d
+alternatives  init    protocols
+ansible   init.d    python
+apache2   initramfs-tools   python2.7
+apm   inputrc    python3
+apparmor  insserv    python3.5
+apparmor.d  insserv.conf   quagga
+apport   insserv.conf.d   rc0.d
+apt   iproute2   rc1.d
+at.deny   iscsi    rc2.d
+at-spi2   issue    rc3.d
+bash.bashrc  issue.net   rc4.d
+bash_completion  java-8-openjdk   rc5.d
+bash_completion.d kbd    rc6.d
+bindresvport.blacklist kernel    rc.local
+binfmt.d  kernel-img.conf   rcS.d
+byobu   ldap    request-key.conf
+ca-certificates  ld.so.cache   request-key.d
+ca-certificates.conf ld.so.conf   resolvc
+INPUT|lclarkdt-intro-159|U |1537937603|lclarkdt|intro:mv wuer136intro-4.JPG /home/top_secret/|mv: cannot move 'wuer136intro-4.JPG' to '/home/top_secret/wuer136intro-4.JPG': Permission denied
+INPUT|lclarkdt-intro-160|U |1537937613|lclarkdt|intro:mv wuer136intro-4.JPG /home/top_secret/|
+INPUT|lclarkdt-intro-161|U |000000000|lclarkdt|intro:cd /home/top_secret|
+INPUT|lclarkdt-intro-162|U |000000000|lclarkdt|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkdt-intro-163|U |1537937683|lclarkdt|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"answers.txt" [New File][>c[2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                      
+INPUT|lclarkdt-intro-164|U |000000000|lclarkdt|intro:cd top_secret|
+INPUT|lclarkdt-intro-165|U |1537937900|lclarkdt|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkdt-intro-166|U |1537937908|lclarkdt|intro:cat answers.txt|cat: answers.txt: No such file or directory
+INPUT|lclarkdt-intro-167|U |000000000|lclarkdt|intro:cat > answers.txt|bash: answers.txt: Permission denied
+INPUT|lclarkdt-intro-168|U |000000000|lclarkdt|intro:cat > answers.txt|bash: answers.txt: Permission denied
+INPUT|lclarkdt-intro-169|U |1537937990|lclarkdt|intro:touch answers.txt|touch: cannot touch 'answers.txt': Permission denied
+INPUT|lclarkdt-intro-170|U |1537937996|lclarkdt|intro:touch answers.txt|
+INPUT|lclarkdt-intro-171|U |1537937998|lclarkdt|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkdt-intro-172|U |1537938007|lclarkdt|intro:cat answers.txt|
+INPUT|lclarkdt-intro-173|U |000000000|lclarkdt|intro:cat > answers.txt|bash: answers.txt: Permission denied
+INPUT|lclarkdt-intro-174|U |1537938054|lclarkdt|intro:nano answers.txt|%[?1049h[1;24r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[22;33H(B[0;7m[ Reading File ]
+[3d(B[m[22;39H(B[0;7m 0 lines
+[3d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3             File: answers.txt                                  [23;1H^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos
+[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line
+[3d[1;71H(B[0;7mModified
+[3d(B[m/var/log/136intro-3.jpg
+[4d/etc/wuer136intro-4.JPG
+[5d/.hidden/asdf136Intro-5kqlw.jpeg
+[6d/dev/136intro-2jjaj.JPEG
+[7d/usr/share/pixmaps/xbzf136INTRO-1.jpg
+[22d[K[8d[K[?25l[22;14H(B[0;7m[ line 6/7 (85%%)%% col 1/1 (100%%)%% char 144/145 (99%%) ]
+[8d(B[m[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[7;38H
+[8d[22d(B[0;7mSave modified buffer (ANSWERING "No" WILL DESTROY CHANGES) ?                    [23;1H Y
+INPUT|lclarkdt-intro-175|U |1537938138|lclarkdt|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkdt-intro-176|U |000000000|lclarkdt|intro:cat answers.txtxt.txt|/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/.hidden/asdf136Intro-5kqlw.jpeg
+/dev/136intro-2jjaj.JPEG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+
+INPUT|lclarkdt-intro-177|U |1537973764|lclarkdt|intro:ls|deter
+INPUT|lclarkdt-intro-178|U |000000000|lclarkdt|intro:cd /|
+INPUT|lclarkdt-intro-179|U |1537973774|lclarkdt|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkdt-intro-180|U |000000000|lclarkdt|intro:cd /home|
+INPUT|lclarkdt-intro-181|U |1537973778|lclarkdt|intro:ls|deter
+INPUT|lclarkdt-intro-182|U |000000000|lclarkdt|intro:exit|
+INPUT|lclarkdt-intro-183|U |000000000|lclarkdt|intro:cd top_secret|
+INPUT|lclarkdt-intro-184|U |1537973868|lclarkdt|intro:ls|136intro-3.jpg wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkdt-intro-185|U |000000000|lclarkdt|intro:cd -|/users/lclarkdt
+INPUT|lclarkdt-intro-186|U |1537973877|lclarkdt|intro:ls|top_secret
+INPUT|lclarkdt-intro-187|U |000000000|lclarkdt|intro:cd /home|
+INPUT|lclarkdt-intro-188|U |1537973882|lclarkdt|intro:ls|deter
+INPUT|lclarkdt-intro-189|U |000000000|lclarkdt|intro:cd /var/log/|
+INPUT|lclarkdt-intro-190|U |000000000|lclarkdt|intro:cd /home|
+INPUT|lclarkdt-intro-191|U |1537973914|lclarkdt|intro:mkdir top_secret|
+INPUT|lclarkdt-intro-192|U |1537973886|lclarkdt|intro:ls|deter  top_secret
+INPUT|lclarkdt-intro-193|U |000000000|lclarkdt|intro:cd /var/log/|
+INPUT|lclarkdt-intro-194|U |1537973937|lclarkdt|intro:mv 136intro-3.jpg /home/top_secret/|
+INPUT|lclarkdt-intro-195|U |000000000|lclarkdt|intro:cd /etc|
+INPUT|lclarkdt-intro-196|U |1537973955|lclarkdt|intro:mv wuer136intro-4.JPG /home/top_secret/|
+INPUT|lclarkdt-intro-197|U |000000000|lclarkdt|intro:cd /.hidden|
+INPUT|lclarkdt-intro-198|U |1537973971|lclarkdt|intro:mv asdf136Intro-5kqlw.jpeg /home/top_secret/|
+INPUT|lclarkdt-intro-199|U |000000000|lclarkdt|intro:cd /dev|
+INPUT|lclarkdt-intro-200|U |1537973989|lclarkdt|intro:mv 136intro-2jjaj.JPEG /home/top_secret/|
+INPUT|lclarkdt-intro-201|U |000000000|lclarkdt|intro:cd /usr/share/pixmaps/|
+INPUT|lclarkdt-intro-202|U |1537974013|lclarkdt|intro:mv xbzf136INTRO-1.jpg /home/top_secret/|
+INPUT|lclarkdt-intro-203|U |000000000|lclarkdt|intro:cd /home|
+INPUT|lclarkdt-intro-204|U |1537973915|lclarkdt|intro:ls|deter  top_secret
+INPUT|lclarkdt-intro-205|U |000000000|lclarkdt|intro:cd top_secret/|
+INPUT|lclarkdt-intro-206|U |1537974017|lclarkdt|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkdt-intro-207|U |1537974046|lclarkdt|intro:nano answers.txt|[?1049h[1;24r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[22;35H(B[0;7m[ New File ]
+[3d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3             File: answers.txt                                  [23;1H^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos
+[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line
+[3d[1;71H(B[0;7mModified
+[3d(B[m/var/log/136intro-3.jpg
+[4d/etc/wuer136intro-4.JPG
+[5d/.hidden/asdf136Intro-5kqlw.jpeg
+[6d/dev/136intro-2jjaj.JPEG
+[7d/usr/share/pixmaps/xbzf136INTRO-1.jpg
+[22d[K[8d[22d(B[0;7mSave modified buffer (ANSWERING "No" WILL DESTROY CHANGES) ?                    [23;1H Y(B[m Yes[K
+[24d(B[0;7m N(B[m No  [14G   (B[0;7m^C(B[m Cancel[K[22;62H
+(B[0;7mFile Name to Write: answers.txt                             
+[23d^G(B[m Get Help     (B[0;7mM-D(
+INPUT|lclarkdt-intro-208|U |1537974021|lclarkdt|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkdt-intro-209|U |1537974084|lclarkdt|intro:cat answers.txt|/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/.hidden/asdf136Intro-5kqlw.jpeg
+/dev/136intro-2jjaj.JPEG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+
+INPUT|lclarkdt-intro-210|U |1537974046|lclarkdt|intro:nano answers.txt|%[?1049h[1;24r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[22;8H(B[0;7m[ Error writing lock file ./.answers.txt.swp: Permission denied ]
+[3d(B[m[22;32H[1K (B[0;7m[ Reading File ](B[m[K
+[3d[22;17H(B[0;7m[ Read 6 lines (Warning: No write permission) ]
+[9d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3             File: answers.txt                                  [3;1H(B[m/var/log/136intro-3.jpg
+[4d/etc/wuer136intro-4.JPG
+[5d/.hidden/asdf136Intro-5kqlw.jpeg
+[6d/dev/136intro-2jjaj.JPEG
+[7d/usr/share/pixmaps/xbzf136INTRO-1.jpg
+[23d(B[0;7m^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos
+[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line
+[3d[4d[A[?25l[1;71H(B[0;7mModified[22;2H[ Warning: Modifying a file which is not locked%% check directory permission? ]
+[3d(B[m[?12l[?25
+INPUT|lclarkdt-intro-211|U |1537974793|lclarkdt|intro:cat answers.txt|/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/.hidden/asdf136Intro-5kqlw.jpeg
+/dev/136intro-2jjaj.JPEG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+
+INPUT|lclarkdt-intro-212|U |1537974844|lclarkdt|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;39r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[39;1H"answers.txt" [readonly] 6L%% 145C[>c[1;1H/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/.hidden/asdf136Intro-5kqlw.jpeg
+/dev/136intro-2jjaj.JPEG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+
+[94m~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                
+INPUT|lclarkdt-intro-213|U |1537974905|lclarkdt|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;39r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[39;1H"answers.txt" [readonly] 6L%% 145C[>c[1;1H/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/.hidden/asdf136Intro-5kqlw.jpeg
+/dev/136intro-2jjaj.JPEG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+
+[94m~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                
+INPUT|lclarkdt-intro-214|U |000000000|lclarkdt|intro:cd /home|
+INPUT|lclarkdt-intro-215|U |1537977776|lclarkdt|intro:ls|deter  top_secret
+INPUT|lclarkdt-intro-216|U |000000000|lclarkdt|intro:cd top_secret|
+INPUT|lclarkdt-intro-217|U |1537977780|lclarkdt|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkdt-intro-218|U |1537977794|lclarkdt|intro:cat answers.txt|/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/.hidden/asdf136Intro-5kqlw.jpeg
+/dev/136intro-2jjaj.JPEG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+
+INPUT|lclarkdt-intro-219|U |1537978146|lclarkdt|intro:rm answers.txt|
+INPUT|lclarkdt-intro-220|U |1537977787|lclarkdt|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkdt-intro-221|U |1537978153|lclarkdt|intro:nano answers.txt|%[?1049h[1;39r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[37;8H(B[0;7m[ Error writing lock file ./.answers.txt.swp: Permission denied ]
+[3d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3             File: answers.txt                                  [38;1H^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos
+[39d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line
+[3d[?25l[1;71H(B[0;7mModified[37;2H[ Warning: Modifying a file which is not locked%% check directory permission? ]
+[3d(B[m[?12l[?25hErica Holland
+[4dericaholland@lclark.edu
+[5dlclarkdt
+[8d/var/log/136intro-3.jpg[8;64HIT Came fro Oute$[9;1H/etc/wuer136intro-4.JPG[9;60HThe fly
+[10d/.hidden/asdf136Intro-5kqlw.jpeg[10;55HSpace Odyssey
+[11d/dev/136intro-2jjaj.JPEG[11;62HGodzilla
+[12d/usr/share/pixmaps/xbzf136INTRO-1.jpg[12;
+INPUT|lclarkdt-intro-222|U |000000000|lclarkdt|intro:l|l: command not found
+INPUT|lclarkdt-intro-223|U |1537978146|lclarkdt|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkdt-intro-224|U |000000000|lclarkdt|intro:cd /home|
+INPUT|lclarkdt-intro-225|U |1537982223|lclarkdt|intro:ls|deter  top_secret
+INPUT|lclarkdt-intro-226|U |000000000|lclarkdt|intro:cd top_secret/|
+INPUT|lclarkdt-intro-227|U |1537982227|lclarkdt|intro:lss|%No command 'lss' found%% did you mean:
+ Command 'lsx' from package 'suckless-tools' (universe)
+ Command 'lsw' from package 'suckless-tools' (universe)
+ Command 'lssu' from package 'nilfs-tools' (universe)
+ Command 'les' from package 'atm-tools' (universe)
+ Command 'ls' from package 'coreutils' (main)
+ Command 'gss' from package 'libgss-dev' (universe)
+ Command 'ss' from package 'iproute2' (main)
+ Command 'lsh' from package 'lsh-client' (universe)
+ Command 'lvs' from package 'lvm2' (main)
+ Command 'lrs' from package 'lrslib' (universe)
+ Command 'less' from package 'less' (main)
+ Command 'ass' from package 'irpas' (multiverse)
+lss: command not found%
+INPUT|lclarkdt-intro-228|U |1537982235|lclarkdt|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkdt-intro-229|U |1537982243|lclarkdt|intro:nano answers.txt|[?1049h[1;24r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[22;8H(B[0;7m[ Error writing lock file ./.answers.txt.swp: Permission denied ]
+[3d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3             File: answers.txt                                  [23;1H^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos
+[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line
+[3d[22d[J[24;80H[24;1H[?1049l
+INPUT|lclarkdt-intro-230|U |1537982255|lclarkdt|intro:nano anwers2.txt|[?1049h[1;24r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[22;8H(B[0;7m[ Error writing lock file ./.anwers2.txt.swp: Permission denied ]
+[3d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3             File: anwers2.txt                                  [23;1H^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos
+[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line
+[3d[22d[J[24;80H[24;1H[?1049l
+INPUT|lclarkdt-intro-231|U |1537982308|lclarkdt|intro:rm .answers.txt.swp|rm: cannot remove '.answers.txt.swp': No such file or directory
+INPUT|lclarkdt-intro-232|U |1537982330|lclarkdt|intro:rm answers.swp|rm: cannot remove 'answers.swp': No such file or directory
+INPUT|lclarkdt-intro-233|U |1537982334|lclarkdt|intro:rm answers.txt|rm: cannot remove 'answers.txt': No such file or directory
+INPUT|lclarkdt-intro-234|U |1537982351|lclarkdt|intro:nano -- version|[?1049h[1;24r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[22;10H(B[0;7m[ Error writing lock file ./.version.swp: Permission denied ]
+[3d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3               File: version                                    [23;1H^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos
+[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line
+[3d[22d[J[24;80H[24;1H[?1049l
+INPUT|lclarkdt-intro-235|U |1537982373|lclarkdt|intro:nano answers_final.txt|[?1049h[1;24r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[22;5H(B[0;7m[ Error writing lock file ./.answers_final.txt.swp: Permission denied ]
+[3d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3           File: answers_final.txt                              [23;1H^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos
+[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line
+[3d[22d[J[24;80H[24;1H[?1049l
+INPUT|lclarkdt-intro-236|U |1537982387|lclarkdt|intro:nano answers.txt|[?1049h[1;24r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[22;35H(B[0;7m[ New File ]
+[3d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3             File: answers.txt                                  [23;1H^G(B[m Get Help  (B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut Text  (B[0;7m^J(B[m Justify   (B[0;7m^C(B[m Cur Pos
+[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Uncut Text(B[0;7m^T(B[m To Spell  (B[0;7m^_(B[m Go To Line
+[3d[1;71H(B[0;7mModified
+[3d(B[mErica Holland
+[4dericaholland@lclark.edu
+[5dlclarkdt
+[8d/var/log/136intro-3.jpg[8;64HIT Came fro Oute$[9;1H/etc/wuer136intro-4.JPG[9;60HThe fly
+[10d/.hidden/asdf136Intro-5kqlw.jpeg[10;55HSpace Odyssey
+[11d/dev/136intro-2jjaj.JPEG[11;62HGodzilla
+[12d/usr/share/pixmaps/xbzf136INTRO-1.jpg[12;49HForbidden planet
+[14dvar is a subdirectory of the root that contains files that the operating system$[16;1Hdev directory contains special device fi
+INPUT|lclarkdt-intro-237|U |1537982404|lclarkdt|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkdt-intro-238|U |1537982408|lclarkdt|intro:cat answers.txt|Erica Holland
+ericaholland@lclark.edu
+lclarkdt
+
+
+/var/log/136intro-3.jpg                                        IT Came fro Outerspace
+/etc/wuer136intro-4.JPG                                    The fly
+/.hidden/asdf136Intro-5kqlw.jpeg                      Space Odyssey
+/dev/136intro-2jjaj.JPEG                                     Godzilla
+/usr/share/pixmaps/xbzf136INTRO-1.jpg           Forbidden planet
+
+var is a subdirectory of the root that contains files that the operating system that it writes data to during its operation
+
+dev directory contains special device files that are created during installation.
+
+
+INPUT|lclarkdt-intro-239|M6 |1537982463|lclarkdt|intro:df -h|%Filesystem                                         Size  Used Avail Use%% Mounted on
+udev                                               981M     0  981M   0%% /dev
+tmpfs                                              200M   14M  187M   7%% /run
+/dev/sda1                                           15G  2.8G   12G  20%% /
+tmpfs                                             1000M     0 1000M   0%% /dev/shm
+tmpfs                                              5.0M     0  5.0M   0%% /run/lock
+tmpfs                                             1000M     0 1000M   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC  2.8T  929G  1.7T  36%% /proj/CS495LC
+users.isi.deterlab.net:/mnt/other/users/lclarkdt   1.9T  1.2T  567G  69%% /users/lclarkdt
+tmpfs                                              200M     0  200M   0%% /run/user/17968%
+INPUT|lclarkdt-intro-240|U |1537982487|lclarkdt|intro:du -sh|256K .
+INPUT|lclarkdt-intro-241|U |1537982521|lclarkdt|intro:du -sh *|48K 136intro-2jjaj.JPEG
+104K 136intro-3.jpg
+4.0K answers.txt
+24K asdf136Intro-5kqlw.jpeg
+48K wuer136intro-4.JPG
+24K xbzf136INTRO-1.jpg
+INPUT|lclarkdt-intro-242|U |000000000|lclarkdt|intro:cd home|bash: cd: home: No such file or directory
+INPUT|lclarkdt-intro-243|U |000000000|lclarkdt|intro:cd /|
+INPUT|lclarkdt-intro-244|U |1537982560|lclarkdt|intro:du -sh|du: cannot read directory './var/cache/apt/archives/partial': Permission denied
+du: cannot read directory './var/cache/ldconfig': Permission denied
+du: cannot read directory './var/spool/cron/atjobs': Permission denied
+du: cannot read directory './var/spool/cron/atspool': Permission denied
+du: cannot read directory './var/spool/cron/crontabs': Permission denied
+du: cannot read directory './var/spool/rsyslog': Permission denied
+du: cannot read directory './var/log/unattended-upgrades': Permission denied
+du: cannot read directory './var/lib/apt/lists/partial': Permission denied
+du: cannot read directory './var/lib/polkit-1': Permission denied
+du: cannot read directory './proc/tty/driver': Permission denied
+du: cannot read directory './proc/1/task/1/fd': Permission denied
+du: cannot read directory './proc/1/task/1/fdinfo': Permission denied
+du: cannot read directory './proc/1/task/1/ns': Permission denied
+du: cannot read directory './proc/1/fd': Perm
+INPUT|lclarkdt-intro-245|U |000000000|lclarkdt|intro:du -sh *|!TRUNCATED TO 500L! 17M bin
+104M boot
+0 dev
+du: cannot read directory 'etc/ssl/private': Permission denied
+du: cannot read directory 'etc/polkit-1/localauthority': Permission denied
+6.9M etc
+12K groups
+276K home
+0 initrd.img
+0 initrd.img.old
+635M lib
+4.0K lib64
+12K local
+du: cannot read directory 'lost+found': Permission denied
+16K lost+found
+12K media
+4.0K mnt
+4.0K opt
+du: cannot read directory 'proc/tty/driver': Permission denied
+du: cannot read directory 'proc/1/task/1/fd': Permission denied
+du: cannot read directory 'proc/1/task/1/fdinfo': Permission denied
+du: cannot read directory 'proc/1/task/1/ns': Permission denied
+du: cannot read directory 'proc/1/fd': Permission denied
+du: cannot read directory 'proc/1/map_files': Permission denied
+du: cannot read directory 'proc/1/fdinfo': Permission denied
+du: cannot read directory 'proc/1/ns': Permission denied
+du: ca
+INPUT|lclarkdt-intro-246|U |000000000|lclarkdt|intro:du -sh /home *|!TRUNCATED TO 500L! 276K /home
+17M bin
+104M boot
+0 dev
+du: cannot read directory 'etc/ssl/private': Permission denied
+du: cannot read directory 'etc/polkit-1/localauthority': Permission denied
+6.9M etc
+12K groups
+0 initrd.img
+0 initrd.img.old
+635M lib
+4.0K lib64
+12K local
+du: cannot read directory 'lost+found': Permission denied
+16K lost+found
+12K media
+4.0K mnt
+4.0K opt
+du: cannot read directory 'proc/tty/driver': Permission denied
+du: cannot read directory 'proc/1/task/1/fd': Permission denied
+du: cannot read directory 'proc/1/task/1/fdinfo': Permission denied
+du: cannot read directory 'proc/1/task/1/ns': Permission denied
+du: cannot read directory 'proc/1/fd': Permission denied
+du: cannot read directory 'proc/1/map_files': Permission denied
+du: cannot read directory 'proc/1/fdinfo': Permission denied
+du: cannot read directory 'proc/1/ns': Permission denied
+du: c
+INPUT|lclarkdt-intro-247|U |000000000|lclarkdt|intro:cd /home|
+INPUT|lclarkdt-intro-248|U |1537982557|lclarkdt|intro:ls|deter  top_secret
+INPUT|lclarkdt-intro-249|U |000000000|lclarkdt|intro:du -sh|276K .
+INPUT|lclarkdt-intro-250|A6 |1537982643|lclarkdt|intro:df -sh|df: invalid option -- 's'
+Try 'df --help' for more information.
+INPUT|lclarkdt-intro-251|U |1537982649|lclarkdt|intro:man df|%[?1049h[?1h=
+DF(1)                            User Commands                           DF(1)[m
+[m
+[1mNAME[0m[m
+       df - report file system disk space usage[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mdf[0m [[4mOPTION[24m]... [[4mFILE[24m]...[m
+[m
+[1mDESCRIPTION[0m[m
+       This  manual  page  documents  the  GNU version of [1mdf[0m.  [1mdf[0m displays the[m
+       amount of disk space available on the file system containing each  file[m
+       name  argument.   If  no file name is given%% the space available on all[m
+       currently mounted file systems is shown.  Disk space  is  shown  in  1K[m
+       blocks  by  default%% unless the environment variable POSIXLY_CORRECT is[m
+       set%% in which case 512-byte blocks are used.[m
+[m
+       If an argument is the absolute file name of a disk device node contain-[m
+       ing  a  mounted  file system%% [1mdf[0m shows the space available on that file[m
+       system rather than on the file s
+INPUT|lclarkdt-intro-252|M6 |1537982675|lclarkdt|intro:df -h|%Filesystem                                         Size  Used Avail Use%% Mounted on
+udev                                               981M     0  981M   0%% /dev
+tmpfs                                              200M   14M  187M   7%% /run
+/dev/sda1                                           15G  2.8G   12G  20%% /
+tmpfs                                             1000M     0 1000M   0%% /dev/shm
+tmpfs                                              5.0M     0  5.0M   0%% /run/lock
+tmpfs                                             1000M     0 1000M   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC  2.8T  929G  1.7T  36%% /proj/CS495LC
+users.isi.deterlab.net:/mnt/other/users/lclarkdt   1.9T  1.2T  567G  69%% /users/lclarkdt
+tmpfs                                              200M     0  200M   0%% /run/user/17968%
+INPUT|lclarkdt-intro-253|U |000000000|lclarkdt|intro:cd /|
+INPUT|lclarkdt-intro-254|M6 |1537982724|lclarkdt|intro:df -h|%Filesystem                                         Size  Used Avail Use%% Mounted on
+udev                                               981M     0  981M   0%% /dev
+tmpfs                                              200M   14M  187M   7%% /run
+/dev/sda1                                           15G  2.8G   12G  20%% /
+tmpfs                                             1000M     0 1000M   0%% /dev/shm
+tmpfs                                              5.0M     0  5.0M   0%% /run/lock
+tmpfs                                             1000M     0 1000M   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC  2.8T  929G  1.7T  36%% /proj/CS495LC
+users.isi.deterlab.net:/mnt/other/users/lclarkdt   1.9T  1.2T  567G  69%% /users/lclarkdt
+tmpfs                                              200M     0  200M   0%% /run/user/17968%
+INPUT|lclarkdt-intro-255|M5 |1537982928|lclarkdt|intro:cat /proc/cpuinfo|%processor : 0
+vendor_id : GenuineIntel
+cpu family : 15
+model  : 4
+model name : Intel(R) Xeon(TM) CPU 3.00GHz
+stepping : 1
+microcode : 0x9
+cpu MHz  : 2992.900
+cache size : 1024 KB
+physical id : 0
+siblings : 2
+core id  : 0
+cpu cores : 1
+apicid  : 0
+initial apicid : 0
+fpu  : yes
+fpu_exception : yes
+cpuid level : 5
+wp  : yes
+flags  : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc pebs bts nopl pni dtes64 monitor ds_cpl cid cx16 xtpr
+bugs  :
+bogomips : 5985.80
+clflush size : 64
+cache_alignment : 128
+address sizes : 36 bits physical%% 48 bits virtual
+power management:
+
+processor : 1
+vendor_id : GenuineIntel
+cpu family : 15
+model  : 4
+model name : Intel(R) Xeon(TM) CPU 3.00GHz
+steppin
+INPUT|lclarkdt-intro-256|U |000000000|lclarkdt|intro:nano disk_free.txt|<ESC>[?1049h<ESC>[1;24r<ESC>(B<ESC>[m<ESC>[4l<ESC>[?7h<ESC>[?1h<ESC>=<ESC>[?1h<ESC>=<ESC>[?1h<ESC>=<ESC>[39;49m<ESC>[?25l<ESC>[39;49m<ESC>(B<ESC>[m<ESC>[H<ESC>[2J<ESC>[22;25H<ESC>(B<ESC>[0;7m[ Error writing lock file ./.disk_free.txt.swp: Permission denied ]
+<ESC>[3d<ESC>(B<ESC>[m<ESC>[?12l<ESC>[?25h<ESC>[H<ESC>[39;49m<ESC>(B<ESC>[0;7m  GNU nano 2.5.3                        File: disk_free.txt                                                        <ESC>[23;1H^G<ESC>(B<ESC>[m Get Help     <ESC>(B<ESC>[0;7m^O<ESC>(B<ESC>[m Write Out    <ESC>(B<ESC>[0;7m^W<ESC>(B<ESC>[m Where Is     <ESC>(B<ESC>[0;7m^K<ESC>(B<ESC>[m Cut Text     <ESC>(B<ESC>[0;7m^J<ESC>(B<ESC>[m Justify<ESC>[81G<ESC>(B<ESC>[0;7m^C<ESC>(B<ESC>[m Cur Pos<ESC>[97G<ESC>(B<ESC>[0;7m^Y<ESC>(B<ESC>[m Prev Page
+<ESC>[24d<ESC>(B<ESC>[0;7m^X<ESC>(B<ESC>[m Exit<ESC>[24;17H<ESC>(B<ESC>[0;7m^R<ESC>(B<ESC>[m Read File    <ESC>(B<ESC>[0;7m^\<ESC>(B<ESC>[m Replace<ESC>[49G<ESC>(B<ESC>[0;7m^U<ESC>(B<ESC>[m Uncut Text   <ESC>(B<ESC>[
+INPUT|lclarkdt-intro-257|U |1537982987|lclarkdt|intro:nano diskfree.txt|%[?1049h[1;24r(B[m[4l[?7h[?1h=[?1h=[?1h=[39;49m[?25l[39;49m(B[m[H[2J[22;52H(B[0;7m[ New File ]
+[3d(B[m[?12l[?25h[H[39;49m(B[0;7m  GNU nano 2.5.3                         File: diskfree.txt                                                        [23;1H^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7m^Y(B[m Prev Page
+[24d(B[0;7m^X(B[m Exit[24;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Uncut Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7m^V(B[m Next Page
+[3d[1;106H(B[0;7mModified
+[3d(B[mFilesystem[3;52HSize  Used Avail Use%% Mounted on
+[4dudev[4;52H981M     0  981M   0%% /dev
+[5dtmpfs[5;52H200M   14M  187M   7%% /run
+[6d/dev/sda1[6;53H15G  2.8G   12G  20%% /
+[7dtmpfs[7;51H1000M     0 1000M   0%% /dev/shm
+[8dtmpfs[8;52H5.0M     0  5.0M   0%% /run/lock
+[9dtmpfs[9;51H1000M     0 1000M   0%% /sys/fs/cgroup
+[1
+INPUT|lclarkdt-intro-258|U |1537983112|lclarkdt|intro:tar xvzf top_secret.tar.gz|tar (child): top_secret.tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+INPUT|lclarkdt-intro-259|U |000000000|lclarkdt|intro:cd /home|
+INPUT|lclarkdt-intro-260|U |1537983153|lclarkdt|intro:tar xvzf top_secret.tar.gz|tar (child): top_secret.tar.gz: Cannot open: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+INPUT|lclarkdt-intro-261|U |000000000|lclarkdt|intro:tar cvzf t.tar.gz|tar: Cowardly refusing to create an empty archive
+Try 'tar --help' or 'tar --usage' for more information.
+INPUT|lclarkdt-intro-262|U |1537983217|lclarkdt|intro:tar --help|%Usage: tar [OPTION...] [FILE]...
+GNU 'tar' saves many files together into a single tape or disk archive%% and can
+restore individual files from the archive.
+
+Examples:
+  tar -cf archive.tar foo bar  # Create archive.tar from files foo and bar.
+  tar -tvf archive.tar         # List all files in archive.tar verbosely.
+  tar -xf archive.tar          # Extract all files from archive.tar.
+
+ Main operation mode:
+
+  -A%% --catenate%% --concatenate   append tar files to an archive
+  -c%% --create               create a new archive
+  -d%% --diff%% --compare      find differences between archive and file system
+      --delete               delete from the archive (not on mag tapes!)
+  -r%% --append               append files to the end of an archive
+  -t%% --list                 list the contents of an archive
+      --test-label           test the archive volume label and exit
+  -u%% --update               only append files newer than copy i
+INPUT|lclarkdt-intro-263|U |000000000|lclarkdt|intro:tar cvzf top_secret.tar.gz|tar: Cowardly refusing to create an empty archive
+Try 'tar --help' or 'tar --usage' for more information.
+INPUT|lclarkdt-intro-264|U |1537983245|lclarkdt|intro:ls|deter  top_secret
+INPUT|lclarkdt-intro-265|U |000000000|lclarkdt|intro:cd top_secret/|
+INPUT|lclarkdt-intro-266|U |1537983249|lclarkdt|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  answers.txt  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkdt-intro-267|U |000000000|lclarkdt|intro:cd -|/home
+INPUT|lclarkdt-intro-268|U |000000000|lclarkdt|intro:tar cvzf top_secret.tar.gz top_secret|tar (child): top_secret.tar.gz: Cannot open: Permission denied
+tar (child): Error is not recoverable: exiting now
+top_secret/
+top_secret/xbzf136INTRO-1.jpg
+INPUT|lclarkdt-intro-269|U |1537983199|lclarkdt|intro:tar cvzf top_secret.tar.gz top_secret|top_secret/
+top_secret/xbzf136INTRO-1.jpg
+top_secret/wuer136intro-4.JPG
+top_secret/136intro-2jjaj.JPEG
+top_secret/136intro-3.jpg
+top_secret/asdf136Intro-5kqlw.jpeg
+top_secret/answers.txt
+INPUT|lclarkdt-intro-270|U |1537983313|lclarkdt|intro:ls|deter  top_secret  top_secret.tar.gz
+INPUT|lclarkdt-intro-271|U |1537986058|lclarkdt|intro:ls|deter  top_secret  top_secret.tar.gz
+INPUT|lclarkdt-intro-272|U |000000000|lclarkdt|intro:exit|
+INPUT|lclarkdt-intro-273|U |1537986445|lclarkdt|intro:ls|deter  top_secret  top_secret.tar.gz
+INPUT|lclarkdt-intro-274|U |1537986542|lclarkdt|intro:wget top_secret.tar.gz|--2018-09-26 11:29:02--  http://top_secret.tar.gz/
+Resolving top_secret.tar.gz (top_secret.tar.gz)... failed: Name or service not known.
+wget: unable to resolve host address 'top_secret.tar.gz'
+INPUT|lclarkdt-intro-275|U |000000000|lclarkdt|intro:wget top_secret.tar.gz|
+INPUT|lclarkdt-intro-276|U |000000000|lclarkdt|intro:exit top_secret.tar.gz|
+INPUT|lclarkdt-intro-277|U |1537986928|lclarkdt|intro:ls|top_secret
+INPUT|lclarkdt-intro-278|U |1537986936|lclarkdt|intro:ls|top_secret
+INPUT|lclarkdt-intro-279|U |000000000|lclarkdt|intro:cd top_secret|
+INPUT|lclarkdt-intro-280|U |1537986943|lclarkdt|intro:ls|136intro-3.jpg wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkdt-intro-281|U |000000000|lclarkdt|intro:cd /|
+INPUT|lclarkdt-intro-282|U |1537986947|lclarkdt|intro:ls|bin       home       lost+found  root  sys      vmlinuz
+boot       initrd.img      media   run  tmp      vmlinuz.old
+dev       initrd.img.old  mnt   sbin  top_secret.tar.gz
+diskfree.txt  lib       opt   share  users
+etc       lib64       proc   snap  usr
+groups       local       proj   srv  var
+INPUT|lclarkdt-intro-283|U |000000000|lclarkdt|intro:cd /home|
+INPUT|lclarkdt-intro-284|U |000000000|lclarkdt|intro:;s|bash: syntax error near unexpected token `;'
+INPUT|lclarkdt-intro-285|U |1537986951|lclarkdt|intro:ls|deter  top_secret
+INPUT|lclarkdt-intro-286|U |1537986959|lclarkdt|intro:ls|deter  top_secret
+INPUT|lclarkdt-intro-287|U |000000000|lclarkdt|intro:cd -|/
+INPUT|lclarkdt-intro-288|U |1537986966|lclarkdt|intro:ls|bin       home       lost+found  root  sys      vmlinuz
+boot       initrd.img      media   run  tmp      vmlinuz.old
+dev       initrd.img.old  mnt   sbin  top_secret.tar.gz
+diskfree.txt  lib       opt   share  users
+etc       lib64       proc   snap  usr
+groups       local       proj   srv  var
+INPUT|lclarkdt-intro-289|U |000000000|lclarkdt|intro:exit|
+INPUT|lclarkdt-intro-290|U |000000000|lclarkdt|intro:cd /|
+INPUT|lclarkdt-intro-291|U |1537987200|lclarkdt|intro:ls|bin       home       lost+found  root  sys      vmlinuz
+boot       initrd.img      media   run  tmp      vmlinuz.old
+dev       initrd.img.old  mnt   sbin  top_secret.tar.gz
+diskfree.txt  lib       opt   share  users
+etc       lib64       proc   snap  usr
+groups       local       proj   srv  var
+INPUT|lclarkdt-intro-292|U |1537987233|lclarkdt|intro:mv top_secret.tar.gz /~|
+INPUT|lclarkdt-intro-293|U |000000000|lclarkdt|intro:cd /~|bash: cd: /~: Not a directory
+INPUT|lclarkdt-intro-294|U |000000000|lclarkdt|intro:cd ~|
+INPUT|lclarkdt-intro-295|U |1537987205|lclarkdt|intro:ls|top_secret
+INPUT|lclarkdt-intro-296|U |1537987242|lclarkdt|intro:ls|top_secret
+INPUT|lclarkdt-intro-297|U |000000000|lclarkdt|intro:mv top_secret.tar.gz ~|mv: cannot stat 'top_secret.tar.gz': No such file or directory
+INPUT|lclarkdt-intro-298|U |1537987244|lclarkdt|intro:ls|top_secret
+INPUT|lclarkdt-intro-299|U |000000000|lclarkdt|intro:cd /|
+INPUT|lclarkdt-intro-300|U |1537987260|lclarkdt|intro:ls|~     diskfree.txt  initrd.img     local opt   run    srv    usr
+bin   etc     initrd.img.old  lost+found proc  sbin   sys    var
+boot  groups     lib      media proj  share  tmp    vmlinuz
+dev   home     lib64     mnt  root  snap   users  vmlinuz.old
+INPUT|lclarkdt-intro-301|U |1537987266|lclarkdt|intro:ls|~     diskfree.txt  initrd.img     local opt   run    srv    usr
+bin   etc     initrd.img.old  lost+found proc  sbin   sys    var
+boot  groups     lib      media proj  share  tmp    vmlinuz
+dev   home     lib64     mnt  root  snap   users  vmlinuz.old
+INPUT|lclarkdt-intro-302|U |000000000|lclarkdt|intro:cd ~|
+INPUT|lclarkdt-intro-303|U |1537987282|lclarkdt|intro:ls|top_secret
+INPUT|lclarkdt-intro-304|U |1537987291|lclarkdt|intro:ls|top_secret
+INPUT|lclarkdt-intro-305|U |000000000|lclarkdt|intro:cd /home|
+INPUT|lclarkdt-intro-306|U |1537987295|lclarkdt|intro:ls|deter  top_secret
+INPUT|lclarkdt-intro-307|U |1537987397|lclarkdt|intro:tar cvzf top_secret.tar.gz top_secret|tar (child): top_secret.tar.gz: Cannot open: Permission denied
+tar (child): Error is not recoverable: exiting now
+top_secret/
+top_secret/xbzf136INTRO-1.jpg
+INPUT|lclarkdt-intro-308|U |1537987412|lclarkdt|intro:tar cvzf top_secret.tar.gz top_secret|top_secret/
+top_secret/xbzf136INTRO-1.jpg
+top_secret/wuer136intro-4.JPG
+top_secret/136intro-2jjaj.JPEG
+top_secret/136intro-3.jpg
+top_secret/asdf136Intro-5kqlw.jpeg
+top_secret/answers.txt
+INPUT|lclarkdt-intro-309|U |1537987316|lclarkdt|intro:ls|deter  top_secret  top_secret.tar.gz
+INPUT|lclarkdt-intro-310|U |000000000|lclarkdt|intro:mv top_secret.tar.gz ~|
+INPUT|lclarkdt-intro-311|U |1537987415|lclarkdt|intro:ls|deter  top_secret
+INPUT|lclarkdt-intro-312|U |000000000|lclarkdt|intro:cd ~|
+INPUT|lclarkdt-intro-313|U |1537987431|lclarkdt|intro:ls|top_secret  top_secret.tar.gz
+INPUT|lclarkdt-intro-314|U |1537987435|lclarkdt|intro:ls|top_secret  top_secret.tar.gz
+INPUT|lclarkdt-intro-315|U |000000000|lclarkdt|intro:exit|

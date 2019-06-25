@@ -1,0 +1,81 @@
+User lclarkfk start time 1538005382 end 1538006301
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkfk-intro-0|A2 A0 A4 A3 A1 |1538005382|lclarkfk|intro:find / -mount -name *intro* 2>/dev/null | file|Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+INPUT|lclarkfk-intro-1|U |000000000|lclarkfk|:|
+INPUT|lclarkfk-intro-2|U |000000000|lclarkfk|:|
+INPUT|lclarkfk-intro-3|M3 M2 |000000000|lclarkfk|intro:find / -mount -name *intro* 2>/dev/null | xargs file $1|%/var/log/ttylog/ttylog.intro.0:                                                          ASCII text%% with CRLF%% LF line terminators%% with escape sequences%% with overstriking
+/var/log/ttylog/alltty.intro:                                                            ASCII text%% with CRLF%% LF line terminators%% with escape sequences%% with overstriking
+/var/log/ttylog/cli.intro.csv:                                                           ASCII text%% with very long lines%% with CRLF line terminators
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "<E0><FB><FC>\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%
+INPUT|lclarkfk-intro-4|A0 A2 A1 A4 A3 |1538005415|lclarkfk|intro:find / -mount -name *intro* 2>/dev/null | xargs file $1 | grep GPEG|
+INPUT|lclarkfk-intro-5|M3 M2 |1538005482|lclarkfk|intro:find / -mount -name *intro* 2>/dev/null | xargs file $1 | grep [1P[1@J|%/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkfk-intro-6|A4 A3 A1 A2 A0 |1538005524|lclarkfk|intro:man find|%[?1049h[?1h=
+FIND(1)                                                                               General Commands Manual                                                                               FIND(1)[m
+[m
+[1mNAME[0m[m
+       find - search for files in a directory hierarchy[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mfind[0m [-H] [-L] [-P] [-D debugopts] [-Olevel] [starting-point...] [expression][m
+[m
+[1mDESCRIPTION[0m[m
+       This manual page documents the GNU version of [1mfind[0m.  GNU [1mfind[0m searches the directory tree rooted at each given starting-point by evaluating the given expression from left to right%% accord-[m
+       ing to the rules of precedence (see section OPERATORS)%% until the outcome is known (the left hand side is false for [4mand[24m operations%% true for [4mor[24m)%% at which point [1mfind[0m moves on to  the  next[m
+       file name.  If no starting-point is specified%% `.' is assumed.[m
+[m
+       If  you are using [1m
+INPUT|lclarkfk-intro-7|M4 M3 M2 M0 |1538005488|lclarkfk|intro:find / -mount -[1@i *intro* 2>/dev/null | xargs file $1 | grep JPEG|%/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3
+/.hidden/asdf136Intro-5kqlw.jpeg:                                                        JPEG image data%% JFIF standard 1.02%% aspect ratio%% density 100x100%% segment length 16%% baseline%% precision 8%% 300x428%% frames 3
+/usr/share/pixmaps/xbzf136INTRO-1.jpg:                                                   JPEG image data%% JFIF standard 1.02%% aspect ratio%% density 100x100%% segment length 16%% progressive%% precision 8%% 398x308%% frames 3%
+INPUT|lclarkfk-intro-8|M4 M3 M2 M1 M0 |1538005565|lclarkfk|intro:find / -moun[1[1[1[1[1[1P[1P 2>/dev/null | xargs file $1 | grep JPEG|%/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3
+/.hidden/asdf136Intro-5kqlw.jpeg:                                                        JPEG image data%% JFIF standard 1.02%% aspect ratio%% density 100x100%% segment length 16%% baseline%% precision 8%% 300x428%% frames 3
+/dev/136intro-2jjaj.JPEG:                                                                JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% Exif Standard: [TIFF image data%% big-endian%% direntries=7%% orientation=upper-left%% xresolution=98%% 
+INPUT|lclarkfk-intro-9|A4 A3 A1 A2 A0 |1538005641|lclarkfk|intro:find / -iname *intro* 2>/dev/null | xargs file $1 | grep JPEG | wc|      5     119    1322
+INPUT|lclarkfk-intro-10|A1 A3 A4 A0 A2 |1538005696|lclarkfk|intro:find / -iname *intro* 2>/dev/null | xargs file $1 | grep JPEG[K wc|
+INPUT|lclarkfk-intro-11|A4 A3 A1 A2 A0 |1538005736|lclarkfk|intro:find / -[7@mount -iname *intro* 2>/dev/null | xargs file $1 | grep JPEG | wc|      4      82     901
+INPUT|lclarkfk-intro-12|U |1538005761|lclarkfk|intro:ls|answers.txt  top_secret
+INPUT|lclarkfk-intro-13|U |1538005807|lclarkfk|intro:cp /var/log/136intro-3.jpg top_secret/|
+INPUT|lclarkfk-intro-14|U |000000000|lclarkfk|intro:cp /.hidden/asdf136Intro-5kqlw.jpeget/|
+INPUT|lclarkfk-intro-15|U |1538005846|lclarkfk|intro:ls|answers.txt  top_secret
+INPUT|lclarkfk-intro-16|U |1538005852|lclarkfk|intro:ls top_secret/|136intro-3.jpg answers.txt  asdf136Intro-5kqlw.jpeg
+INPUT|lclarkfk-intro-17|U |1538006013|lclarkfk|intro:lspwd|/users/lclarkfk
+INPUT|lclarkfk-intro-18|U |1538006019|lclarkfk|intro:lscp /.hidden/asdf136Intro-5kqlw.jpeg|cp: missing destination file operand after '/.hidden/asdf136Intro-5kqlw.jpeg'
+Try 'cp --help' for more information.
+INPUT|lclarkfk-intro-19|U |000000000|lclarkfk|intro:cd top_secret/|
+INPUT|lclarkfk-intro-20|U |1538006011|lclarkfk|intro:cp /etc/wuer136intro-4.JPG .|
+INPUT|lclarkfk-intro-21|U |000000000|lclarkfk|intro:ls|136intro-3.jpg answers.txt  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+INPUT|lclarkfk-intro-22|U |000000000|lclarkfk|intro:cd ..|
+INPUT|lclarkfk-intro-23|U |000000000|lclarkfk|intro:ls|answers.txt  top_secret
+INPUT|lclarkfk-intro-24|U |1538006025|lclarkfk|intro:ls top_secret/|136intro-3.jpg answers.txt  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+INPUT|lclarkfk-intro-25|U |1538006214|lclarkfk|intro:cp /dev/136intro-2jjaj.JPEG top_secret|
+INPUT|lclarkfk-intro-26|U |1538006244|lclarkfk|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkfk-intro-27|U |000000000|lclarkfk|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkfk-intro-28|U |000000000|lclarkfk|intro:cp /dev/136intro-2jjaj.JPEG top_secret|
+INPUT|lclarkfk-intro-29|U |000000000|lclarkfk|intro:ls top_secret/|136intro-2jjaj.JPEG  136intro-3.jpg  answers.txt  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkfk-intro-30|U |1538006257|lclarkfk|intro:man tar|%[?1049h[?1h=
+TAR(1)                                                                              BSD General Commands Manual                                                                              TAR(1)[m
+[m
+[1mNAME[0m[m
+     [1mtar[0m -- The GNU version of the tar archiving utility[m
+[m
+[1mSYNOPSIS[0m[m
+     [1mtar[0m [[1m-[0m] [1mA[0m [1m--catenate[0m [1m--concatenate[0m [1m|[0m [1mc[0m [1m--create[0m [1m|[0m [1md[0m [1m--diff[0m [1m--compare[0m [1m|[0m [1m--delete[0m [1m|[0m [1mr[0m [1m--append[0m [1m|[0m [1mt[0m [1m--list[0m [1m|[0m [1m--test-label[0m [1m|[0m [1mu[0m [1m--update[0m [1m|[0m [1mx[0m [1m--extract[0m [1m--get[0m [[4moptions[24m] [[4mpathname[24m [4m...[24m][m
+[m
+[1mDESCRIPTION[0m[m
+     [1mTar[0m stores and extracts files from a tape or disk archive.[m
+[m
+     The first argument to tar should be a function; either one of the letters [1mAcdrtux[0m%% or one of the long function names.  A function letter need not be prefixed with
+INPUT|lclarkfk-intro-31|U |1538006301|lclarkfk|intro:tar cvzf caitlingarcia.tar.gz top_secret|top_secret/
+top_secret/answers.txt
+top_secret/136intro-3.jpg
+top_secret/asdf136Intro-5kqlw.jpeg
+top_secret/wuer136intro-4.JPG
+top_secret/136intro-2jjaj.JPEG
+top_secret/xbzf136INTRO-1.jpg

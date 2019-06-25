@@ -1,0 +1,13 @@
+CMBEGIN,Nov 28 12:20:53,/users/lclarkea,sudo ./webserver 8080,sudo: ./webserver: command not found,sudo ./webserver 8080
+CMBEGIN,,,sudo ./,sudo: ./webserver: command not found,
+CMBEGIN,,,sudo ./w,sudo: ./wwebserver: command not found,
+CMBEGIN,,,sudo .,sudo: .webserver: command not found,
+CMBEGIN,Nov 28 12:21:37,/users/lclarkea,sudo ./webserver 7,sudo: ./webserver: command not found,sudo ./webserver 7
+CMBEGIN,Nov 28 12:21:56,/users/lclarkea,sudo ./webserver 8080,sudo: ./webserver: command not found,sudo ./webserver 8080
+CMBEGIN,,,sudo ,sudo: webserver: command not found,
+CMBEGIN,,,             ,sudo: ./webserver: command not found,
+CMBEGIN,Nov 28 12:25:28,/users/lclarkea,ls,top_secret,ls
+CMBEGIN,,,cd t,bash: cd: t: No such file or directory,
+CMBEGIN,Nov 28 12:25:55,/users/lclarkea,sudo ./webserver 8080,sudo: ./webserver: command not found,sudo ./webserver 8080
+CMBEGIN,Nov 28 12:27:52,/users/lclarkea,sudo make,make: *** No targets specified and no makefile found.  Stop.,sudo make
+CMBEGIN,Nov 28 12:28:14,/users/lclarkea,sudo ./webserver 8080,sudo: ./webserver: command not found,sudo ./webserver 8080

@@ -1,0 +1,48 @@
+User lclarker start time 1543435609 end 1543436074
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarker-buffer-0|U |000000000|lclarker|:|
+INPUT|lclarker-buffer-1|U |000000000|lclarker|:|
+INPUT|lclarker-buffer-2|U |1543435609|lclarker|server:ls|sachi.tar.gz  top_secret
+INPUT|lclarker-buffer-3|U |000000000|lclarker|server:cd ../|
+INPUT|lclarker-buffer-4|U |000000000|lclarker|server:cd ../|
+INPUT|lclarker-buffer-5|U |1543435624|lclarker|server:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp    var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   users  vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   usr    vmlinuz.old
+INPUT|lclarker-buffer-6|U |000000000|lclarker|server:cd usr|
+INPUT|lclarker-buffer-7|U |1543435631|lclarker|server:ls|bin  games  include  lib  local  sbin  share  src  testbed
+INPUT|lclarker-buffer-8|U |000000000|lclarker|server:cd src|
+INPUT|lclarker-buffer-9|U |1543435639|lclarker|server:ls|fhttpd      linux-headers-4.4.0-79      linux-headers-4.4.0-83
+i40e-2.0.19  linux-headers-4.4.0-79-generic  linux-headers-4.4.0-83-generic
+INPUT|lclarker-buffer-10|U |1543435657|lclarker|server:cat fhttpd/|cat: fhttpd/: Is a directory
+INPUT|lclarker-buffer-11|U |000000000|lclarker|server:cd fhttpd/|
+INPUT|lclarker-buffer-12|U |1543435666|lclarker|server:ls|frobnick  index.html  Makefile webserver  webserver.c
+INPUT|lclarker-buffer-13|U |1543435706|lclarker|server:cat webserver|%ELF>P@@P_@8 @%%"@@@@@<C3><CEDIL>88@8@
+
+@@t-t- ..`.` ..`.`<C3><A0>TT@T@DDP<C3><YEN>td**@*@||Q<C3><YEN>tdR<C3><YEN>td..`.`/lib64/ld-linux-x86-64.so.2GNU GNU<C3><A0><C3><PARA>7 <C3><B3><C3><AB><C3><ORDF>%%6gL?K119<C3><B2>
+Jrw <C2><ORDM><C3><L_OE><C3><PARA><C3><87>[z<C3><8D><C3><81><C3><BD>f<C3><UMLT>`(X /De6<C3><A1>
+<C3><BULL>- <C3><MACR>u=mnA <US><C2><B3>Q<C2><A0>1libpthread.so.0_ITM_deregisterTMCloneTable_Jv_RegisterClasses_ITM_registerTMCloneTablesendreadpthread_exitrecv__errno_locationacceptpthread_createopencloselibc.so.6socketstrcpyhtonlhtonsstrrchrperrorputslistenstrspngmtimestrlenmemsetstrstrbindasctimeherrorstrptimeputenvmemcpymallocstrcattzsetgetenvstderrgethostbynamestrncatfwriteatoistrchrmktimestrcmp__libc_start_mainfree__xstat__gmon_start__GLIBC_2.2.5GLIBC_2.14 ui <C2><BD><C3><89>ui <C2><BD><C3><CEDIL>/`<C2><A0>1`10` 0`(0`00`80`@0`H0P0` X0`
+`0`
+h0`
+p0`
+x0`0`0`0`0`<C2><A0>0`0`0`0`<C3><EURO>0`<C3><88>0`<C3><90>0`<C3><98>0`<C3><A0>0`
+<C3><
+INPUT|lclarker-buffer-14|U |000000000|lclarker|server:0Xlclarker@server:/usr/src/fhttpd$ clear|
+INPUT|lclarker-buffer-15|U |1543435729|lclarker|server:make|make: Nothing to be done for 'project'.
+INPUT|lclarker-buffer-16|A0 |1543435755|lclarker|server:./webserver|No port specified. Exiting!
+INPUT|lclarker-buffer-17|A0 |1543435763|lclarker|server:./webserver 8080|^C
+INPUT|lclarker-buffer-18|U |1543435874|lclarker|server:wget http://localhost:8080/sachi|--2018-11-28 12:11:14--  http://localhost:8080/sachi
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... failed: Connection refused.
+INPUT|lclarker-buffer-19|U |000000000|lclarker|server:wget webserver|--2018-11-28 12:13:06--  http://webserver/
+Resolving webserver (webserver)... failed: Name or service not known.
+wget: unable to resolve host address 'webserver'
+--2018-11-28 12:13:06--  http://localhost:8080/sachi
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... failed: Connection refused.
+INPUT|lclarker-buffer-20|U |000000000|lclarker|server:wget webserver  http://localhost:8080/something|--2018-11-28 12:13:51--  http://webserver/
+Resolving webserver (webserver)... failed: Name or service not known.
+wget: unable to resolve host address 'webserver'
+--2018-11-28 12:13:51--  http://localhost:8080/something
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... failed: Connection refused.
+INPUT|lclarker-buffer-21|A0 |1543436074|lclarker|server:./webserver 8080|

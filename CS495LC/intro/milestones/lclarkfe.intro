@@ -1,0 +1,472 @@
+User lclarkfe start time 1537556478 end 1537935623
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkfe-intro-0|U |000000000|lclarkfe|:|
+INPUT|lclarkfe-intro-1|U |1537934394|lclarkfe|intro:ls|top_secret
+INPUT|lclarkfe-intro-2|U |000000000|lclarkfe|:|
+INPUT|lclarkfe-intro-3|U |000000000|lclarkfe|intro:cd top_secret|
+INPUT|lclarkfe-intro-4|U |1537934400|lclarkfe|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      diskfree.txt
+answers.txt      wuer136intro-4.JPG
+INPUT|lclarkfe-intro-5|A5 |1537934518|lclarkfe|intro:/proc/cpuinfo|bash: /proc/cpuinfo: Permission denied
+INPUT|lclarkfe-intro-6|A5 |1537934521|lclarkfe|intro:/proc/cpuinfo|sudo: /proc/cpuinfo: command not found
+INPUT|lclarkfe-intro-7|M5 |1537934534|lclarkfe|intro:less /proc/cpuinfo|%[?1049h[?1h=
+processor       : 0
+vendor_id       : GenuineIntel
+cpu family      : 15
+model           : 4
+model name      : Intel(R) Xeon(TM) CPU 3.00GHz
+stepping        : 1
+microcode       : 0x9
+cpu MHz         : 2992.657
+cache size      : 1024 KB
+physical id     : 0
+siblings        : 2
+core id         : 0
+cpu cores       : 1
+apicid          : 0
+initial apicid  : 0
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 5
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc pebs bts nopl pni dtes64 monitor ds_cpl cid cx16 xtpr
+bugs            :
+[7m/proc/cpuinfo[27m[K
+[K [KESC[KO[KA
+[K
+[K:[K
+[K [KESC[KO[KA
+[K
+[K:[K
+[K [KESC[KO[KA
+[K
+[K:[K
+[K [KESC[KO[KA
+[K
+[K:[K
+[K [KESC[KO[KA
+[K
+[K:[K
+[K [KESC[KO[KA
+[K
+[K:[K
+[K [KESC[KO[KA
+
+INPUT|lclarkfe-intro-8|U |000000000|lclarkfe|intro:cd answers*|bash: cd: answers.txt: Not a directory
+INPUT|lclarkfe-intro-9|U |000000000|lclarkfe|intro:vi answers*|%<ESC>[?1049h<ESC>[?1h<ESC>=<ESC>[2;1H<BD><ESC>[6n<ESC>[2;1H  <ESC>[1;1H<ESC>]11;?<BEL><ESC>[1;24r<ESC>[?12;25h<ESC>[?12l<ESC>[?25h<ESC>[27m<ESC>[23m<ESC>[m<ESC>[H<ESC>[2J<ESC>[?25l<ESC>[24;1H"answers.txt" 16L%% 446C<ESC>[>c<ESC>[1;1H1.    ./usr/share/pixmaps/xbzf136INTRO-1.jpg
+FORBIDDEN PLANET
+2.    ./dev/136intro-4.JPG
+GODZILLA KING OF MONSTERS
+3.    ./var/log/136intro-3.jpg
+IT CAME FROM OUTERSPACE
+4.    ./etc/wuer136intro-4.JPG
+THE FLY
+5.    ./.hidden/asdf136Intro-5kqlw.jpeg
+2001 A SPACE ODYSSEY
+
+QUESTIONS
+Q1. Files to which the system writes data during the course of its operation
+Q2. Contains special device files for all the devices
+Q3. Answer in diskfree.txt
+Q4.
+<ESC>[94m~                                                                               <ESC>[18;1H~                                                                               <ESC>[19;1H~                                                                               <ESC
+INPUT|lclarkfe-intro-10|U |000000000|lclarkfe|intro:tar cvzf lclarkfe-intro.tar.gz top_secret|tar: top_secret: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+INPUT|lclarkfe-intro-11|U |000000000|lclarkfe|intro:cd ..|
+INPUT|lclarkfe-intro-12|U |1537935111|lclarkfe|intro:tar cvzf lclarkfe-intro.tar.gz top_secret|top_secret/
+top_secret/136intro-3.jpg
+top_secret/asdf136Intro-5kqlw.jpeg
+top_secret/136intro-2jjaj.JPEG
+top_secret/answers.txt
+top_secret/wuer136intro-4.JPG
+top_secret/xbzf136INTRO-1.jpg
+top_secret/diskfree.txt
+top_secret/lclarkfe-intro.tar.gz
+INPUT|lclarkfe-intro-13|U |000000000|lclarkfe|intro:cd top*|
+INPUT|lclarkfe-intro-14|U |1537935623|lclarkfe|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+136intro-3.jpg      diskfree.txt       xbzf136INTRO-1.jpg
+answers.txt      lclarkfe-intro.tar.gz
+INPUT|lclarkfe-intro-15|U |000000000|lclarkfe|intro:|
+INPUT|lclarkfe-intro-16|U |1537556478|lclarkfe|intro:ls|
+INPUT|lclarkfe-intro-17|U |000000000|lclarkfe|intro:cd /tmp|
+INPUT|lclarkfe-intro-18|U |1537556867|lclarkfe|intro:ls|
+INPUT|lclarkfe-intro-19|U |000000000|lclarkfe|intro:cd ../|
+INPUT|lclarkfe-intro-20|U |1537556890|lclarkfe|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfe-intro-21|A4 A3 A1 A2 A0 |1537556960|lclarkfe|intro:find .-nameintro*|find: '.-nameintro*': No such file or directory
+INPUT|lclarkfe-intro-22|M2 |000000000|lclarkfe|intro:find -name \"*intro*\"|!TRUNCATED TO 500L! find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+./var/log/ttylog/ttylog.intro.0
+./var/log/ttylog/alltty.intro
+./var/log/ttylog/cli.intro.csv
+find: './var/log/unattended-upgrades': Permission denied
+./var/log/136intro-3.jpg
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns
+INPUT|lclarkfe-intro-23|U |000000000|lclarkfe|intro:q|The program 'q' can be found in the following packages:
+ * python-q-text-as-data
+ * python3-q-text-as-data
+Ask your administrator to install one of them
+INPUT|lclarkfe-intro-24|U |1537735907|lclarkfe|intro:ls|
+INPUT|lclarkfe-intro-25|U |1537736018|lclarkfe|intro:ls intro|ls: cannot access 'intro': No such file or directory
+INPUT|lclarkfe-intro-26|U |1537736024|lclarkfe|intro:ls|
+INPUT|lclarkfe-intro-27|U |1537736067|lclarkfe|intro:ls|
+INPUT|lclarkfe-intro-28|U |000000000|lclarkfe|intro:cd intro|bash: cd: intro: No such file or directory
+INPUT|lclarkfe-intro-29|U |000000000|lclarkfe|intro:pwd|/users/lclarkfe
+INPUT|lclarkfe-intro-30|U |1537736067|lclarkfe|intro:ls|
+INPUT|lclarkfe-intro-31|U |1537736093|lclarkfe|intro:ls lclarkfe|ls: cannot access 'lclarkfe': No such file or directory
+INPUT|lclarkfe-intro-32|U |000000000|lclarkfe|intro:cd /bin|
+INPUT|lclarkfe-intro-33|U |000000000|lclarkfe|intro:pwd|/bin
+INPUT|lclarkfe-intro-34|U |1537736113|lclarkfe|intro:ls|bash      hostname       rbash
+btrfs      ip        readlink
+btrfs-calc-size     journalctl       red
+btrfsck      kbd_mode       rm
+btrfs-convert     keyctl       rmdir
+btrfs-debug-tree    kill       rnano
+btrfs-find-root     kmod       run-parts
+btrfs-image     less       rzsh
+btrfs-map-logical   lessecho       sed
+btrfs-select-super  lessfile       setfacl
+btrfs-show-super    lesskey       setfont
+btrfstune     lesspipe       setupcon
+btrfs-zero-log     ln        sh
+bunzip2      loadkeys       sh.distrib
+busybox      login       sleep
+bzcat      loginctl       ss
+bzcmp      lowntfs-3g       static-sh
+bzdiff      ls        stty
+bzegrep      lsblk       su
+bzexe      lsmod       sync
+bzfgrep      mkdir       systemctl
+bzgrep      mkfs.btrfs       systemd
+bzip2 
+INPUT|lclarkfe-intro-35|U |000000000|lclarkfe|intro:cd ../|
+INPUT|lclarkfe-intro-36|M2 |000000000|lclarkfe|intro:find -name \"*intro*\"|!TRUNCATED TO 500L! find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+./var/log/ttylog/alltty.intro
+./var/log/ttylog/ttylog.intro.1
+./var/log/ttylog/cli.intro.csv
+find: './var/log/unattended-upgrades': Permission denied
+./var/log/136intro-3.jpg
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns
+INPUT|lclarkfe-intro-37|M2 |000000000|lclarkfe|intro:find -name \"*.jpg*\"|!TRUNCATED TO 500L! find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+./var/log/136intro-3.jpg
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo
+INPUT|lclarkfe-intro-38|U |000000000|lclarkfe|intro:fisudo ame \"*.jpg*\"|./var/log/136intro-3.jpg
+./usr/share/doc/libsane/umax/sane-umax-text2.jpg
+./usr/share/doc/libsane/umax/sane-umax-standard.jpg
+./usr/share/doc/libsane/umax/sane-umax-text.jpg
+./usr/share/doc/libsane/umax/sane-umax.jpg
+./usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+./usr/share/doc/libsane/umax/sane-umax-text4.jpg
+./usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+./usr/share/doc/libsane/umax/sane-logo.jpg
+./usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|lclarkfe-intro-39|M3 |000000000|lclarkfe|intro:find -name \"*.jJPG\"|./etc/wuer136intro-4.JPG
+INPUT|lclarkfe-intro-40|A0 A2 A1 A4 A3 |000000000|lclarkfe|intro:find -name \"*.Jjpg*"|
+INPUT|lclarkfe-intro-41|U |000000000|lclarkfe|intro:-name "*intro*"|./var/log/ttylog/alltty.intro
+./var/log/ttylog/ttylog.intro.1
+./var/log/ttylog/cli.intro.csv
+./var/log/136intro-3.jpg
+./etc/wuer136intro-4.JPG
+./etc/apparmor.d/abstractions/apparmor_api/introspect
+./proj/intro.createimage.Share
+./proj/CS495LC/exp/derek-linuxintro
+./proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.ns
+./proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.png
+./proj/CS495LC/exp/george-introUnix
+./proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.png
+./proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.ns
+./proj/CS495LC/exp/jmache-intro2
+./proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.ns
+./proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.png
+./proj/CS495LC/exp/lclarkai-intro
+./proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.ns
+./proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.png
+./proj/CS495LC/exp/lclarkan-intro
+./proj/CS495LC/exp/lclarkan-intro/tbdata/lclarkan-i
+INPUT|lclarkfe-intro-42|M4 |000000000|lclarkfe|intro:find -name \"*ijpeg*\"|./var/lib/dpkg/info/libjpeg-turbo8:amd64.symbols
+./var/lib/dpkg/info/libjpeg-turbo8:amd64.triggers
+./var/lib/dpkg/info/libjpeg-turbo8:amd64.md5sums
+./var/lib/dpkg/info/libjpeg8:amd64.md5sums
+./var/lib/dpkg/info/libjpeg-turbo8:amd64.list
+./var/lib/dpkg/info/libjpeg8:amd64.list
+./var/lib/dpkg/info/libjpeg-turbo8:amd64.shlibs
+./boot/grub/i386-pc/jpeg.mod
+./.hidden/asdf136Intro-5kqlw.jpeg
+./usr/src/linux-headers-4.4.0-83/drivers/media/platform/s5p-jpeg
+./usr/src/linux-headers-4.4.0-79/drivers/media/platform/s5p-jpeg
+./usr/include/boost/gil/extension/io/jpeg_io_private.hpp
+./usr/include/boost/gil/extension/io/jpeg_dynamic_io.hpp
+./usr/include/boost/gil/extension/io/jpeg_io.hpp
+./usr/share/doc/libjpeg-turbo8
+./usr/share/doc/libjpeg8
+./usr/share/mime/image/jpeg.xml
+./usr/share/ghostscript/9.18/lib/viewjpeg.ps
+./usr/share/lintian/overrides/libjpeg-turbo8
+./usr/share/icons/Humanity/mimes/16/jpeg.svg
+./usr/share/icons/Humanity/mimes/16/
+INPUT|lclarkfe-intro-43|U |000000000|lclarkfe|intro:pwd|/
+INPUT|lclarkfe-intro-44|U |1537736889|lclarkfe|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfe-intro-45|U |000000000|lclarkfe|intro:cd /home|
+INPUT|lclarkfe-intro-46|U |000000000|lclarkfe|intro:pwd|/home
+INPUT|lclarkfe-intro-47|U |1537736913|lclarkfe|intro:ls|deter
+INPUT|lclarkfe-intro-48|U |000000000|lclarkfe|intro:mdir top_secrey|The program 'mdir' is currently not installed. To run 'mdir' please ask your administrator to install the package 'mtools'
+INPUT|lclarkfe-intro-49|U |1537736950|lclarkfe|intro:mkdir top_secret|mkdir: cannot create directory 'top_secret': Permission denied
+INPUT|lclarkfe-intro-50|U |1537736965|lclarkfe|intro:mkdir top_secret|
+INPUT|lclarkfe-intro-51|U |1537736972|lclarkfe|intro:ls|deter  top_secret
+INPUT|lclarkfe-intro-52|U |000000000|lclarkfe|intro:mv ./var/log/136intro-3.jpg  ret|mv: cannot stat './var/log/136intro-3.jpg': No such file or directory
+INPUT|lclarkfe-intro-53|U |000000000|lclarkfe|intro:mv ./var/log/136intro-3.jpg  /home/top_secret|mv: cannot stat '136intro-3.jpg': No such file or directory
+INPUT|lclarkfe-intro-54|U |000000000|lclarkfe|intro:cd ../|
+INPUT|lclarkfe-intro-55|U |000000000|lclarkfe|intro:mv 136intro-3.jpg  /home/top_secret|mv: cannot stat '136intro-3.jpg': No such file or directory
+INPUT|lclarkfe-intro-56|U |000000000|lclarkfe|intro:mv 136intro-3.jpg  /home/top_secret/|mv: cannot stat '136intro-3.jpg': No such file or directory
+INPUT|lclarkfe-intro-57|U |1537737188|lclarkfe|intro:cat /var/log/136intro-3.jpg|%JFIFHH$$$ $$$ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ZZ 
+
+
+" ( #$&&&)%%)%%%%"%%  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 
+<VT>}!1AQa"q#BR$3br 
+%%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxy 
+<VT>w!1AQaq"B #3Rbr
+$4%%&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz<NP>?((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((`/]>.H?<3/9}P~V?OxGP?8JM1|<NP>qmCQ?_R<NP>m<
+ORc1F~co?}H:QUs1Xo?G1F~) ?-0[a0r(acco?#~V2?qHaacmXa_c{?}@s01F~c{?}Gh-0[a3
+Wacco??~3<VT>.[a8(??-0(>f>\8(?co AN_??&~?_RRs01F~co(F~a1Hf;#c_(F~c_(F~O)]c?6?}L@3<VT>.@0@0=}(acc_(F~c_(F~}((c>\9a9aL
+@V>\9asj?0=)<NP>t?&~Q=)s0s%%?s#0 Ph
+m?m{
+9X{Q?a9vGV??K<NP>qmC0Occo(F~co(F~-Oco(F~`>a9auh9???"#u|8|OMo+*'[8|__O{aPT]QEB
+(
+(
+(
+(
+(
+(
+(>?[q_NmPH+/< }%%}9qzL#qP\Oy-m7:+2/SP "#~}P_H'gOw<VT>3YH<_F?&E_Q4
+4pGqNsJ?%%J$h?%%/'G'\ _Gn?&xo&O0<NP>\
+INPUT|lclarkfe-intro-58|U |000000000|lclarkfe|intro:1;2c1;2c|1: command not found
+2c1: command not found
+2c: command not found
+INPUT|lclarkfe-intro-59|U |000000000|lclarkfe|intro:cat /var/log/136intro-3.jpg|
+INPUT|lclarkfe-intro-60|U |000000000|lclarkfe|intro:mv 136intro-3.jpg  /home/top_secret/|mv: cannot stat '136intro-3.jpg': No such file or directory
+INPUT|lclarkfe-intro-61|U |000000000|lclarkfe|intro:cd /var|
+INPUT|lclarkfe-intro-62|U |1537737304|lclarkfe|intro:ls|backups  crash  lib lock  mail  run   spool
+cache  emulab  local log   opt   snap  tmp
+INPUT|lclarkfe-intro-63|U |000000000|lclarkfe|intro:cd /log|bash: cd: /log: No such file or directory
+INPUT|lclarkfe-intro-64|U |000000000|lclarkfe|intro:cd log|
+INPUT|lclarkfe-intro-65|U |1537737315|lclarkfe|intro:ls|136intro-3.jpg   btmp  faillog  lastlog   tiplogs
+alternatives.log  dist-upgrade fontconfig.log lxd   ttylog
+apt    dmesg  fsck  ntpstats  unattended-upgrades
+auth.log   dpkg.log installer quagga   wtmp
+bootstrap.log   emulab.log kern.log syslog
+INPUT|lclarkfe-intro-66|U |000000000|lclarkfe|intro:mv 136intro-3.jpg  /home/top_secret/|mv: cannot move '136intro-3.jpg' to '/home/top_secret/136intro-3.jpg': Permission denied
+INPUT|lclarkfe-intro-67|U |000000000|lclarkfe|intro:6intro-3.jpg  /home/top_secret/|
+INPUT|lclarkfe-intro-68|U |1537737342|lclarkfe|intro:ls|alternatives.log  dist-upgrade fontconfig.log lxd   ttylog
+apt    dmesg  fsck  ntpstats  unattended-upgrades
+auth.log   dpkg.log installer quagga   wtmp
+bootstrap.log   emulab.log kern.log syslog
+btmp    faillog lastlog  tiplogs
+INPUT|lclarkfe-intro-69|U |1537737352|lclarkfe|intro:ls|alternatives.log  dist-upgrade fontconfig.log lxd   ttylog
+apt    dmesg  fsck  ntpstats  unattended-upgrades
+auth.log   dpkg.log installer quagga   wtmp
+bootstrap.log   emulab.log kern.log syslog
+btmp    faillog lastlog  tiplogs
+INPUT|lclarkfe-intro-70|U |1537737354|lclarkfe|intro:ls|alternatives.log  dist-upgrade fontconfig.log lxd   ttylog
+apt    dmesg  fsck  ntpstats  unattended-upgrades
+auth.log   dpkg.log installer quagga   wtmp
+bootstrap.log   emulab.log kern.log syslog
+btmp    faillog lastlog  tiplogs
+INPUT|lclarkfe-intro-71|U |1537737355|lclarkfe|intro:ls|alternatives.log  dist-upgrade fontconfig.log lxd   ttylog
+apt    dmesg  fsck  ntpstats  unattended-upgrades
+auth.log   dpkg.log installer quagga   wtmp
+bootstrap.log   emulab.log kern.log syslog
+btmp    faillog lastlog  tiplogs
+INPUT|lclarkfe-intro-72|U |000000000|lclarkfe|intro:cd ../|
+INPUT|lclarkfe-intro-73|U |000000000|lclarkfe|intro:cd ../|
+INPUT|lclarkfe-intro-74|U |1537737364|lclarkfe|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfe-intro-75|U |000000000|lclarkfe|intro:cd home|
+INPUT|lclarkfe-intro-76|U |000000000|lclarkfe|intro:;s|bash: syntax error near unexpected token `;'
+INPUT|lclarkfe-intro-77|U |1537737373|lclarkfe|intro:ls|deter  top_secret
+INPUT|lclarkfe-intro-78|U |000000000|lclarkfe|intro:cd top_secret|
+INPUT|lclarkfe-intro-79|U |1537737380|lclarkfe|intro:ls[Kop_secret|136intro-3.jpg
+INPUT|lclarkfe-intro-80|U |000000000|lclarkfe|intro:cd etc|bash: cd: etc: No such file or directory
+INPUT|lclarkfe-intro-81|U |000000000|lclarkfe|intro:cd ../|
+INPUT|lclarkfe-intro-82|U |000000000|lclarkfe|intro:cd ../|
+INPUT|lclarkfe-intro-83|U |000000000|lclarkfe|intro:cd etc|
+INPUT|lclarkfe-intro-84|U |1537737406|lclarkfe|intro:ls|acpi   idmapd.conf   profile
+adduser.conf  ImageMagick-6   profile.d
+alternatives  init    protocols
+ansible   init.d    python
+apache2   initramfs-tools   python2.7
+apm   inputrc    python3
+apparmor  insserv    python3.5
+apparmor.d  insserv.conf   quagga
+apport   insserv.conf.d   rc0.d
+apt   iproute2   rc1.d
+at.deny   iscsi    rc2.d
+at-spi2   issue    rc3.d
+bash.bashrc  issue.net   rc4.d
+bash_completion  java-8-openjdk   rc5.d
+bash_completion.d kbd    rc6.d
+bindresvport.blacklist kernel    rc.local
+binfmt.d  kernel-img.conf   rcS.d
+byobu   ldap    request-key.conf
+ca-certificates  ld.so.cache   request-key.d
+ca-certificates.conf ld.so.conf   resolvc
+INPUT|lclarkfe-intro-85|U |000000000|lclarkfe|intro:mv 136intro-3.jpg  /home/top_secret/|
+INPUT|lclarkfe-intro-86|U |000000000|lclarkfe|intro:mv 136intro-3.jpg  /home/top_secret/|
+INPUT|lclarkfe-intro-87|U |000000000|lclarkfe|intro:mv 136intro-3.jpg  /home/top_secret/|
+INPUT|lclarkfe-intro-88|U |000000000|lclarkfe|intro:mv wuer136intro-4.JPGome/top_secret/|mv: cannot move 'wuer136intro-4.JPG' to '/home/top_secret/wuer136intro-4.JPG': Permission denied
+INPUT|lclarkfe-intro-89|U |000000000|lclarkfe|intro:er136intro-4.JPG  /home/top_secret/|
+INPUT|lclarkfe-intro-90|U |000000000|lclarkfe|intro:cd ../|
+INPUT|lclarkfe-intro-91|U |000000000|lclarkfe|intro:cd home|
+INPUT|lclarkfe-intro-92|U |000000000|lclarkfe|intro:cd top_secret|
+INPUT|lclarkfe-intro-93|U |1537737469|lclarkfe|intro:ls|136intro-3.jpg wuer136intro-4.JPG
+INPUT|lclarkfe-intro-94|U |000000000|lclarkfe|intro:cd ../|
+INPUT|lclarkfe-intro-95|U |1537737477|lclarkfe|intro:cd../|bash: cd../: No such file or directory
+INPUT|lclarkfe-intro-96|U |000000000|lclarkfe|intro:cd ../|
+INPUT|lclarkfe-intro-97|U |1537737483|lclarkfe|intro:ls dev|136intro-2jjaj.JPEG  loop6   tty12 tty49    ttyS26
+autofs       loop7   tty13 tty5    ttyS27
+block       loop-control  tty14 tty50    ttyS28
+bsg       mapper   tty15 tty51    ttyS29
+btrfs-control      mcelog   tty16 tty52    ttyS3
+bus       mem   tty17 tty53    ttyS30
+cdrom       memory_bandwidth  tty18 tty54    ttyS31
+char       mqueue   tty19 tty55    ttyS4
+console       net   tty2 tty56    ttyS5
+core       network_latency  tty20 tty57    ttyS6
+cpu       network_throughput  tty21 tty58    ttyS7
+cpu_dma_latency      null   tty22 tty59    ttyS8
+cuse       port   tty23 tty6    ttyS9
+disk       ppp   tty24 tty60    uhid
+dri       psaux   tty25 tty61    uinput
+ecryptfs      ptmx   tty26 tty62  
+INPUT|lclarkfe-intro-98|U |000000000|lclarkfe|intro:cd dev|
+INPUT|lclarkfe-intro-99|U |1537737490|lclarkfe|intro:ls|136intro-2jjaj.JPEG  loop6   tty12 tty49    ttyS26
+autofs       loop7   tty13 tty5    ttyS27
+block       loop-control  tty14 tty50    ttyS28
+bsg       mapper   tty15 tty51    ttyS29
+btrfs-control      mcelog   tty16 tty52    ttyS3
+bus       mem   tty17 tty53    ttyS30
+cdrom       memory_bandwidth  tty18 tty54    ttyS31
+char       mqueue   tty19 tty55    ttyS4
+console       net   tty2 tty56    ttyS5
+core       network_latency  tty20 tty57    ttyS6
+cpu       network_throughput  tty21 tty58    ttyS7
+cpu_dma_latency      null   tty22 tty59    ttyS8
+cuse       port   tty23 tty6    ttyS9
+disk       ppp   tty24 tty60    uhid
+dri       psaux   tty25 tty61    uinput
+ecryptfs      ptmx   tty26 tty62  
+INPUT|lclarkfe-intro-100|U |000000000|lclarkfe|intro:mv wuer136intro-4.JPG  /home/top_secret/|
+INPUT|lclarkfe-intro-101|U |000000000|lclarkfe|intro:mv 136intro-2jjaj.JPEG /home/top_secret/|mv: cannot create regular file '/home/top_secret/136intro-2jjaj.JPEG': Permission denied
+INPUT|lclarkfe-intro-102|U |000000000|lclarkfe|intro:6intro-2jjaj.JPEG  /home/top_secret/|
+INPUT|lclarkfe-intro-103|U |000000000|lclarkfe|intro:cd ../|
+INPUT|lclarkfe-intro-104|U |000000000|lclarkfe|intro:cd usr|
+INPUT|lclarkfe-intro-105|U |000000000|lclarkfe|intro:cd share|
+INPUT|lclarkfe-intro-106|U |000000000|lclarkfe|intro:cd pixmaps|
+INPUT|lclarkfe-intro-107|U |1537737536|lclarkfe|intro:ls|debian-logo.png        pstree32.xpm   python.xpm  xbzf136INTRO-1.jpg
+gvim.svg        python2.7.xpm  vim-16.xpm
+language-selector.png  python3.5.xpm  vim-32.xpm
+pstree16.xpm        python3.xpm    vim-48.xpm
+INPUT|lclarkfe-intro-108|U |000000000|lclarkfe|intro:mv 136intro-2jjaj.JPEG  /home/top_secret/|/<ESC>[Aclarkfe@intro:/usr/share/pixmaps$ <ESC>[4Pmv 136intro-2jjaj.JPEG  /home/top_secret/
+
+INPUT|lclarkfe-intro-109|U |000000000|lclarkfe|intro:mv 136intro-2jjaj.JPEG  /home/top_secret/|
+INPUT|lclarkfe-intro-110|U |000000000|lclarkfe|intro:mv 136intro-2jjaj.JPEG  /home/top_secret/|/
+INPUT|lclarkfe-intro-111|U |000000000|lclarkfe|intro:mv 136intro-2jjaj.JPE  /home/top_secret/|
+INPUT|lclarkfe-intro-112|U |000000000|lclarkfe|intro:mv 136intro-2jjaj.JPE|
+INPUT|lclarkfe-intro-113|U |000000000|lclarkfe|intro:mv xbzf136INTRO-1.jpg  /home/top_secret/ clarkfe@intro:/usr/share/pixmaps$ sudo mv xbzf136INTRO-1.jpg|
+
+INPUT|lclarkfe-intro-114|U |000000000|lclarkfe|intro:cd ../|
+INPUT|lclarkfe-intro-115|U |000000000|lclarkfe|intro:cd ../|
+INPUT|lclarkfe-intro-116|U |000000000|lclarkfe|intro:cd ../|
+INPUT|lclarkfe-intro-117|U |000000000|lclarkfe|intro:cd hidden|bash: cd: hidden: No such file or directory
+INPUT|lclarkfe-intro-118|U |000000000|lclarkfe|intro:cd .hidden|
+INPUT|lclarkfe-intro-119|U |1537737591|lclarkfe|intro:ls|asdf136Intro-5kqlw.jpeg
+INPUT|lclarkfe-intro-120|U |000000000|lclarkfe|intro:mv asdf136intro-5kqlw  /home/top_secret/|mv: cannot stat 'asdf136intro-5kqlw': No such file or directory
+INPUT|lclarkfe-intro-121|U |000000000|lclarkfe|intro:mv asdf136Intro-5kqlw  /home/top_secret/|mv: cannot stat 'asdf136Intro-5kqlw': No such file or directory
+INPUT|lclarkfe-intro-122|U |000000000|lclarkfe|intro:mv asdf136Intro-5kqlw.jpegme/top_secret/|
+INPUT|lclarkfe-intro-123|U |000000000|lclarkfe|intro:cd ../|
+INPUT|lclarkfe-intro-124|U |000000000|lclarkfe|intro:cd home|
+INPUT|lclarkfe-intro-125|U |000000000|lclarkfe|intro:cd top_secret|
+INPUT|lclarkfe-intro-126|U |1537737656|lclarkfe|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkfe-intro-127|U |1537737860|lclarkfe|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"answers.txt" [New File][>c[2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                      
+INPUT|lclarkfe-intro-128|U |1537738153|lclarkfe|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkfe-intro-129|U |000000000|lclarkfe|intro:cat > answers.txt|bash: answers.txt: Permission denied
+INPUT|lclarkfe-intro-130|U |000000000|lclarkfe|intro:cat > answers.txt|bash: answers.txt: Permission denied
+INPUT|lclarkfe-intro-131|U |000000000|lclarkfe|intro:cat > answers.txt|bash: answers.txt: Permission denied
+INPUT|lclarkfe-intro-132|U |1537738253|lclarkfe|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"answers.txt" [New File][>c[2;1H[94m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                      
+INPUT|lclarkfe-intro-133|U |1537738515|lclarkfe|intro:ls|136intro-2jjaj.JPEG  answers.txt       wuer136intro-4.JPG
+136intro-3.jpg      asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+INPUT|lclarkfe-intro-134|U |1537738528|lclarkfe|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"answers.txt" [readonly] 10L%% 114C[>c[2;1HImage 1 = ./usr/share/pixmaps/
+
+Image 2 = ./dev/
+
+Image 3 = ./var/log/
+
+Image 4 = ./etc/
+
+Image 5 = ./.hidden/
+[94m~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                      
+INPUT|lclarkfe-intro-135|U |000000000|lclarkfe|intro:eog 136intro-3.jpg|The program 'eog' is currently not installed. To run 'eog' please ask your administrator to install the package 'eog'
+INPUT|lclarkfe-intro-136|U |1537738815|lclarkfe|intro:sftp 136intro-3.jpg|ssh: Could not resolve hostname 136intro-3.jpg: Name or service not known
+
+Couldn't read packet: Connection reset by peer
+
+INPUT|lclarkfe-intro-137|U |000000000|lclarkfe|intro:scpp 136intro-3.jpg|usage: scp [-12346BCpqrv] [-c cipher] [-F ssh_config] [-i identity_file]
+           [-l limit] [-o ssh_option] [-P port] [-S program]
+           [[user@]host1:]file1 ... [[user@]host2:]file2
+INPUT|lclarkfe-intro-138|U |1537738851|lclarkfe|intro:scp 136intro-3.jpg users.deterlab.net|cp: cannot create regular file 'users.deterlab.net': Permission denied
+INPUT|lclarkfe-intro-139|U |000000000|lclarkfe|intro:scp 136intro-3.jpg lclarkfe@users.deterlab.net:|
+INPUT|lclarkfe-intro-140|U |000000000|lclarkfe|intro:scp 136intro-3.jpg lclarkfe@users.deterlab.net|
+INPUT|lclarkfe-intro-141|U |000000000|lclarkfe|intro:scp 'lclarkfe@users.deterlab.net:/home/top_secr|et/*.<BS> <BS>intro<BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS><BS> <BS>*.jpg' desktop/jpg
+

@@ -1,0 +1,655 @@
+User lclarkey start time 1537834400 end 1537841443
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkey-intro-0|U |000000000|lclarkey|:|
+INPUT|lclarkey-intro-1|U |000000000|lclarkey|:|
+INPUT|lclarkey-intro-2|A2 A0 A4 A3 A1 |1537834400|lclarkey|intro:findxargs file $1 | grep JPEG|findxargs: command not found
+INPUT|lclarkey-intro-3|A0 A2 A1 A4 A3 |1537834452|lclarkey|intro:find[1@ [1@|[1@ 1 | grep JPEG|
+INPUT|lclarkey-intro-4|A0 A2 A1 A4 A3 |1537834400|lclarkey|intro:find | xargs file $1 | grep JPEG|
+INPUT|lclarkey-intro-5|A0 A2 A1 A4 A3 |1537834503|lclarkey|intro:find[3Pxargs file $1 | grep JPEG|
+INPUT|lclarkey-intro-6|U |1537834503|lclarkey|intro:Find /-mount -name \"\"intro\"\"2> /dev/null |xargs file$1 | grep J|JPE[Aarkey@intro:~$ [31Pssh lclarkey@users.deterlab.net
+
+INPUT|lclarkey-intro-7|U |000000000|lclarkey|intro:ssh lclarkey@users.deterlab.net|
+INPUT|lclarkey-intro-8|U |1537834524|lclarkey|intro:Find /-mount -name \"\"intro\"\"2> /dev/null |xargs file$1 | grep J|JPEG
+INPUT|lclarkey-intro-9|U |1537834524|lclarkey|intro:Find /-moun -name ""intro""2> /dev/null |xargs file$1 | grep JP[1P[Aclarkey@intro:~$ Find /-mou -name ""intro""2> /dev/null |xargs file$1 | grep JPE[1PG[Alarkey@intro:~$ Find /-mo -name ""intro""2> /dev/null |xargs file$1 | grep JPEG[K[Aclarkey@intro:~$ Find /-m -name ""intro""2> /dev/null |xargs file$1 | grep JPEG|
+INPUT|lclarkey-intro-10|U |000000000|lclarkey|intro:Find /-m|
+INPUT|lclarkey-intro-11|A0 A2 A1 A3 A4 |000000000|lclarkey|intro:find /-|!TRUNCATED TO 500L! Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files
+INPUT|lclarkey-intro-12|A4 A3 A1 A2 A0 |000000000|lclarkey|intro:find / -n|me \"\"intro\"\"2> /dev/null |xargs file$1 | grep JPEG|%Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+No command '-name' found%% did you mean:
+ Command 'uname' from package 'coreutils' (main)
+-name: command not found%
+INPUT|lclarkey-intro-13|A0 A2 A1 A4 A3 |000000000|lclarkey|intro:find | -name \"\"intro\"\"2> /dev/null |xargs file$1|%Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+No command '-name' found%% did you mean:
+ Command 'uname' from package 'coreutils' (main)
+-name: command not found%
+INPUT|lclarkey-intro-14|A2 A0 A4 A3 A1 |000000000|lclarkey|intro:find | -n/me \"\"intro\"\"2> /dev/null |xargs file$1|!TRUNCATED TO 500L! find: '/var/cache/apt/archives/partial': Permission denied
+Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files
+INPUT|lclarkey-intro-15|A0 A2 A1 A4 A3 |000000000|lclarkey|intro:find / -name \"\"intro\"\"2> /dev/null|!TRUNCATED TO 500L! find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/proc/tty/driver': Permission denied
+find: '/proc/1/task/1/fd': Permission denied
+find: '/proc/1/task/1/fdinfo': Permission denied
+find: '/proc/1/task/1/ns': Permission denied
+find: '/proc/1/fd': Permission denied
+find: '/proc/1/map_files': Permission denied
+find: '/proc/1/fdinfo': Permission denied
+find: '/proc/1/ns': Permission denied
+find: '/proc/2/task/2/fd': Permission denied
+find: '/proc/2/task/2/fdinfo': Permission denied
+find: '/proc/2/task/2/n
+INPUT|lclarkey-intro-16|A0 A2 A1 A3 A4 |000000000|lclarkey|intro:find / -name \"\"intro\"\"2> /dev/null |xargs file$1|
+INPUT|lclarkey-intro-17|A2 A0 A4 A3 A1 |000000000|lclarkey|intro:find | -name \"\"intro\"\"2> /dev/null |xargs file$1|
+INPUT|lclarkey-intro-18|A0 A2 A1 A4 A3 |000000000|lclarkey|intro:find / -name \"\"intro\"\"2> /dev/null |xargs file$1|
+INPUT|lclarkey-intro-19|A2 A0 A4 A3 A1 |000000000|lclarkey|intro:find | -name \"\"intro\"\"2> /dev/null |xargs file$1|
+INPUT|lclarkey-intro-20|A0 A2 A1 A3 A4 |000000000|lclarkey|intro:find / -name \"\"intro\"\"\" -|/proj/CS495LC/exp/intro
+/proj/CS495LC/intro
+INPUT|lclarkey-intro-21|U |000000000|lclarkey|intro:[A^C|
+INPUT|lclarkey-intro-22|M3 M2 M1 |000000000|lclarkey|intro:find / -name \"\"in\"*intro*>&-|/var/log/ttylog/ttylog.intro.0
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/CS495LC/exp/derek-linuxintro
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.ns
+/proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.png
+/proj/CS495LC/exp/george-introUnix
+/proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.png
+/proj/CS495LC/exp/george-introUnix/tbdata/george-introUnix.ns
+/proj/CS495LC/exp/jmache-intro2
+/proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.ns
+/proj/CS495LC/exp/jmache-intro2/tbdata/jmache-intro2.png
+/proj/CS495LC/exp/lclarkai-intro
+/proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.ns
+/proj/CS495LC/exp/lclarkai-intro/tbdata/lclarkai-intro.png
+/proj/CS495LC/exp/lclarkan-intro
+/proj/CS495LC/exp/lclarkan-intro/tbdata/lclarkan-intro.ns
+/proj/CS49
+INPUT|lclarkey-intro-23|A0 A2 A1 A4 A3 |000000000|lclarkey|intro:find / -name \"\"*intro*\"\" 2>&-|
+INPUT|lclarkey-intro-24|U |000000000|lclarkey|intro:mkdir top_secret|
+INPUT|lclarkey-intro-25|U |1537834930|lclarkey|intro:cp /var/log/136intro-3.jpg top_secret|
+INPUT|lclarkey-intro-26|U |000000000|lclarkey|intro:cp /etc/wuer136intro-4.JPG top_secret|
+INPUT|lclarkey-intro-27|U |1537834966|lclarkey|intro:ls top_secret|136intro-3.jpg wuer136intro-4.JPG
+INPUT|lclarkey-intro-28|U |000000000|lclarkey|intro:cp /etc/wuer136intro-4.JPG top_secret|
+INPUT|lclarkey-intro-29|U |000000000|lclarkey|intro:cp /var/log/136intro-3.jpg top_secret|
+INPUT|lclarkey-intro-30|A4 A3 A1 A2 A0 |000000000|lclarkey|intro:find / -name ""*intro*"" 2>&-|
+INPUT|lclarkey-intro-31|U |000000000|lclarkey|intro:cp /var/log/136intro-3.jpg top_secret|
+INPUT|lclarkey-intro-32|U |1537834958|lclarkey|intro:cp /etc/wuer136intro-4.JPG top_secret|
+INPUT|lclarkey-intro-33|U |000000000|lclarkey|intro:scp 136intro-3.jpg|usage: scp [-12346BCpqrv] [-c cipher] [-F ssh_config] [-i identity_file]
+           [-l limit] [-o ssh_option] [-P port] [-S program]
+           [[user@]host1:]file1 ... [[user@]host2:]file2
+INPUT|lclarkey-intro-34|U |000000000|lclarkey|intro:pscp 136intro-3.jpg|The program 'pscp' is currently not installed. To run 'pscp' please ask your administrator to install the package 'putty-tools'
+INPUT|lclarkey-intro-35|A1 A4 A3 A0 A2 |000000000|lclarkey|intro:find / -iname \"*intro*.JPEG\" 2>dev/null|bash: dev/null: No such file or directory
+INPUT|lclarkey-intro-36|A1 A3 A4 A0 A2 |000000000|lclarkey|intro:find / -iname \"*intro*.JPEG\" 2>dev/null|bash: dev/null: No such file or directory
+INPUT|lclarkey-intro-37|A4 A3 A1 A2 A0 |000000000|lclarkey|intro:fifind / -iname \"*intro*.JPEG\" 2>dev/null|bash: dev/null: No such file or directory
+INPUT|lclarkey-intro-38|A4 A3 A1 A2 A0 |000000000|lclarkey|intro:find / -iname \"*intro**.JPEG\" 2>dev/null|
+INPUT|lclarkey-intro-39|U |000000000|lclarkey|intro:cp /etc/wuer136intro-4.JPG top_secret|
+INPUT|lclarkey-intro-40|U |000000000|lclarkey|intro:cp /var/log/136intro-3.jpg top_secret|
+INPUT|lclarkey-intro-41|M4 M3 M2 M1 M0 |000000000|lclarkey|intro:find / -name ""*136*o*"" 2>&-|/var/log/136intro-3.jpg
+/proc/136
+/proc/136/task/136
+/proc/1038/task/1136
+/proc/1364
+/proc/1364/task/1364
+/proc/1364/task/1368
+/users/lclarkey/top_secret/136intro-3.jpg
+/users/lclarkey/top_secret/wuer136intro-4.JPG
+/etc/ssl/certs/ee1365c0.0
+/etc/wuer136intro-4.JPG
+/.hidden/asdf136Intro-5kqlw.jpeg
+/dev/136intro-2jjaj.JPEG
+/lib/modules/4.4.0-79-generic/kernel/drivers/usb/host/isp1362-hcd.ko
+/lib/modules/4.4.0-79-generic/kernel/drivers/iio/gyro/adis16136.ko
+/lib/modules/4.4.0-79-generic/kernel/drivers/iio/adc/max1363.ko
+/lib/modules/4.4.0-83-generic/kernel/drivers/usb/host/isp1362-hcd.ko
+/lib/modules/4.4.0-83-generic/kernel/drivers/iio/gyro/adis16136.ko
+/lib/modules/4.4.0-83-generic/kernel/drivers/iio/adc/max1363.ko
+/usr/src/linux-headers-4.4.0-83/include/linux/usb/isp1362.h
+/usr/src/linux-headers-4.4.0-79/include/linux/usb/isp1362.h
+/usr/src/linux-headers-4.4.0-79-generic/include/config/usb/isp1362
+/usr/src/linux-headers-4
+INPUT|lclarkey-intro-42|U |1537835424|lclarkey|intro:cp /.hidden/asdf136Intro-5kqlw.jpeg top_secret|
+INPUT|lclarkey-intro-43|U |1537835441|lclarkey|intro:cp /dev/136intro-2jjaj.JPEG|cp: missing destination file operand after '/dev/136intro-2jjaj.JPEG'
+Try 'cp --help' for more information.
+INPUT|lclarkey-intro-44|U |1537835448|lclarkey|intro:cp /dev/136intro-2jjaj.JPEG top_secret|
+INPUT|lclarkey-intro-45|U |000000000|lclarkey|intro:cp /dev/136intro-2jjaj.JPEG top_secret|
+INPUT|lclarkey-intro-46|U |000000000|lclarkey|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkey-intro-47|U |1537835492|lclarkey|intro:ls|top_secret
+INPUT|lclarkey-intro-48|U |000000000|lclarkey|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkey-intro-49|U |000000000|lclarkey|intro:cp /.hidden/asdf136Intro-5kqlw.jpeg top_secret|
+INPUT|lclarkey-intro-50|A4 A3 A1 A2 A0 |000000000|lclarkey|intro:find / -iname "*intro*.JPEG" 2>dev/null|
+INPUT|lclarkey-intro-51|U |000000000|lclarkey|intro:ls top_secret3.jpgg|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkey-intro-52|U |000000000|lclarkey|intro:xdg-open asdf136Intro-5kqlw.jpeg|The program 'xdg-open' is currently not installed. To run 'xdg-open' please ask your administrator to install the package 'xdg-utils'
+INPUT|lclarkey-intro-53|U |000000000|lclarkey|intro:feh asdf136Intro-5kqlw.jpeg|The program 'feh' is currently not installed. To run 'feh' please ask your administrator to install the package 'feh'
+INPUT|lclarkey-intro-54|U |000000000|lclarkey|intro:feh asdf136Intro-5kqlw.jpeg|bash: syntax error near unexpected token `newline'
+INPUT|lclarkey-intro-55|U |000000000|lclarkey|intro:feh|
+INPUT|lclarkey-intro-56|U |000000000|lclarkey|intro:feh asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkey-intro-57|U |000000000|lclarkey|intro:xdg-open asdf136Intro-5kqlw.jpeg>|bash: syntax error near unexpected token `newline'
+INPUT|lclarkey-intro-58|U |000000000|lclarkey|intro:xdg-open|
+INPUT|lclarkey-intro-59|U |000000000|lclarkey|intro:sftp wuer136intro-4.JPG|ssh: Could not resolve hostname wuer136intro-4.jpg: Name or service not known
+
+Couldn't read packet: Connection reset by peer
+
+INPUT|lclarkey-intro-60|U |000000000|lclarkey|intro:pscp.exe lclarkey@users.isi.deterlab.net:top_secret/wuer136intro-4.JPG|
+INPUT|lclarkey-intro-61|U |000000000|lclarkey|intro:pscp.exe lclarkey@users.isi.deterlab.net:top_secret/wuer136intro-4.JP|
+INPUT|lclarkey-intro-62|U |000000000|lclarkey|intro:pscp.exe lclarkey@users.isi.deterlab.net:top_secret/wuer136intro-4.JPG|
+INPUT|lclarkey-intro-63|U |000000000|lclarkey|intro:pscp.exe lclarkey@users.isi.deterlab.net:top_secret/wuer136intro-4.JP|
+INPUT|lclarkey-intro-64|U |000000000|lclarkey|intro:pscp.exe lclarkey@users.isi.deterlab.net:top_secret/wuer136intro-4.JPG| Old
+pscp.exe: command not found
+INPUT|lclarkey-intro-65|U |000000000|lclarkey|intro:pscp.exe lclarkey@users.isi.deterlab.net:top_secret/wuer136intro-4.JPG| Old
+pscp.exe: command not found
+INPUT|lclarkey-intro-66|U |000000000|lclarkey|intro:pscp.exe lclarkey@users.isi.deterlab.net:top_secret/wuer136intro-4.JPG| Old<ESC>[Arkey@intro:~$ <ESC>[K
+
+INPUT|lclarkey-intro-67|U |000000000|lclarkey|intro:pscp.exe lclarkey@users.isi.deterlab.net:top_secret/wuer136intro-4.JPG| Old<ESC>[Arkey@intro:~$ <ESC>[K
+
+INPUT|lclarkey-intro-68|U |1537836551|lclarkey|intro:ls|top_secret
+INPUT|lclarkey-intro-69|U |000000000|lclarkey|intro:cd /users/|
+INPUT|lclarkey-intro-70|U |1537836574|lclarkey|intro:ls|abhi   gbartlet  jgli      piobair sharead  shareak  sharear  shareay  sharetb
+alefiya   gerow     jhickey   rgoodfel shareae  shareal  shareas  shareaz  sklower
+alwabel   gknopf    jjh       schwab shareaf  shaream  shareat  shareba  sunshine
+bks   glawler   jross     scuric shareag  sharean  shareau  sharebb
+bloznali  jaipuria  kls2      shareaa shareah  shareao  shareav  sharebc
+ekline   jboman    lclarkey  shareab shareai  shareap  shareaw  sharebd
+faber   jelena    melkins   shareac shareaj  shareaq  shareax  shareta
+INPUT|lclarkey-intro-71|U |000000000|lclarkey|intro:cd lclarkey|
+INPUT|lclarkey-intro-72|U |1537836748|lclarkey|intro:ls|top_secret
+INPUT|lclarkey-intro-73|U |1537836836|lclarkey|intro:tar cvzf IwillChooseFileName.tar.gz top_secret|top_secret/
+top_secret/136intro-3.jpg
+top_secret/wuer136intro-4.JPG
+top_secret/asdf136Intro-5kqlw.jpeg
+top_secret/136intro-2jjaj.JPEG
+top_secret/xbzf136INTRO-1.jpg
+INPUT|lclarkey-intro-74|U |1537837034|lclarkey|intro:open top_secret/xbzf136INTRO-1.jpg|Couldn't get a file descriptor referring to the console
+INPUT|lclarkey-intro-75|U |000000000|lclarkey|intro:xdg-open top_secret/xbzf136INTRO-1.jpg|The program 'xdg-open' is currently not installed. To run 'xdg-open' please ask your administrator to install the package 'xdg-utils'
+INPUT|lclarkey-intro-76|U |000000000|lclarkey|intro:cd users|bash: cd: users: No such file or directory
+INPUT|lclarkey-intro-77|U |000000000|lclarkey|intro:xdg-open top_secret/xbzf136INTRO-1.jpg|
+INPUT|lclarkey-intro-78|U |000000000|lclarkey|intro:open top_secret/xbzf136INTRO-1.jpg|
+INPUT|lclarkey-intro-79|U |000000000|lclarkey|intro:tar cvzf IwillChooseFileName.tar.gz top_secret|
+INPUT|lclarkey-intro-80|U |1537837129|lclarkey|intro:lslscd /users/|
+INPUT|lclarkey-intro-81|U |1537837179|lclarkey|intro:ls|abhi   gbartlet  jgli      piobair sharead  shareak  sharear  shareay  sharetb
+alefiya   gerow     jhickey   rgoodfel shareae  shareal  shareas  shareaz  sklower
+alwabel   gknopf    jjh       schwab shareaf  shaream  shareat  shareba  sunshine
+bks   glawler   jross     scuric shareag  sharean  shareau  sharebb
+bloznali  jaipuria  kls2      shareaa shareah  shareao  shareav  sharebc
+ekline   jboman    lclarkey  shareab shareai  shareap  shareaw  sharebd
+faber   jelena    melkins   shareac shareaj  shareaq  shareax  shareta
+INPUT|lclarkey-intro-82|U |000000000|lclarkey|intro:cd jboman|
+INPUT|lclarkey-intro-83|U |1537837191|lclarkey|intro:ls|
+INPUT|lclarkey-intro-84|U |000000000|lclarkey|intro:..|..: command not found
+INPUT|lclarkey-intro-85|U |000000000|lclarkey|intro:cd ..|
+INPUT|lclarkey-intro-86|U |000000000|lclarkey|intro:cd jjh|
+INPUT|lclarkey-intro-87|U |1537838227|lclarkey|intro:ls|
+INPUT|lclarkey-intro-88|U |000000000|lclarkey|intro:cd ..|
+INPUT|lclarkey-intro-89|U |000000000|lclarkey|intro:cd piobair|
+INPUT|lclarkey-intro-90|U |1537839617|lclarkey|intro:ls|
+INPUT|lclarkey-intro-91|U |000000000|lclarkey|intro:cd ..|
+INPUT|lclarkey-intro-92|U |000000000|lclarkey|intro:scp -r /users/lclarkey/top_secret/xbzf136INTRO-1.jpgINTRO-1.jpg|usage: scp [-12346BCpqrv] [-c cipher] [-F ssh_config] [-i identity_file]
+           [-l limit] [-o ssh_option] [-P port] [-S program]
+           [[user@]host1:]file1 ... [[user@]host2:]file2
+INPUT|lclarkey-intro-93|U |1537837255|lclarkey|intro:scp -r /users/lclarkey/top_secret/xbzf136INTRO-1.jpg desktop|cp: cannot create regular file 'desktop': Permission denied
+INPUT|lclarkey-intro-94|U |000000000|lclarkey|intro:scp -r /users/lclarkey/top_secret/xbzf136INTRO-1.jpg desktop clarkey@intro:/users$ sudo|
+
+INPUT|lclarkey-intro-95|U |1537837288|lclarkey|intro:scp -r /users/lclarkey/top_secret/xbzf136INTRO-1.jpg desktop|
+INPUT|lclarkey-intro-96|U |000000000|lclarkey|intro:scp -r /users/lclarkey/top_secret/xbzf136INTRO-1.jpg desktop|
+INPUT|lclarkey-intro-97|U |1537837309|lclarkey|intro:scp -r /users/lclarkey/top_secret/xbzf136INTRO-1.jpg desktop|
+INPUT|lclarkey-intro-98|U |000000000|lclarkey|intro:scp -r /users/lclarkey/top_secret/xbzf136INTRO-1.jpg desktop|
+INPUT|lclarkey-intro-99|U |1537837318|lclarkey|intro:scp -r /users/lclarkey/top_secret/xbzf136INTRO-1.jpg desktop|
+INPUT|lclarkey-intro-100|U |000000000|lclarkey|intro:scp -r /users/lclarkey/top_secret/xbzf136INTRO-1.jpg deskto|
+/dumpster
+cp: failed to access 'desktop/dumpster': Not a directory
+INPUT|lclarkey-intro-101|U |000000000|lclarkey|intro:scp -r /users/lclarkey/top_secret/xbzf136INTRO-1.jpg desktop/|
+INPUT|lclarkey-intro-102|U |000000000|lclarkey|intro:scp -r /users/lclarkey/top_secret/xbzf136INTRO-1.jpg desktop|
+INPUT|lclarkey-intro-103|U |000000000|lclarkey|intro:scp -r /users/lclarkey/top_secret/xbzf136INTRO-1.jpg deskto|
+INPUT|lclarkey-intro-104|U |000000000|lclarkey|intro:scp -r /users/lclarkey/top_secret/xbzf136INTRO-1.jpg downloa|ds
+INPUT|lclarkey-intro-105|U |000000000|lclarkey|intro:scp -r /users/lclarkey/top_secret/xbzf136INTRO-1.jpg download|ds<ESC>[Alarkey@intro:/users$ sudo scp -r /users/lclarkey/top_secret/xbzf136INTRO-1.jpg desktop/dumpster
+INPUT|lclarkey-intro-106|U |000000000|lclarkey|intro:s|
+INPUT|lclarkey-intro-107|U |000000000|lclarkey|intro:scp -r /users/lclarkey/top_secret/xbzf136INTRO-1.jpg desktop|
+INPUT|lclarkey-intro-108|U |000000000|lclarkey|intro:xdg-open top_secret/xbzf136INTRO-1.jpg|
+INPUT|lclarkey-intro-109|U |000000000|lclarkey|intro:open top_secret/xbzf136INTRO-1.jpg|
+INPUT|lclarkey-intro-110|U |000000000|lclarkey|intro:tar cvzf IwillChooseFileName.tar.gz top_secret|
+INPUT|lclarkey-intro-111|U |1537839622|lclarkey|intro:lslslspscp.exe lclarkey@users.isi.deterlab.net:top_secret/wuer136intro-4|4.JPG Old[Aintro:/users$ [42Psftp wuer136intro-4.JPG
+
+INPUT|lclarkey-intro-112|U |000000000|lclarkey|intro:xdg-open 136intro-4.JPG|
+INPUT|lclarkey-intro-113|U |000000000|lclarkey|intro:asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkey-intro-114|U |000000000|lclarkey|intro:xdg-open asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkey-intro-115|U |000000000|lclarkey|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkey-intro-116|U |000000000|lclarkey|intro:cp /.hidden/asdf136Intro-5kqlw.jpeg top_secret|
+INPUT|lclarkey-intro-117|A1 A4 A3 A0 A2 |000000000|lclarkey|intro:find / -iname "*intro*.JPEG" 2>dev/null|
+INPUT|lclarkey-intro-118|U |000000000|lclarkey|intro:cp /etc/wuer136intro-4.JPG top_secret|
+INPUT|lclarkey-intro-119|U |000000000|lclarkey|intro:cp /var/log/136intro-3.jpg top_secret|
+INPUT|lclarkey-intro-120|A2 A0 A4 A3 A1 |000000000|lclarkey|intro:find / -name ""intro""2> /dev/null |xargs file$1|
+INPUT|lclarkey-intro-121|A4 A3 A1 A2 A0 |000000000|lclarkey|intro:find | -name \"\"intro\"\"2> /dev/null |xargs file$1 | grep JPEG|
+INPUT|lclarkey-intro-122|A2 A0 A4 A3 A1 |000000000|lclarkey|intro:find / -name \"\"intro\"\"2> /dev/null |xargs file$1 | grep JPEG|
+INPUT|lclarkey-intro-123|A0 A2 A1 A3 A4 |000000000|lclarkey|intro:findxargs file $1 | grep JPEGPEG|
+INPUT|lclarkey-intro-124|U |000000000|lclarkey|intro:Find /-mount -name \"\"intro\"\"2> /dev/null |xargs file$1 | grep JPEG|G<ESC>[Aclarkey@intro:/users$ <ESC>[34Pssh lclarkey@users.deterlab.net
+
+INPUT|lclarkey-intro-125|U |000000000|lclarkey|intro:%ssh ssh lclarkey@user.netab.net|et<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>pwd<ESC>[K<BS><BS><BS><ESC>[1Pls<BS><BS>find intro<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>ssh intro.lclarkey-intro-21.cs495lc.isi.deterlab.net<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><ESC>[9@.lclarkey-intro-21.cs495lc.isi.deterlab.net%
+INPUT|lclarkey-intro-126|U |000000000|lclarkey|intro:sftp ssh intro.lclarkey.CS495LC.isi.deterlab.net net|ssh: Could not resolve hostname ssh: Name or service not known
+
+Couldn't read packet: Connection reset by peer
+
+INPUT|lclarkey-intro-127|U |000000000|lclarkey|intro:sftp intro.lclarkey.CS495LC.isi.deterlab.net top_secret|ssh: Could not resolve hostname intro.lclarkey.cs495lc.isi.deterlab.net: Name or service not known
+
+Couldn't read packet: Connection reset by peer
+
+INPUT|lclarkey-intro-128|U |1537837612|lclarkey|intro:sftp lclarkey@users.deterlab.net top_secret|
+INPUT|lclarkey-intro-129|U |000000000|lclarkey|intro:help|%GNU bash%% version 4.3.48(1)-release (x86_64-pc-linux-gnu)
+These shell commands are defined internally.  Type `help' to see this list.
+Type `help name' to find out more about the function `name'.
+Use `info bash' to find out more about the shell in general.
+Use `man -k' or `info' to find out more about commands not in this list.
+
+A star (*) next to a name means that the command is disabled.
+
+ job_spec [&]                                history [-c] [-d offset] [n] or history >
+ (( expression ))                            if COMMANDS; then COMMANDS; [ elif COMMA>
+ . filename [arguments]                      jobs [-lnprs] [jobspec ...] or jobs -x c>
+ :                                           kill [-s sigspec | -n signum | -sigspec]>
+ [ arg... ]                                  let arg [arg ...]
+ [[ expression ]]                            local [option] name[=value] ...
+ alias [-p] [name[=value] ... ]              logout [n]
+ bg [job_spec ..
+INPUT|lclarkey-intro-130|U |000000000|lclarkey|intro:sftp lclarkey@users.deterlab.net top_secret|
+INPUT|lclarkey-intro-131|U |000000000|lclarkey|intro:touch names.txt|touch: cannot touch 'names.txt': Permission denied
+INPUT|lclarkey-intro-132|U |1537838207|lclarkey|intro:touch names.txt|
+INPUT|lclarkey-intro-133|U |1537839696|lclarkey|intro:ls|abhi    ekline    jboman   lclarkey  shareaa  shareah  shareao  shareav  sharebc
+alefiya    faber     jelena   melkins  shareab  shareai  shareap  shareaw  sharebd
+alwabel    gbartlet  jgli     names.txt  shareac  shareaj  shareaq  shareax  shareta
+bks    gerow     jhickey  piobair  sharead  shareak  sharear  shareay  sharetb
+bloznali   gknopf    jjh      rgoodfel  shareae  shareal  shareas  shareaz  sklower
+desktop    glawler   jross    schwab  shareaf  shaream  shareat  shareba  sunshine
+downloads  jaipuria  kls2     scuric  shareag  sharean  shareau  sharebb
+INPUT|lclarkey-intro-134|U |1537838316|lclarkey|intro:getedit names.txt|sudo: getedit: command not found
+INPUT|lclarkey-intro-135|U |1537838349|lclarkey|intro:vi names.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;30r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[30;1H"names.txt" 0L%% 0C[>c[2;1H[94m~                                                                                       [3;1H~                                                                                       [4;1H~                                                                                       [5;1H~                                                                                       [6;1H~                                                                                       [7;1H~                                                                                       [8;1H~                                                                                       [9;1H~                                                                                       [10;1H~                                                                                       [11;1H~                                         
+INPUT|lclarkey-intro-136|U |1537839034|lclarkey|intro:vinames.txt|sudo: vinames.txt: command not found
+INPUT|lclarkey-intro-137|U |000000000|lclarkey|intro:vi names.txt|%<ESC>[?1049h<ESC>[?1h<ESC>=<ESC>[2;1H<BD><ESC>[6n<ESC>[2;1H  <ESC>[1;1H<ESC>]11;?<BEL><ESC>[1;30r<ESC>[?12;25h<ESC>[?12l<ESC>[?25h<ESC>[27m<ESC>[23m<ESC>[m<ESC>[H<ESC>[2J<ESC>[?25l<ESC>[30;1H"names.txt" 10L%% 159C<ESC>[>c<ESC>[1;1HIntro 1 is Forbidden Planet
+Intro 2 is Godzilla
+Intro 3 is It Came from Outer Space
+Intro 4 is the Fly
+Intro 5 is 2001 a Space Odyssey
+:w
+ZZ
+quit<Enter>
+exit
+
+<ESC>[94m~                                                                                       <ESC>[12;1H~                                                                                       <ESC>[13;1H~                                                                                       <ESC>[14;1H~                                                                                       <ESC>[15;1H~                                                                                       <ESC>[16;1H~                                                                          
+INPUT|lclarkey-intro-138|U |1537839039|lclarkey|intro:vi names.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;30r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[30;1H"names.txt" 10L%% 159C[>c[1;1HIntro 1 is Forbidden Planet
+Intro 2 is Godzilla
+Intro 3 is It Came from Outer Space
+Intro 4 is the Fly
+Intro 5 is 2001 a Space Odyssey
+:w
+ZZ
+quit<Enter>
+exit
+
+[94m~                                                                                       [12;1H~                                                                                       [13;1H~                                                                                       [14;1H~                                                                                       [15;1H~                                                                                       [16;1H~                                                                                       [17;1H~                                                                                       [18;1H~                              
+INPUT|lclarkey-intro-139|U |1537839150|lclarkey|intro:vi names.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;30r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[30;1H"names.txt" 14L%% 342C[>c[1;1Hthis is actually the file supposed to be called answers.txt
+
+Intro 1 is Forbidden Planet
+Intro 2 is Godzilla
+Intro 3 is It Came from Outer Space
+Intro 4 is the Fly
+Intro 5 is 2001 a Space Odyssey
+
+
+/var contains subdirectories that contains the files the system writes while it is operaa[11;1Hting
+
+/dev contains all the files for special devices
+
+
+[94m~                                                                                       [17;1H~                                                                                       [18;1H~                                                                                       [19;1H~                                                                                       [20;1H~                                                                                       [21;1H~                
+INPUT|lclarkey-intro-140|U |000000000|lclarkey|intro:cd top_secret|bash: cd: top_secret: No such file or directory
+INPUT|lclarkey-intro-141|U |1537839703|lclarkey|intro:ls|abhi    ekline    jboman   lclarkey  shareaa  shareah  shareao  shareav  sharebc
+alefiya    faber     jelena   melkins  shareab  shareai  shareap  shareaw  sharebd
+alwabel    gbartlet  jgli     names.txt  shareac  shareaj  shareaq  shareax  shareta
+bks    gerow     jhickey  piobair  sharead  shareak  sharear  shareay  sharetb
+bloznali   gknopf    jjh      rgoodfel  shareae  shareal  shareas  shareaz  sklower
+desktop    glawler   jross    schwab  shareaf  shaream  shareat  shareba  sunshine
+downloads  jaipuria  kls2     scuric  shareag  sharean  shareau  sharebb
+INPUT|lclarkey-intro-142|U |000000000|lclarkey|intro:cd ..|
+INPUT|lclarkey-intro-143|U |1537839709|lclarkey|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp    var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   users  vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   usr    vmlinuz.old
+INPUT|lclarkey-intro-144|U |000000000|lclarkey|intro:cd /users/|
+INPUT|lclarkey-intro-145|U |000000000|lclarkey|intro:cd lclarkey|
+INPUT|lclarkey-intro-146|U |1537840128|lclarkey|intro:ls|IwillChooseFileName.tar.gz  top_secret
+INPUT|lclarkey-intro-147|U |000000000|lclarkey|intro:cd top_secret|
+INPUT|lclarkey-intro-148|U |1537840135|lclarkey|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkey-intro-149|U |1537839675|lclarkey|intro:cp names.txt|cp: missing destination file operand after 'names.txt'
+Try 'cp --help' for more information.
+INPUT|lclarkey-intro-150|U |1537839692|lclarkey|intro:cp names.txt top_secret|cp: cannot stat 'names.txt': No such file or directory
+INPUT|lclarkey-intro-151|U |1537840176|lclarkey|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkey-intro-152|U |000000000|lclarkey|intro:cd ..|
+INPUT|lclarkey-intro-153|U |1537840190|lclarkey|intro:ls|IwillChooseFileName.tar.gz  top_secret
+INPUT|lclarkey-intro-154|U |000000000|lclarkey|intro:cd ..|
+INPUT|lclarkey-intro-155|U |1537840203|lclarkey|intro:ls|abhi    ekline    jboman   lclarkey  shareaa  shareah  shareao  shareav  sharebc
+alefiya    faber     jelena   melkins  shareab  shareai  shareap  shareaw  sharebd
+alwabel    gbartlet  jgli     names.txt  shareac  shareaj  shareaq  shareax  shareta
+bks    gerow     jhickey  piobair  sharead  shareak  sharear  shareay  sharetb
+bloznali   gknopf    jjh      rgoodfel  shareae  shareal  shareas  shareaz  sklower
+desktop    glawler   jross    schwab  shareaf  shaream  shareat  shareba  sunshine
+downloads  jaipuria  kls2     scuric  shareag  sharean  shareau  sharebb
+INPUT|lclarkey-intro-156|U |1537839725|lclarkey|intro:cp names.txt top_secret|cp: cannot create regular file 'top_secret': Permission denied
+INPUT|lclarkey-intro-157|U |1537839739|lclarkey|intro:cp names.txt top_secret|
+INPUT|lclarkey-intro-158|U |000000000|lclarkey|intro:/.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkey-intro-159|U |000000000|lclarkey|intro:cp names.txt top_secret|
+INPUT|lclarkey-intro-160|U |000000000|lclarkey|intro:cp names.txt top_secret|
+INPUT|lclarkey-intro-161|U |000000000|lclarkey|intro:/.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkey-intro-162|U |000000000|lclarkey|intro:cp names.txt top_secret|
+INPUT|lclarkey-intro-163|U |000000000|lclarkey|intro:cp names.txt top_secret|
+INPUT|lclarkey-intro-164|U |000000000|lclarkey|intro:/.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkey-intro-165|U |000000000|lclarkey|intro:cp names.txt top_secret|
+INPUT|lclarkey-intro-166|U |000000000|lclarkey|intro:cp names.txt top_secret|
+INPUT|lclarkey-intro-167|U |000000000|lclarkey|intro:/.hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkey-intro-168|U |000000000|lclarkey|intro:cp names.txt top_secret|
+INPUT|lclarkey-intro-169|U |000000000|lclarkey|intro:vi names.txtsecret|%<ESC>[?1049h<ESC>[?1h<ESC>=<ESC>[2;1H<BD><ESC>[6n<ESC>[2;1H  <ESC>[1;1H<ESC>]11;?<BEL><ESC>[1;30r<ESC>[?12;25h<ESC>[?12l<ESC>[?25h<ESC>[27m<ESC>[23m<ESC>[m<ESC>[H<ESC>[2J<ESC>[?25l<ESC>[30;1H"names.txt" 14L%% 342C<ESC>[>c<ESC>[1;1Hthis is actually the file supposed to be called answers.txt
+
+Intro 1 is Forbidden Planet
+Intro 2 is Godzilla
+Intro 3 is It Came from Outer Space
+Intro 4 is the Fly
+Intro 5 is 2001 a Space Odyssey
+
+
+/var contains subdirectories that contains the files the system writes while it is operaa<ESC>[11;1Hting
+
+/dev contains all the files for special devices
+
+
+<ESC>[94m~                                                                                       <ESC>[17;1H~                                                                                       <ESC>[18;1H~                                                                                       <ESC>[19;1H~                                                                 
+INPUT|lclarkey-intro-170|U |1537839595|lclarkey|intro:vi names.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;30r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[30;1H"names.txt" 19L%% 486C[>c[1;1Hthis is actually the file supposed to be called answers.txt
+
+Intro 1 is Forbidden Planet
+Intro 2 is Godzilla
+Intro 3 is It Came from Outer Space
+Intro 4 is the Fly
+Intro 5 is 2001 a Space Odyssey
+
+
+/var contains subdirectories that contains the files the system writes while it is operaa[11;1Hting
+
+/dev contains all the files for special devices
+
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/.hidden/asdf136Intro-5kqlw.jpeg
+/dev/136intro-2jjaj.JPEG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+
+[94m~                                                                                       [22;1H~                                                                                       [23;1H~                                                                                       [24;1H~                                             
+INPUT|lclarkey-intro-171|U |1537839968|lclarkey|intro:vi names.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;30r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[30;1H"names.txt" 19L%% 486C[>c[1;1Hthis is actually the file supposed to be called answers.txt
+
+Intro 1 is Forbidden Planet
+Intro 2 is Godzilla
+Intro 3 is It Came from Outer Space
+Intro 4 is the Fly
+Intro 5 is 2001 a Space Odyssey
+
+
+/var contains subdirectories that contains the files the system writes while it is operaa[11;1Hting
+
+/dev contains all the files for special devices
+
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/.hidden/asdf136Intro-5kqlw.jpeg
+/dev/136intro-2jjaj.JPEG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+
+[94m~                                                                                       [22;1H~                                                                                       [23;1H~                                                                                       [24;1H~                                             
+INPUT|lclarkey-intro-172|U |1537840285|lclarkey|intro:ls|abhi    ekline    jboman   lclarkey  shareaa  shareah  shareao  shareav  sharebc
+alefiya    faber     jelena   melkins  shareab  shareai  shareap  shareaw  sharebd
+alwabel    gbartlet  jgli     names.txt  shareac  shareaj  shareaq  shareax  shareta
+bks    gerow     jhickey  piobair  sharead  shareak  sharear  shareay  sharetb
+bloznali   gknopf    jjh      rgoodfel  shareae  shareal  shareas  shareaz  sklower
+desktop    glawler   jross    schwab  shareaf  shaream  shareat  shareba  sunshine
+downloads  jaipuria  kls2     scuric  shareag  sharean  shareau  sharebb  top_secret
+INPUT|lclarkey-intro-173|U |000000000|lclarkey|intro:cd lclarkey|
+INPUT|lclarkey-intro-174|U |1537840290|lclarkey|intro:ls|IwillChooseFileName.tar.gz  top_secret
+INPUT|lclarkey-intro-175|U |1537835502|lclarkey|intro:ls top_secret|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkey-intro-176|U |000000000|lclarkey|intro:cd ..|
+INPUT|lclarkey-intro-177|U |000000000|lclarkey|intro:cd ..|
+INPUT|lclarkey-intro-178|U |1537840296|lclarkey|intro:ls|bin   etc     initrd.img      lib64   media  proc  run    snap  tmp    var
+boot  groups  initrd.img.old  local   mnt  proj  sbin   srv   users  vmlinuz
+dev   home    lib       lost+found  opt  root  share  sys   usr    vmlinuz.old
+INPUT|lclarkey-intro-179|U |000000000|lclarkey|intro:cd /users/|
+INPUT|lclarkey-intro-180|U |1537840303|lclarkey|intro:ls|abhi    ekline    jboman   lclarkey  shareaa  shareah  shareao  shareav  sharebc
+alefiya    faber     jelena   melkins  shareab  shareai  shareap  shareaw  sharebd
+alwabel    gbartlet  jgli     names.txt  shareac  shareaj  shareaq  shareax  shareta
+bks    gerow     jhickey  piobair  sharead  shareak  sharear  shareay  sharetb
+bloznali   gknopf    jjh      rgoodfel  shareae  shareal  shareas  shareaz  sklower
+desktop    glawler   jross    schwab  shareaf  shaream  shareat  shareba  sunshine
+downloads  jaipuria  kls2     scuric  shareag  sharean  shareau  sharebb  top_secret
+INPUT|lclarkey-intro-181|U |000000000|lclarkey|intro:cd lclarkey|
+INPUT|lclarkey-intro-182|U |1537840755|lclarkey|intro:ls|IwillChooseFileName.tar.gz  top_secret
+INPUT|lclarkey-intro-183|U |1537839739|lclarkey|intro:cp names.txt top_secret|cp: cannot stat 'names.txt': No such file or directory
+INPUT|lclarkey-intro-184|U |1537840282|lclarkey|intro:cp /users/names.txt top_secret|
+INPUT|lclarkey-intro-185|U |1537840932|lclarkey|intro:ls|IwillChooseFileName.tar.gz  top_secret
+INPUT|lclarkey-intro-186|U |000000000|lclarkey|intro:top_secret|top_secret: command not found
+INPUT|lclarkey-intro-187|U |1537840937|lclarkey|intro:ls|IwillChooseFileName.tar.gz  top_secret
+INPUT|lclarkey-intro-188|U |1537840966|lclarkey|intro:ls|IwillChooseFileName.tar.gz  top_secret
+INPUT|lclarkey-intro-189|U |000000000|lclarkey|intro:cd top_secret|
+INPUT|lclarkey-intro-190|U |1537841008|lclarkey|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+136intro-3.jpg      names.txt        xbzf136INTRO-1.jpg
+INPUT|lclarkey-intro-191|U |1537841015|lclarkey|intro:lslscp lslslslslssudo[5Pls[3P[3Pcplsls[2Pls[3P[4@sudo vi[1ls[5Phetouch diskfree.txt|
+INPUT|lclarkey-intro-192|U |1537840026|lclarkey|intro:vi names.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;30r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[30;1H"names.txt" 19L%% 486C[>c[1;1Hthis is actually the file supposed to be called answers.txt
+
+Intro 1 is Forbidden Planet
+Intro 2 is Godzilla
+Intro 3 is It Came from Outer Space
+Intro 4 is the Fly
+Intro 5 is 2001 a Space Odyssey
+
+
+/var contains subdirectories that contains the files the system writes while it is operaa[11;1Hting
+
+/dev contains all the files for special devices
+
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/.hidden/asdf136Intro-5kqlw.jpeg
+/dev/136intro-2jjaj.JPEG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+
+[94m~                                                                                       [22;1H~                                                                                       [23;1H~                                                                                       [24;1H~                                             
+INPUT|lclarkey-intro-193|A6 |1537840742|lclarkey|intro:df >top_secret/diskfree.txt|bash: top_secret/diskfree.txt: No such file or directory
+INPUT|lclarkey-intro-194|M6 |1537840777|lclarkey|intro:df|%Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 1003696         48    1003648   1%% /dev
+tmpfs                                                 204776      13632     191144   7%% /run
+/dev/sda1                                           15616412    2895812   11920652  20%% /
+tmpfs                                                1023868          0    1023868   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023868          0    1023868   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973280640 1763487744  36%% /proj/CS495LC
+users.isi.deterlab.net:/mnt/other/users/lclarkey  2031313280 1274592768  594215424  69%% /users/lclarkey
+tmpfs                                                 204776          0     204776  
+INPUT|lclarkey-intro-195|U |1537841162|lclarkey|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  names.txt    xbzf136INTRO-1.jpg
+136intro-3.jpg      diskfree.txt       wuer136intro-4.JPG
+INPUT|lclarkey-intro-196|A6 |000000000|lclarkey|intro:df >/op_secret/diskfree.txt|
+INPUT|lclarkey-intro-197|U |1537840796|lclarkey|intro:vi diskfree.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;30r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[30;1H"diskfree.txt" 10L%% 983C[>c[1;1HFilesystem[41C1K-blocks[7CUsed  Available Use%%  [2;1HMounted on
+udev[49C1003696[9C48    1003648   1%%  [4;1H/dev
+tmpfs[49C204776      13632     191144   7%%  [6;1H/run
+/dev/sda1[43C15616412    2895772   11920692  20%%  [8;1H/
+tmpfs[48C1023868[10C0    1023868   0%%  [10;1H/dev/shm
+tmpfs[51C5120[10C0[7C5120   0%%  [12;1H/run/lock
+tmpfs[48C1023868[10C0    1023868   0%%  [14;1H/sys/fs/cgroup
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973280640 1763487616  36%%  [16;1H/proj/CS495LC
+users.isi.deterlab.net:/mnt/other/users/lclarkey  2031313280 1274642560  594165632  69%%  [18;1H/users/lclarkey
+tmpfs[49C204776[10C0     204776   0%%  [20;1H/run/user/18203
+[94m~                                                                                       [22;1H~                                                                           
+INPUT|lclarkey-intro-198|U |000000000|lclarkey|intro:cd.. vi diskfree.txt|cd..: command not found
+INPUT|lclarkey-intro-199|U |000000000|lclarkey|intro:cd .|
+INPUT|lclarkey-intro-200|U |1537841173|lclarkey|intro:ls|IwillChooseFileName.tar.gz  top_secret
+INPUT|lclarkey-intro-201|U |000000000|lclarkey|intro:cd ..|
+INPUT|lclarkey-intro-202|U |1537841183|lclarkey|intro:ls|abhi    ekline    jboman   lclarkey  shareaa  shareah  shareao  shareav  sharebc
+alefiya    faber     jelena   melkins  shareab  shareai  shareap  shareaw  sharebd
+alwabel    gbartlet  jgli     names.txt  shareac  shareaj  shareaq  shareax  shareta
+bks    gerow     jhickey  piobair  sharead  shareak  sharear  shareay  sharetb
+bloznali   gknopf    jjh      rgoodfel  shareae  shareal  shareas  shareaz  sklower
+desktop    glawler   jross    schwab  shareaf  shaream  shareat  shareba  sunshine
+downloads  jaipuria  kls2     scuric  shareag  sharean  shareau  sharebb  top_secret
+INPUT|lclarkey-intro-203|U |000000000|lclarkey|intro:cd ..|
+INPUT|lclarkey-intro-204|U |000000000|lclarkey|intro:cd /var/|
+INPUT|lclarkey-intro-205|U |1537841188|lclarkey|intro:ls|backups  cache crash  emulab  lib  local  lock  log  mail  opt  run  snap  spool  tmp
+INPUT|lclarkey-intro-206|A1 A3 A4 A0 A2 |000000000|lclarkey|intro:find \"*cpu*\"|find: '*cpu*': No such file or directory
+INPUT|lclarkey-intro-207|U |000000000|lclarkey|intro:cd opt|
+INPUT|lclarkey-intro-208|U |1537841279|lclarkey|intro:ls|
+INPUT|lclarkey-intro-209|U |000000000|lclarkey|intro:pwd|/var/opt
+INPUT|lclarkey-intro-210|U |000000000|lclarkey|intro:cd ..|
+INPUT|lclarkey-intro-211|U |1537841290|lclarkey|intro:ls|backups  cache crash  emulab  lib  local  lock  log  mail  opt  run  snap  spool  tmp
+INPUT|lclarkey-intro-212|U |000000000|lclarkey|intro:cd backups|
+INPUT|lclarkey-intro-213|U |1537841438|lclarkey|intro:ls|alternatives.tar.0   apt.extended_states.2.gz  dpkg.statoverride.0  gshadow.bak
+apt.extended_states.0   dpkg.arch.0      dpkg.status.0  passwd.bak
+apt.extended_states.1.gz  dpkg.diversions.0     group.bak   shadow.bak
+INPUT|lclarkey-intro-214|U |000000000|lclarkey|intro:cd ..|
+INPUT|lclarkey-intro-215|U |000000000|lclarkey|intro:cd ..|
+INPUT|lclarkey-intro-216|M5 |1537841092|lclarkey|intro:lscpu|%Architecture:          x86_64
+CPU op-mode(s):        32-bit%% 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Thread(s) per core:    2
+Core(s) per socket:    1
+Socket(s):             2
+NUMA node(s):          1
+Vendor ID:             GenuineIntel
+CPU family:            15
+Model:                 4
+Model name:            Intel(R) Xeon(TM) CPU 3.00GHz
+Stepping:              1
+CPU MHz:               2992.623
+BogoMIPS:              5985.45
+L1d cache:             16K
+L2 cache:              1024K
+NUMA node0 CPU(s):     0-3
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc pebs bts nopl pni dtes64 monitor ds_cpl cid cx16 xtpr%
+INPUT|lclarkey-intro-217|U |000000000|lclarkey|intro:vi diskfree.txt|%<ESC>[?1049h<ESC>[?1h<ESC>=<ESC>[2;1H<BD><ESC>[6n<ESC>[2;1H  <ESC>[1;1H<ESC>]11;?<BEL><ESC>[1;37r<ESC>[?12;25h<ESC>[?12l<ESC>[?25h<ESC>[27m<ESC>[23m<ESC>[m<ESC>[H<ESC>[2J<ESC>[?25l<ESC>[37;1H"diskfree.txt" [New File]<ESC>[>c<ESC>[2;1H<ESC>[94m~                                                                                                               <ESC>[3;1H~                                                                                                               <ESC>[4;1H~                                                                                                               <ESC>[5;1H~                                                                                                               <ESC>[6;1H~                                                                                                               <ESC>[7;1H~                                                                                                               <ESC>[8;1H~                       
+INPUT|lclarkey-intro-218|U |000000000|lclarkey|intro:ls|bin   diskfree.txt  home     lib    lost+found  opt   root  share  sys  usr   vmlinuz.old
+boot  etc     initrd.img     lib64  media       proc  run   snap   tmp  var
+dev   groups     initrd.img.old  local  mnt        proj  sbin  srv   users  vmlinuz
+INPUT|lclarkey-intro-219|U |000000000|lclarkey|intro:cd ?users?|bash: cd: ?users?: No such file or directory
+INPUT|lclarkey-intro-220|U |000000000|lclarkey|intro:cd /users/|
+INPUT|lclarkey-intro-221|U |000000000|lclarkey|intro:ls|abhi   downloads  glawler   jjh   piobair   shareac  shareai  shareao  shareau shareba  sklower
+alefiya   ekline     jaipuria  jross   rgoodfel  sharead  shareaj  shareap  shareav sharebb  sunshine
+alwabel   faber      jboman    kls2   schwab    shareae  shareak  shareaq  shareaw sharebc  top_secret
+bks   gbartlet   jelena    lclarkey   scuric    shareaf  shareal  sharear  shareax sharebd
+bloznali  gerow      jgli      melkins   shareaa   shareag  shaream  shareas  shareay shareta
+desktop   gknopf     jhickey   names.txt  shareab   shareah  sharean  shareat  shareaz sharetb
+INPUT|lclarkey-intro-222|U |000000000|lclarkey|intro:cd lclarkey|
+INPUT|lclarkey-intro-223|U |000000000|lclarkey|intro:ls|IwillChooseFileName.tar.gz  top_secret
+INPUT|lclarkey-intro-224|U |000000000|lclarkey|intro:ls|IwillChooseFileName.tar.gz  top_secret
+INPUT|lclarkey-intro-225|U |1537840143|lclarkey|intro:ls top_secret|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  names.txt    xbzf136INTRO-1.jpg
+136intro-3.jpg      diskfree.txt       wuer136intro-4.JPG
+INPUT|lclarkey-intro-226|U |000000000|lclarkey|intro:vi diskfree.txt|%<ESC>[?1049h<ESC>[?1h<ESC>=<ESC>[2;1H<BD><ESC>[6n<ESC>[2;1H  <ESC>[1;1H<ESC>]11;?<BEL><ESC>[1;37r<ESC>[?12;25h<ESC>[?12l<ESC>[?25h<ESC>[27m<ESC>[23m<ESC>[m<ESC>[H<ESC>[2J<ESC>[?25l<ESC>[37;1H"diskfree.txt" [New File]<ESC>[>c<ESC>[2;1H<ESC>[94m~                                                                                                               <ESC>[3;1H~                                                                                                               <ESC>[4;1H~                                                                                                               <ESC>[5;1H~                                                                                                               <ESC>[6;1H~                                                                                                               <ESC>[7;1H~                                                                                                               <ESC>[8;1H~                       
+INPUT|lclarkey-intro-227|U |1537841136|lclarkey|intro:vi diskfree.txt|
+INPUT|lclarkey-intro-228|U |000000000|lclarkey|intro:vi diskfree.txt|
+INPUT|lclarkey-intro-229|U |000000000|lclarkey|intro:vi diskfree.txt|
+INPUT|lclarkey-intro-230|A6 |000000000|lclarkey|intro:df >diskfree.txt|bash: diskfree.txt: Permission denied
+INPUT|lclarkey-intro-231|U |000000000|lclarkey|intro:iskfree.txt|bash: diskfree.txt: Permission denied
+INPUT|lclarkey-intro-232|A6 |000000000|lclarkey|intro:df >diskfree.txt|
+INPUT|lclarkey-intro-233|U |000000000|lclarkey|intro:ls|diskfree.txt  IwillChooseFileName.tar.gz  top_secret
+INPUT|lclarkey-intro-234|U |000000000|lclarkey|intro:cd top_secret|
+INPUT|lclarkey-intro-235|U |000000000|lclarkey|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  names.txt    xbzf136INTRO-1.jpg
+136intro-3.jpg      diskfree.txt       wuer136intro-4.JPG
+INPUT|lclarkey-intro-236|U |000000000|lclarkey|intro:vi diskfree.txtt|%<ESC>[?1049h<ESC>[?1h<ESC>=<ESC>[2;1H<BD><ESC>[6n<ESC>[2;1H  <ESC>[1;1H<ESC>]11;?<BEL><ESC>[1;37r<ESC>[?12;25h<ESC>[?12l<ESC>[?25h<ESC>[27m<ESC>[23m<ESC>[m<ESC>[H<ESC>[2J<ESC>[?25l<ESC>[37;1H"diskfree.txt" 10L%% 983C<ESC>[>c<ESC>[1;1HFilesystem<ESC>[41C1K-blocks<ESC>[7CUsed  Available Use%% Mounted on
+udev<ESC>[49C1003696<ESC>[9C48    1003648   1%% /dev
+tmpfs<ESC>[49C204776      13632     191144   7%% /run
+/dev/sda1<ESC>[43C15616412    2895772   11920692  20%% /
+tmpfs<ESC>[48C1023868<ESC>[10C0    1023868   0%% /dev/shm
+tmpfs<ESC>[51C5120<ESC>[10C0<ESC>[7C5120   0%% /run/lock
+tmpfs<ESC>[48C1023868<ESC>[10C0    1023868   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973280640 1763487616  36%% /proj/CS495LC
+users.isi.deterlab.net:/mnt/other/users/lclarkey  2031313280 1274642560  594165632  69%% /users/lclarkey
+tmpfs<ESC>[49C204776<ESC>[10C0     204776   0%% /run/user/18203
+<ESC>[94m~                                         
+INPUT|lclarkey-intro-237|U |1537840068|lclarkey|intro:vi names.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;37r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[37;1H"names.txt" 23L%% 539C[>c[1;1Hthis file is actually supposed to be called answers.txt
+
+Charie Brothersen
+charliebrothersen@lclark.edu
+lclarkey
+
+Intro 1 is Forbidden Planet
+Intro 2 is Godzilla
+Intro 3 is It Came from Outer Space
+Intro 4 is the Fly
+Intro 5 is 2001 a Space Odyssey
+
+
+/var contains subdirectories that contains the files the system writes while it is operating
+
+/dev contains all the files for special devices
+
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/.hidden/asdf136Intro-5kqlw.jpeg
+/dev/136intro-2jjaj.JPEG
+/usr/share/pixmaps/xbzf136INTRO-1.jpg
+
+[94m~                                                                                                               [25;1H~                                                                                                               [26;1H~                                 
+INPUT|lclarkey-intro-238|U |1537841429|lclarkey|intro:tar cvzf lclarkey-intro.tar.gz top_secret|tar: top_secret: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+INPUT|lclarkey-intro-239|U |000000000|lclarkey|intro:cd ..|
+INPUT|lclarkey-intro-240|U |000000000|lclarkey|intro:ls|diskfree.txt  IwillChooseFileName.tar.gz  top_secret
+INPUT|lclarkey-intro-241|U |1537841443|lclarkey|intro:tar cvzf lclarkey-intro.tar.gz top_secret|top_secret/
+top_secret/136intro-3.jpg
+top_secret/wuer136intro-4.JPG
+top_secret/asdf136Intro-5kqlw.jpeg
+top_secret/136intro-2jjaj.JPEG
+top_secret/xbzf136INTRO-1.jpg
+top_secret/names.txt
+top_secret/diskfree.txt
+top_secret/lclarkey-intro.tar.gz
+INPUT|lclarkey-intro-242|U |000000000|lclarkey|intro:tar cvzf lclarkey-intro.tar.gz top_secret|

@@ -1,0 +1,629 @@
+User lclarkdw start time 1537557799 end 1537816575
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkdw-intro-0|U |000000000|lclarkdw|:|
+INPUT|lclarkdw-intro-1|A4 A3 A1 A2 A0 |1537814749|lclarkdw|intro:find | xargs file$1|%.:                             directory
+./.login_conf:                 ASCII text
+./.cshrc:                      ASCII text
+./.login:                      ASCII text
+./.mail_aliases:               ASCII text
+./.mailrc:                     ASCII text
+./.profile:                    ASCII text
+./.rhosts:                     ASCII text
+./.shrc:                       ASCII text
+./.ssl:                        directory
+./.ssl/emulab.pem:             ASCII text
+./.ssh:                        directory
+./.ssh/id_rsa:                 PEM RSA private key
+./.ssh/id_rsa.pub:             OpenSSH RSA public key
+./.ssh/known_hosts:            ASCII text
+./.ssh/id_emulab.pub:          OpenSSH RSA public key
+./.ssh/authorized_keys:        ASCII text%% with very long lines
+./.ssh/external_keys:          ASCII text
+./.forward:                    ASCII text
+./.cache:                      directory
+./.cache/motd.legal-displayed: empty
+./.bash
+INPUT|lclarkdw-intro-2|U |000000000|lclarkdw|:|
+INPUT|lclarkdw-intro-3|U |1537814888|lclarkdw|intro:file|Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+INPUT|lclarkdw-intro-4|U |1537814901|lclarkdw|intro:file $1|Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+INPUT|lclarkdw-intro-5|U |1537814908|lclarkdw|intro:xargs file|^Z
+[1]+  Stopped                 xargs file
+INPUT|lclarkdw-intro-6|U |1537814927|lclarkdw|intro:xargs file intro|^C
+INPUT|lclarkdw-intro-7|U |1537814939|lclarkdw|intro:man file|%[?1049h[?1h=
+FILE(1)                   BSD General Commands Manual                  FILE(1)[m
+[m
+[1mNAME[0m[m
+     [1mfile[0m -- determine file type[m
+[m
+[1mSYNOPSIS[0m[m
+     [1mfile[0m [[1m-bcEhiklLNnprsvzZ0[0m] [[1m--apple[0m] [[1m--extension[0m] [[1m--mime-encoding[0m][m
+          [[1m--mime-type[0m] [[1m-e[0m [4mtestname[24m] [[1m-F[0m [4mseparator[24m] [[1m-f[0m [4mnamefile[24m][m
+          [[1m-m[0m [4mmagicfiles[24m] [[1m-P[0m [4mname=value[24m] [4mfile[24m [4m...[24m[m
+     [1mfile[0m [1m-C[0m [[1m-m[0m [4mmagicfiles[24m][m
+     [1mfile[0m [[1m--help[0m][m
+[m
+[1mDESCRIPTION[0m[m
+     This manual page documents version 5.25 of the [1mfile[0m command.[m
+[m
+     [1mfile[0m tests each argument in an attempt to classify it.  There are three[m
+     sets of tests%% performed in this order: filesystem tests%% magic tests%%[m
+     and language tests.  The [4mfirst[24m test that succeeds causes the file type to[m
+     be printed.
+INPUT|lclarkdw-intro-8|A0 A2 A1 A3 A4 |000000000|lclarkdw|intro:find -iname *intro* -iname *.jpg* -iname *.jpeg*|find: paths must precede expression: 136intro-3.jpg
+Usage: find [-H] [-L] [-P] [-Olevel] [-D help|tree|search|stat|rates|opt|exec|time] [path...] [expression]
+INPUT|lclarkdw-intro-9|U |000000000|lclarkdw|intro:cd /|
+INPUT|lclarkdw-intro-10|A2 A0 A4 A3 A1 |000000000|lclarkdw|intro:find -iname *intro* -iname *.jpg* -iname *.jpeg*|^C
+INPUT|lclarkdw-intro-11|M3 M2 |000000000|lclarkdw|intro:find -iname *intro* -iname *.jpg*|./var/log/136intro-3.jpg
+./users/lclarkdw/xbzf136INTRO-1.jpg
+./users/lclarkdw/136intro-3.jpg
+./users/lclarkdw/wuer136intro-4.JPG
+./etc/wuer136intro-4.JPG
+^C
+INPUT|lclarkdw-intro-12|U |000000000|lclarkdw|intro:cd users/|
+INPUT|lclarkdw-intro-13|U |1537815754|lclarkdw|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkdw  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkdw-intro-14|U |1537815762|lclarkdw|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkdw  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkdw-intro-15|U |000000000|lclarkdw|intro:cd lclarkdw/|
+INPUT|lclarkdw-intro-16|U |1537815762|lclarkdw|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xargs
+136intro-3.jpg      wuer136intro-4.JPG       xbzf136INTRO-1.jpg
+INPUT|lclarkdw-intro-17|U |000000000|lclarkdw|intro:cd ../|
+INPUT|lclarkdw-intro-18|U |1537815818|lclarkdw|intro:lcf|%*** ERROR: Need exactly two arguments%% got 0
+
+Debian GNU/Linux lcf Revision: 3.00.
+           Copyright (C) 2002 Manoj Srivastava.
+This is free software; see the GNU General Public Licence for copying
+conditions.  There is NO warranty.
+
+Usage: lcf  [options] dest_file  src_dir
+Options:
+     -h%%     --help          print this message
+     -s foo%% --src-dir  foo  Set the src dir (historical md5sums live here)
+     -d [n]%% --debug    [n]  Set the Debug level to N
+     -n%%     --no-action     Dry run. No action is actually taken.
+     -v%%     --verbose       Make the script verbose
+
+By default%% the directory the new_file lives in is assumed to be the src-dir%%
+which is where we look for any historical md5sums.
+%
+INPUT|lclarkdw-intro-19|U |000000000|lclarkdw|intro:cd lclarkdw/|
+INPUT|lclarkdw-intro-20|U |1537815776|lclarkdw|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xargs
+136intro-3.jpg      wuer136intro-4.JPG       xbzf136INTRO-1.jpg
+INPUT|lclarkdw-intro-21|U |1537815818|lclarkdw|intro:cat > test.txt|^C
+INPUT|lclarkdw-intro-22|U |1537815825|lclarkdw|intro:ls|136intro-2jjaj.JPEG  test.txt      xbzf136INTRO-1.jpg
+136intro-3.jpg   wuer136intro-4.JPG
+asdf136Intro-5kqlw.jpeg  xargs
+INPUT|lclarkdw-intro-23|U |000000000|lclarkdw|intro:cd|
+INPUT|lclarkdw-intro-24|U |1537815838|lclarkdw|intro:ls|136intro-2jjaj.JPEG  test.txt      xbzf136INTRO-1.jpg
+136intro-3.jpg   wuer136intro-4.JPG
+asdf136Intro-5kqlw.jpeg  xargs
+INPUT|lclarkdw-intro-25|U |1537815846|lclarkdw|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xargs
+136intro-3.jpg      wuer136intro-4.JPG       xbzf136INTRO-1.jpg
+INPUT|lclarkdw-intro-26|U |1537815976|lclarkdw|intro:cd../|bash: cd../: No such file or directory
+INPUT|lclarkdw-intro-27|U |000000000|lclarkdw|intro:cd|
+INPUT|lclarkdw-intro-28|U |000000000|lclarkdw|intro:l|sl: command not found
+INPUT|lclarkdw-intro-29|U |000000000|lclarkdw|intro:s|s: command not found
+INPUT|lclarkdw-intro-30|U |1537815966|lclarkdw|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xargs
+136intro-3.jpg      wuer136intro-4.JPG       xbzf136INTRO-1.jpg
+INPUT|lclarkdw-intro-31|U |000000000|lclarkdw|intro:cd /|
+INPUT|lclarkdw-intro-32|U |1537815981|lclarkdw|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkdw-intro-33|U |000000000|lclarkdw|intro:cd users/|
+INPUT|lclarkdw-intro-34|U |1537815985|lclarkdw|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkdw  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkdw-intro-35|U |000000000|lclarkdw|intro:cd lclarkdw/|
+INPUT|lclarkdw-intro-36|U |000000000|lclarkdw|intro:sl|The program 'sl' is currently not installed. To run 'sl' please ask your administrator to install the package 'sl'
+INPUT|lclarkdw-intro-37|U |1537815990|lclarkdw|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xargs
+136intro-3.jpg      wuer136intro-4.JPG       xbzf136INTRO-1.jpg
+INPUT|lclarkdw-intro-38|U |000000000|lclarkdw|intro:pwd|/users/lclarkdw
+INPUT|lclarkdw-intro-39|U |000000000|lclarkdw|intro:cd|
+INPUT|lclarkdw-intro-40|A2 A0 A4 A3 A1 |1537814870|lclarkdw|intro:find -iname *intro-5*|./asdf136Intro-5kqlw.jpeg
+INPUT|lclarkdw-intro-41|U |000000000|lclarkdw|intro:cd .|
+INPUT|lclarkdw-intro-42|U |000000000|lclarkdw|intro:cd /|
+INPUT|lclarkdw-intro-43|A1 A3 A4 A0 A2 |000000000|lclarkdw|intro:find -iname *intro-5*|!TRUNCATED TO 500L! find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo': Permission denied
+find
+INPUT|lclarkdw-intro-44|A1 A4 A3 A0 A2 |000000000|lclarkdw|intro:find -iname \"intro-5\"|^C
+INPUT|lclarkdw-intro-45|A4 A3 A1 A2 A0 |000000000|lclarkdw|intro:find -iname \"intro-5\"|
+INPUT|lclarkdw-intro-46|A1 A3 A4 A0 A2 |000000000|lclarkdw|intro:find -iname *intro-5*|
+INPUT|lclarkdw-intro-47|A2 A0 A4 A3 A1 |000000000|lclarkdw|intro:find -iname *intro-5*|
+INPUT|lclarkdw-intro-48|A2 A0 A4 A3 A1 |000000000|lclarkdw|intro:find -iname *intro* -iname *.jpg* -iname *.jpeg*|
+INPUT|lclarkdw-intro-49|A2 A0 A4 A3 A1 |000000000|lclarkdw|intro:find -iname *intro* -iname *.jpg* -iname *.jpeg*|
+INPUT|lclarkdw-intro-50|M3 M2 |000000000|lclarkdw|intro:find -iname *intro* -iname *.jpg* || ame *.jpeg*|./var/log/136intro-3.jpg
+./users/lclarkdw/xbzf136INTRO-1.jpg
+./users/lclarkdw/136intro-3.jpg
+./users/lclarkdw/wuer136intro-4.JPG
+./etc/wuer136intro-4.JPG
+^C
+INPUT|lclarkdw-intro-51|M3 M2 |000000000|lclarkdw|intro:find -iname *intro* && -iname *.jpg* -iname *.jpeg*|./var/log/ttylog/ttylog.intro.2
+./var/log/ttylog/alltty.intro
+./var/log/ttylog/cli.intro.csv
+./var/log/136intro-3.jpg
+./users/lclarkdw/xbzf136INTRO-1.jpg
+./users/lclarkdw/136intro-3.jpg
+./users/lclarkdw/wuer136intro-4.JPG
+./users/lclarkdw/asdf136Intro-5kqlw.jpeg
+./users/lclarkdw/136intro-2jjaj.JPEG
+./etc/wuer136intro-4.JPG
+./etc/apparmor.d/abstractions/apparmor_api/introspect
+./proj/intro.createimage.Share
+./proj/CS495LC/exp/Adrian-Intro
+./proj/CS495LC/exp/Adrian-Intro/tbdata/Adrian-Intro.png
+./proj/CS495LC/exp/Adrian-Intro/tbdata/Adrian-Intro.ns
+./proj/CS495LC/exp/Intro-csfirewall
+./proj/CS495LC/exp/Intro-csfirewall/tbdata/Intro-csfirewall.png
+./proj/CS495LC/exp/Intro-csfirewall/tbdata/Intro-csfirewall.ns
+./proj/CS495LC/exp/IntroExperiment
+./proj/CS495LC/exp/IntroExperiment/tbdata/IntroExperiment.ns
+./proj/CS495LC/exp/IntroExperiment/tbdata/IntroExperiment.png
+./proj/CS495LC/exp/derek-linuxintro
+./proj/CS495LC/exp/derek
+INPUT|lclarkdw-intro-52|U |1537816530|lclarkdw|intro:clear|
+INPUT|lclarkdw-intro-53|U |000000000|lclarkdw|intro:cd|
+INPUT|lclarkdw-intro-54|U |000000000|lclarkdw|intro:cd /|
+INPUT|lclarkdw-intro-55|U |000000000|lclarkdw|intro:cd users/|
+INPUT|lclarkdw-intro-56|U |000000000|lclarkdw|intro:cd|
+INPUT|lclarkdw-intro-57|U |000000000|lclarkdw|intro:cd users/|bash: cd: users/: No such file or directory
+INPUT|lclarkdw-intro-58|U |000000000|lclarkdw|intro:cd /users/lclarkdw/|
+INPUT|lclarkdw-intro-59|U |1537815997|lclarkdw|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xargs
+136intro-3.jpg      wuer136intro-4.JPG       xbzf136INTRO-1.jpg
+INPUT|lclarkdw-intro-60|U |000000000|lclarkdw|intro:cd|
+INPUT|lclarkdw-intro-61|U |1537816575|lclarkdw|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xargs
+136intro-3.jpg      wuer136intro-4.JPG       xbzf136INTRO-1.jpg
+INPUT|lclarkdw-intro-62|U |1537557799|lclarkdw|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkdw-intro-63|U |000000000|lclarkdw|intro:cd ../|
+INPUT|lclarkdw-intro-64|U |000000000|lclarkdw|intro:cd|
+INPUT|lclarkdw-intro-65|U |1537557807|lclarkdw|intro:ls|
+INPUT|lclarkdw-intro-66|U |000000000|lclarkdw|intro:cd /|
+INPUT|lclarkdw-intro-67|U |1537557812|lclarkdw|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkdw-intro-68|A1 A4 A3 A0 A2 |1537557895|lclarkdw|intro:find intro|find: 'intro': No such file or directory
+INPUT|lclarkdw-intro-69|A4 A3 A1 A2 A0 |1537557901|lclarkdw|intro:find intro*|find: 'intro*': No such file or directory
+INPUT|lclarkdw-intro-70|A4 A3 A1 A2 A0 |000000000|lclarkdw|intro:find . -intro|find: unknown predicate `-intro'
+INPUT|lclarkdw-intro-71|A2 A0 A4 A3 A1 |000000000|lclarkdw|intro:find . -name \"intro\"|!TRUNCATED TO 500L! find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo': Permission denied
+find
+INPUT|lclarkdw-intro-72|U |000000000|lclarkdw|intro:fisudo -name \"intro\"|./proj/CS495LC/exp/intro
+./proj/CS495LC/intro
+^C
+INPUT|lclarkdw-intro-73|A1 A4 A3 A0 A2 |000000000|lclarkdw|intro:find . -name "intro"|
+INPUT|lclarkdw-intro-74|A2 A0 A4 A3 A1 |000000000|lclarkdw|intro:find . -name "intro"|
+INPUT|lclarkdw-intro-75|A4 A3 A1 A2 A0 |000000000|lclarkdw|intro:find . -name \"intro\"|
+INPUT|lclarkdw-intro-76|A4 A3 A1 A2 A0 |000000000|lclarkdw|intro:find . -name \"intro\"|
+INPUT|lclarkdw-intro-77|U |000000000|lclarkdw|intro:cd /|
+INPUT|lclarkdw-intro-78|A2 A0 A4 A3 A1 |1537745627|lclarkdw|intro:man find|%[?1049h[?1h=
+FIND(1)                       General Commands Manual                       FIND(1)[m
+[m
+[1mNAME[0m[m
+       find - search for files in a directory hierarchy[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mfind[0m  [-H]  [-L]  [-P] [-D debugopts] [-Olevel] [starting-point...] [expres-[m
+       sion][m
+[m
+[1mDESCRIPTION[0m[m
+       This manual page documents the GNU version of [1mfind[0m.  GNU [1mfind[0m  searches  the[m
+       directory  tree  rooted at each given starting-point by evaluating the given[m
+       expression from left to right%% according to the  rules  of  precedence  (see[m
+       section  OPERATORS)%% until the outcome is known (the left hand side is false[m
+       for [4mand[24m operations%% true for [4mor[24m)%% at which point [1mfind[0m moves on to  the  next[m
+       file name.  If no starting-point is specified%% `.' is assumed.[m
+[m
+       If  you  are  using  [1mfind[0m in an environment where security is impor
+INPUT|lclarkdw-intro-79|U |1537745676|lclarkdw|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkdw-intro-80|A0 A2 A1 A3 A4 |000000000|lclarkdw|intro:find . -type jpg -iname *intro|find: Arguments to -type should contain only one letter
+INPUT|lclarkdw-intro-81|A1 A4 A3 A0 A2 |000000000|lclarkdw|intro:find . -type jpg -iname *intro|
+INPUT|lclarkdw-intro-82|A2 A0 A4 A3 A1 |1537764408|lclarkdw|intro:lsfind . -type jpg -iname *intro|
+INPUT|lclarkdw-intro-83|A0 A2 A1 A3 A4 |1537765052|lclarkdw|intro:lsman find|%[?1049h[?1h=
+FIND(1)                       General Commands Manual                       FIND(1)[m
+[m
+[1mNAME[0m[m
+       find - search for files in a directory hierarchy[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mfind[0m  [-H]  [-L]  [-P] [-D debugopts] [-Olevel] [starting-point...] [expres-[m
+       sion][m
+[m
+[1mDESCRIPTION[0m[m
+       This manual page documents the GNU version of [1mfind[0m.  GNU [1mfind[0m  searches  the[m
+       directory  tree  rooted at each given starting-point by evaluating the given[m
+       expression from left to right%% according to the  rules  of  precedence  (see[m
+       section  OPERATORS)%% until the outcome is known (the left hand side is false[m
+       for [4mand[24m operations%% true for [4mor[24m)%% at which point [1mfind[0m moves on to  the  next[m
+       file name.  If no starting-point is specified%% `.' is assumed.[m
+[m
+       If  you  are  using  [1mfind[0m in an environment where security is impor
+INPUT|lclarkdw-intro-84|U |000000000|lclarkdw|intro:-iname '.jpg'|usage: sudo -h | -K | -k | -V
+usage: sudo -v [-AknS] [-g group] [-h host] [-p prompt] [-u user]
+usage: sudo -l [-AknS] [-g group] [-h host] [-p prompt] [-U user] [-u user] [command]
+usage: sudo [-AbEHknPS] [-r role] [-t type] [-C num] [-g group] [-h host] [-p prompt]
+            [-u user] [VAR=value] [-i|-s] [<command>]
+usage: sudo -e [-AknS] [-r role] [-t type] [-C num] [-g group] [-h host] [-p prompt]
+            [-u user] file ...
+INPUT|lclarkdw-intro-85|U |000000000|lclarkdw|intro:-iname '.jpg'|usage: sudo -h | -K | -k | -V
+usage: sudo -v [-AknS] [-g group] [-h host] [-p prompt] [-u user]
+usage: sudo -l [-AknS] [-g group] [-h host] [-p prompt] [-U user] [-u user] [command]
+usage: sudo [-AbEHknPS] [-r role] [-t type] [-C num] [-g group] [-h host] [-p prompt]
+            [-u user] [VAR=value] [-i|-s] [<command>]
+usage: sudo -e [-AknS] [-r role] [-t type] [-C num] [-g group] [-h host] [-p prompt]
+            [-u user] file ...
+INPUT|lclarkdw-intro-86|A2 A0 A4 A3 A1 |000000000|lclarkdw|intro:find e '.jpg'|^C
+INPUT|lclarkdw-intro-87|A0 A2 A1 A4 A3 |000000000|lclarkdw|intro:find -name '*.jpg' -iname '*intro'|^C
+INPUT|lclarkdw-intro-88|A1 A3 A4 A0 A2 |000000000|lclarkdw|intro:find -name '*.jpg' -iname '*intro'|^C
+INPUT|lclarkdw-intro-89|A1 A3 A4 A0 A2 |000000000|lclarkdw|intro:find -name '.jpg' -iname '*intro'|!TRUNCATED TO 500L! find: './var/cache/apt/archives/partial': Permission denied
+find: './var/cache/ldconfig': Permission denied
+find: './var/spool/cron/atjobs': Permission denied
+find: './var/spool/cron/atspool': Permission denied
+find: './var/spool/cron/crontabs': Permission denied
+find: './var/spool/rsyslog': Permission denied
+find: './var/log/unattended-upgrades': Permission denied
+find: './var/lib/apt/lists/partial': Permission denied
+find: './var/lib/polkit-1': Permission denied
+find: './proc/tty/driver': Permission denied
+find: './proc/1/task/1/fd': Permission denied
+find: './proc/1/task/1/fdinfo': Permission denied
+find: './proc/1/task/1/ns': Permission denied
+find: './proc/1/fd': Permission denied
+find: './proc/1/map_files': Permission denied
+find: './proc/1/fdinfo': Permission denied
+find: './proc/1/ns': Permission denied
+find: './proc/2/task/2/fd': Permission denied
+find: './proc/2/task/2/fdinfo': Permission denied
+find
+INPUT|lclarkdw-intro-90|A1 A4 A3 A0 A2 |000000000|lclarkdw|intro:find -name '.jpg' -iname '*intro'|
+INPUT|lclarkdw-intro-91|A1 A3 A4 A0 A2 |000000000|lclarkdw|intro:find -name '.jpg' -iname '*intro'|
+INPUT|lclarkdw-intro-92|A2 A0 A4 A3 A1 |000000000|lclarkdw|intro:find -name '.jpg'|
+INPUT|lclarkdw-intro-93|A4 A3 A1 A2 A0 |000000000|lclarkdw|intro:find -name '*intro'|./var/log/ttylog/alltty.intro
+./proj/CS495LC/exp/derek-linuxintro
+./proj/CS495LC/exp/lclarkai-intro
+./proj/CS495LC/exp/lclarkan-intro
+./proj/CS495LC/exp/qrohlf-intro
+./proj/CS495LC/exp/tadhg-intro
+./proj/CS495LC/exp/testintro
+./proj/CS495LC/exp/kianlutu-intro
+./proj/CS495LC/exp/lclarkbo-intro
+./proj/CS495LC/exp/bv-intro
+./proj/CS495LC/exp/test-intro
+./proj/CS495LC/exp/lclarkak-intro
+./proj/CS495LC/exp/introlc/logs/snoopy.intro
+./proj/CS495LC/exp/ErikDoheTreasure/logs/snoopy.intro
+./proj/CS495LC/exp/CaihusTreasure/logs/snoopy.intro
+./proj/CS495LC/exp/AJBerle-Unix/logs/snoopy.intro
+./proj/CS495LC/exp/jelenalc/logs/snoopy.intro
+./proj/CS495LC/exp/ptrouerbach-unix/logs/snoopy.intro
+./proj/CS495LC/exp/lclarkfi-intro21/count.intro
+./proj/CS495LC/exp/VictoriaTreasure/logs/snoopy.intro
+./proj/CS495LC/exp/jschaefer-treasure/logs/snoopy.intro
+./proj/CS495LC/exp/lclarkco-exp/logs/snoopy.intro
+./proj/CS495LC/exp/lclarkcp-treasure/lo
+INPUT|lclarkdw-intro-94|M4 M3 M2 M1 M0 |000000000|lclarkdw|intro:find -iname *intro*|./var/log/ttylog/alltty.intro
+./var/log/ttylog/ttylog.intro.1
+./var/log/ttylog/cli.intro.csv
+./var/log/136intro-3.jpg
+./etc/wuer136intro-4.JPG
+./etc/apparmor.d/abstractions/apparmor_api/introspect
+./proj/intro.createimage.Share
+./proj/CS495LC/exp/Adrian-Intro
+./proj/CS495LC/exp/Adrian-Intro/tbdata/Adrian-Intro.png
+./proj/CS495LC/exp/Adrian-Intro/tbdata/Adrian-Intro.ns
+./proj/CS495LC/exp/Intro-csfirewall
+./proj/CS495LC/exp/Intro-csfirewall/tbdata/Intro-csfirewall.png
+./proj/CS495LC/exp/Intro-csfirewall/tbdata/Intro-csfirewall.ns
+./proj/CS495LC/exp/IntroExperiment
+./proj/CS495LC/exp/IntroExperiment/tbdata/IntroExperiment.ns
+./proj/CS495LC/exp/IntroExperiment/tbdata/IntroExperiment.png
+./proj/CS495LC/exp/derek-linuxintro
+./proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.ns
+./proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.png
+./proj/CS495LC/exp/george-introUnix
+./proj/CS495LC/exp/george-introUnix/tbdata/george
+INPUT|lclarkdw-intro-95|U |1537746397|lclarkdw|intro:clear|
+INPUT|lclarkdw-intro-96|M4 M3 M2 M1 M0 |000000000|lclarkdw|intro:find -iname *intro*|./var/log/ttylog/alltty.intro
+./var/log/ttylog/ttylog.intro.1
+./var/log/ttylog/cli.intro.csv
+./var/log/136intro-3.jpg
+./etc/wuer136intro-4.JPG
+./etc/apparmor.d/abstractions/apparmor_api/introspect
+./proj/intro.createimage.Share
+./proj/CS495LC/exp/Adrian-Intro
+./proj/CS495LC/exp/Adrian-Intro/tbdata/Adrian-Intro.png
+./proj/CS495LC/exp/Adrian-Intro/tbdata/Adrian-Intro.ns
+./proj/CS495LC/exp/Intro-csfirewall
+./proj/CS495LC/exp/Intro-csfirewall/tbdata/Intro-csfirewall.png
+./proj/CS495LC/exp/Intro-csfirewall/tbdata/Intro-csfirewall.ns
+./proj/CS495LC/exp/IntroExperiment
+./proj/CS495LC/exp/IntroExperiment/tbdata/IntroExperiment.ns
+./proj/CS495LC/exp/IntroExperiment/tbdata/IntroExperiment.png
+./proj/CS495LC/exp/derek-linuxintro
+./proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.ns
+./proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.png
+./proj/CS495LC/exp/george-introUnix
+./proj/CS495LC/exp/george-introUnix/tbdata/george
+INPUT|lclarkdw-intro-97|M3 M2 M0 |000000000|lclarkdw|intro:find -iname *intro* -inme *.jpg*|./var/log/136intro-3.jpg
+./etc/wuer136intro-4.JPG
+./usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|lclarkdw-intro-98|U |1537746751|lclarkdw|intro:sftp|
+INPUT|lclarkdw-intro-99|U |1537746707|lclarkdw|intro:sftp get ./var/log/136intro-3.jpg|ssh: Could not resolve hostname get: Name or service not known
+
+Couldn't read packet: Connection reset by peer
+
+INPUT|lclarkdw-intro-100|U |000000000|lclarkdw|intro:sftp get ./var/log/136intro-3.jpg|ssh: Could not resolve hostname get: Name or service not known
+
+Couldn't read packet: Connection reset by peer
+
+INPUT|lclarkdw-intro-101|U |000000000|lclarkdw|intro:sftp|usage: sftp [-1246aCfpqrv] [-B buffer_size] [-b batchfile] [-c cipher]
+          [-D sftp_server_path] [-F ssh_config] [-i identity_file] [-l limit]
+          [-o ssh_option] [-P port] [-R num_requests] [-S program]
+          [-s subsystem | sftp_server] host
+       sftp [user@]host[:file ...]
+       sftp [user@]host[:dir[/]]
+       sftp -b batchfile [user@]host
+INPUT|lclarkdw-intro-102|U |000000000|lclarkdw|intro:cd|
+INPUT|lclarkdw-intro-103|U |000000000|lclarkdw|intro:cd /|
+INPUT|lclarkdw-intro-104|U |1537761695|lclarkdw|intro:sftp cstudent@cstudent-VirtualBox|ssh: Could not resolve hostname cstudent-virtualbox: Name or service not known
+
+Couldn't read packet: Connection reset by peer
+
+INPUT|lclarkdw-intro-105|U |1537761758|lclarkdw|intro:sftp csstudent|ssh: Could not resolve hostname csstudent: Name or service not known
+
+Couldn't read packet: Connection reset by peer
+
+INPUT|lclarkdw-intro-106|U |000000000|lclarkdw|intro:sftp csstudent|ssh: Could not resolve hostname cstudent: Name or service not known
+
+Couldn't read packet: Connection reset by peer
+
+INPUT|lclarkdw-intro-107|U |000000000|lclarkdw|intro:sftp cstudent@cstudent-VirtualBox|
+INPUT|lclarkdw-intro-108|U |000000000|lclarkdw|intro:sftp cstudent@cstudent-VirtualBox|
+INPUT|lclarkdw-intro-109|U |000000000|lclarkdw|intro:sftp cstudent@cstudent-VirtualBox|
+INPUT|lclarkdw-intro-110|U |000000000|lclarkdw|intro:sftp get /var/log/136intro-3.jpg|
+INPUT|lclarkdw-intro-111|U |000000000|lclarkdw|intro:sftp cstudent@cstudent-VirtualBox|
+INPUT|lclarkdw-intro-112|U |000000000|lclarkdw|intro:sftp get ./var/log/136intro-3.jpg|
+INPUT|lclarkdw-intro-113|A0 A2 A1 A3 A4 |000000000|lclarkdw|intro:find -iname *intro* -iname *.jpg*|
+INPUT|lclarkdw-intro-114|A1 A3 A4 A0 A2 |000000000|lclarkdw|intro:find -iname *intro*|
+INPUT|lclarkdw-intro-115|A4 A3 A1 A2 A0 |000000000|lclarkdw|intro:find -iname *intro*|
+INPUT|lclarkdw-intro-116|A0 A2 A1 A3 A4 |000000000|lclarkdw|intro:find -name '.jpg' -iname '*intro'|
+INPUT|lclarkdw-intro-117|A1 A3 A4 A0 A2 |000000000|lclarkdw|intro:find -name '.jpg' -iname '*intro'|
+INPUT|lclarkdw-intro-118|A2 A0 A4 A3 A1 |000000000|lclarkdw|intro:find -name '.jpg' -iname '*intro'|^C
+INPUT|lclarkdw-intro-119|A0 A2 A1 A4 A3 |000000000|lclarkdw|intro:find -name '.jpg' -iname '*intro'|
+INPUT|lclarkdw-intro-120|A2 A0 A4 A3 A1 |000000000|lclarkdw|intro:find -name '.jpg' -iname '*intro'|
+INPUT|lclarkdw-intro-121|A1 A4 A3 A0 A2 |000000000|lclarkdw|intro:find -name '.jpg' -iname '*intro'|
+INPUT|lclarkdw-intro-122|U |000000000|lclarkdw|intro:sftp cstudent@cstudent-VirtualBox|
+INPUT|lclarkdw-intro-123|U |000000000|lclarkdw|intro:sftp get ./var/log/136intro-3.jpg|
+INPUT|lclarkdw-intro-124|A0 A2 A1 A4 A3 |000000000|lclarkdw|intro:find -iname *intro* -iname *.jpg*|
+INPUT|lclarkdw-intro-125|M3 M2 M0 |000000000|lclarkdw|intro:find -iname *intro* -iname *.jpg*|./var/log/136intro-3.jpg
+./users/lclarkdw/xbzf136INTRO-1.jpg
+./etc/wuer136intro-4.JPG
+./usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|lclarkdw-intro-126|U |000000000|lclarkdw|intro:cd var/log/|
+INPUT|lclarkdw-intro-127|U |000000000|lclarkdw|intro:ls|136intro-3.jpg   auth.log  dist-upgrade  emulab.log      fsck   lastlog   quagga   ttylog
+alternatives.log  bootstrap.log  dmesg        faillog        installer  lxd     syslog   unattended-upgrades
+apt    btmp   dpkg.log      fontconfig.log  kern.log   ntpstats  tiplogs  wtmp
+INPUT|lclarkdw-intro-128|U |1537764416|lclarkdw|intro:ls -la|total 22968
+drwxrwxr-x 12 root    syslog         4096 Sep 23 16:14 .
+drwxr-xr-x 14 root    root           4096 Jun  9  2017 ..
+-rw-r--r--  1 root    root         101182 Sep 23 16:14 136intro-3.jpg
+-rw-r--r--  1 root    root              0 Jul 20  2017 alternatives.log
+drwxr-xr-x  2 root    root           4096 Jun  9  2017 apt
+-rw-rw-rw-  1 syslog  adm          309149 Sep 23 21:46 auth.log
+-rw-r--r--  1 root    root              0 Jul 20  2017 bootstrap.log
+-rw-------  1 root    utmp              0 Jul 20  2017 btmp
+drwxr-xr-x  2 root    root           4096 Jan  5  2017 dist-upgrade
+-rw-r-----  1 root    adm               0 Jul 20  2017 dmesg
+-rw-r--r--  1 root    root          47690 Aug 22 16:19 dpkg.log
+-rw-r-----  1 syslog  adm         6000646 Sep 23 21:46 emulab.log
+-rw-r--r--  1 root    root         575104 Sep 23 16:14 faillog
+-rw-r--r--  1 root    root              0 Jul 20  2017 fontconfig.log
+drwxr-xr-x  2 root    root           4096 
+INPUT|lclarkdw-intro-129|U |1537764483|lclarkdw|intro:file 136intro-3.jpg|%136intro-3.jpg: JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "\011\006"%% baseline%% precision 8%% 602x858%% frames 3%
+INPUT|lclarkdw-intro-130|U |000000000|lclarkdw|intro:cd|
+INPUT|lclarkdw-intro-131|U |000000000|lclarkdw|intro:cd /|
+INPUT|lclarkdw-intro-132|U |000000000|lclarkdw|intro:cd usr/share/pixmaps/|
+INPUT|lclarkdw-intro-133|U |1537764742|lclarkdw|intro:file xbzf136INTRO-1.jpg|%xbzf136INTRO-1.jpg: JPEG image data%% JFIF standard 1.02%% aspect ratio%% density 100x100%% segment length 16%% progressive%% precision 8%% 398x308%% frames 3%
+INPUT|lclarkdw-intro-134|U |1537764813|lclarkdw|intro:ls -la|total 96
+drwxr-xr-x   2 root root  4096 Sep 23 16:14 .
+drwxr-xr-x 151 root root  4096 Jun  9  2017 ..
+-rw-r--r--   1 root root  1563 Nov 10  2015 debian-logo.png
+-rw-r--r--   1 root root 18526 Nov 24  2016 gvim.svg
+-rw-r--r--   1 root root  2253 Jul 28  2016 language-selector.png
+-rw-r--r--   1 root root   842 Sep 19  2012 pstree16.xpm
+-rw-r--r--   1 root root  1674 Sep 19  2012 pstree32.xpm
+-rw-r--r--   1 root root  7286 Nov 19  2016 python2.7.xpm
+-rw-r--r--   1 root root  7286 Nov 23  2013 python3.5.xpm
+lrwxrwxrwx   1 root root    13 Jun  9  2017 python3.xpm -> python3.5.xpm
+lrwxrwxrwx   1 root root    13 Dec  9  2015 python.xpm -> python2.7.xpm
+-rw-r--r--   1 root root   490 Nov 24  2016 vim-16.xpm
+-rw-r--r--   1 root root  1322 Nov 24  2016 vim-32.xpm
+-rw-r--r--   1 root root  2666 Nov 24  2016 vim-48.xpm
+-rw-r--r--   1 root root 23932 Sep 23 16:14 xbzf136INTRO-1.jpg
+INPUT|lclarkdw-intro-135|U |000000000|lclarkdw|intro:cd|
+INPUT|lclarkdw-intro-136|U |000000000|lclarkdw|intro:cd /|
+INPUT|lclarkdw-intro-137|U |000000000|lclarkdw|intro:ls|bin   dev  groups  initrd.img    lib   local       media  opt   proj  run   share  srv  tmp   usr  vmlinuz
+boot  etc  home    initrd.img.old  lib64  lost+found  mnt    proc  root  sbin  snap   sys  users  var  vmlinuz.old
+INPUT|lclarkdw-intro-138|U |1537765087|lclarkdw|intro:file etc/wuer136intro-4.JPG|%etc/wuer136intro-4.JPG: JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkdw-intro-139|U |000000000|lclarkdw|intro:-iname *.jpg*|./var/log/136intro-3.jpg
+./users/lclarkdw/xbzf136INTRO-1.jpg
+./users/lclarkdw/136intro-3.jpg
+./users/lclarkdw/wuer136intro-4.JPG
+./etc/wuer136intro-4.JPG
+./usr/share/doc/libsane/umax/sane-umax-text2.jpg
+./usr/share/doc/libsane/umax/sane-umax-standard.jpg
+./usr/share/doc/libsane/umax/sane-umax-text.jpg
+./usr/share/doc/libsane/umax/sane-umax.jpg
+./usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+./usr/share/doc/libsane/umax/sane-umax-text4.jpg
+./usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+./usr/share/doc/libsane/umax/sane-logo.jpg
+./usr/share/pixmaps/xbzf136INTRO-1.jpg
+INPUT|lclarkdw-intro-140|M4 M3 M2 M1 M0 |000000000|lclarkdw|intro:find -iname *intro*|./var/log/ttylog/alltty.intro
+./var/log/ttylog/ttylog.intro.1
+./var/log/ttylog/cli.intro.csv
+./var/log/136intro-3.jpg
+./users/lclarkdw/xbzf136INTRO-1.jpg
+./users/lclarkdw/136intro-3.jpg
+./users/lclarkdw/wuer136intro-4.JPG
+./etc/wuer136intro-4.JPG
+./etc/apparmor.d/abstractions/apparmor_api/introspect
+./proj/intro.createimage.Share
+./proj/CS495LC/exp/Adrian-Intro
+./proj/CS495LC/exp/Adrian-Intro/tbdata/Adrian-Intro.png
+./proj/CS495LC/exp/Adrian-Intro/tbdata/Adrian-Intro.ns
+./proj/CS495LC/exp/Intro-csfirewall
+./proj/CS495LC/exp/Intro-csfirewall/tbdata/Intro-csfirewall.png
+./proj/CS495LC/exp/Intro-csfirewall/tbdata/Intro-csfirewall.ns
+./proj/CS495LC/exp/IntroExperiment
+./proj/CS495LC/exp/IntroExperiment/tbdata/IntroExperiment.ns
+./proj/CS495LC/exp/IntroExperiment/tbdata/IntroExperiment.png
+./proj/CS495LC/exp/derek-linuxintro
+./proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.ns
+./proj/CS495LC/exp/derek-linuxintro/tbdata
+INPUT|lclarkdw-intro-141|U |1537765388|lclarkdw|intro:file .hidden/asdf136Intro-5kqlw.jpeg|%.hidden/asdf136Intro-5kqlw.jpeg: JPEG image data%% JFIF standard 1.02%% aspect ratio%% density 100x100%% segment length 16%% baseline%% precision 8%% 300x428%% frames 3%
+INPUT|lclarkdw-intro-142|U |1537765483|lclarkdw|intro:clear|
+INPUT|lclarkdw-intro-143|U |000000000|lclarkdw|intro:file .hidden/asdf136Intro-5kqlw.jpeg|
+INPUT|lclarkdw-intro-144|A2 A0 A4 A3 A1 |000000000|lclarkdw|intro:find -iname *.jpg**|
+INPUT|lclarkdw-intro-145|U |000000000|lclarkdw|intro:file etc/wuer136intro-4.JPG|
+INPUT|lclarkdw-intro-146|M4 M3 M2 M1 M0 |000000000|lclarkdw|intro:find -iname *intro*|./var/log/ttylog/alltty.intro
+./var/log/ttylog/ttylog.intro.1
+./var/log/ttylog/cli.intro.csv
+./var/log/136intro-3.jpg
+./users/lclarkdw/xbzf136INTRO-1.jpg
+./users/lclarkdw/136intro-3.jpg
+./users/lclarkdw/wuer136intro-4.JPG
+./users/lclarkdw/asdf136Intro-5kqlw.jpeg
+./etc/wuer136intro-4.JPG
+./etc/apparmor.d/abstractions/apparmor_api/introspect
+./proj/intro.createimage.Share
+./proj/CS495LC/exp/Adrian-Intro
+./proj/CS495LC/exp/Adrian-Intro/tbdata/Adrian-Intro.png
+./proj/CS495LC/exp/Adrian-Intro/tbdata/Adrian-Intro.ns
+./proj/CS495LC/exp/Intro-csfirewall
+./proj/CS495LC/exp/Intro-csfirewall/tbdata/Intro-csfirewall.png
+./proj/CS495LC/exp/Intro-csfirewall/tbdata/Intro-csfirewall.ns
+./proj/CS495LC/exp/IntroExperiment
+./proj/CS495LC/exp/IntroExperiment/tbdata/IntroExperiment.ns
+./proj/CS495LC/exp/IntroExperiment/tbdata/IntroExperiment.png
+./proj/CS495LC/exp/derek-linuxintro
+./proj/CS495LC/exp/derek-linuxintro/tbdata/derek-linuxintro.ns<N
+INPUT|lclarkdw-intro-147|M4 M1 |000000000|lclarkdw|intro:find -iname *.jpeg*|./users/lclarkdw/asdf136Intro-5kqlw.jpeg
+./.hidden/asdf136Intro-5kqlw.jpeg
+./dev/136intro-2jjaj.JPEG
+INPUT|lclarkdw-intro-148|U |1537765544|lclarkdw|intro:file /dev/136intro-2jjaj.JPEG|%/dev/136intro-2jjaj.JPEG: JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% Exif Standard: [TIFF image data%% big-endian%% direntries=7%% orientation=upper-left%% xresolution=98%% yresolution=106%% resolutionunit=2%% software=Adobe Photoshop CS Windows%% datetime=2004:09:23 12:26:39]%% baseline%% precision 8%% 295x450%% frames 3%
+INPUT|lclarkdw-intro-149|U |000000000|lclarkdw|intro:^C|
+INPUT|lclarkdw-intro-150|U |000000000|lclarkdw|intro:^C^C|
+INPUT|lclarkdw-intro-151|U |000000000|lclarkdw|intro:cd|
+INPUT|lclarkdw-intro-152|M6 |1537766767|lclarkdw|intro:df|%Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 1003424         48    1003376   1%% /dev
+tmpfs                                                 204720      18820     185900  10%% /run
+/dev/sda1                                           15616412    2896452   11920012  20%% /
+tmpfs                                                1023600          0    1023600   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023600          0    1023600   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/other/users/lclarkdw  2031313280 1305931520  562876672  70%% /users/lclarkdw
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973211776 1763556480  36%% /proj/CS495LC
+tmpfs                                                 204720          0     204720  
+INPUT|lclarkdw-intro-153|U |000000000|lclarkdw|intro:^C|
+INPUT|lclarkdw-intro-154|U |1537766994|lclarkdw|intro:lsusb|Bus 001 Device 002: ID 413c:a001 Dell Computer Corp. Hub
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 004 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
+Bus 003 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
+Bus 002 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
+INPUT|lclarkdw-intro-155|U |000000000|lclarkdw|intro:dmeg|%No command 'dmeg' found%% did you mean:
+ Command 'dmesg' from package 'util-linux' (main)
+ Command 'dreg' from package 'emboss' (universe)
+dmeg: command not found%
+INPUT|lclarkdw-intro-156|U |1537767081|lclarkdw|intro:dmeg|sudo: dmeg: command not found
+INPUT|lclarkdw-intro-157|U |1537767093|lclarkdw|intro:dmesg|%[32m[    0.000000] [0mInitializing cgroup subsys cpuset
+[32m[    0.000000] [0mInitializing cgroup subsys cpu
+[32m[    0.000000] [0mInitializing cgroup subsys cpuacct
+[32m[    0.000000] [0mLinux version 4.4.0-83-generic (buildd@lgw01-29) (gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.4) ) #106-Ubuntu SMP Mon Jun 26 17:54:43 UTC 2017 (Ubuntu 4.4.0-83.106-generic 4.4.70)
+[32m[    0.000000] [0m[33mCommand line[0m: BOOT_IMAGE=/boot/vmlinuz-4.4.0-83-generic root=UUID=0c0dc660-c4c9-4dc5-b6f3-2907a6a681b3 ro net.ifnames=0 biosdevname=0 console=tty0 console=ttyS0%%115200n8
+[32m[    0.000000] [0mKERNEL supported cpus:
+[32m[    0.000000] [0m  Intel GenuineIntel
+[32m[    0.000000] [0m  AMD AuthenticAMD
+[32m[    0.000000] [0m  Centaur CentaurHauls
+[32m[    0.000000] [0m[33mx86/fpu[0m: Legacy x87 FPU detected.
+[32m[    0.000000] [0m[33mx86/fpu[0m: Using 'lazy' FPU context switches.
+[32m[    0.000000] [0m[33me820[0m: BIOS-provided physical RAM map:
+[32m[
+INPUT|lclarkdw-intro-158|U |1537767093|lclarkdw|intro:dmesg|%[32m[    0.000000] [0mInitializing cgroup subsys cpuset
+[32m[    0.000000] [0mInitializing cgroup subsys cpu
+[32m[    0.000000] [0mInitializing cgroup subsys cpuacct
+[32m[    0.000000] [0mLinux version 4.4.0-83-generic (buildd@lgw01-29) (gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.4) ) #106-Ubuntu SMP Mon Jun 26 17:54:43 UTC 2017 (Ubuntu 4.4.0-83.106-generic 4.4.70)
+[32m[    0.000000] [0m[33mCommand line[0m: BOOT_IMAGE=/boot/vmlinuz-4.4.0-83-generic root=UUID=0c0dc660-c4c9-4dc5-b6f3-2907a6a681b3 ro net.ifnames=0 biosdevname=0 console=tty0 console=ttyS0%%115200n8
+[32m[    0.000000] [0mKERNEL supported cpus:
+[32m[    0.000000] [0m  Intel GenuineIntel
+[32m[    0.000000] [0m  AMD AuthenticAMD
+[32m[    0.000000] [0m  Centaur CentaurHauls
+[32m[    0.000000] [0m[33mx86/fpu[0m: Legacy x87 FPU detected.
+[32m[    0.000000] [0m[33mx86/fpu[0m: Using 'lazy' FPU context switches.
+[32m[    0.000000] [0m[33me820[0m: BIOS-provided physical RAM map:
+[32m[
+INPUT|lclarkdw-intro-159|U |1537767209|lclarkdw|intro:clear|
+INPUT|lclarkdw-intro-160|U |000000000|lclarkdw|intro:asda|

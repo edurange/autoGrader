@@ -1,0 +1,958 @@
+User lclarkfj start time 1537749065 end 1538028999
+#INPUT|uniqueID|class|time|uid|node:input|output (trunc)
+INPUT|lclarkfj-intro-0|U |000000000|lclarkfj|intro:cd lclarkfj|
+INPUT|lclarkfj-intro-1|U |000000000|lclarkfj|:|
+INPUT|lclarkfj-intro-2|U |000000000|lclarkfj|:|
+INPUT|lclarkfj-intro-3|U |1538028014|lclarkfj|intro:ls|136intro_3.jpg.tar.gz  diskfree.txt  wuer136intro-4.JPG.tar.gz
+136intro-3.jpg.tar.gz  top_secret
+INPUT|lclarkfj-intro-4|U |000000000|lclarkfj|intro:cd top_secret|
+INPUT|lclarkfj-intro-5|U |1538028072|lclarkfj|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      diskfree.txt
+answers.txt      wuer136intro-4.JPG
+INPUT|lclarkfj-intro-6|U |1538028083|lclarkfj|intro:vi diskfree.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"diskfree.txt" 12L%% 985C[>c[1;1HFilesystem[41C1K-blocks[7CUsed  Availabb[2;1Hle Use%% Mounted on
+udev[49C1003424[9C48    100333[4;1H76   1%% /dev
+tmpfs[49C204720      11108     19366[6;1H12   6%% /run
+/dev/sda1[43C15616412    2894276   1192211[8;1H88  20%% /
+tmpfs[48C1023600[10C0    102366[10;1H00   0%% /dev/shm
+tmpfs[51C5120[10C0[7C511[12;1H20   0%% /run/lock
+tmpfs[48C1023600[10C0    102366[14;1H00   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973270272 176349811[16;1H12  36%% /proj/CS495LC
+users.isi.deterlab.net:/mnt/other/users/lclarkfj  2031313280 1270045824  59876233[18;1H68  68%% /users/lclarkfj
+tmpfs[49C204720[10C0     20477[20;1H20   0%% /run/user/18214
+
+
+[1m[34m~                                                                               [m[24;63H1%%1[11CAll[1;1H[?12l[?25h[?25l[24;1H[K[24;1H:[?12l[?25hq[?25l[24;2H[K
+INPUT|lclarkfj-intro-7|U |1538028117|lclarkfj|intro:cd/|bash: cd/: No such file or directory
+INPUT|lclarkfj-intro-8|U |000000000|lclarkfj|intro:cd /|
+INPUT|lclarkfj-intro-9|U |1538028134|lclarkfj|intro:sftp lclarkfj@users.deterlab.net|
+ssh: connect to host users.deterlab.net port 22: Connection timed out
+
+Couldn't read packet: Connection reset by peer
+
+INPUT|lclarkfj-intro-10|U |000000000|lclarkfj|intro:cd ../|
+INPUT|lclarkfj-intro-11|U |000000000|lclarkfj|intro:cd top_secret|bash: cd: top_secret: No such file or directory
+INPUT|lclarkfj-intro-12|U |000000000|lclarkfj|intro:cd lclarkfj|bash: cd: lclarkfj: No such file or directory
+INPUT|lclarkfj-intro-13|U |000000000|lclarkfj|intro:cd /users|
+INPUT|lclarkfj-intro-14|U |000000000|lclarkfj|intro:cd lclarkfj|
+INPUT|lclarkfj-intro-15|U |000000000|lclarkfj|intro:cd top_secret|
+INPUT|lclarkfj-intro-16|U |000000000|lclarkfj|intro:cd ../|
+INPUT|lclarkfj-intro-17|U |1538028408|lclarkfj|intro:ls|136intro_3.jpg.tar.gz  diskfree.txt  wuer136intro-4.JPG.tar.gz
+136intro-3.jpg.tar.gz  top_secret
+INPUT|lclarkfj-intro-18|U |1538028433|lclarkfj|intro:rm 136intro_3.jpg.tar.gz|
+INPUT|lclarkfj-intro-19|U |1538028445|lclarkfj|intro:rm 136 intro-3.jpg.tar.gz|rm: cannot remove '136': No such file or directory
+rm: cannot remove 'intro-3.jpg.tar.gz': No such file or directory
+INPUT|lclarkfj-intro-20|U |000000000|lclarkfj|intro:rm 136 intro-3.jpg.tar.gz|
+INPUT|lclarkfj-intro-21|U |1538028464|lclarkfj|intro:rm diskfree.txt|
+INPUT|lclarkfj-intro-22|U |1538028477|lclarkfj|intro:rm wuer136intro-4.JPG.tar.gz|
+INPUT|lclarkfj-intro-23|U |1538028480|lclarkfj|intro:ls|top_secret
+INPUT|lclarkfj-intro-24|U |1538028546|lclarkfj|intro:tar cvzf lclarkfj-intro.tar.gz top_secret|top_secret/
+top_secret/136intro-3.jpg
+top_secret/wuer136intro-4.JPG
+top_secret/xbzf136INTRO-1.jpg
+top_secret/136intro-2jjaj.JPEG
+top_secret/asdf136Intro-5kqlw.jpeg
+top_secret/diskfree.txt
+top_secret/answers.txt
+INPUT|lclarkfj-intro-25|U |1538028557|lclarkfj|intro:ls|lclarkfj-intro.tar.gz  top_secret
+INPUT|lclarkfj-intro-26|U |1538028577|lclarkfj|intro:sftp lclarkfj@users.deterlab.net|
+
+
+
+cd /
+
+INPUT|lclarkfj-intro-27|U |1538028681|lclarkfj|intro:man sftp|%[?1049h[?1h=
+SFTP(1)                   BSD General Commands Manual                  SFTP(1)[m
+[m
+[1mNAME[0m[m
+     [1msftp[0m -- secure file transfer program[m
+[m
+[1mSYNOPSIS[0m[m
+     [1msftp[0m [[1m-1246aCfpqrv[0m] [[1m-B[0m [4mbuffer_size[24m] [[1m-b[0m [4mbatchfile[24m] [[1m-c[0m [4mcipher[24m][m
+          [[1m-D[0m [4msftp_server_path[24m] [[1m-F[0m [4mssh_config[24m] [[1m-i[0m [4midentity_file[24m] [[1m-l[0m [4mlimit[24m][m
+          [[1m-o[0m [4mssh_option[24m] [[1m-P[0m [4mport[24m] [[1m-R[0m [4mnum_requests[24m] [[1m-S[0m [4mprogram[24m][m
+          [[1m-s[0m [4msubsystem[24m | [4msftp_server[24m] [4mhost[24m[m
+     [1msftp[0m [[4muser[24m@][4mhost[24m[:[4mfile[24m [4m...[24m][m
+     [1msftp[0m [[4muser[24m@][4mhost[24m[:[4mdir[24m[[4m/[24m]][m
+     [1msftp[0m [1m-b[0m [4mbatchfile[24m [[4muser[24m@][4mhost[24m[m
+[m
+[1mDESCRIPTION[0m[m
+     [1msftp[0m is an interactive file transfer program%% similar to ftp(1)%% which[m
+     
+INPUT|lclarkfj-intro-28|U |000000000|lclarkfj|intro:cd lclarkfj|bash: cd: lclarkfj: No such file or directory
+INPUT|lclarkfj-intro-29|U |000000000|lclarkfj|intro:cd /|
+INPUT|lclarkfj-intro-30|U |1538028980|lclarkfj|intro:/users/|bash: /users/: Is a directory
+INPUT|lclarkfj-intro-31|U |1538028983|lclarkfj|intro:/users|bash: /users: Is a directory
+INPUT|lclarkfj-intro-32|U |000000000|lclarkfj|intro:cd /users|
+INPUT|lclarkfj-intro-33|U |1538028999|lclarkfj|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfj  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfj-intro-34|U |000000000|lclarkfj|intro:cd lclarkfj|
+INPUT|lclarkfj-intro-35|U |000000000|lclarkfj|intro:cd /users/|
+INPUT|lclarkfj-intro-36|U |000000000|lclarkfj|intro:cd /users/|
+INPUT|lclarkfj-intro-37|U |1537749065|lclarkfj|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfj  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfj-intro-38|U |000000000|lclarkfj|intro:cd lclarkfj|
+INPUT|lclarkfj-intro-39|U |000000000|lclarkfj|intro:cd /users/|
+INPUT|lclarkfj-intro-40|U |1537749160|lclarkfj|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfj  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfj-intro-41|U |000000000|lclarkfj|intro:cd lclarkfj/|
+INPUT|lclarkfj-intro-42|U |1537749194|lclarkfj|intro:ls|
+INPUT|lclarkfj-intro-43|U |000000000|lclarkfj|intro:lclarkfj|lclarkfj: command not found
+INPUT|lclarkfj-intro-44|U |000000000|lclarkfj|intro:cd /lclarkfj/|bash: cd: /lclarkfj/: No such file or directory
+INPUT|lclarkfj-intro-45|U |000000000|lclarkfj|intro:cd lclarkfj/|bash: cd: lclarkfj/: No such file or directory
+INPUT|lclarkfj-intro-46|U |000000000|lclarkfj|intro:cd /users/|
+INPUT|lclarkfj-intro-47|U |1537749229|lclarkfj|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfj  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfj-intro-48|U |000000000|lclarkfj|intro:cd lclarkfj/|
+INPUT|lclarkfj-intro-49|U |1537749324|lclarkfj|intro:ls|
+INPUT|lclarkfj-intro-50|U |1537814611|lclarkfj|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfj  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfj-intro-51|A4 A3 A1 A2 A0 |1537814785|lclarkfj|intro:find | xargs file $1|%.:                                      directory
+./shareav:                              directory
+./shareao:                              directory
+./sharebc:                              directory
+./shareak:                              directory
+./sharebd:                              directory
+./shareaw:                              directory
+./bloznali:                             directory
+./lclarkfj:                             directory
+./lclarkfj/.login_conf:                 ASCII text
+./lclarkfj/.cshrc:                      ASCII text
+./lclarkfj/.login:                      ASCII text
+./lclarkfj/.mail_aliases:               ASCII text
+./lclarkfj/.mailrc:                     ASCII text
+./lclarkfj/.profile:                    ASCII text
+./lclarkfj/.rhosts:                     ASCII text
+./lclarkfj/.shrc:                       ASCII text
+./lclarkfj/.ssl:                        directory
+./lclarkfj/.ssl/emulab.pem:          
+INPUT|lclarkfj-intro-52|A0 A2 A1 A3 A4 |1537814897|lclarkfj|intro:find \xargs file $1 | grep ASCII | wc|find: 'xargs': No such file or directory
+find: 'file': No such file or directory
+      0       0       0
+INPUT|lclarkfj-intro-53|A0 A2 A1 A4 A3 |1537814920|lclarkfj|intro:find | xargs file $1 | grep ASCII | wc|     17      55     889
+INPUT|lclarkfj-intro-54|U |000000000|lclarkfj|intro:|
+INPUT|lclarkfj-intro-55|U |000000000|lclarkfj|intro:tar cvzf IWillChooseFileName.tar.gz top_secret|tar: top_secret: Cannot stat: No such file or directory
+tar (child): IWillChooseFileName.tar.gz: Cannot open: Permission denied
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+INPUT|lclarkfj-intro-56|M3 M2 |000000000|lclarkfj|intro:find / -mount -name \"\*intro*\" 2> /dev/null|/var/log/ttylog/ttylog.intro.2
+/var/log/ttylog/alltty.intro
+/var/log/ttylog/cli.intro.csv
+/var/log/136intro-3.jpg
+/etc/wuer136intro-4.JPG
+/etc/apparmor.d/abstractions/apparmor_api/introspect
+/proj/intro.createimage.Share
+/proj/share/exp/createimage/logs/cli.intro.csv.1535412403
+/proj/share/exp/createimage/logs/ttylog.intro.0
+/proj/share/exp/createimage/logs/alltty.intro
+/proj/share/exp/createimage/logs/cli.intro.csv
+/proj/share/exp/createimage/count.intro
+/local/logs/intro_startcmd.err
+/local/logs/intro_startcmd.err.10
+/local/logs/intro_startcmd.out.10
+/local/logs/intro_startcmd.out
+/local/logs/intro_startcmd.status.10
+/local/logs/intro_startcmd.status
+/usr/share/man/man4/intro.4.gz
+/usr/share/man/man2/intro.2.gz
+/usr/share/man/man1/intro.1.gz
+/usr/share/man/man5/intro.5.gz
+/usr/share/man/man8/intro.8.gz
+/usr/share/man/man6/intro.6.gz
+/usr/share/man/man3/intro.3.gz
+/usr/share/man/man7/intro.7.gz
+/usr/share/vi
+INPUT|lclarkfj-intro-57|A4 A3 A1 A2 A0 |000000000|lclarkfj|intro:find / -mount -name \"*intro*\" 2> /dev/null|
+INPUT|lclarkfj-intro-58|U |1537815414|lclarkfj|intro:tar cvzf IWillChooseFileName.tar.gz top_secret|
+INPUT|lclarkfj-intro-59|A2 A0 A4 A3 A1 |1537815679|lclarkfj|intro:[8Pfind | xargs file $1 | grep ASCII | wc|
+INPUT|lclarkfj-intro-60|A4 A3 A1 A2 A0 |000000000|lclarkfj|intro:find \xargs file $1 | grep ASCII | wc|
+INPUT|lclarkfj-intro-61|A1 A3 A4 A0 A2 |000000000|lclarkfj|intro:find \xargs file $1 | grep ASCII | wc|
+INPUT|lclarkfj-intro-62|A0 A2 A1 A4 A3 |000000000|lclarkfj|intro:find | xargs file $1 | grep ASCII | wc|
+INPUT|lclarkfj-intro-63|U |000000000|lclarkfj|intro:tar cvzf IWillChooseFileName.tar.gz top_secret|
+INPUT|lclarkfj-intro-64|A1 A4 A3 A0 A2 |000000000|lclarkfj|intro:find / -mount -name "*intro*" 2> /dev/null|
+INPUT|lclarkfj-intro-65|M3 M2 |000000000|lclarkfj|intro:find / -mount -name \"*intro*\" 2> /dev/null |xargs|%file $1 | grep JPEG
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "<E0><FB><FC>\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkfj-intro-66|U |1537913759|lclarkfj|intro:ls|136intro-3.jpg.tar.gz
+INPUT|lclarkfj-intro-67|U |000000000|lclarkfj|intro:cd /top_secret?|bash: cd: /top_secret?: No such file or directory
+INPUT|lclarkfj-intro-68|U |000000000|lclarkfj|intro:cd /top_secret/|bash: cd: /top_secret/: No such file or directory
+INPUT|lclarkfj-intro-69|U |000000000|lclarkfj|intro:cd|
+INPUT|lclarkfj-intro-70|U |1537913924|lclarkfj|intro:ls|136intro-3.jpg.tar.gz
+INPUT|lclarkfj-intro-71|U |000000000|lclarkfj|intro:cd /users/|
+INPUT|lclarkfj-intro-72|U |1537913959|lclarkfj|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfj  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfj-intro-73|U |000000000|lclarkfj|intro:cd lclarkfj/|
+INPUT|lclarkfj-intro-74|U |1537914083|lclarkfj|intro:mkdir top_secret|
+INPUT|lclarkfj-intro-75|U |1537914089|lclarkfj|intro:ls|136intro-3.jpg.tar.gz  top_secret
+INPUT|lclarkfj-intro-76|U |000000000|lclarkfj|intro:cd /top_secret|bash: cd: /top_secret: No such file or directory
+INPUT|lclarkfj-intro-77|U |000000000|lclarkfj|intro:cd /top_secret/|bash: cd: /top_secret/: No such file or directory
+INPUT|lclarkfj-intro-78|U |1537914269|lclarkfj|intro:tar cvzf 136intro_3.jpg.tar.gz top_secret|top_secret/
+INPUT|lclarkfj-intro-79|U |000000000|lclarkfj|intro:top_secret?|top_secret?: command not found
+INPUT|lclarkfj-intro-80|U |1537914291|lclarkfj|intro:top_secret/|bash: top_secret/: Is a directory
+INPUT|lclarkfj-intro-81|U |1537914295|lclarkfj|intro:ls|136intro_3.jpg.tar.gz  136intro-3.jpg.tar.gz  top_secret
+INPUT|lclarkfj-intro-82|U |1537914351|lclarkfj|intro:tar wuer136intro-4.JPG.tar.gz top_secret|tar: invalid option -- 'e'
+Try 'tar --help' or 'tar --usage' for more information.
+INPUT|lclarkfj-intro-83|U |1537914381|lclarkfj|intro:tar cvzf wuer136intro-4.JPG.tar.gz top_secret|top_secret/
+INPUT|lclarkfj-intro-84|U |000000000|lclarkfj|intro:top_secret|top_secret: command not found
+INPUT|lclarkfj-intro-85|U |000000000|lclarkfj|intro:cd /top_secret/|bash: cd: /top_secret/: No such file or directory
+INPUT|lclarkfj-intro-86|U |000000000|lclarkfj|intro:cd /top_secret|bash: cd: /top_secret: No such file or directory
+INPUT|lclarkfj-intro-87|U |000000000|lclarkfj|intro:cd top_secret|
+INPUT|lclarkfj-intro-88|U |1537914426|lclarkfj|intro:ls|
+INPUT|lclarkfj-intro-89|U |1537923640|lclarkfj|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfj  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfj-intro-90|U |000000000|lclarkfj|intro:cd /lclarkfj/|bash: cd: /lclarkfj/: No such file or directory
+INPUT|lclarkfj-intro-91|U |000000000|lclarkfj|intro:cd lclarkfj|
+INPUT|lclarkfj-intro-92|U |1537923662|lclarkfj|intro:ls|136intro_3.jpg.tar.gz  top_secret
+136intro-3.jpg.tar.gz  wuer136intro-4.JPG.tar.gz
+INPUT|lclarkfj-intro-93|U |000000000|lclarkfj|intro:cd /top_secrete|bash: cd: /top_secrete: No such file or directory
+INPUT|lclarkfj-intro-94|U |000000000|lclarkfj|intro:cd /top_secret|bash: cd: /top_secret: No such file or directory
+INPUT|lclarkfj-intro-95|U |000000000|lclarkfj|intro:cd /top_secret/|bash: cd: /top_secret/: No such file or directory
+INPUT|lclarkfj-intro-96|U |1537923948|lclarkfj|intro:ls|136intro_3.jpg.tar.gz  top_secret
+136intro-3.jpg.tar.gz  wuer136intro-4.JPG.tar.gz
+INPUT|lclarkfj-intro-97|U |000000000|lclarkfj|intro:top_secret|top_secret: command not found
+INPUT|lclarkfj-intro-98|U |1537923969|lclarkfj|intro:ls top_secret|
+INPUT|lclarkfj-intro-99|U |000000000|lclarkfj|intro:top_secret ls|top_secret: command not found
+INPUT|lclarkfj-intro-100|U |000000000|lclarkfj|intro:top_secret|top_secret: command not found
+INPUT|lclarkfj-intro-101|U |1537924351|lclarkfj|intro:ls|136intro_3.jpg.tar.gz  top_secret
+136intro-3.jpg.tar.gz  wuer136intro-4.JPG.tar.gz
+INPUT|lclarkfj-intro-102|U |1537924561|lclarkfj|intro:cp 136intro_3.jpg top_secret|cp: cannot stat '136intro_3.jpg': No such file or directory
+INPUT|lclarkfj-intro-103|U |1537924788|lclarkfj|intro:cp /var/log/136intro-3.jpg top_secret|
+INPUT|lclarkfj-intro-104|U |000000000|lclarkfj|intro:top_secret|top_secret: command not found
+INPUT|lclarkfj-intro-105|U |1537924796|lclarkfj|intro:ls|136intro_3.jpg.tar.gz  top_secret
+136intro-3.jpg.tar.gz  wuer136intro-4.JPG.tar.gz
+INPUT|lclarkfj-intro-106|U |000000000|lclarkfj|intro:cd /top_secret|bash: cd: /top_secret: No such file or directory
+INPUT|lclarkfj-intro-107|U |000000000|lclarkfj|intro:cd top_secret|
+INPUT|lclarkfj-intro-108|U |1537924809|lclarkfj|intro:ls|136intro-3.jpg
+INPUT|lclarkfj-intro-109|U |1537924843|lclarkfj|intro:rm 136intro-3.jpg|
+INPUT|lclarkfj-intro-110|U |1537924846|lclarkfj|intro:ls|
+INPUT|lclarkfj-intro-111|U |1537924909|lclarkfj|intro:cp /var/log/136intro-3.jpg top_secret|
+INPUT|lclarkfj-intro-112|U |000000000|lclarkfj|intro:cp /etc/wuer136intro-4.JPG top_secret|
+INPUT|lclarkfj-intro-113|U |1537924953|lclarkfj|intro:ls|top_secret
+INPUT|lclarkfj-intro-114|U |1537924958|lclarkfj|intro:ls|top_secret
+INPUT|lclarkfj-intro-115|U |000000000|lclarkfj|intro:cd top_secret|bash: cd: top_secret: Not a directory
+INPUT|lclarkfj-intro-116|U |1537924967|lclarkfj|intro:ls|top_secret
+INPUT|lclarkfj-intro-117|U |1537925062|lclarkfj|intro:rm top_secret|
+INPUT|lclarkfj-intro-118|U |1537925064|lclarkfj|intro:ls|
+INPUT|lclarkfj-intro-119|U |000000000|lclarkfj|intro:cd /|
+INPUT|lclarkfj-intro-120|U |1537925118|lclarkfj|intro:cp /var/log/136intro-3.jpg top_secret|cp: cannot create regular file 'top_secret': Permission denied
+INPUT|lclarkfj-intro-121|U |1537925127|lclarkfj|intro:ls|bin   groups       lib   media  proj  share  tmp    vmlinuz
+boot  home       lib64   mnt  root  snap   users  vmlinuz.old
+dev   initrd.img      local   opt  run   srv    usr
+etc   initrd.img.old  lost+found  proc  sbin  sys    var
+INPUT|lclarkfj-intro-122|U |000000000|lclarkfj|intro:cd /users/|
+INPUT|lclarkfj-intro-123|U |1537925150|lclarkfj|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfj  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfj-intro-124|U |000000000|lclarkfj|intro:cd lclarkfj|
+INPUT|lclarkfj-intro-125|U |1537925160|lclarkfj|intro:ls|136intro_3.jpg.tar.gz  top_secret
+136intro-3.jpg.tar.gz  wuer136intro-4.JPG.tar.gz
+INPUT|lclarkfj-intro-126|U |1537925202|lclarkfj|intro:lslscp /var/log/136intro-3.jpg top_secret|
+INPUT|lclarkfj-intro-127|U |000000000|lclarkfj|intro:cp /var/log/136intro-3.jpg top_secret|
+INPUT|lclarkfj-intro-128|U |1537925177|lclarkfj|intro:cp /var/log/136intro-3.jpg top_secret|
+INPUT|lclarkfj-intro-129|U |000000000|lclarkfj|intro:cp /var/log/136intro-3.jpg top_secret|
+INPUT|lclarkfj-intro-130|U |000000000|lclarkfj|intro:cp /etc/wuer136intro-4.JPG top_secret|
+INPUT|lclarkfj-intro-131|U |000000000|lclarkfj|intro:cp /var/log/136intro-3.jpg top_secret|
+INPUT|lclarkfj-intro-132|U |1537924949|lclarkfj|intro:cp /etc/wuer136intro-4.JPG top_secret|
+INPUT|lclarkfj-intro-133|U |000000000|lclarkfj|intro:cd top_secret|
+INPUT|lclarkfj-intro-134|U |000000000|lclarkfj|intro:ls|136intro-3.jpg wuer136intro-4.JPG
+INPUT|lclarkfj-intro-135|U |1537925739|lclarkfj|intro:fin / -mount -name \"*intro\*\" |grep JPEG|%No command 'fin' found%% did you mean:
+ Command 'fim' from package 'fim' (universe)
+ Command 'din' from package 'din' (universe)
+ Command 'find' from package 'findutils' (main)
+ Command 'fiz' from package 'zoo' (universe)
+ Command 'fio' from package 'fio' (universe)
+ Command 'win' from package 'wily' (universe)
+ Command 'fid' from package 'id-utils' (universe)
+ Command 'fis' from package 'redboot-tools' (universe)
+ Command 'tin' from package 'tin' (universe)
+fin: command not found%
+INPUT|lclarkfj-intro-136|U |1537925752|lclarkfj|intro:fin n[1@dunt -name \"*intro*\" |grep JPEG|find: '/var/cache/apt/archives/partial': Permission denied
+find: '/var/cache/ldconfig': Permission denied
+find: '/var/spool/cron/atjobs': Permission denied
+find: '/var/spool/cron/atspool': Permission denied
+find: '/var/spool/cron/crontabs': Permission denied
+find: '/var/spool/rsyslog': Permission denied
+find: '/var/log/unattended-upgrades': Permission denied
+find: '/var/lib/apt/lists/partial': Permission denied
+find: '/var/lib/polkit-1': Permission denied
+find: '/etc/ssl/private': Permission denied
+find: '/etc/polkit-1/localauthority': Permission denied
+find: '/root': Permission denied
+find: '/lost+found': Permission denied
+INPUT|lclarkfj-intro-137|A0 A2 A1 A4 A3 |1537927605|lclarkfj|intro:find / -mount -name \"*intro*\ 2> / dev/null |xargs f|
+INPUT|lclarkfj-intro-138|A1 A3 A4 A0 A2 |000000000|lclarkfj|intro:find / -mount -name "*intro* 2> / dev/null |xargs|
+INPUT|lclarkfj-intro-139|A4 A3 A1 A2 A0 |000000000|lclarkfj|intro:find / -mount -name "*intro* 2> / dev/null |grep jp|g
+> find / -mount -name \"*intro* 2> / dev/null |grep jpg<BS><BS><BS><BS><BS><BS><BS><BS><BS><BS><BS>l <BS><ESC>[1@|<ESC>[1@x<ESC>[1@a<ESC>[1@r<ESC>[1@g<ESC>[1@s <ESC>[1@ <BS><ESC>[1@f<ESC>[1@i<ESC>[1@l<ESC>[1@e <ESC>[1@ <BS><ESC>[1@$<ESC>[1@1
+bash: /: Is a directory
+Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+INPUT|lclarkfj-intro-140|A1 A4 A3 A0 A2 |1537926817|lclarkfj|intro:find / -mount -name \"*intro* 2> / dev/null |grep jpg|g
+
+find / -mount -name \"*intro*[1@"/ dev/null|xargs file $1 |grep jpg
+>  
+> find / -mount -name \"*intro* 2> / dev/null |grep jpg
+
+find / -mount -name \"*intro*\" 2> / dev/null|xargs file $1 |grep jpg
+
+[A
+bash: /: Is a directory
+bash: /: Is a directory
+Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+INPUT|lclarkfj-intro-141|U |1537926856|lclarkfj|intro:cd/|bash: cd/: No such file or directory
+INPUT|lclarkfj-intro-142|U |000000000|lclarkfj|intro:cd /|
+INPUT|lclarkfj-intro-143|A4 A3 A1 A2 A0 |1537926817|lclarkfj|intro:cd[find / -mount -name "*intro*" 2> / dev/null|xargs file $1 |grep|p jpg
+bash: /: Is a directory
+Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+INPUT|lclarkfj-intro-144|A4 A3 A1 A2 A0 |1537926847|lclarkfj|intro:find / -mount -name \"*intro*\" 2> / dev/null|xargs file $1 |grep|p JPG 
+bash: /: Is a directory
+Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+INPUT|lclarkfj-intro-145|U |000000000|lclarkfj|intro:cd /users/|
+INPUT|lclarkfj-intro-146|A0 A2 A1 A3 A4 |1537926868|lclarkfj|intro:find / -mount -name "*intro*" 2> / dev/null|xargs file $1| |grep JPG
+bash: /: Is a directory
+Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+INPUT|lclarkfj-intro-147|A0 A2 A1 A4 A3 |1537926899|lclarkfj|intro:find / -mount -name \"*intro*\" 2> / dev/null|xargs file $1| |grep JPEG
+bash: /: Is a directory
+Usage: file [-bcEhikLlNnprsvzZ0] [--apple] [--extension] [--mime-encoding] [--mime-type]
+            [-e testname] [-F separator] [-f namefile] [-m magicfiles] file ...
+       file -C [-m magicfiles]
+       file [--help]
+INPUT|lclarkfj-intro-148|A1 A3 A4 A0 A2 |1537926937|lclarkfj|intro:find / -mount -name \"*intro*\" 2> / dev/null|xargs file $1| |grep JP[1P[1PEG
+INPUT|lclarkfj-intro-149|M3 M2 |1537926946|lclarkfj|intro:find / -mount -name \"*intro*\" 2> /dev/null|xargs file $1 |[1P[Aclarkfj@intro:/users$ find / -mount -name "*intro*" 2> /dev/null |xargs file $1 [1@|[Alarkfj@intro:/users$ find / -mount -name "*intro*" 2> /dev/null |xargs file $|%
+ |[1@ 
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkfj-intro-150|M3 |1537927307|lclarkfj|intro:find / -mount -name \"*intro*\" 2> /dev/null |xargs file $1|% | grep JPG 
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkfj-intro-151|M2 |1537927318|lclarkfj|intro:find / -mount -name \"*intro*\" 2> /dev/null |xargs file $1|% | grep jpg
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "\011\006"%% baseline%% precision 8%% 602x858%% frames 3%
+INPUT|lclarkfj-intro-152|A1 A3 A4 A0 A2 |1537927458|lclarkfj|intro:find / -mount -name \"*intro*\" 2> /dev/null |xargs file $1| | grep jpe[1Pg
+INPUT|lclarkfj-intro-153|A4 A3 A1 A2 A0 |000000000|lclarkfj|intro:find / -mount -name \"*intro*\" 2> /dev/null |xargs file $1|
+INPUT|lclarkfj-intro-154|A1 A3 A4 A0 A2 |000000000|lclarkfj|intro:find / -mount -name "*intro*" 2> /dev/null |xargs file $1|
+INPUT|lclarkfj-intro-155|A4 A3 A1 A2 A0 |000000000|lclarkfj|intro:find / -mount -name "*intro*" 2> /dev/null |xargs file $|
+INPUT|lclarkfj-intro-156|M3 M2 |000000000|lclarkfj|intro:find / -mount -name "*intro*" 2> /dev/null |xargs file $|%$:                                                                                       cannot open `$' (No such file or directory)
+/var/log/ttylog/ttylog.intro.3:                                                          ASCII text%% with CRLF%% LF line terminators%% with escape sequences%% with overstriking
+/var/log/ttylog/ttylog.intro.4:                                                          ISO-8859 text%% with very long lines%% with CRLF%% CR%% LF line terminators%% with escape sequences%% with overstriking
+/var/log/ttylog/alltty.intro:                                                            ISO-8859 text%% with very long lines%% with CRLF%% CR%% LF line terminators%% with escape sequences%% with overstriking
+/var/log/ttylog/cli.intro.csv:                                                           ASCII text%% with very long lines%% with CRLF line terminators
+/var/log/136intro-3.jpg:                                                                 JPEG image dat
+INPUT|lclarkfj-intro-157|A1 A3 A4 A0 A2 |000000000|lclarkfj|intro:find / -mount -name \"*intro*\" 2> /dev/null |xargs file $1|
+INPUT|lclarkfj-intro-158|M3 M2 |000000000|lclarkfj|intro:find / -mount -name "*intro*" 2> /dev/null |xargs file $1|%/var/log/ttylog/ttylog.intro.3:                                                          ASCII text%% with CRLF%% LF line terminators%% with escape sequences%% with overstriking
+/var/log/ttylog/ttylog.intro.4:                                                          ISO-8859 text%% with very long lines%% with CRLF%% CR%% LF line terminators%% with escape sequences%% with overstriking
+/var/log/ttylog/alltty.intro:                                                            ISO-8859 text%% with very long lines%% with CRLF%% CR%% LF line terminators%% with escape sequences%% with overstriking
+/var/log/ttylog/cli.intro.csv:                                                           ASCII text%% with very long lines%% with CRLF line terminators
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "<E0><FB><FC>\011\006"%% baseline%% precision 8
+INPUT|lclarkfj-intro-159|A1 A4 A3 A0 A2 |1537927592|lclarkfj|intro:find grep jpeg|find: 'grep': No such file or directory
+find: 'jpeg': No such file or directory
+INPUT|lclarkfj-intro-160|A4 A3 A1 A2 A0 |1537927318|lclarkfj|intro:find  |grep jpeg|
+INPUT|lclarkfj-intro-161|U |1537937421|lclarkfj|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfj  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfj-intro-162|U |000000000|lclarkfj|intro:cd lclarkfj|
+INPUT|lclarkfj-intro-163|U |1537937435|lclarkfj|intro:ls|136intro_3.jpg.tar.gz  top_secret
+136intro-3.jpg.tar.gz  wuer136intro-4.JPG.tar.gz
+INPUT|lclarkfj-intro-164|U |000000000|lclarkfj|intro:cd top_secret|
+INPUT|lclarkfj-intro-165|U |1537937447|lclarkfj|intro:ls|136intro-3.jpg wuer136intro-4.JPG
+INPUT|lclarkfj-intro-166|U |000000000|lclarkfj|intro:cd /|
+INPUT|lclarkfj-intro-167|A0 A2 A1 A4 A3 |000000000|lclarkfj|intro:find / -name \"jjpg\"|
+
+dkfd<BS> <BS><BS> <BS><BS> <BS><BS> <BS>lclark.<BS> <BS>fj
+INPUT|lclarkfj-intro-168|U |000000000|lclarkfj|intro:lclarkfj|lclarkfj: command not found
+INPUT|lclarkfj-intro-169|M2 |1537937646|lclarkfj|intro:find / -mount -name \"*intro*\" 2> /dev/null |xargs file $1|% | grep jpg
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "\011\006"%% baseline%% precision 8%% 602x858%% frames 3%
+INPUT|lclarkfj-intro-170|M3 |1537937666|lclarkfj|intro:find / -mount -name \"*intro*\" 2> /dev/null |xargs file $1|% | grep JPG
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkfj-intro-171|M3 M2 |1537937679|lclarkfj|intro:find / -mount -name \"*intro*\" 2> /dev/null |xargs file $1|% | grep JP[1PEG
+/var/log/136intro-3.jpg:                                                                 JPEG image data%% JFIF standard 1.02%% resolution (DPI)%% density 72x72%% segment length 16%% comment: "\011\006"%% baseline%% precision 8%% 602x858%% frames 3
+/etc/wuer136intro-4.JPG:                                                                 JPEG image data%% JFIF standard 1.01%% resolution (DPI)%% density 300x300%% segment length 16%% baseline%% precision 8%% 500x370%% frames 3%
+INPUT|lclarkfj-intro-172|A0 A2 A1 A4 A3 |1537937695|lclarkfj|intro:find / -mount -name \"*intro*\" 2> /dev/null |xargs file $1| | grep [1@j[1@p[1@e[1@g    
+INPUT|lclarkfj-intro-173|M2 M0 |000000000|lclarkfj|intro:find -name \"*jpg\*\"|./var/log/136intro-3.jpg
+./users/lclarkfj/136intro-3.jpg.tar.gz
+./users/lclarkfj/top_secret/136intro-3.jpg
+./users/lclarkfj/136intro_3.jpg.tar.gz
+./usr/share/doc/libsane/umax/sane-umax-text2.jpg
+./usr/share/doc/libsane/umax/sane-umax-standard.jpg
+./usr/share/doc/libsane/umax/sane-umax-text.jpg
+./usr/share/doc/libsane/umax/sane-umax.jpg
+./usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+./usr/share/doc/libsane/umax/sane-umax-text4.jpg
+./usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+./usr/share/doc/libsane/umax/sane-logo.jpg
+./usr/share/pixmaps/xbzf136INTRO-1.jpg
+./usr/share/icons/Humanity/mimes/16/jpg.svg
+./usr/share/icons/Humanity/mimes/24/jpg.svg
+./usr/share/icons/Humanity/mimes/48/jpg.svg
+./usr/share/icons/Humanity/mimes/22/jpg.svg
+INPUT|lclarkfj-intro-174|U |1537937860|lclarkfj|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|cp: cannot create regular file 'top_secret': Permission denied
+INPUT|lclarkfj-intro-175|U |000000000|lclarkfj|intro:cd /users|
+INPUT|lclarkfj-intro-176|U |1537937880|lclarkfj|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|cp: cannot create regular file 'top_secret': Permission denied
+INPUT|lclarkfj-intro-177|U |1537938674|lclarkfj|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkfj-intro-178|U |000000000|lclarkfj|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkfj-intro-179|U |000000000|lclarkfj|intro:cd /lclarkfj|bash: cd: /lclarkfj: No such file or directory
+INPUT|lclarkfj-intro-180|U |000000000|lclarkfj|intro:cd lclarkfj|
+INPUT|lclarkfj-intro-181|U |000000000|lclarkfj|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|cp: cannot stat 'xbzf136INTRO-1.jpg': No such file or directory
+INPUT|lclarkfj-intro-182|U |1537938558|lclarkfj|intro:cp usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|cp: cannot stat 'usr/share/pixmaps/xbzf136INTRO-1.jpg': No such file or directory
+INPUT|lclarkfj-intro-183|U |1537937919|lclarkfj|intro:cp xbzf136INTRO-1.jpg top_secret|cp: cannot stat 'xbzf136INTRO-1.jpg': No such file or directory
+INPUT|lclarkfj-intro-184|U |000000000|lclarkfj|intro:cd lclarkfj|bash: cd: lclarkfj: No such file or directory
+INPUT|lclarkfj-intro-185|U |000000000|lclarkfj|intro:cd /|
+INPUT|lclarkfj-intro-186|U |1537938599|lclarkfj|intro:cp xbzf136INTRO-1.jpg top_secret|cp: cannot stat 'xbzf136INTRO-1.jpg': No such file or directory
+INPUT|lclarkfj-intro-187|U |1537938648|lclarkfj|intro:cp xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkfj-intro-188|U |000000000|lclarkfj|intro:cp xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkfj-intro-189|U |000000000|lclarkfj|intro:cp usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkfj-intro-190|U |000000000|lclarkfj|intro:cp xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkfj-intro-191|U |000000000|lclarkfj|intro:cp usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkfj-intro-192|U |000000000|lclarkfj|intro:cp xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkfj-intro-193|U |000000000|lclarkfj|intro:cp /sr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|cp: cannot create regular file 'top_secret': Permission denied
+INPUT|lclarkfj-intro-194|U |000000000|lclarkfj|intro:cp .usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|cp: cannot create regular file 'top_secret': Permission denied
+INPUT|lclarkfj-intro-195|U |1537938721|lclarkfj|intro:cp xbzf136INTRO-1.jpg top_secret|cp: cannot stat 'xbzf136INTRO-1.jpg': No such file or directory
+INPUT|lclarkfj-intro-196|U |000000000|lclarkfj|intro:cd lclarkfj|bash: cd: lclarkfj: No such file or directory
+INPUT|lclarkfj-intro-197|U |000000000|lclarkfj|intro:cd /users/|
+INPUT|lclarkfj-intro-198|U |1537938752|lclarkfj|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfj  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfj-intro-199|U |000000000|lclarkfj|intro:cd lclarkfj|
+INPUT|lclarkfj-intro-200|U |1537938767|lclarkfj|intro:ls|136intro_3.jpg.tar.gz  top_secret
+136intro-3.jpg.tar.gz  wuer136intro-4.JPG.tar.gz
+INPUT|lclarkfj-intro-201|U |000000000|lclarkfj|intro:cd top_secret|
+INPUT|lclarkfj-intro-202|U |1537938778|lclarkfj|intro:ls|136intro-3.jpg wuer136intro-4.JPG
+INPUT|lclarkfj-intro-203|U |000000000|lclarkfj|intro:cd /|
+INPUT|lclarkfj-intro-204|U |000000000|lclarkfj|intro:cd /users|
+INPUT|lclarkfj-intro-205|U |000000000|lclarkfj|intro:cd lclarkfj|
+INPUT|lclarkfj-intro-206|U |000000000|lclarkfj|intro:cp xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkfj-intro-207|U |000000000|lclarkfj|intro:cp ./usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkfj-intro-208|U |000000000|lclarkfj|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkfj-intro-209|U |000000000|lclarkfj|intro:cp ./usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkfj-intro-210|U |000000000|lclarkfj|intro:cp xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkfj-intro-211|U |000000000|lclarkfj|intro:udo cp xbzf136INTRO-1.jpg top_secret|cp: cannot stat 'xbzf136INTRO-1.jpg': No such file or directory
+INPUT|lclarkfj-intro-212|U |000000000|lclarkfj|intro:^C|
+INPUT|lclarkfj-intro-213|U |000000000|lclarkfj|intro:cp pixmaps/NTRO-1.jpg top_secret|cp: cannot stat 'pixmaps/xbzf136INTRO-1.jpg': No such file or directory
+INPUT|lclarkfj-intro-214|U |000000000|lclarkfj|intro:cd top_secret|
+INPUT|lclarkfj-intro-215|U |000000000|lclarkfj|intro:cp pixmaps/xbzf136INTRO-1.jpg top_secret|cp: cannot stat 'pixmaps/xbzf136INTRO-1.jpg': No such file or directory
+INPUT|lclarkfj-intro-216|U |1537939039|lclarkfj|intro:cp pixmaps/xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkfj-intro-217|U |000000000|lclarkfj|intro:cp pixmaps/xbzf136INTRO-1.jpg top_secret|cp: cannot stat 'xbzf136INTRO-1.jpg': No such file or directory
+INPUT|lclarkfj-intro-218|U |000000000|lclarkfj|intro:cd /|
+INPUT|lclarkfj-intro-219|M2 M0 |000000000|lclarkfj|intro:find -name "*jpg*"|./var/log/136intro-3.jpg
+./users/lclarkfj/136intro-3.jpg.tar.gz
+./users/lclarkfj/top_secret/136intro-3.jpg
+./users/lclarkfj/136intro_3.jpg.tar.gz
+./usr/share/doc/libsane/umax/sane-umax-text2.jpg
+./usr/share/doc/libsane/umax/sane-umax-standard.jpg
+./usr/share/doc/libsane/umax/sane-umax-text.jpg
+./usr/share/doc/libsane/umax/sane-umax.jpg
+./usr/share/doc/libsane/umax/sane-umax-advanced.jpg
+./usr/share/doc/libsane/umax/sane-umax-text4.jpg
+./usr/share/doc/libsane/umax/sane-umax-histogram.jpg
+./usr/share/doc/libsane/umax/sane-logo.jpg
+./usr/share/pixmaps/xbzf136INTRO-1.jpg
+./usr/share/icons/Humanity/mimes/16/jpg.svg
+./usr/share/icons/Humanity/mimes/24/jpg.svg
+./usr/share/icons/Humanity/mimes/48/jpg.svg
+./usr/share/icons/Humanity/mimes/22/jpg.svg
+INPUT|lclarkfj-intro-220|U |1537939420|lclarkfj|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|cp: cannot create regular file 'top_secret': Permission denied
+INPUT|lclarkfj-intro-221|U |000000000|lclarkfj|intro:cd /users/|
+INPUT|lclarkfj-intro-222|U |1537939445|lclarkfj|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|cp: cannot create regular file 'top_secret': Permission denied
+INPUT|lclarkfj-intro-223|U |000000000|lclarkfj|intro:cd /lclarkfj|bash: cd: /lclarkfj: No such file or directory
+INPUT|lclarkfj-intro-224|U |000000000|lclarkfj|intro:cd lclarkfj|
+INPUT|lclarkfj-intro-225|U |000000000|lclarkfj|intro:cp /usr/share/pixmaps/xbzf136INTRO-1.jpg top_secret|
+INPUT|lclarkfj-intro-226|U |000000000|lclarkfj|intro:cd lclarkfj|bash: cd: lclarkfj: No such file or directory
+INPUT|lclarkfj-intro-227|U |1537939479|lclarkfj|intro:ls|136intro_3.jpg.tar.gz  top_secret
+136intro-3.jpg.tar.gz  wuer136intro-4.JPG.tar.gz
+INPUT|lclarkfj-intro-228|U |000000000|lclarkfj|intro:cd top_secret|
+INPUT|lclarkfj-intro-229|U |1537939499|lclarkfj|intro:ls|136intro-3.jpg wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkfj-intro-230|A0 A2 A1 A4 A3 |000000000|lclarkfj|intro:find -name \"*jpeg*\"|
+INPUT|lclarkfj-intro-231|A0 A2 A1 A4 A3 |000000000|lclarkfj|intro:find -name \"*jJPG*\"|./wuer136intro-4.JPG
+INPUT|lclarkfj-intro-232|A0 A2 A1 A4 A3 |000000000|lclarkfj|intro:find -name \"*JPGE\"|
+INPUT|lclarkfj-intro-233|A0 A2 A1 A4 A3 |000000000|lclarkfj|intro:find -name \"*Jintro-2|
+INPUT|lclarkfj-intro-234|A4 A3 A1 A2 A0 |000000000|lclarkfj|intro:find -name \"*iINTRO\*\"|
+INPUT|lclarkfj-intro-235|A1 A4 A3 A0 A2 |000000000|lclarkfj|intro:find -name \"*IINTRO-2*"|./xbzf136INTRO-1.jpg
+INPUT|lclarkfj-intro-236|A4 A3 A1 A2 A0 |000000000|lclarkfj|intro:find -name \"*Iintro\"|./136intro-3.jpg
+./wuer136intro-4.JPG
+INPUT|lclarkfj-intro-237|A4 A3 A1 A2 A0 |000000000|lclarkfj|intro:find -name \"*jp*\"|./136intro-3.jpg
+./xbzf136INTRO-1.jpg
+INPUT|lclarkfj-intro-238|A1 A4 A3 A0 A2 |000000000|lclarkfj|intro:find -name \"*jintro-5|
+INPUT|lclarkfj-intro-239|A0 A2 A1 A3 A4 |000000000|lclarkfj|intro:find -name \"*iINTRO5*\"|
+INPUT|lclarkfj-intro-240|U |1537939830|lclarkfj|intro:cat /var/log/messages |grep jpg|cat: /var/log/messages: No such file or directory
+INPUT|lclarkfj-intro-241|U |1537939847|lclarkfj|intro:cat /var/log/messages |grep jpg|
+INPUT|lclarkfj-intro-242|U |000000000|lclarkfj|intro:cat /var/log/messages |grep jpg|^C
+INPUT|lclarkfj-intro-243|U |1537939999|lclarkfj|intro:cat |grep jpg | less|[?1049h[?1h=
+
+[K:[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K
+[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K
+[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K...skipping...
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1
+INPUT|lclarkfj-intro-244|A2 A0 A4 A3 A1 |000000000|lclarkfj|intro:ssudo find d -name|
+INPUT|lclarkfj-intro-245|A2 A0 A4 A3 A1 |1537940144|lclarkfj|intro:find -name \"*jpeg*\"|
+INPUT|lclarkfj-intro-246|A2 A0 A4 A3 A1 |000000000|lclarkfj|intro:find -name \"*jpee*\"|./136intro-3.jpg.tar.gz
+./top_secret/136intro-3.jpg
+./top_secret/xbzf136INTRO-1.jpg
+./136intro_3.jpg.tar.gz
+INPUT|lclarkfj-intro-247|A4 A3 A1 A2 A0 |000000000|lclarkfj|intro:find -name \"*jJPG*\"\|./top_secret/wuer136intro-4.JPG
+./wuer136intro-4.JPG.tar.gz
+INPUT|lclarkfj-intro-248|A4 A3 A1 A2 A0 |000000000|lclarkfj|intro:find -name \"*Jintro|./136intro-3.jpg.tar.gz
+./top_secret/136intro-3.jpg
+./top_secret/wuer136intro-4.JPG
+./136intro_3.jpg.tar.gz
+./wuer136intro-4.JPG.tar.gz
+INPUT|lclarkfj-intro-249|A1 A4 A3 A0 A2 |000000000|lclarkfj|intro:find -name \"*iINTRO\"|./top_secret/xbzf136INTRO-1.jpg
+INPUT|lclarkfj-intro-250|U |000000000|lclarkfj|intro:cd /|
+INPUT|lclarkfj-intro-251|M3 |000000000|lclarkfj|intro:find -name \"*JPG\*\"|./users/lclarkfj/top_secret/wuer136intro-4.JPG
+./users/lclarkfj/wuer136intro-4.JPG.tar.gz
+./etc/wuer136intro-4.JPG
+INPUT|lclarkfj-intro-252|M1 |000000000|lclarkfj|intro:find -name \"*JPGE\"|./dev/136intro-2jjaj.JPEG
+INPUT|lclarkfj-intro-253|U |1537940357|lclarkfj|intro:cp /dev/136intro-2jjaj.JPEG top_secret|cp: cannot create regular file 'top_secret': Permission denied
+INPUT|lclarkfj-intro-254|U |000000000|lclarkfj|intro:cd lclarkfj|bash: cd: lclarkfj: No such file or directory
+INPUT|lclarkfj-intro-255|U |000000000|lclarkfj|intro:cd /users/|
+INPUT|lclarkfj-intro-256|U |000000000|lclarkfj|intro:cd lclarkfj|
+INPUT|lclarkfj-intro-257|U |000000000|lclarkfj|intro:cp /dev/136intro-2jjaj.JPEG top_secret|
+INPUT|lclarkfj-intro-258|U |1537940391|lclarkfj|intro:ls|136intro_3.jpg.tar.gz  top_secret
+136intro-3.jpg.tar.gz  wuer136intro-4.JPG.tar.gz
+INPUT|lclarkfj-intro-259|U |000000000|lclarkfj|intro:cd top_secret|
+INPUT|lclarkfj-intro-260|U |1537940403|lclarkfj|intro:ls|136intro-2jjaj.JPEG  136intro-3.jpg  wuer136intro-4.JPG  xbzf136INTRO-1.jpg
+INPUT|lclarkfj-intro-261|U |000000000|lclarkfj|intro:cd /|
+INPUT|lclarkfj-intro-262|M4 |000000000|lclarkfj|intro:find -name \"*jpeg\*\"|./var/lib/dpkg/info/libjpeg-turbo8:amd64.symbols
+./var/lib/dpkg/info/libjpeg-turbo8:amd64.triggers
+./var/lib/dpkg/info/libjpeg-turbo8:amd64.md5sums
+./var/lib/dpkg/info/libjpeg8:amd64.md5sums
+./var/lib/dpkg/info/libjpeg-turbo8:amd64.list
+./var/lib/dpkg/info/libjpeg8:amd64.list
+./var/lib/dpkg/info/libjpeg-turbo8:amd64.shlibs
+./boot/grub/i386-pc/jpeg.mod
+./.hidden/asdf136Intro-5kqlw.jpeg
+./usr/src/linux-headers-4.4.0-83/drivers/media/platform/s5p-jpeg
+./usr/src/linux-headers-4.4.0-79/drivers/media/platform/s5p-jpeg
+./usr/include/boost/gil/extension/io/jpeg_io_private.hpp
+./usr/include/boost/gil/extension/io/jpeg_dynamic_io.hpp
+./usr/include/boost/gil/extension/io/jpeg_io.hpp
+./usr/share/doc/libjpeg-turbo8
+./usr/share/doc/libjpeg8
+./usr/share/mime/image/jpeg.xml
+./usr/share/ghostscript/9.18/lib/viewjpeg.ps
+./usr/share/lintian/overrides/libjpeg-turbo8
+./usr/share/icons/Humanity/mimes/16/jpeg.svg
+./usr/share/icons/Humanity/mimes/16/
+INPUT|lclarkfj-intro-263|U |000000000|lclarkfj|intro:cd /users|
+INPUT|lclarkfj-intro-264|U |000000000|lclarkfj|intro:cd lclarkfj|
+INPUT|lclarkfj-intro-265|U |1537940523|lclarkfj|intro:ls|136intro_3.jpg.tar.gz  top_secret
+136intro-3.jpg.tar.gz  wuer136intro-4.JPG.tar.gz
+INPUT|lclarkfj-intro-266|U |1537940567|lclarkfj|intro:cp /.hidden/asdf136Intro-5kqlw.jpeg top_secret|
+INPUT|lclarkfj-intro-267|U |000000000|lclarkfj|intro:cd lclarkfj|bash: cd: lclarkfj: No such file or directory
+INPUT|lclarkfj-intro-268|U |000000000|lclarkfj|intro:cd /usere|bash: cd: /usere: No such file or directory
+INPUT|lclarkfj-intro-269|U |000000000|lclarkfj|intro:cd /users|
+INPUT|lclarkfj-intro-270|U |000000000|lclarkfj|intro:cd lclarkfj|
+INPUT|lclarkfj-intro-271|U |000000000|lclarkfj|intro:cd top_secret|
+INPUT|lclarkfj-intro-272|U |1537940604|lclarkfj|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      wuer136intro-4.JPG
+INPUT|lclarkfj-intro-273|U |1537941947|lclarkfj|intro:man car|No manual entry for car
+INPUT|lclarkfj-intro-274|U |1537941950|lclarkfj|intro:man var|No manual entry for var
+INPUT|lclarkfj-intro-275|U |000000000|lclarkfj|intro:cd /|
+INPUT|lclarkfj-intro-276|U |1537941958|lclarkfj|intro:man var|No manual entry for var
+INPUT|lclarkfj-intro-277|U |000000000|lclarkfj|intro:var man|%No command 'var' found%% but there are 21 similar ones
+var: command not found%
+INPUT|lclarkfj-intro-278|U |1537942121|lclarkfj|intro:man|What manual page do you want?
+INPUT|lclarkfj-intro-279|U |000000000|lclarkfj|intro:var|%No command 'var' found%% but there are 21 similar ones
+var: command not found%
+INPUT|lclarkfj-intro-280|U |1537942152|lclarkfj|intro:man man|%[?1049h[?1h=
+MAN(1)                        Manual pager utils                        MAN(1)[m
+[m
+[1mNAME[0m[m
+       man - an interface to the on-line reference manuals[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mman[0m  [[1m-C[0m  [4mfile[24m]  [[1m-d[0m]  [[1m-D[0m]  [[1m--warnings[0m[=[4mwarnings[24m]]  [[1m-R[0m [4mencoding[24m] [[1m-L[0m[m
+       [4mlocale[24m] [[1m-m[0m [4msystem[24m[%%...]] [[1m-M[0m [4mpath[24m] [[1m-S[0m [4mlist[24m]  [[1m-e[0m  [4mextension[24m]  [[1m-i[0m|[1m-I[0m][m
+       [[1m--regex[0m|[1m--wildcard[0m]   [[1m--names-only[0m]  [[1m-a[0m]  [[1m-u[0m]  [[1m--no-subpages[0m]  [[1m-P[0m[m
+       [4mpager[24m] [[1m-r[0m [4mprompt[24m] [[1m-7[0m] [[1m-E[0m [4mencoding[24m] [[1m--no-hyphenation[0m] [[1m--no-justifi-[0m[m
+       [1mcation[0m]  [[1m-p[0m  [4mstring[24m]  [[1m-t[0m]  [[1m-T[0m[[4mdevice[24m]]  [[1m-H[0m[[4mbrowser[24m]] [[1m-X[0m[[4mdpi[24m]] [[1m-Z[0m][m
+       [[[4msection[24m] [4mpage[24m ...] ...[m
+       [1mman[0m [
+INPUT|lclarkfj-intro-281|U |1537942176|lclarkfj|intro:man var|No manual entry for var
+INPUT|lclarkfj-intro-282|U |000000000|lclarkfj|intro:somecommand > top_secret/outut.txt|bash: top_secret/outut.txt: No such file or directory
+INPUT|lclarkfj-intro-283|U |000000000|lclarkfj|intro:somecommand > top_secret/outpt.txt|bash: top_secret/output.txt: No such file or directory
+INPUT|lclarkfj-intro-284|U |000000000|lclarkfj|intro:somecommand > top_secret/outut.txtt|
+INPUT|lclarkfj-intro-285|U |000000000|lclarkfj|intro:somecommand > top_secret/output.txt|
+INPUT|lclarkfj-intro-286|U |000000000|lclarkfj|intro:somecommand > top_secret/diskfree.txt|bash: top_secret/diskfree.txt: No such file or directory
+INPUT|lclarkfj-intro-287|U |000000000|lclarkfj|intro:cd /users|
+INPUT|lclarkfj-intro-288|U |000000000|lclarkfj|intro:cd lclarkfj|
+INPUT|lclarkfj-intro-289|U |1537943370|lclarkfj|intro:vi diskfree.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"diskfree.txt" [New File][>c[2;1H[1m[34m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                  
+INPUT|lclarkfj-intro-290|U |000000000|lclarkfj|intro:somecommand > top_secret/diskfree.txt|somecommand: command not found
+INPUT|lclarkfj-intro-291|U |000000000|lclarkfj|intro:cd lclarkfj|bash: cd: lclarkfj: No such file or directory
+INPUT|lclarkfj-intro-292|U |1537943483|lclarkfj|intro:ls|136intro_3.jpg.tar.gz  diskfree.txt  wuer136intro-4.JPG.tar.gz
+136intro-3.jpg.tar.gz  top_secret
+INPUT|lclarkfj-intro-293|U |1537943501|lclarkfj|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"answers.txt" [New File][>c[2;1H[1m[34m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                   
+INPUT|lclarkfj-intro-294|U |1537943709|lclarkfj|intro:rm answers.txt|
+INPUT|lclarkfj-intro-295|U |000000000|lclarkfj|intro:cd top_secret|
+INPUT|lclarkfj-intro-296|U |1537943728|lclarkfj|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  wuer136intro-4.JPG
+136intro-3.jpg      diskfree.txt       xbzf136INTRO-1.jpg
+INPUT|lclarkfj-intro-297|U |1537943742|lclarkfj|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"answers.txt" [New File][>c[2;1H[1m[34m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                   
+INPUT|lclarkfj-intro-298|U |1537943933|lclarkfj|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"answers.txt" 9L%% 326C[>c[1;1HSean Yamamoto
+syamamoto@lclark.edu
+lclarkfj
+
+1) The /var directory contains files to which the system writes data during the  [6;1Hcourse of its operation such as cached data%% dynamic data libraries%% log files%%  [7;1Hlock files and PIDs.
+
+2) The /dev directory contains special device files that control access to peripp[10;1Hheral devices.
+
+3)
+[1m[34m~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                    
+INPUT|lclarkfj-intro-299|U |000000000|lclarkfj|intro:somecommand > top_secret/diskfree.txt|bash: top_secret/diskfree.txt: No such file or directory
+INPUT|lclarkfj-intro-300|U |1537944074|lclarkfj|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"answers.txt" 9L%% 326C[>c[1;1HSean Yamamoto
+syamamoto@lclark.edu
+lclarkfj
+
+1) The /var directory contains files to which the system writes data during the  [6;1Hcourse of its operation such as cached data%% dynamic data libraries%% log files%%  [7;1Hlock files and PIDs.
+
+2) The /dev directory contains special device files that control access to peripp[10;1Hheral devices.
+
+3)
+[1m[34m~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                    
+INPUT|lclarkfj-intro-301|U |000000000|lclarkfj|intro:cd lclarkfj|
+INPUT|lclarkfj-intro-302|U |000000000|lclarkfj|intro:cd top_secret|
+INPUT|lclarkfj-intro-303|U |1537987678|lclarkfj|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      diskfree.txt
+answers.txt      wuer136intro-4.JPG
+INPUT|lclarkfj-intro-304|U |000000000|lclarkfj|intro:cd /|
+INPUT|lclarkfj-intro-305|U |000000000|lclarkfj|intro:cd lclarkfj|bash: cd: lclarkfj: No such file or directory
+INPUT|lclarkfj-intro-306|U |000000000|lclarkfj|intro:cd /users|
+INPUT|lclarkfj-intro-307|U |000000000|lclarkfj|intro:cd /lclarkfj|bash: cd: /lclarkfj: No such file or directory
+INPUT|lclarkfj-intro-308|U |1537987943|lclarkfj|intro:ls|abhi   gerow     jjh       scuric   shareah shareap  shareax  sharetb
+alefiya   gknopf    jross     shareaa  shareai shareaq  shareay  sklower
+alwabel   glawler   kls2      shareab  shareaj sharear  shareaz  sunshine
+bks   jaipuria  lclarkfj  shareac  shareak shareas  shareba
+bloznali  jboman    melkins   sharead  shareal shareat  sharebb
+ekline   jelena    piobair   shareae  shaream shareau  sharebc
+faber   jgli     rgoodfel  shareaf  sharean shareav  sharebd
+gbartlet  jhickey   schwab    shareag  shareao shareaw  shareta
+INPUT|lclarkfj-intro-309|U |000000000|lclarkfj|intro:cd lclarkfj|
+INPUT|lclarkfj-intro-310|U |1537987950|lclarkfj|intro:ls|136intro_3.jpg.tar.gz  diskfree.txt  wuer136intro-4.JPG.tar.gz
+136intro-3.jpg.tar.gz  top_secret
+INPUT|lclarkfj-intro-311|U |000000000|lclarkfj|intro:cd top_secret|
+INPUT|lclarkfj-intro-312|U |1537988118|lclarkfj|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      diskfree.txt
+answers.txt      wuer136intro-4.JPG
+INPUT|lclarkfj-intro-313|U |1537988672|lclarkfj|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"answers.txt" 16L%% 419C[>c[1;1HSean Yamamoto
+syamamoto@lclark.edu
+lclarkfj
+
+Images
+1) /usr/share/pixmaps/
+2) /dev/
+3) /var/log/
+4) /etc/
+5) /.hidden/
+
+Information Hunt
+1) The /var directory contains files to which the system writes data during the  [14;1Hcourse of its operation such as cached data%% dynamic data libraries%% log files%%  [15;1Hlock files and PIDs.
+2) The /dev directory contains special device files that control access to peripp[17;1Hheral devices.
+3)
+4)
+[1m[34m~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H1%%1[11CAll[1;1H[?12l[?25h[?25l[24;
+INPUT|lclarkfj-intro-314|M6 |1537989560|lclarkfj|intro:df|%Filesystem                                         1K-blocks       Used  Available Use%% Mounted on
+udev                                                 1003424         48    1003376   1%% /dev
+tmpfs                                                 204720      11108     193612   6%% /run
+/dev/sda1                                           15616412    2894276   11922188  20%% /
+tmpfs                                                1023600          0    1023600   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023600          0    1023600   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973270272 1763498112  36%% /proj/CS495LC
+users.isi.deterlab.net:/mnt/other/users/lclarkfj  2031313280 1270045824  598762368  68%% /users/lclarkfj
+tmpfs                                                 204720          0     204720  
+INPUT|lclarkfj-intro-315|U |000000000|lclarkfj|intro:^C|
+INPUT|lclarkfj-intro-316|U |000000000|lclarkfj|intro:^C|
+INPUT|lclarkfj-intro-317|U |1537989666|lclarkfj|intro:vi diskfree.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"diskfree.txt" 0L%% 0C[>c[2;1H[1m[34m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                     
+INPUT|lclarkfj-intro-318|M5 |1537989822|lclarkfj|intro:less /proc/cpuinfo|%[?1049h[?1h=
+processor       : 0
+vendor_id       : GenuineIntel
+cpu family      : 15
+model           : 4
+model name      : Intel(R) Xeon(TM) CPU 3.00GHz
+stepping        : 3
+microcode       : 0x5
+cpu MHz         : 2992.917
+cache size      : 2048 KB
+physical id     : 0
+siblings        : 2
+core id         : 0
+cpu cores       : 1
+apicid          : 0
+initial apicid  : 0
+fpu             : yes
+fpu_exception   : yes
+cpuid level     : 5
+wp              : yes
+flags           : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc pebs bts nopl pni dtes64 monitor ds_cpl cid cx16 xtpr
+bugs            :
+[7m/proc/cpuinfo[27m[K
+[Kbogomips        : 5985.83
+:[K
+[Kclflush size    : 64
+:[K
+[K [KESC[KO[KA
+[K[HMvendor_id       : GenuineIntel
+[24;1H
+[K:[K
+[K [KESC[KO[KA
+[K[HMprocessor       : 0
+[24;1H
+[K:[K
+[K [
+INPUT|lclarkfj-intro-319|U |1537989890|lclarkfj|intro:vi answers.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"answers.txt" 16L%% 419C[>c[1;1HSean Yamamoto
+syamamoto@lclark.edu
+lclarkfj
+
+Images
+1) /usr/share/pixmaps/
+2) /dev/
+3) /var/log/
+4) /etc/
+5) /.hidden/
+
+Information Hunt
+1) The /var directory contains files to which the system writes data during the  [14;1Hcourse of its operation such as cached data%% dynamic data libraries%% log files%%  [15;1Hlock files and PIDs.
+2) The /dev directory contains special device files that control access to peripp[17;1Hheral devices.
+3)
+4)
+[1m[34m~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H1%%1[11CAll[1;1H[?12l[?25h[?25l[24;
+INPUT|lclarkfj-intro-320|U |000000000|lclarkfj|intro:^C|
+INPUT|lclarkfj-intro-321|U |000000000|lclarkfj|intro:Filesystem|%1K-blocks       Used  Available Use%% Mounted on
+tmpfs                                                1023600          0    1023600   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023600          0    1023600   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973270272 1763498112  36%% /proj/CS495LC
+users.isi.deterlab.net:/mnt/other/users/lclarkfj  2031313280 1270045824  598762368  68%% /users/lclarkfj
+tmpfs                                                 204720          0     204720   0%% /run/user/18214Filesystem: command not found%
+INPUT|lclarkfj-intro-322|U |000000000|lclarkfj|intro:udev|%  1003424         48    1003376   1%% /dev
+No command 'udev' found%% did you mean:
+ Command 'udv' from package 'ncbi-tools-x11' (universe)
+ Command 'udav' from package 'udav' (universe)
+udev: command not found%
+INPUT|lclarkfj-intro-323|U |000000000|lclarkfj|intro:tmpfs|%   204720      11108     193612   6%% /run
+No command 'tmpfs' found%% did you mean:
+ Command 'tmfs' from package 'tmfs' (universe)
+ Command 'mtpfs' from package 'mtpfs' (universe)
+tmpfs: command not found%
+INPUT|lclarkfj-intro-324|U |000000000|lclarkfj|intro:/dev/sda1|% 15616412    2894276   11922188  20%% /
+bash: /dev/sda1: Permission denied%
+INPUT|lclarkfj-intro-325|U |000000000|lclarkfj|intro:tmpfs|%  1023600          0    1023600   0%% /dev/shm
+No command 'tmpfs' found%% did you mean:
+ Command 'tmfs' from package 'tmfs' (universe)
+ Command 'mtpfs' from package 'mtpfs' (universe)
+tmpfs: command not found%
+INPUT|lclarkfj-intro-326|U |000000000|lclarkfj|intro:tmpfs|%     5120          0       5120   0%% /run/lock
+No command 'tmpfs' found%% did you mean:
+ Command 'mtpfs' from package 'mtpfs' (universe)
+ Command 'tmfs' from package 'tmfs' (universe)
+tmpfs: command not found%
+INPUT|lclarkfj-intro-327|U |000000000|lclarkfj|intro:tmpfs|%  1023600          0    1023600   0%% /sys/fs/cgroup
+No command 'tmpfs' found%% did you mean:
+ Command 'tmfs' from package 'tmfs' (universe)
+ Command 'mtpfs' from package 'mtpfs' (universe)
+tmpfs: command not found%
+INPUT|lclarkfj-intro-328|U |000000000|lclarkfj|intro:users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2|%974748160  973270272 1763498112  36%% /proj/CS495LC
+bash: users.isi.deterlab.net:/mnt/projects/proj/CS495LC: No such file or directory%
+INPUT|lclarkfj-intro-329|U |000000000|lclarkfj|intro:users.isi.deterlab.net:/mnt/other/users/lclarkfj  2|%031313280 1270045824  598762368  68%% /users/lclarkfj
+bash: users.isi.deterlab.net:/mnt/other/users/lclarkfj: No such file or directory%
+INPUT|lclarkfj-intro-330|U |000000000|lclarkfj|intro:tmpfs|%   204720          0     204720   0%% /run/user/18214
+No command 'tmpfs' found%% did you mean:
+ Command 'mtpfs' from package 'mtpfs' (universe)
+ Command 'tmfs' from package 'tmfs' (universe)
+tmpfs: command not found%
+INPUT|lclarkfj-intro-331|U |000000000|lclarkfj|intro:Filesystem|%1K-blocks       Used  Available Use%% Mounted on
+/dev/sda1                                           15616412    2894276   11922188  20%% /
+tmpfs                                                1023600          0    1023600   0%% /dev/shm
+tmpfs                                                   5120          0       5120   0%% /run/lock
+tmpfs                                                1023600          0    1023600   0%% /sys/fs/cgroup
+users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2974748160  973270272 1763498112  36%% /proj/CS495LC
+users.isi.deterlab.net:/mnt/other/users/lclarkfj  2031313280 1270045824  598762368  68%% /users/lclarkfj
+tmpfs                                                 204720          0     204720   0%% /run/user/18214Filesystem: command not found%
+INPUT|lclarkfj-intro-332|U |000000000|lclarkfj|intro:udev|%  1003424         48    1003376   1%% /dev
+No command 'udev' found%% did you mean:
+ Command 'udav' from package 'udav' (universe)
+ Command 'udv' from package 'ncbi-tools-x11' (universe)
+udev: command not found%
+INPUT|lclarkfj-intro-333|U |000000000|lclarkfj|intro:tmpfs|%   204720      11108     193612   6%% /run
+No command 'tmpfs' found%% did you mean:
+ Command 'mtpfs' from package 'mtpfs' (universe)
+ Command 'tmfs' from package 'tmfs' (universe)
+tmpfs: command not found%
+INPUT|lclarkfj-intro-334|U |000000000|lclarkfj|intro:/dev/sda1|% 15616412    2894276   11922188  20%% /
+bash: /dev/sda1: Permission denied%
+INPUT|lclarkfj-intro-335|U |000000000|lclarkfj|intro:tmpfs|%  1023600          0    1023600   0%% /dev/shm
+No command 'tmpfs' found%% did you mean:
+ Command 'mtpfs' from package 'mtpfs' (universe)
+ Command 'tmfs' from package 'tmfs' (universe)
+tmpfs: command not found%
+INPUT|lclarkfj-intro-336|U |000000000|lclarkfj|intro:tmpfs|%     5120          0       5120   0%% /run/lock
+No command 'tmpfs' found%% did you mean:
+ Command 'tmfs' from package 'tmfs' (universe)
+ Command 'mtpfs' from package 'mtpfs' (universe)
+tmpfs: command not found%
+INPUT|lclarkfj-intro-337|U |000000000|lclarkfj|intro:tmpfs|%  1023600          0    1023600   0%% /sys/fs/cgroup
+No command 'tmpfs' found%% did you mean:
+ Command 'mtpfs' from package 'mtpfs' (universe)
+ Command 'tmfs' from package 'tmfs' (universe)
+tmpfs: command not found%
+INPUT|lclarkfj-intro-338|U |000000000|lclarkfj|intro:users.isi.deterlab.net:/mnt/projects/proj/CS495LC 2|%974748160  973270272 1763498112  36%% /proj/CS495LC
+bash: users.isi.deterlab.net:/mnt/projects/proj/CS495LC: No such file or directory%
+INPUT|lclarkfj-intro-339|U |000000000|lclarkfj|intro:users.isi.deterlab.net:/mnt/other/users/lclarkfj  2|%031313280 1270045824  598762368  68%% /users/lclarkfj
+bash: users.isi.deterlab.net:/mnt/other/users/lclarkfj: No such file or directory%
+INPUT|lclarkfj-intro-340|U |000000000|lclarkfj|intro:tmpfs|%   204720          0     204720   0%% /run/user/18214
+No command 'tmpfs' found%% did you mean:
+ Command 'mtpfs' from package 'mtpfs' (universe)
+ Command 'tmfs' from package 'tmfs' (universe)
+tmpfs: command not found%
+INPUT|lclarkfj-intro-341|U |1537990259|lclarkfj|intro:vi diskfree.txt|%[?1049h[?1h=[2;1H[6n[2;1H  [1;1H]11;?[1;24r[?12;25h[?12l[?25h[27m[23m[m[H[2J[?25l[24;1H"diskfree.txt" 3L%% 6C[>c[2;1H:wq
+
+[1m[34m~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~        
+INPUT|lclarkfj-intro-342|U |1537990286|lclarkfj|intro:ls|136intro-2jjaj.JPEG  asdf136Intro-5kqlw.jpeg  xbzf136INTRO-1.jpg
+136intro-3.jpg      diskfree.txt
+answers.txt      wuer136intro-4.JPG
