@@ -12,7 +12,7 @@ def main():
 	for i, line in enumerate(ms): #loads milestones
 		sec = line.split(",")
 		m[0].append(re.compile(sec[1])) #compile all needed regex to array
-		m[1].append(sec[2].rstrip())	#set third argment as string
+		m[1].append(re.compile(sec[2].strip('\n')))	#set third argment as string, REMOVE NEWLINE FIRST 
 
 	for logFile in os.listdir(path):
 		if logFile.endswith(".log"):
@@ -23,11 +23,13 @@ def main():
 
 				for i, idx in enumerate(m[0]):
 					if m[0][i].match(sec[3]) is not None: #does regex match on input
-						if m[1][i] in sec[4]:			  #does string match on output
+						if len(m[1][i].findall(sec[4])) > 0:			 
 							result[i] = "met"
 						else:
 							if result[i] == "unmet":
 								result[i] = "attempted";
+								print(m[1][i])
+
 			hist.close()
 
 			o = open("grades.txt", "a")

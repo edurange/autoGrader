@@ -1,0 +1,297 @@
+grading student lclarkfg
+milestone 0 unmet
+milestone 1 unmet
+milestone 2 unmet
+milestone 3 unmet
+milestone 4 unmet
+milestone 5 unmet
+milestone 6 unmet
+
+grading student lclarkdz
+milestone 0 met
+milestone 1 met
+milestone 2 met
+milestone 3 met
+milestone 4 attempted
+milestone 5 unmet
+milestone 6 unmet
+
+grading student test1.cli.intro.log
+milestone 0 attempted
+milestone 1 attempted
+milestone 2 met
+milestone 3 attempted
+milestone 4 attempted
+milestone 5 unmet
+milestone 6 unmet
+
+grading student lclarkfm
+milestone 0 met
+milestone 1 met
+milestone 2 met
+milestone 3 met
+milestone 4 met
+milestone 5 unmet
+milestone 6 met
+
+grading student lclarkfe
+milestone 0 met
+milestone 1 attempted
+milestone 2 met
+milestone 3 attempted
+milestone 4 attempted
+milestone 5 unmet
+milestone 6 unmet
+
+grading student lcstudent.cli.intro.log
+milestone 0 met
+milestone 1 met
+milestone 2 met
+milestone 3 met
+milestone 4 met
+milestone 5 unmet
+milestone 6 unmet
+
+grading student lclarkdo
+milestone 0 attempted
+milestone 1 attempted
+milestone 2 attempted
+milestone 3 attempted
+milestone 4 attempted
+milestone 5 unmet
+milestone 6 met
+
+grading student lclarkea
+milestone 0 unmet
+milestone 1 unmet
+milestone 2 unmet
+milestone 3 unmet
+milestone 4 unmet
+milestone 5 unmet
+milestone 6 met
+
+grading student lclarkez
+milestone 0 met
+milestone 1 attempted
+milestone 2 met
+milestone 3 met
+milestone 4 met
+milestone 5 unmet
+milestone 6 unmet
+
+grading student lclarkfa
+milestone 0 attempted
+milestone 1 attempted
+milestone 2 attempted
+milestone 3 attempted
+milestone 4 attempted
+milestone 5 unmet
+milestone 6 met
+
+grading student lclarkdt
+milestone 0 attempted
+milestone 1 attempted
+milestone 2 attempted
+milestone 3 attempted
+milestone 4 attempted
+milestone 5 unmet
+milestone 6 met
+
+grading student lclarkey
+milestone 0 attempted
+milestone 1 met
+milestone 2 met
+milestone 3 met
+milestone 4 attempted
+milestone 5 unmet
+milestone 6 met
+
+grading student lclark211.cli.intro.log
+milestone 0 attempted
+milestone 1 attempted
+milestone 2 met
+milestone 3 attempted
+milestone 4 attempted
+milestone 5 unmet
+milestone 6 met
+
+grading student lclarkdt
+milestone 0 met
+milestone 1 attempted
+milestone 2 met
+milestone 3 met
+milestone 4 attempted
+milestone 5 unmet
+milestone 6 unmet
+
+grading student lclarkfi
+milestone 0 attempted
+milestone 1 attempted
+milestone 2 attempted
+milestone 3 attempted
+milestone 4 attempted
+milestone 5 unmet
+milestone 6 unmet
+
+grading student lclarkel
+milestone 0 attempted
+milestone 1 attempted
+milestone 2 met
+milestone 3 met
+milestone 4 attempted
+milestone 5 unmet
+milestone 6 met
+
+grading student intro18.cli.intro.log
+milestone 0 met
+milestone 1 met
+milestone 2 met
+milestone 3 met
+milestone 4 met
+milestone 5 unmet
+milestone 6 unmet
+
+grading student lclarkan
+milestone 0 met
+milestone 1 met
+milestone 2 met
+milestone 3 met
+milestone 4 met
+milestone 5 unmet
+milestone 6 unmet
+
+grading student intro21.cli.intro.log
+milestone 0 unmet
+milestone 1 unmet
+milestone 2 unmet
+milestone 3 unmet
+milestone 4 unmet
+milestone 5 unmet
+milestone 6 unmet
+
+grading student lclarkzixuan.cli.intro.log
+milestone 0 attempted
+milestone 1 attempted
+milestone 2 attempted
+milestone 3 attempted
+milestone 4 attempted
+milestone 5 unmet
+milestone 6 unmet
+
+grading student lclarked
+milestone 0 met
+milestone 1 attempted
+milestone 2 met
+milestone 3 attempted
+milestone 4 attempted
+milestone 5 unmet
+milestone 6 attempted
+
+grading student lclarkeu
+milestone 0 attempted
+milestone 1 attempted
+milestone 2 met
+milestone 3 attempted
+milestone 4 attempted
+milestone 5 unmet
+milestone 6 unmet
+
+grading student lclarkfn
+milestone 0 met
+milestone 1 met
+milestone 2 met
+milestone 3 met
+milestone 4 met
+milestone 5 unmet
+milestone 6 met
+
+grading student Ryan.cli.intro.log
+milestone 0 met
+milestone 1 met
+milestone 2 met
+milestone 3 met
+milestone 4 met
+milestone 5 unmet
+milestone 6 attempted
+
+grading student Homeworknumber1.cli.intro.log
+milestone 0 attempted
+milestone 1 attempted
+milestone 2 met
+milestone 3 met
+milestone 4 attempted
+milestone 5 unmet
+milestone 6 unmet
+
+grading student lclarkff
+milestone 0 unmet
+milestone 1 unmet
+milestone 2 unmet
+milestone 3 unmet
+milestone 4 unmet
+milestone 5 unmet
+milestone 6 attempted
+
+grading student lclarkew
+milestone 0 met
+milestone 1 met
+milestone 2 met
+milestone 3 met
+milestone 4 met
+milestone 5 unmet
+milestone 6 attempted
+
+grading student lclarkej
+milestone 0 attempted
+milestone 1 met
+milestone 2 met
+milestone 3 met
+milestone 4 attempted
+milestone 5 unmet
+milestone 6 met
+
+grading student lclarkdw
+milestone 0 attempted
+milestone 1 attempted
+milestone 2 attempted
+milestone 3 attempted
+milestone 4 attempted
+milestone 5 unmet
+milestone 6 unmet
+
+grading student lclarkfb
+milestone 0 met
+milestone 1 met
+milestone 2 met
+milestone 3 met
+milestone 4 met
+milestone 5 unmet
+milestone 6 met
+
+grading student lclarkfg
+milestone 0 unmet
+milestone 1 unmet
+milestone 2 unmet
+milestone 3 unmet
+milestone 4 unmet
+milestone 5 unmet
+milestone 6 unmet
+
+grading student lclarkej
+milestone 0 unmet
+milestone 1 unmet
+milestone 2 unmet
+milestone 3 unmet
+milestone 4 unmet
+milestone 5 unmet
+milestone 6 unmet
+
+grading student lclarkfd
+milestone 0 attempted
+milestone 1 attempted
+milestone 2 met
+milestone 3 met
+milestone 4 attempted
+milestone 5 unmet
+milestone 6 attempted
+
